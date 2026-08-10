@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Quiz Ôn Tập Y Khoa - Ứng dụng trắc nghiệm đa môn (GPB, Sinh lý, Tin học, Răng miệng...) - Upload file Word và làm bài ngay"
+    />
+    <title>Quiz Ôn Tập Y Khoa - Trắc Nghiệm Đa Môn</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <!-- PWA: chỉ có ở bản web tĩnh (docs/), để cài ra màn hình chính điện thoại -->
+    <meta name="theme-color" content="#e8638a" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="icon.svg" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>"
+    />
+  </head>
+  <body>
+    <!-- Animated Background -->
+    <div class="bg-animation">
+      <div class="orb"></div>
+      <div class="orb"></div>
+      <div class="orb"></div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading">
+      <div class="spinner"></div>
+      <div class="loading-text">Đang xử lý file...</div>
+    </div>
+
+    <!-- Toast -->
+    <div class="toast" id="toast"></div>
+
+    <!-- Timer Bar (sticky) -->
+    <div class="timer-bar-container hidden" id="timer-bar">
+      <div class="timer-display">
+        <div class="timer-left">
+          <span class="timer-icon">⏱️</span>
+          <span class="timer-text" id="timer-text">00:00</span>
+        </div>
+        <span class="progress-text" id="progress-text">0 / 0 câu</span>
+      </div>
+      <div class="timer-progress">
+        <div class="timer-progress-fill" id="timer-fill"></div>
+      </div>
+    </div>
+
+    <div class="app-container">
+      <!-- Header -->
+      <header class="app-header">
+        <button class="btn-home hidden" id="btn-home" type="button">
+          🏠 Trang chủ
+        </button>
+        <div class="logo">
+          <div class="logo-icon">🧬</div>
+          <h1>Quiz Ôn Tập Y Khoa</h1>
+        </div>
+        <p class="subtitle">
+          Nhiều môn • Nhiều file Word cùng lúc • Đảo câu hỏi & đáp án • Tính
+          thời gian
+        </p>
+      </header>
+
+      <!-- Upload Section -->
+      <section id="upload-section" class="section">
+        <div class="upload-area" id="upload-area">
+          <span class="upload-icon">📄</span>
+          <h2>Kéo thả nhiều file hoặc nhấn để chọn</h2>
+          <p>
+            Chọn <strong>một hoặc nhiều</strong> file Word (.docx) chứa bộ đề
+            trắc nghiệm — <strong>bất kỳ môn học nào</strong>, chỉ cần đúng định
+            dạng câu hỏi/đáp án. Các đề sẽ được gộp lại thành một bài kiểm tra
+          </p>
+          <div class="file-types">
+            <span>📎</span> Chấp nhận: .docx • Tối đa 60 file
+          </div>
+        </div>
+        <input type="file" id="file-input" accept=".docx" multiple />
+
+        <!-- Danh sách file đã chọn -->
+        <div class="file-list-panel hidden" id="file-panel">
+          <div class="file-list-header">
+            <span class="file-list-title"
+              >📚 File đã chọn (<span id="file-count">0</span>)</span
+            >
+            <button class="link-btn" id="btn-clear-files" type="button">
+              Xóa hết
+            </button>
+          </div>
+          <div class="file-list" id="file-list"></div>
+          <button
+            class="btn btn-primary btn-block"
+            id="btn-start-upload"
+            type="button"
+          >
+            🚀 Tạo bài kiểm tra
+          </button>
+        </div>
+
+        <!-- Random đề: bốc ngẫu nhiên N câu từ tài liệu -->
+        <div class="random-panel hidden" id="random-panel">
+          <div class="random-head">
+            <div>
+              <div class="random-title">🎲 Random đề</div>
+              <div class="random-sub" id="random-sub">
+                Gõ số câu bạn muốn, hệ thống bốc ngẫu nhiên từng đó câu từ tài
+                liệu — mỗi lần bấm là một đề khác nhau.
+              </div>
+            </div>
+          </div>
+          <div class="random-form">
+            <label class="random-field">
+              <span class="random-label">Số câu</span>
+              <input
+                type="number"
+                id="rnd-count"
+                min="1"
+                max="999"
+                step="5"
+                value="45"
+                autocomplete="off"
+              />
+            </label>
+            <label class="random-field random-field-grow">
+              <span class="random-label">Lấy câu hỏi từ</span>
+              <select id="rnd-scope"></select>
+            </label>
+            <button class="btn btn-primary" id="btn-random" type="button">
+              🎲 Tạo đề random
+            </button>
+          </div>
+          <div class="random-quick">
+            <span>Nhanh:</span>
+            <button class="chip" data-n="20" type="button">20 câu</button>
+            <button class="chip" data-n="30" type="button">30 câu</button>
+            <button class="chip" data-n="45" type="button">45 câu</button>
+            <button class="chip" data-n="60" type="button">60 câu</button>
+            <button class="chip" data-n="70" type="button">70 câu</button>
+          </div>
+        </div>
+
+        <!-- Thư viện đề có sẵn trên máy -->
+        <div class="library-panel" id="library-panel">
+          <div class="library-header">
+            <div>
+              <div class="library-title">
+                🗂️ Thư viện đề có sẵn (mọi môn học)
+              </div>
+              <div class="library-sub" id="library-sub">
+                Đang tìm file .docx trong các thư mục môn học...
+              </div>
+            </div>
+            <div class="library-actions">
+              <button class="link-btn" id="btn-lib-all" type="button">
+                Chọn tất cả
+              </button>
+              <button class="link-btn" id="btn-lib-none" type="button">
+                Bỏ chọn
+              </button>
+            </div>
+          </div>
+          <div class="library-grid" id="library-grid"></div>
+          <button
+            class="btn btn-primary btn-block hidden"
+            id="btn-load-library"
+            type="button"
+          >
+            📖 Nạp <span id="lib-selected-count">0</span> đề đã chọn
+          </button>
+        </div>
+
+        <!-- Cài đặt bài làm -->
+        <div class="settings-panel">
+          <div class="settings-title">⚙️ Cài đặt bài làm</div>
+          <div class="settings-grid">
+            <label class="setting-item">
+              <span class="setting-label">Số câu hỏi</span>
+              <input
+                type="number"
+                id="opt-limit"
+                min="0"
+                step="5"
+                value="0"
+                placeholder="0 = tất cả"
+              />
+              <span class="setting-hint">0 = dùng tất cả câu</span>
+            </label>
+            <label class="setting-item">
+              <span class="setting-label">Giây / câu</span>
+              <input
+                type="number"
+                id="opt-seconds"
+                min="0"
+                max="600"
+                step="5"
+                value="30"
+              />
+              <span class="setting-hint">0 = không giới hạn</span>
+            </label>
+            <label class="setting-item setting-toggle">
+              <input type="checkbox" id="opt-shuffle-q" checked />
+              <span>Đảo thứ tự câu hỏi</span>
+            </label>
+            <label class="setting-item setting-toggle">
+              <input type="checkbox" id="opt-shuffle-o" checked />
+              <span>Đảo thứ tự đáp án</span>
+            </label>
+            <label class="setting-item setting-toggle">
+              <input type="checkbox" id="opt-instant" />
+              <span>Hiện đáp án ngay khi chọn</span>
+            </label>
+            <label class="setting-item setting-toggle">
+              <input type="checkbox" id="opt-auto-next" autocomplete="off" />
+              <span>Tự chuyển câu sau khi chọn (mặc định: tắt)</span>
+            </label>
+          </div>
+        </div>
+      </section>
+
+      <!-- Quiz Section -->
+      <section id="quiz-section" class="section hidden">
+        <!-- Quiz Header -->
+        <div class="quiz-header">
+          <div class="quiz-title" id="quiz-title">Bài kiểm tra</div>
+          <div class="quiz-sources" id="quiz-sources"></div>
+          <div class="quiz-info-bar">
+            <div class="quiz-stat">
+              <span class="icon">📝</span>
+              <span>Tổng số:</span>
+              <span class="value" id="total-questions">0</span>
+              <span>câu</span>
+            </div>
+            <div class="quiz-stat">
+              <span class="icon">⏳</span>
+              <span>Thời gian:</span>
+              <span class="value" id="total-time">0</span>
+              <span>phút</span>
+            </div>
+            <div class="quiz-stat">
+              <span class="icon">✅</span>
+              <span>Đã trả lời:</span>
+              <span class="value" id="answered-count">0</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question Navigator -->
+        <div class="question-nav-grid" id="question-nav"></div>
+
+        <!-- Questions Container -->
+        <div id="questions-container"></div>
+
+        <!-- Quiz Navigation -->
+        <div class="quiz-nav">
+          <button class="btn btn-secondary" id="btn-prev" type="button">
+            ← Câu trước
+          </button>
+          <button class="btn btn-primary" id="btn-next" type="button">
+            Câu tiếp →
+          </button>
+          <button class="btn btn-danger" id="btn-submit" type="button">
+            🏁 Nộp bài
+          </button>
+          <button
+            class="btn btn-secondary hidden"
+            id="btn-back-results"
+            type="button"
+          >
+            📊 Xem kết quả
+          </button>
+        </div>
+
+        <!-- Keyboard hints -->
+        <div class="kbd-hints">
+          <span
+            ><kbd>A</kbd><kbd>B</kbd><kbd>C</kbd><kbd>D</kbd> hoặc
+            <kbd>1</kbd>–<kbd>4</kbd> chọn đáp án</span
+          >
+          <span><kbd>←</kbd><kbd>→</kbd> chuyển câu</span>
+          <span><kbd>Enter</kbd> câu tiếp</span>
+          <span><kbd>G</kbd> ghim câu</span>
+          <span><kbd>N</kbd> ghi chú</span>
+          <span><kbd>Esc</kbd> nộp bài</span>
+        </div>
+      </section>
+
+      <!-- Results Section -->
+      <section id="results-section" class="section hidden"></section>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

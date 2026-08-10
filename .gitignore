@@ -1,0 +1,25 @@
+# Thu vien Node - khong day len GitHub, cai lai bang "npm install"
+node_modules/
+
+# File tam khi upload de tren may tinh
+quiz-app/uploads/
+
+# File tam cua Word khi dang mo file (~$TEN FILE.docx)
+~$*
+
+# Tai lieu app KHONG dung toi - de nang repo va lo them tai lieu vo ich.
+# App chi doc file .docx; cau hoi da nam san trong docs/data/questions.json.
+# Cac file duoi day VAN CON nguyen tren may ban, chi la khong day len GitHub.
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.pptx
+*.ppt
+*.pdf
+*.doc
+
+# Rac he dieu hanh
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "name": "quiz-on-tap-y-khoa",
+  "version": "2.0.0",
+  "description": "Quiz Ôn Tập Y Khoa - Multi-subject quiz app (upload nhieu file .docx cung luc, tu dong nhan dien nhieu mon hoc)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node build-static.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mammoth": "^1.12.0",
+    "multer": "^2.2.0"
+  }
+}
