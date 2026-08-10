@@ -1,113 +1,77 @@
-# Học trên điện thoại — hướng dẫn
+# Học trên điện thoại
 
-Tất cả đều **miễn phí**, không cần thẻ ngân hàng.
+## Link của bạn
+
+```
+https://hungarara.github.io/quiz/
+```
+
+Đã chạy sẵn. Mở link này trên điện thoại là học được ngay, ở bất cứ đâu, không cần máy tính.
+
+Repo: https://github.com/HungARARA/quiz
 
 ---
 
-## Cách 1 — Đưa lên mạng, mở ở bất cứ đâu (khuyên dùng)
+## Cài vào điện thoại như một app (nên làm)
 
-Làm **một lần**, sau đó đi trực chỉ cần mở link trên điện thoại.
+Mở link trên điện thoại rồi:
 
-### Bước 1: Dựng bản web cho điện thoại
+- **Android (Chrome/Cốc Cốc)**: menu ⋮ → *Thêm vào Màn hình chính*
+- **iPhone (Safari)**: nút Chia sẻ → *Thêm vào MH chính*
 
-Mở PowerShell tại thư mục này rồi chạy:
+Xong sẽ có biểu tượng 🧬 ngay màn hình chính. Bấm vào mở toàn màn hình như app thật, **không còn thanh địa chỉ**.
+
+Quan trọng: sau lần mở đầu tiên, toàn bộ 695 câu hỏi được lưu vào máy. Từ đó **mất mạng vẫn học bình thường** — đi trực, xuống hầm, hết 4G đều không sao.
+
+---
+
+## Khi thêm đề mới
+
+Bỏ file `.docx` mới vào thư mục môn học, rồi mở PowerShell tại thư mục dự án và chạy:
+
+```bash
+cd quiz-app && npm run build && cd .. && git add -A && git commit -m "Them de moi" && git push
+```
+
+Đợi 1–2 phút cho GitHub cập nhật. Lần sau mở app trên điện thoại (lúc có mạng) là tự có đề mới.
+
+Nếu lệnh trên báo lỗi, chạy riêng từng phần để biết hỏng ở đâu:
 
 ```bash
 cd quiz-app && npm run build
 ```
 
-Lệnh này đọc toàn bộ file `.docx`, dựng ra thư mục `docs/` (~1 MB) chứa web hoàn chỉnh, không cần server.
-
-### Bước 2: Đẩy lên GitHub
-
-Chạy lần lượt (thay `TEN-GITHUB-CUA-BAN` bằng tên tài khoản của bạn):
-
-```bash
-git init && git add . && git commit -m "Quiz on tap y khoa"
-```
-
-Vào https://github.com/new tạo một repository trống tên `quiz`, **KHÔNG** tick "Add a README". Rồi chạy:
-
-```bash
-git remote add origin https://github.com/TEN-GITHUB-CUA-BAN/quiz.git && git branch -M main && git push -u origin main
-```
-
-### Bước 3: Bật GitHub Pages
-
-Vào repo vừa tạo → tab **Settings** → mục **Pages** (cột trái) → phần **Build and deployment**:
-
-- **Source**: chọn `Deploy from a branch`
-- **Branch**: chọn `main`, thư mục chọn **`/docs`**
-- Bấm **Save**
-
-Đợi 1–2 phút. Link của bạn sẽ là:
-
-```
-https://TEN-GITHUB-CUA-BAN.github.io/quiz/
-```
-
-### Bước 4: Cài vào điện thoại như một app
-
-Mở link đó trên điện thoại:
-
-- **Android (Chrome)**: menu ⋮ → *Thêm vào Màn hình chính*
-- **iPhone (Safari)**: nút Chia sẻ → *Thêm vào MH chính*
-
-Từ giờ có biểu tượng 🧬 ngay màn hình chính, bấm vào là học, **không cần mạng** (lần đầu cần mạng để tải về máy).
-
-### Khi thêm đề mới
-
-Bỏ file `.docx` mới vào thư mục môn học, rồi:
-
-```bash
-cd quiz-app && npm run build && cd .. && git add . && git commit -m "Them de moi" && git push
-```
-
-Lần sau mở app trên điện thoại (có mạng) là tự có đề mới.
+Script build sẽ tự kiểm tra và báo lỗi rõ ràng nếu có gì sai, chứ không lặng lẽ tạo ra bản cũ.
 
 ---
 
-## Cách 2 — Chung Wi-Fi với máy tính (không cần làm gì thêm)
+## Cách khác: chung Wi-Fi với máy tính
 
-Khi điện thoại và máy tính **cùng một Wi-Fi**:
+Khi ở nhà, muốn dùng bản trên máy tính (có thể upload file, quét thư mục trực tiếp):
 
-1. Mở `Mở Quiz.bat` trên máy tính như bình thường
-2. Lấy địa chỉ IP của máy tính — mở PowerShell chạy:
+1. Chạy `Mở Quiz.bat`
+2. Lấy IP máy tính:
 
 ```bash
 ipconfig | findstr IPv4
 ```
 
-3. Trên điện thoại mở trình duyệt, gõ: `http://<IP-vừa-lấy>:3000`
-   (ví dụ `http://192.168.1.12:3000`)
+3. Trên điện thoại vào `http://<IP-đó>:3000`
 
-Nếu không vào được, Windows Firewall đang chặn — lần đầu chạy `node` nó sẽ hỏi, chọn **Allow access** cho mạng Private.
-
-> Cách này chỉ dùng được khi ở gần máy tính và máy tính đang bật. Đi trực thì dùng Cách 1.
+Nếu không vào được thì Windows Firewall đang chặn — chọn **Allow access** khi nó hỏi.
 
 ---
 
-## Cách 3 — Không muốn đưa gì lên mạng
+## Những điều nên biết
 
-Chép nguyên thư mục `docs/` vào điện thoại (qua cáp USB, Google Drive, Zalo...).
+**Link là công khai.** Ai có link đều mở được đề và đáp án. Trang có thẻ `noindex, nofollow` nên Google không đưa lên kết quả tìm kiếm, nhưng đó không phải bảo mật. Muốn gỡ xuống: vào repo → Settings → kéo xuống cuối → *Delete this repository*. Hoặc chỉ tắt web mà giữ code: Settings → Pages → Source → chọn *None*.
 
-Cách này bị hạn chế: trình duyệt điện thoại chặn việc đọc file `.json` từ bộ nhớ máy, nên phải dùng một app "web server offline" miễn phí:
+**Những file KHÔNG được đẩy lên** (vẫn nằm nguyên trên máy bạn): ảnh chụp đề thi, file `.zip`, và file `GPB KT GIỮA KỲ 2023.pptx` nặng 12 MB. App không cần chúng vì câu hỏi đã được đọc sẵn thành dữ liệu rồi.
 
-- **Android**: cài *Simple HTTP Server* hoặc *KSWEB* (bản miễn phí) → trỏ vào thư mục `docs` → mở `http://localhost:8080`
-- **iPhone**: khó hơn nhiều, gần như không làm được nếu không jailbreak
+**Email của bạn không bị lộ.** Commit dùng địa chỉ `HungARARA@users.noreply.github.com` chứ không phải Gmail thật.
 
-> Cách 1 đã chạy offline sẵn rồi, nên thường **không cần** đến cách này.
+**Ghim và ghi chú không đồng bộ** giữa máy tính và điện thoại, và chỉ tồn tại trong một lượt làm bài.
 
----
+**Upload file Word ngay trên điện thoại vẫn được.** Bấm vùng "Kéo thả nhiều file" rồi chọn file `.docx` từ điện thoại. Lần đầu cần mạng để tải bộ đọc file Word (~600 KB), sau đó offline vẫn dùng được.
 
-## Vài điều nên biết
-
-**Link là công khai.** Ai có link đều mở được. Tôi đã đặt thẻ `noindex, nofollow` trong trang để Google không đưa nó lên kết quả tìm kiếm — thẻ này có tác dụng thật. (Tôi cũng tạo file `robots.txt`, nhưng nói thẳng: với địa chỉ dạng `github.io/quiz/` thì file đó **không có tác dụng**, vì Google chỉ đọc `robots.txt` ở gốc tên miền mà bạn không sở hữu. Cứ để đó, vô hại.)
-
-Dù sao đây cũng **không phải bảo mật thật** — ai biết link vẫn xem được đề và đáp án. Cân nhắc nếu trường bạn khó tính chuyện này.
-
-**Ghim và ghi chú không đồng bộ giữa máy tính và điện thoại.** Chúng chỉ tồn tại trong một lượt làm bài, mất khi bạn làm lại đề mới.
-
-**Upload file Word ngay trên điện thoại vẫn dùng được.** Bấm vùng "Kéo thả nhiều file" rồi chọn file `.docx` từ điện thoại. Lần đầu dùng cần mạng để tải bộ đọc file Word (~600 KB), sau đó dùng offline được.
-
-**GitHub Pages miễn phí vĩnh viễn** với repo công khai: 1 GB dung lượng, 100 GB băng thông/tháng. App của bạn nặng 1 MB — dùng cả đời không hết.
+**Miễn phí vĩnh viễn.** GitHub Pages cho repo công khai: 1 GB dung lượng, 100 GB băng thông/tháng. App của bạn nặng 1,5 MB.

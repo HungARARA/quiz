@@ -1,6 +1,11 @@
 # Thu vien Node - khong day len GitHub, cai lai bang "npm install"
 node_modules/
 
+# Cau hinh rieng cua tung may (Claude Code). Khong nen len repo chung:
+# muc "permissions" hay phinh ra chua duong dan tuyet doi, ten server...
+# neu de o day thi lan sau chung se tu dong bi day len repo public.
+.claude/
+
 # File tam khi upload de tren may tinh
 quiz-app/uploads/
 

@@ -218,10 +218,12 @@ function cleanStem(text) {
   return normalizeSpace(out);
 }
 
-/** Tieu de muc: "I. VIEM DA DAY", "PHAN II", chu hoa toan bo... */
+/** Tieu de muc: "I. VIEM DA DAY", "PHAN II", "TRAM 2 (Cau 15 - 28)", chu hoa toan bo... */
 function isSectionHeading(text) {
   if (
-    /^(?:ph[ầa]n|ch[ươuo]ng|m[ụu]c|b[àa]i|part|section|chapter)\b/i.test(text)
+    /^(?:ph[ầa]n|ch[ươuo]ng|m[ụu]c|b[àa]i|tr[ạa]m|part|section|chapter|station)\b/i.test(
+      text,
+    )
   )
     return true;
   if (/^[IVXLC]+\s*[.).\-\u2013:]/.test(text)) return true;
@@ -368,7 +370,13 @@ function parseQuestionsFromHtml(html) {
     if (!text || text.length < 2) continue;
 
     // --- 1) Dong "Dap an: X" -------------------------------------
-    const ansMatch = text.length < 80 ? text.match(ANSWER_RE) : null;
+    // Gioi han do dai chi de tranh nhan nham 1 doan van dai. Nguong cu 80
+    // qua chat: dong 'Dap an: A (trang 47, Pocket Companion to Robbins...)'
+    // dai 86 ky tu nen bi bo qua, roi bi hieu nham thanh mot LUA CHON va
+    // duoc cham la dap an dung -> nguoi hoc tra loi dung van bi bao sai.
+    // ANSWER_RE neo dau dong va doi ngay 1 chu cai A-E khong dinh chu khac,
+    // nen noi nguong ra 200 van rat kho nhan nham.
+    const ansMatch = text.length < 200 ? text.match(ANSWER_RE) : null;
     if (ansMatch) {
       if (draft) draft.answerLetter = ansMatch[1];
       continue;
