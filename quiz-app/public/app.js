@@ -30,6 +30,9 @@ let noteEditorOpen = false; // ô ghi chú đang mở hay đóng (nhớ khi chuy
 let pickedFiles = []; // File[] người dùng đã chọn để upload
 let libraryFiles = []; // [{id, name, size}]
 const librarySelected = new Set();
+const librarySubjectOpen = new Set(); // tên môn đang mở (mặc định: đóng hết)
+let librarySearch = ""; // từ khóa lọc trong ô "Tìm đề / môn"
+let libraryDefaultSub = ""; // dòng mô tả thư viện khi không tìm kiếm
 
 /* ------------------------------ Helpers ---------------------------- */
 const $ = (sel) => document.querySelector(sel);
@@ -59,6 +62,16 @@ function formatSize(bytes) {
   return kb < 1024 ? `${Math.round(kb)} KB` : `${(kb / 1024).toFixed(1)} MB`;
 }
 
+/** Bỏ dấu tiếng Việt để tìm kiếm gõ "ngoai bl" vẫn ra "Ngoại BL" */
+function foldVietnamese(str) {
+  return String(str ?? "")
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .toLowerCase();
+}
+
 function shuffleArray(arr) {
   const out = arr.slice();
   for (let i = out.length - 1; i > 0; i--) {
@@ -80,6 +93,7 @@ const loadingText = $(".loading-text");
 
 const librarySub = $("#library-sub");
 const libraryGrid = $("#library-grid");
+const libSearchInput = $("#lib-search");
 const btnLoadLibrary = $("#btn-load-library");
 const libSelectedCount = $("#lib-selected-count");
 
@@ -403,7 +417,10 @@ async function loadLibraryList() {
     }
 
     const subjects = new Set(libraryFiles.map((f) => f.subject || "Khác"));
-    librarySub.textContent = `Tìm thấy ${libraryFiles.length} bộ đề trong ${subjects.size} môn — bấm để chọn, không cần upload.`;
+    libraryDefaultSub = `${libraryFiles.length} bộ đề trong ${subjects.size} môn — bấm vào tên môn để xem danh sách đề.`;
+    librarySub.textContent = libraryDefaultSub;
+    // Chỉ có 1 môn thì mở sẵn cho đỡ phải bấm thêm một lần
+    if (subjects.size === 1) librarySubjectOpen.add(Array.from(subjects)[0]);
     renderLibraryGrid();
     renderRandomScope();
   } catch {
@@ -421,41 +438,113 @@ function groupLibraryBySubject() {
   return groups;
 }
 
+/**
+ * Vẽ thư viện dạng "thư mục": mỗi môn là một hàng thu gọn, bấm vào mới xổ
+ * danh sách đề của môn đó. Nhờ vậy thêm bao nhiêu môn trang vẫn ngắn.
+ * Đề của môn đang đóng thì KHÔNG dựng ra DOM cho nhẹ máy.
+ */
 function renderLibraryGrid() {
   const groups = groupLibraryBySubject();
+  const q = foldVietnamese(librarySearch.trim());
+  const keepScroll = libraryGrid.scrollTop;
+  const html = [];
+  let matchCount = 0;
 
-  libraryGrid.innerHTML = Array.from(groups.entries())
-    .map(([subject, files]) => {
-      const cards = files
-        .map(
-          (f) => `
-          <button class="lib-card${librarySelected.has(f.id) ? " selected" : ""}"
-                  type="button" data-id="${escapeHtml(f.id)}">
-            <span class="lib-check">${librarySelected.has(f.id) ? "✓" : ""}</span>
-            <span class="lib-name">${escapeHtml(f.name)}</span>
-          </button>`,
-        )
-        .join("");
+  for (const [subject, files] of groups) {
+    // Đang tìm kiếm: chỉ giữ đề khớp, và mở sẵn môn để thấy ngay kết quả
+    const shown = q
+      ? files.filter((f) => foldVietnamese(`${f.name} ${subject}`).includes(q))
+      : files;
+    if (shown.length === 0) continue;
+    matchCount += shown.length;
 
-      return `
-        <div class="lib-subject-group">
-          <div class="lib-subject-title">📁 ${escapeHtml(subject)} <span class="lib-subject-count">(${files.length})</span></div>
-          <div class="lib-subject-grid">${cards}</div>
-        </div>`;
-    })
-    .join("");
+    const open = q ? true : librarySubjectOpen.has(subject);
+    const picked = files.filter((f) => librarySelected.has(f.id)).length;
+    const allPicked = picked === files.length;
 
-  libraryGrid.querySelectorAll(".lib-card").forEach((card) => {
-    card.addEventListener("click", () => {
-      const id = card.dataset.id;
-      if (librarySelected.has(id)) librarySelected.delete(id);
-      else librarySelected.add(id);
-      renderLibraryGrid();
-      updateLibraryButton();
-    });
-  });
+    const body = open
+      ? `<div class="lib-subject-grid">${shown
+          .map(
+            (f) => `
+            <button class="lib-card${librarySelected.has(f.id) ? " selected" : ""}"
+                    type="button" data-id="${escapeHtml(f.id)}">
+              <span class="lib-check">${librarySelected.has(f.id) ? "✓" : ""}</span>
+              <span class="lib-name">${escapeHtml(f.name)}</span>
+            </button>`,
+          )
+          .join("")}</div>`
+      : "";
+
+    html.push(`
+      <div class="lib-subject-group${open ? " open" : ""}">
+        <div class="lib-subject-head">
+          <button class="lib-subject-toggle" type="button"
+                  data-subject="${escapeHtml(subject)}" aria-expanded="${open}">
+            <span class="lib-caret">${open ? "▾" : "▸"}</span>
+            <span class="lib-folder">${open ? "📂" : "📁"}</span>
+            <span class="lib-subject-title">${escapeHtml(subject)}</span>
+            <span class="lib-subject-meta">
+              <span class="lib-subject-count">${shown.length} đề</span>
+              ${picked ? `<span class="lib-subject-picked">✓ ${picked}</span>` : ""}
+            </span>
+          </button>
+          <button class="lib-subject-all" type="button"
+                  data-subject="${escapeHtml(subject)}"
+                  title="${allPicked ? "Bỏ chọn cả môn" : "Chọn cả môn"}">
+            ${allPicked ? "Bỏ chọn môn" : "Chọn cả môn"}
+          </button>
+        </div>
+        ${body}
+      </div>`);
+  }
+
+  libraryGrid.innerHTML = html.length
+    ? html.join("")
+    : `<div class="lib-empty">Không có đề nào khớp với "${escapeHtml(librarySearch)}"</div>`;
+
+  if (q) librarySub.textContent = `Tìm thấy ${matchCount} đề khớp "${librarySearch.trim()}".`;
+  else librarySub.textContent = libraryDefaultSub;
+
+  libraryGrid.scrollTop = keepScroll;
   updateLibraryButton();
 }
+
+/* Một listener duy nhất cho cả lưới (không gắn lại mỗi lần vẽ) */
+libraryGrid.addEventListener("click", (e) => {
+  const toggle = e.target.closest(".lib-subject-toggle");
+  if (toggle) {
+    const subject = toggle.dataset.subject;
+    if (librarySubjectOpen.has(subject)) librarySubjectOpen.delete(subject);
+    else librarySubjectOpen.add(subject);
+    renderLibraryGrid();
+    return;
+  }
+
+  const selectAll = e.target.closest(".lib-subject-all");
+  if (selectAll) {
+    const files = groupLibraryBySubject().get(selectAll.dataset.subject) || [];
+    const allPicked = files.every((f) => librarySelected.has(f.id));
+    for (const f of files) {
+      if (allPicked) librarySelected.delete(f.id);
+      else librarySelected.add(f.id);
+    }
+    renderLibraryGrid();
+    return;
+  }
+
+  const card = e.target.closest(".lib-card");
+  if (card) {
+    const id = card.dataset.id;
+    if (librarySelected.has(id)) librarySelected.delete(id);
+    else librarySelected.add(id);
+    renderLibraryGrid();
+  }
+});
+
+libSearchInput.addEventListener("input", () => {
+  librarySearch = libSearchInput.value;
+  renderLibraryGrid();
+});
 
 function updateLibraryButton() {
   const n = librarySelected.size;
@@ -470,6 +559,14 @@ $("#btn-lib-all").addEventListener("click", () => {
 
 $("#btn-lib-none").addEventListener("click", () => {
   librarySelected.clear();
+  renderLibraryGrid();
+});
+
+/* Đóng hết các môn đang mở (và xóa ô tìm kiếm) cho trang gọn lại */
+$("#btn-lib-collapse").addEventListener("click", () => {
+  librarySubjectOpen.clear();
+  librarySearch = "";
+  libSearchInput.value = "";
   renderLibraryGrid();
 });
 
