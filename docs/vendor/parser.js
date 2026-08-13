@@ -191,6 +191,39 @@ const ANSWER_RE =
 const EXPLANATION_RE =
   /^(?:gi[ảa]i\s*th[íi]ch|explanation|explain|l[ýy]\s*gi[ảa]i|nh[ậa]n\s*x[ée]t|ghi\s*ch[úu]|note)\s*[:.\-\u2013]?\s*(.*)$/i;
 
+// Ghi chu do tool "do dap an" chen vao ngay duoi cac lua chon:
+//   "( Cau nay AI lam ) - dap an AI: C. <ly do>"
+// Nghia la dap an cau nay do AI suy luan, KHONG phai lay tu ngan hang de.
+const AI_NOTE_RE =
+  /^\(\s*c[âa]u\s*n[àa]y\s*AI\s*l[àa]m\s*\)\s*[-–—:.]*\s*(.*)$/iu;
+
+// Trong ghi chu do, neu co "Ngan hang web goi y X" nghia la AI chon KHAC
+// voi ngan hang de -> nen kiem tra lai cau nay truoc tien.
+const AI_DIFF_RE = /ng[âa]n\s*h[àa]ng\s*web\s*g[ợo]i\s*[ýy]/iu;
+
+/**
+ * Bo moi cum co nhac den CHU CAI dap an trong ghi chu:
+ *   "dap an AI: C."  |  "Ly do chon C:"  |  "Ngan hang web goi y D nhung..."
+ * Chu cai do la thu tu GOC trong file Word, ma web co the dao thu tu dap an,
+ * nen giu lai chi lam nguoi hoc doc nham. Dap an dung da co dau ✅, con viec
+ * "AI chon khac ngan hang de" da duoc bao bang co aiCheck roi.
+ * Phan con lai - ly do AI dua ra - moi la thu dang giu.
+ */
+function cleanAiNote(text) {
+  return normalizeSpace(
+    String(text || "")
+      .replace(
+        /^đ[áa]p\s*[áa]n\s*AI\s*[:.\-–]?\s*[A-Ea-e]\s*[).:\-–]?\s*/iu,
+        "",
+      )
+      .replace(
+        /ng[âa]n\s*h[àa]ng\s*web\s*g[ợo]i\s*[ýy][^.]*\.\s*/giu,
+        "",
+      )
+      .replace(/l[ýy]\s*do\s*ch[ọo]n\s*[A-Ea-e]\s*[:.\-–]\s*/giu, ""),
+  );
+}
+
 function stripCorrectMarks(text) {
   return normalizeSpace(
     text
@@ -220,8 +253,12 @@ function cleanStem(text) {
 
 /** Tieu de muc: "I. VIEM DA DAY", "PHAN II", "TRAM 2 (Cau 15 - 28)", chu hoa toan bo... */
 function isSectionHeading(text) {
+  // Tu khoa tieu de PHAI di kem so thu tu ("Tram 4", "Phan II", "Bai 3").
+  // Neu chi doi tu khoa o dau dong thi cac cau hoi mo dau bang "Muc dich...",
+  // "Muc tieu...", "Bai tiet..." bi hieu nham la tieu de: de bai that bi bo
+  // qua va cau hoi doi lay dong phia tren (vd. "TRAM 4 (CAU 37-48)") lam de.
   if (
-    /^(?:ph[ầa]n|ch[ươuo]ng|m[ụu]c|b[àa]i|tr[ạa]m|part|section|chapter|station)\b/i.test(
+    /^(?:ph[ầa]n|ch[ươuo]ng|m[ụu]c|b[àa]i|tr[ạa]m|part|section|chapter|station)\s*[:.\-–]?\s*(?:\d+|[IVXLC]{1,6})(?![\p{L}\p{N}])/iu.test(
       text,
     )
   )
@@ -277,7 +314,15 @@ function isMeaningfulBold(bold, optionText) {
  * ------------------------------------------------------------------ */
 
 function createDraft(stem) {
-  return { stem, options: [], answerLetter: null, explanation: "" };
+  return {
+    stem,
+    options: [],
+    answerLetter: null,
+    explanation: "",
+    aiAnswer: false, // dap an do AI suy luan
+    aiCheck: false, // ... va khac voi goi y cua ngan hang de
+    aiNote: "", // ly do AI dua ra
+  };
 }
 
 function addOption(draft, label, rawText, line) {
@@ -332,7 +377,7 @@ function finalizeDraft(draft, stats) {
     return null;
   }
 
-  return {
+  const out = {
     question,
     options: options.map((o, i) => ({
       label: LETTERS[i] || o.label,
@@ -341,6 +386,16 @@ function finalizeDraft(draft, stats) {
     correctIndex,
     explanation: normalizeSpace(draft.explanation) || null,
   };
+
+  // Chi gan khi that su co ghi chu AI, de kho cau hoi khong phinh them
+  if (draft.aiAnswer) {
+    out.ai = true;
+    if (draft.aiCheck) out.aiCheck = true;
+    const note = cleanAiNote(draft.aiNote);
+    if (note) out.aiNote = note;
+  }
+
+  return out;
 }
 
 /**
@@ -368,6 +423,20 @@ function parseQuestionsFromHtml(html) {
   for (const line of lines) {
     const text = line.text;
     if (!text || text.length < 2) continue;
+
+    // --- 0) Ghi chu "( Cau nay AI lam )" -------------------------
+    // Dong nay khong phai de bai cung khong phai lua chon. Truoc day no roi
+    // vao `pending` roi co luc bi lay lam DE BAI cua cau ke tiep (K44 cau 8).
+    // Gio danh dau cau dang mo la "dap an do AI lam" roi bo qua dong do.
+    const aiMatch = text.match(AI_NOTE_RE);
+    if (aiMatch) {
+      if (draft) {
+        draft.aiAnswer = true;
+        if (AI_DIFF_RE.test(text)) draft.aiCheck = true;
+        draft.aiNote = normalizeSpace(`${draft.aiNote} ${aiMatch[1] || ""}`);
+      }
+      continue;
+    }
 
     // --- 1) Dong "Dap an: X" -------------------------------------
     // Gioi han do dai chi de tranh nhan nham 1 doan van dai. Nguong cu 80

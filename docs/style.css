@@ -1218,6 +1218,61 @@ body {
   color: var(--warning);
 }
 
+/* ===== Câu có đáp án do AI làm ===== */
+/* Dùng màu xanh mòng két, tách hẳn với hồng (giao diện), vàng (giải thích),
+   tím (ghi chú) để liếc qua là biết ngay đáp án này không phải từ ngân hàng đề. */
+.ai-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 10px 0 2px;
+  padding: 4px 12px;
+  border: 1.5px solid rgba(13, 148, 136, 0.35);
+  border-radius: 999px;
+  background: rgba(13, 148, 136, 0.1);
+  color: #0f766e;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.ai-badge.warn {
+  border-color: rgba(255, 176, 65, 0.55);
+  background: rgba(255, 176, 65, 0.14);
+  color: #a86200;
+}
+
+.ai-note-box {
+  margin-top: 14px;
+  padding: 12px 16px;
+  background: rgba(13, 148, 136, 0.08);
+  border: 1px solid rgba(13, 148, 136, 0.28);
+  border-radius: var(--radius-md);
+  font-size: 0.86rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+}
+
+.ai-note-box strong {
+  color: #0f766e;
+}
+
+.ai-note-box.warn {
+  background: rgba(255, 176, 65, 0.1);
+  border-color: rgba(255, 176, 65, 0.35);
+}
+
+.ai-note-box.warn strong {
+  color: #a86200;
+}
+
+.ai-note-warn {
+  margin-top: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #a86200;
+}
+
 /* ===== Options ===== */
 .options-list {
   display: flex;

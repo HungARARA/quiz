@@ -780,10 +780,39 @@ function buildQuiz() {
       question: q.question,
       explanation: q.explanation || null,
       source: q.source || null,
+      // Đáp án do AI suy luận (ghi chú "( Câu này AI làm )" trong file Word)
+      ai: q.ai || false,
+      aiCheck: q.aiCheck || false,
+      aiNote: q.aiNote || null,
       options,
       correctIndex,
     };
   });
+}
+
+/* Nhãn cho câu có đáp án do AI làm - để người học biết mà cân nhắc */
+function aiBadgeHtml(q) {
+  if (!q.ai) return "";
+  return q.aiCheck
+    ? `<span class="ai-badge warn" title="AI chọn khác với gợi ý của ngân hàng đề — nên kiểm tra lại câu này">
+         🤖 ( AI làm đáp án ) ⚠️ nên kiểm tra
+       </span>`
+    : `<span class="ai-badge" title="Đáp án do AI suy luận, không lấy từ ngân hàng đề">
+         🤖 ( AI làm đáp án )
+       </span>`;
+}
+
+/* Lý do AI chọn đáp án đó - chỉ hiện khi đã chấm bài / xem lại */
+function aiNoteHtml(q) {
+  if (!q.ai || !q.aiNote) return "";
+  const warn = q.aiCheck
+    ? `<div class="ai-note-warn">⚠️ Đáp án này KHÁC gợi ý của ngân hàng đề — nên tra lại sách trước khi tin.</div>`
+    : "";
+  return `
+    <div class="ai-note-box${q.aiCheck ? " warn" : ""}">
+      <strong>🤖 AI lý giải:</strong> ${escapeHtml(q.aiNote)}
+      ${warn}
+    </div>`;
 }
 
 function startNewQuiz(label) {
@@ -1015,6 +1044,9 @@ function renderQuestion(index) {
       ? `<div class="explanation-box"><strong>💡 Giải thích:</strong> ${escapeHtml(q.explanation)}</div>`
       : "";
 
+  // Nhãn AI hiện ngay khi đang làm bài; lý do của AI để dành lúc chấm xong
+  const aiHtml = graded ? aiNoteHtml(q) : "";
+
   const flagged = !!state.flags[index];
   const note = state.notes[index] || "";
   // Có ghi chú thì luôn mở sẵn ô soạn thảo cho dễ đọc
@@ -1043,8 +1075,10 @@ function renderQuestion(index) {
         <span class="question-meta-right">${flagBtnHtml}${sourceHtml}</span>
       </div>
       <div class="question-text">${escapeHtml(q.question)}</div>
+      ${aiBadgeHtml(q)}
       <div class="options-list">${optionsHtml}</div>
       ${explanationHtml}
+      ${aiHtml}
       ${noteHtml}
     </div>`;
 
@@ -1399,8 +1433,10 @@ function renderReviewList() {
             ${src}
           </div>
           <div class="review-question">${escapeHtml(q.question)}</div>
+          ${aiBadgeHtml(q)}
           <div class="review-options">${opts}</div>
           ${exp}
+          ${aiNoteHtml(q)}
           ${noteBox}
         </div>`;
     })
@@ -1433,6 +1469,9 @@ function retryWrongOnly() {
     correctIndex: q.correctIndex,
     explanation: q.explanation,
     source: q.source,
+    ai: q.ai,
+    aiCheck: q.aiCheck,
+    aiNote: q.aiNote,
   }));
 
   // Bỏ giới hạn số câu để làm hết các câu sai
