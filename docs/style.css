@@ -64,8 +64,11 @@ body {
   background: var(--bg-primary);
   color: var(--text-primary);
   min-height: 100vh;
+  min-height: 100dvh;
   overflow-x: hidden;
   line-height: 1.6;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
 }
 
 /* ===== Animated Background ===== */
@@ -364,6 +367,9 @@ body {
   margin-bottom: 16px;
   max-height: 260px;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+  overscroll-behavior: contain;
 }
 
 .file-item {
@@ -584,10 +590,9 @@ body {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  max-height: min(60vh, 460px);
-  overflow-y: auto;
   margin-bottom: 14px;
   padding-right: 4px;
+  touch-action: pan-y;
 }
 
 /* ===== Thư mục môn học (thu gọn / xổ ra) ===== */
@@ -623,6 +628,10 @@ body {
   font-family: "Inter", sans-serif;
   text-align: left;
   color: var(--text-primary);
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .lib-subject-toggle:hover .lib-subject-title {
@@ -686,6 +695,10 @@ body {
   font-weight: 600;
   cursor: pointer;
   transition: var(--transition);
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .lib-subject-all:hover {
@@ -721,6 +734,10 @@ body {
   text-align: left;
   color: var(--text-primary);
   transition: var(--transition);
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .lib-card:hover {
