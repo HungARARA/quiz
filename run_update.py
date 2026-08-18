@@ -1,14 +1,11 @@
+import sys
 import os
 import re
 import shutil
 import docx
 
+sys.stdout.reconfigure(encoding='utf-8')
 doc_path = r'Nội Bệnh Lý/RHM42 (2018-2019).docx'
-backup_path = r'Nội Bệnh Lý/RHM42 (2018-2019)_backup.docx'
-
-if not os.path.exists(backup_path):
-    shutil.copyfile(doc_path, backup_path)
-    print(f"Backup created at {backup_path}")
 
 answers = {
     1: 'A', 2: 'C', 3: 'C', 4: 'A', 5: 'A',

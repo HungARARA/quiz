@@ -28,3 +28,7 @@ quiz-app/uploads/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Ban sao .docx truoc khi sua (chi de o may, lich su git da giu ban cu roi).
+# De trong thu muc bat dau bang dau "." de build-static.js khong quet vao.
+.backup-docx/
