@@ -29,6 +29,7 @@ const MAMMOTH_BROWSER = path.join(
   "mammoth",
   "mammoth.browser.min.js",
 );
+const PUBLISHED_SUBJECTS = new Set(["TN Sâu Răng Học AI"]);
 
 /* ------------------------------------------------------------------ */
 
@@ -201,7 +202,7 @@ async function build() {
   console.log("");
 
   // --- 1) Doc toan bo thu vien .docx ------------------------------
-  const items = scanLibrary();
+  const items = scanLibrary().filter((file) => PUBLISHED_SUBJECTS.has(file.subject));
   if (items.length === 0) {
     console.error("  [!] Khong tim thay file .docx nao. Dung build.");
     process.exit(1);
