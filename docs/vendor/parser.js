@@ -68,6 +68,7 @@ function normalizeSpace(str) {
 }
 
 const BOLD_TAGS = new Set(["strong", "b"]);
+const HEADING_TAGS = new Set(["h1", "h2", "h3", "h4", "h5", "h6"]);
 const BREAK_TAGS = new Set([
   "p",
   "br",
@@ -94,13 +95,14 @@ const BREAK_TAGS = new Set([
 
 /**
  * Duyet HTML cua mammoth, tra ve mang cac dong:
- * { text, bold, isListItem, listDepth }
+ * { text, bold, isListItem, listDepth, isHeading }
  */
 function flattenHtml(html) {
   const lines = [];
   let buf = "";
   let boldBuf = "";
   let boldDepth = 0;
+  let headingDepth = 0;
   let listDepth = 0;
   let inListItem = false;
 
@@ -115,6 +117,7 @@ function flattenHtml(html) {
         bold,
         isListItem: inListItem,
         listDepth: inListItem ? Math.max(listDepth, 1) : 0,
+        isHeading: headingDepth > 0,
       });
     }
   };
@@ -146,7 +149,10 @@ function flattenHtml(html) {
 
     flush();
 
-    if (tag === "ol" || tag === "ul") {
+    if (HEADING_TAGS.has(tag)) {
+      headingDepth += closing ? -1 : 1;
+      headingDepth = Math.max(0, headingDepth);
+    } else if (tag === "ol" || tag === "ul") {
       if (closing) {
         listDepth = Math.max(0, listDepth - 1);
         inListItem = listDepth > 0;
@@ -423,6 +429,19 @@ function parseQuestionsFromHtml(html) {
   for (const line of lines) {
     const text = line.text;
     if (!text || text.length < 2) continue;
+
+    // Mammoth bieu dien cac tieu de muc bang <h1>...<h6>. Giu ranh gioi
+    // nay de "Van dung" khong bi ghep vao lua chon cuoi cua cau truoc.
+    // Neu dong heading co nhan cau hoi, van xu ly nhu mot de bai binh thuong.
+    if (
+      line.isHeading &&
+      !QUESTION_LABEL_RE.test(text) &&
+      !QUESTION_NUMBER_RE.test(text)
+    ) {
+      commit();
+      pending = [];
+      continue;
+    }
 
     // --- 0) Ghi chu "( Cau nay AI lam )" -------------------------
     // Dong nay khong phai de bai cung khong phai lua chon. Truoc day no roi
