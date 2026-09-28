@@ -1,0 +1,324 @@
+{
+  "sourceUrl": "https://azota.vn/vi/de-thi/xol3ym",
+  "azotaCount": 500,
+  "extractedCount": 500,
+  "azotaAnswerCount": 500,
+  "answerSource": "Azota post-submission review",
+  "uniqueCount": 450,
+  "wordCount": 450,
+  "websiteCount": 450,
+  "missingNumbers": [],
+  "duplicateCount": 50,
+  "duplicatePairs": [
+    {
+      "number": 51,
+      "duplicates": 1
+    },
+    {
+      "number": 52,
+      "duplicates": 2
+    },
+    {
+      "number": 53,
+      "duplicates": 3
+    },
+    {
+      "number": 54,
+      "duplicates": 4
+    },
+    {
+      "number": 55,
+      "duplicates": 5
+    },
+    {
+      "number": 56,
+      "duplicates": 6
+    },
+    {
+      "number": 57,
+      "duplicates": 7
+    },
+    {
+      "number": 58,
+      "duplicates": 8
+    },
+    {
+      "number": 59,
+      "duplicates": 9
+    },
+    {
+      "number": 60,
+      "duplicates": 10
+    },
+    {
+      "number": 61,
+      "duplicates": 11
+    },
+    {
+      "number": 62,
+      "duplicates": 12
+    },
+    {
+      "number": 63,
+      "duplicates": 13
+    },
+    {
+      "number": 64,
+      "duplicates": 14
+    },
+    {
+      "number": 65,
+      "duplicates": 15
+    },
+    {
+      "number": 66,
+      "duplicates": 16
+    },
+    {
+      "number": 67,
+      "duplicates": 17
+    },
+    {
+      "number": 68,
+      "duplicates": 18
+    },
+    {
+      "number": 69,
+      "duplicates": 19
+    },
+    {
+      "number": 70,
+      "duplicates": 20
+    },
+    {
+      "number": 71,
+      "duplicates": 21
+    },
+    {
+      "number": 72,
+      "duplicates": 22
+    },
+    {
+      "number": 73,
+      "duplicates": 23
+    },
+    {
+      "number": 74,
+      "duplicates": 24
+    },
+    {
+      "number": 75,
+      "duplicates": 25
+    },
+    {
+      "number": 76,
+      "duplicates": 26
+    },
+    {
+      "number": 77,
+      "duplicates": 27
+    },
+    {
+      "number": 78,
+      "duplicates": 28
+    },
+    {
+      "number": 79,
+      "duplicates": 29
+    },
+    {
+      "number": 80,
+      "duplicates": 30
+    },
+    {
+      "number": 81,
+      "duplicates": 31
+    },
+    {
+      "number": 82,
+      "duplicates": 32
+    },
+    {
+      "number": 83,
+      "duplicates": 33
+    },
+    {
+      "number": 84,
+      "duplicates": 34
+    },
+    {
+      "number": 85,
+      "duplicates": 35
+    },
+    {
+      "number": 86,
+      "duplicates": 36
+    },
+    {
+      "number": 87,
+      "duplicates": 37
+    },
+    {
+      "number": 88,
+      "duplicates": 38
+    },
+    {
+      "number": 89,
+      "duplicates": 39
+    },
+    {
+      "number": 90,
+      "duplicates": 40
+    },
+    {
+      "number": 91,
+      "duplicates": 41
+    },
+    {
+      "number": 92,
+      "duplicates": 42
+    },
+    {
+      "number": 93,
+      "duplicates": 43
+    },
+    {
+      "number": 94,
+      "duplicates": 44
+    },
+    {
+      "number": 95,
+      "duplicates": 45
+    },
+    {
+      "number": 96,
+      "duplicates": 46
+    },
+    {
+      "number": 97,
+      "duplicates": 47
+    },
+    {
+      "number": 98,
+      "duplicates": 48
+    },
+    {
+      "number": 99,
+      "duplicates": 49
+    },
+    {
+      "number": 100,
+      "duplicates": 50
+    }
+  ],
+  "removedDuplicateNumbers": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "withoutAnswer": [],
+  "withoutExplanation": 450,
+  "imageQuestions": 0,
+  "tableQuestions": 0,
+  "trailingPdfMarkerRemovedFromOptions": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "formulaRenderedAsUnicodeAt": [
+    102
+  ]
+}

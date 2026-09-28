@@ -764,9 +764,9 @@ function buildQuiz() {
     let correctIndex = q.correctIndex;
 
     if (cfg.shuffleOptions) {
-      const correct = options[correctIndex];
+      const correct = hasAnswerKey(q) ? options[correctIndex] : null;
       options = shuffleArray(options);
-      correctIndex = options.indexOf(correct);
+      correctIndex = correct ? options.indexOf(correct) : null;
     }
 
     // Gán lại nhãn A, B, C, D theo vị trí mới
@@ -788,6 +788,11 @@ function buildQuiz() {
       correctIndex,
     };
   });
+}
+
+function hasAnswerKey(q) {
+  return Number.isInteger(q.correctIndex) &&
+    q.correctIndex >= 0 && q.correctIndex < q.options.length;
 }
 
 /* Nhãn cho câu có đáp án do AI làm - để người học biết mà cân nhắc */
@@ -965,8 +970,9 @@ function updateQuestionNav() {
     btn.className = "q-nav-btn";
     const answer = state.answers[i];
     const graded = state.isSubmitted || state.revealed[i];
+    const keyed = hasAnswerKey(state.quiz[i]);
 
-    if (graded) {
+    if (graded && keyed) {
       if (answer === undefined) btn.classList.add("skipped-nav");
       else if (answer === state.quiz[i].correctIndex)
         btn.classList.add("correct-nav");
@@ -1012,7 +1018,7 @@ function renderQuestion(index) {
       let classes = "option-item";
       let icon = "";
 
-      if (graded) {
+      if (graded && hasAnswerKey(q)) {
         classes += " disabled";
         if (i === q.correctIndex) {
           classes += " correct";
@@ -1043,6 +1049,9 @@ function renderQuestion(index) {
     graded && q.explanation
       ? `<div class="explanation-box"><strong>💡 Giải thích:</strong> ${escapeHtml(q.explanation)}</div>`
       : "";
+  const missingAnswerHtml = !hasAnswerKey(q)
+    ? '<div class="explanation-box">Azota chưa cung cấp đáp án cho câu này. Lựa chọn của bạn sẽ không được chấm đúng sai.</div>'
+    : "";
 
   // Nhãn AI hiện ngay khi đang làm bài; lý do của AI để dành lúc chấm xong
   const aiHtml = graded ? aiNoteHtml(q) : "";
@@ -1077,6 +1086,7 @@ function renderQuestion(index) {
       <div class="question-text">${escapeHtml(q.question)}</div>
       ${aiBadgeHtml(q)}
       <div class="options-list">${optionsHtml}</div>
+      ${missingAnswerHtml}
       ${explanationHtml}
       ${aiHtml}
       ${noteHtml}
@@ -1135,7 +1145,7 @@ function selectOption(qIndex, optIndex) {
   state.answers[qIndex] = optIndex;
 
   const instant = state.settings.instantFeedback;
-  if (instant) state.revealed[qIndex] = true;
+  if (instant && hasAnswerKey(q)) state.revealed[qIndex] = true;
 
   renderQuestion(qIndex);
   updateQuestionNav();
@@ -1211,24 +1221,63 @@ function computeScore() {
   const total = state.quiz.length;
   let correct = 0;
   let wrong = 0;
+  let keyedTotal = 0;
+  let ungraded = 0;
 
   state.quiz.forEach((q, i) => {
+    if (!hasAnswerKey(q)) {
+      ungraded++;
+      return;
+    }
+    keyedTotal++;
     const a = state.answers[i];
     if (a === undefined) return;
     if (a === q.correctIndex) correct++;
     else wrong++;
   });
 
-  const unanswered = total - correct - wrong;
-  const percent = total ? Math.round((correct / total) * 100) : 0;
-  return { total, correct, wrong, unanswered, percent };
+  const unanswered = keyedTotal - correct - wrong;
+  const percent = keyedTotal ? Math.round((correct / keyedTotal) * 100) : 0;
+  return { total, keyedTotal, ungraded, correct, wrong, unanswered, percent };
 }
 
 function showResults() {
-  const { total, correct, wrong, unanswered, percent } = computeScore();
+  const { total, keyedTotal, correct, wrong, unanswered, percent } = computeScore();
   const markedCount = markedIndexes().length;
   const timeTaken =
     state.totalTime > 0 ? state.totalTime - state.timeRemaining : null;
+
+  if (keyedTotal === 0) {
+    const answered = Object.keys(state.answers).length;
+    resultsSection.innerHTML = `
+      <div class="results-container">
+        <div class="results-hero">
+          <span class="results-emoji">📚</span>
+          <div class="results-title">Đã làm ${answered}/${total} câu</div>
+          <div class="results-subtitle">${escapeHtml(state.title)}</div>
+          <p>Azota chưa cung cấp đáp án cho bài này, nên không chấm điểm đúng sai.</p>
+          <div class="results-actions">
+            <button class="btn btn-secondary" id="btn-review" type="button">📋 Xem lại bài làm</button>
+            <button class="btn btn-primary" id="btn-retry" type="button">🔄 Làm lại (đảo mới)</button>
+            <button class="btn btn-secondary" id="btn-new" type="button">🏠 Về trang chủ</button>
+          </div>
+        </div>
+        <div class="review-list-wrapper">
+          <div class="review-header"><h2>Chi tiết bài làm</h2></div>
+          <div id="review-list"></div>
+        </div>
+      </div>`;
+    quizSection.classList.add("hidden");
+    timerBar.classList.add("hidden");
+    resultsSection.classList.remove("hidden");
+    $("#btn-review").addEventListener("click", enterReviewMode);
+    $("#btn-retry").addEventListener("click", () => startNewQuiz(state.title));
+    $("#btn-new").addEventListener("click", resetToUpload);
+    state.reviewFilter = "all";
+    renderReviewList();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    return;
+  }
 
   let emoji, message;
   if (percent >= 90) {
@@ -1359,10 +1408,10 @@ function renderReviewList() {
   const items = state.quiz
     .map((q, i) => ({ q, i, answer: state.answers[i] }))
     .filter(({ q, i, answer }) => {
-      const isCorrect = answer === q.correctIndex;
+      const isCorrect = hasAnswerKey(q) && answer === q.correctIndex;
       switch (state.reviewFilter) {
         case "wrong":
-          return answer !== undefined && !isCorrect;
+          return hasAnswerKey(q) && answer !== undefined && !isCorrect;
         case "correct":
           return isCorrect;
         case "skipped":
@@ -1384,9 +1433,12 @@ function renderReviewList() {
 
   listEl.innerHTML = items
     .map(({ q, i, answer }) => {
-      const isCorrect = answer === q.correctIndex;
+      const keyed = hasAnswerKey(q);
+      const isCorrect = keyed && answer === q.correctIndex;
       const status =
-        answer === undefined
+        !keyed
+          ? `<span class="review-badge skipped">${answer === undefined ? "Chưa chọn" : "Chưa có đáp án"}</span>`
+          : answer === undefined
           ? '<span class="review-badge skipped">Chưa làm</span>'
           : isCorrect
             ? '<span class="review-badge correct">Đúng</span>'
@@ -1396,12 +1448,15 @@ function renderReviewList() {
         .map((opt, oi) => {
           let cls = "review-option";
           let mark = "";
-          if (oi === q.correctIndex) {
+          if (keyed && oi === q.correctIndex) {
             cls += " correct";
             mark = "✅";
-          } else if (oi === answer) {
+          } else if (keyed && oi === answer) {
             cls += " wrong";
             mark = "❌";
+          } else if (!keyed && oi === answer) {
+            cls += " selected";
+            mark = "•";
           }
           return `<div class="${cls}"><span class="review-mark">${mark}</span><strong>${escapeHtml(opt.label)}.</strong> ${escapeHtml(opt.text)}</div>`;
         })
@@ -1455,7 +1510,7 @@ function enterReviewMode() {
 
 function retryWrongOnly() {
   const wrongQuestions = state.quiz.filter(
-    (q, i) => state.answers[i] !== q.correctIndex,
+    (q, i) => hasAnswerKey(q) && state.answers[i] !== q.correctIndex,
   );
 
   if (wrongQuestions.length === 0) {

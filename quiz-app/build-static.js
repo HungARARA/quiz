@@ -222,30 +222,49 @@ async function build() {
     // duoc cau giong nhau o 2 file khac nhau (server gop nhieu file moi loc).
     const bucket = [];
     const seen = new Set();
-    const res = await ingestDocx(file.fullPath, file.name, bucket, seen);
-
-    if (res.error || bucket.length === 0) {
-      failed.push({ name: file.name, error: res.error || "khong doc duoc cau nao" });
-      continue;
+    const isAzota = file.subject === "Sâu Răng Học Azota Thông Võ";
+    if (!isAzota || file.name === "Bài 1") {
+      const res = await ingestDocx(file.fullPath, file.name, bucket, seen);
+      if (res.error || bucket.length === 0) {
+        failed.push({ name: file.name, error: res.error || "khong doc duoc cau nao" });
+        continue;
+      }
     }
 
     // Keep the Azota text and option order verbatim. The generic DOCX parser
     // normalizes punctuation and inline arrows in some of these questions.
-    if (file.subject === "Sâu Răng Học Azota Thông Võ") {
-      const sourcePath = path.join(ROOT, file.subject, "azota-validated.json");
+    if (isAzota) {
+      const sourceName = file.name === "Bài 1"
+        ? "azota-validated.json"
+        : file.name === "Bài 2"
+          ? "azota-bai2-validated.json"
+          : null;
+      if (!sourceName) throw new Error(`No Azota source mapping for ${file.name}`);
+      const sourcePath = path.join(ROOT, file.subject, sourceName);
       const source = JSON.parse(fs.readFileSync(sourcePath, "utf8"));
-      if (source.length !== bucket.length) {
+      if (file.name === "Bài 1" && source.length !== bucket.length) {
         throw new Error(`Azota source/Word count differs: ${source.length}/${bucket.length}`);
+      }
+      if (file.name === "Bài 2") {
+        // Keep Azota's original question numbers after removing repeated Q51–100.
+        // Count the Word question labels before publishing the validated source.
+        const mammoth = require("mammoth");
+        const word = await mammoth.extractRawText({ path: file.fullPath });
+        const numbers = [...word.value.matchAll(/^Câu\s+(\d+)\./gm)].map((m) => Number(m[1]));
+        if (numbers.length !== source.length || numbers.some((n, i) => n !== source[i].number)) {
+          throw new Error(`Azota Bài 2 source/Word numbering differs: ${source.length}/${numbers.length}`);
+        }
       }
       bucket.length = 0;
       for (const [index, q] of source.entries()) {
-        if (q.number !== index + 1 || !q.options.some((o) => o.label === q.answer)) {
+        const expectedNumber = file.name === "Bài 2" && index >= 50 ? index + 51 : index + 1;
+        if (q.number !== expectedNumber || (q.answer !== null && !q.options.some((o) => o.label === q.answer))) {
           throw new Error(`Invalid Azota question ${index + 1}`);
         }
         bucket.push({
           question: q.question,
           options: q.options.map((o) => ({ label: o.label, text: o.text })),
-          correctIndex: q.options.findIndex((o) => o.label === q.answer),
+          correctIndex: q.answer === null ? null : q.options.findIndex((o) => o.label === q.answer),
           explanation: q.explanation,
           source: file.name,
           sourceNumber: q.number,
