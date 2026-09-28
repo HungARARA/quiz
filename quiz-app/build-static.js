@@ -29,7 +29,10 @@ const MAMMOTH_BROWSER = path.join(
   "mammoth",
   "mammoth.browser.min.js",
 );
-const PUBLISHED_SUBJECTS = new Set(["TN Sâu Răng Học AI"]);
+const PUBLISHED_SUBJECTS = new Set([
+  "TN Sâu Răng Học AI",
+  "Sâu Răng Học Azota Thông Võ",
+]);
 
 /* ------------------------------------------------------------------ */
 
@@ -224,6 +227,31 @@ async function build() {
     if (res.error || bucket.length === 0) {
       failed.push({ name: file.name, error: res.error || "khong doc duoc cau nao" });
       continue;
+    }
+
+    // Keep the Azota text and option order verbatim. The generic DOCX parser
+    // normalizes punctuation and inline arrows in some of these questions.
+    if (file.subject === "Sâu Răng Học Azota Thông Võ") {
+      const sourcePath = path.join(ROOT, file.subject, "azota-validated.json");
+      const source = JSON.parse(fs.readFileSync(sourcePath, "utf8"));
+      if (source.length !== bucket.length) {
+        throw new Error(`Azota source/Word count differs: ${source.length}/${bucket.length}`);
+      }
+      bucket.length = 0;
+      for (const [index, q] of source.entries()) {
+        if (q.number !== index + 1 || !q.options.some((o) => o.label === q.answer)) {
+          throw new Error(`Invalid Azota question ${index + 1}`);
+        }
+        bucket.push({
+          question: q.question,
+          options: q.options.map((o) => ({ label: o.label, text: o.text })),
+          correctIndex: q.options.findIndex((o) => o.label === q.answer),
+          explanation: q.explanation,
+          source: file.name,
+          sourceNumber: q.number,
+          azotaId: q.azotaId,
+        });
+      }
     }
 
     libraryFiles.push({

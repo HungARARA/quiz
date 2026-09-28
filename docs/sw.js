@@ -1,5 +1,5 @@
 /* Tu dong sinh boi build-static.js */
-const CACHE = "quiz-y-khoa-20260927010017";
+const CACHE = "quiz-y-khoa-20260928171315";
 const ASSETS = [
   "./",
   "./index.html",
