@@ -238,6 +238,8 @@ async function build() {
         ? "azota-validated.json"
         : file.name === "Bài 2"
           ? "azota-bai2-validated.json"
+          : file.name === "Bài 3"
+            ? "azota-bai3-validated.json"
           : null;
       if (!sourceName) throw new Error(`No Azota source mapping for ${file.name}`);
       const sourcePath = path.join(ROOT, file.subject, sourceName);
@@ -245,14 +247,14 @@ async function build() {
       if (file.name === "Bài 1" && source.length !== bucket.length) {
         throw new Error(`Azota source/Word count differs: ${source.length}/${bucket.length}`);
       }
-      if (file.name === "Bài 2") {
-        // Keep Azota's original question numbers after removing repeated Q51–100.
+      if (file.name === "Bài 2" || file.name === "Bài 3") {
+        // Preserve Azota's original numbers, including any gaps from removed duplicates.
         // Count the Word question labels before publishing the validated source.
         const mammoth = require("mammoth");
         const word = await mammoth.extractRawText({ path: file.fullPath });
         const numbers = [...word.value.matchAll(/^Câu\s+(\d+)\./gm)].map((m) => Number(m[1]));
         if (numbers.length !== source.length || numbers.some((n, i) => n !== source[i].number)) {
-          throw new Error(`Azota Bài 2 source/Word numbering differs: ${source.length}/${numbers.length}`);
+          throw new Error(`Azota ${file.name} source/Word numbering differs: ${source.length}/${numbers.length}`);
         }
       }
       bucket.length = 0;
