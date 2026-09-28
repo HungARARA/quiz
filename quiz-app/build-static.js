@@ -240,6 +240,8 @@ async function build() {
           ? "azota-bai2-validated.json"
           : file.name === "Bài 3"
             ? "azota-bai3-validated.json"
+            : file.name === "Bài 4"
+              ? "azota-bai4-validated.json"
           : null;
       if (!sourceName) throw new Error(`No Azota source mapping for ${file.name}`);
       const sourcePath = path.join(ROOT, file.subject, sourceName);
@@ -247,7 +249,7 @@ async function build() {
       if (file.name === "Bài 1" && source.length !== bucket.length) {
         throw new Error(`Azota source/Word count differs: ${source.length}/${bucket.length}`);
       }
-      if (file.name === "Bài 2" || file.name === "Bài 3") {
+      if (["Bài 2", "Bài 3", "Bài 4"].includes(file.name)) {
         // Preserve Azota's original numbers, including any gaps from removed duplicates.
         // Count the Word question labels before publishing the validated source.
         const mammoth = require("mammoth");
