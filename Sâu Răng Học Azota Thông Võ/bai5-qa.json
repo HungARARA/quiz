@@ -1,0 +1,19 @@
+{
+  "sourceFile": "Bài 5 phân loại xoang sâu răng.docx",
+  "sourceSha256": "c0d3f98a86878e738ab2fd3c5450a6deb5c66b6948b0a0c83ea986af6f71114c",
+  "answerSource": "Answer lines and matching starred options in supplied Word file",
+  "sourceQuestionCount": 500,
+  "extractedCount": 500,
+  "uniqueCount": 500,
+  "wordCount": 500,
+  "websiteCount": 500,
+  "missingNumbers": [],
+  "duplicateCount": 0,
+  "withoutAnswer": [],
+  "withoutExplanation": 499,
+  "explanationQuestions": [
+    117
+  ],
+  "imageQuestions": 0,
+  "tableQuestions": 0
+}
