@@ -763,7 +763,9 @@ function buildQuiz() {
     let options = q.options.slice();
     let correctIndex = q.correctIndex;
 
-    if (cfg.shuffleOptions) {
+    // Phương án kiểu "A và B đúng" chỉ đúng khi giữ nguyên thứ tự gốc
+    const citesLetters = options.some((o) => /(?<!\p{L})[A-F]\s*(?:,|và)\s*[A-F](?!\p{L})/u.test(o.text));
+    if (cfg.shuffleOptions && !citesLetters) {
       const correct = hasAnswerKey(q) ? options[correctIndex] : null;
       options = shuffleArray(options);
       correctIndex = correct ? options.indexOf(correct) : null;
@@ -806,9 +808,14 @@ function hasAnswerKey(q) {
 /* Nhãn cho câu có đáp án do AI làm - để người học biết mà cân nhắc */
 function aiBadgeHtml(q) {
   if (!q.ai) return "";
+  if (q.aiCheck && q.aiOriginal) {
+    return `<span class="ai-badge warn" title="Đáp án đã được AI sửa lại, khác phương án khoanh trong đề gốc">
+         🤖 AI sửa đáp án (khác đề gốc)
+       </span>`;
+  }
   return q.aiCheck
-    ? `<span class="ai-badge warn" title="${q.aiOriginal ? "AI chọn khác đáp án khoanh trong đề gốc" : "AI chọn khác với gợi ý của ngân hàng đề"} — nên kiểm tra lại câu này">
-         🤖 ( AI làm đáp án${q.aiOriginal ? ", khác đề gốc" : ""} ) ⚠️ nên kiểm tra
+    ? `<span class="ai-badge warn" title="AI chọn khác với gợi ý của ngân hàng đề — nên kiểm tra lại câu này">
+         🤖 ( AI làm đáp án ) ⚠️ nên kiểm tra
        </span>`
     : `<span class="ai-badge" title="Đáp án do AI suy luận, không lấy từ ngân hàng đề">
          🤖 ( AI làm đáp án )
@@ -823,7 +830,7 @@ function aiNoteHtml(q) {
   const warn = !q.aiCheck
     ? ""
     : original
-      ? `<div class="ai-note-warn">⚠️ Đề gốc khoanh <strong>“${escapeHtml(original[2])}”</strong> (phương án ${original[1]} trong đề gốc) — AI chọn đáp án khác, nên tra lại sách trước khi tin.</div>`
+      ? `<div class="ai-note-warn">📌 Đề gốc khoanh <strong>“${escapeHtml(original[2])}”</strong> (phương án ${original[1]} trong đề gốc). Đáp án đúng là phương án ✅ ở trên.</div>`
       : `<div class="ai-note-warn">⚠️ Đáp án này KHÁC gợi ý của ngân hàng đề — nên tra lại sách trước khi tin.</div>`;
   return `
     <div class="ai-note-box${q.aiCheck ? " warn" : ""}">

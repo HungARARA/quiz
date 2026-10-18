@@ -147,7 +147,7 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → B, C, D bằng nhau, câu hỏi có vấn đề. Đề khoanh C.",
+      "explanation": "Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → “R11”, “R28”, “R48” bằng nhau, câu hỏi có vấn đề. Đề khoanh “R28”.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -340,7 +340,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Đề khoanh cả A và D. Ảnh: còn nhóm răng trước và răng cối cuối hai bên, hai vùng mất răng đều có răng giới hạn hai đầu → Kennedy loại III, biến thể 1. Loại VI theo giáo trình là mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng — không khớp vì ở đây còn nhiều răng trước.",
+      "aiNote": "Đề khoanh cả “Loại III, biến thể 1” và “Loại VI”. Ảnh: còn nhóm răng trước và răng cối cuối hai bên, hai vùng mất răng đều có răng giới hạn hai đầu → Kennedy loại III, biến thể 1. Loại VI theo giáo trình là mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng — không khớp vì ở đây còn nhiều răng trước.",
       "aiOriginal": null
     },
     {
@@ -366,7 +366,7 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30): răng cửa giữa hàm trên chọn theo cấu trúc xương mặt.",
+      "explanation": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30): răng cửa giữa hàm trên chọn theo cấu trúc xương mặt.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -543,7 +543,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Đề không khoanh câu này. Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án B): quỹ đạo răng cửa được xác định trước khi lên răng sau.",
+      "aiNote": "Đề không khoanh câu này. Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án “Trước khi lên răng sau”): quỹ đạo răng cửa được xác định trước khi lên răng sau.",
       "aiOriginal": null
     },
     {
@@ -801,7 +801,7 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng hàm.",
+      "explanation": "Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng hàm.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1036,7 +1036,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ là đầu tận cùng tay móc, đàn hồi hơn các phần khác, nằm trong vùng lẹm (dưới đường vòng lớn nhất) — không nằm ngay đường vòng lớn nhất (B sai) và không chôn trong nền nhựa (A sai, đó là phần nối); phần giữ giữ hàm lại, không cho hàm trượt ra theo chiều đứng (C). Chống lún là việc của tựa (D sai).",
+      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ là đầu tận cùng tay móc, đàn hồi hơn các phần khác, nằm trong vùng lẹm (dưới đường vòng lớn nhất) — không nằm ngay đường vòng lớn nhất (“Phần giữ của móc nằm ngay đường vòng lớn nhất” sai) và không chôn trong nền nhựa (“Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần khác và được chôn trong nền nhựa” sai, đó là phần nối); phần giữ giữ hàm lại, không cho hàm trượt ra theo chiều đứng (“Phần giữ có tác dụng giữ dính hàm, không cho hàm di chuyển theo chiều đứng”). Chống lún là việc của tựa (“Phần giữ có tác dụng giữ dính và chống lún hàm” sai).",
       "aiOriginal": "B. Phần giữ của móc nằm ngay đường vòng lớn nhất"
     },
     {
@@ -1065,7 +1065,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.2): móc dây làm bằng hợp kim không rỉ, CÓ tính đàn hồi nhưng phải đủ cứng rắn (A ghi \"ít đàn hồi\" là sai); móc và nền nhựa ôm ít nhất 2/3 chu vi răng trụ (B sai); khi hàm không hoạt động, móc không được tác động lực lên răng trụ (D sai); tay móc phải ôm thân răng trụ khít để lưu giữ tốt (C đúng).",
+      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.2): móc dây làm bằng hợp kim không rỉ, CÓ tính đàn hồi nhưng phải đủ cứng rắn (“Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi” ghi \"ít đàn hồi\" là sai); móc và nền nhựa ôm ít nhất 2/3 chu vi răng trụ (“Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ” sai); khi hàm không hoạt động, móc không được tác động lực lên răng trụ (“Khi hàm giả không hoạt động chức năng, móc vẫn được tác dụng lực lên răng trụ” sai); tay móc phải ôm thân răng trụ khít để lưu giữ tốt (“Tay móc phải ôm khít khao thân răng trụ” đúng).",
       "aiOriginal": "A. Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi."
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng. Phương án B là các ý sai của câu tự lượng giá Bài 4 (ấn nhẹ tránh đau, giữ yên tránh biến dạng). Lưu ý đề in \"ấn từ trước ra sau\", khác giáo trình.",
+      "explanation": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng. Phương án “…nhẹ nhàng tránh làm đau bệnh nhân… bảo bệnh nhân há to và giữ yên…” lấy đúng các ý sai trong câu tự lượng giá Bài 4. Lưu ý đề in “ấn từ trước ra sau”, khác giáo trình.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,

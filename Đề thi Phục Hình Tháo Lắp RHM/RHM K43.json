@@ -118,7 +118,7 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K40 (câu 40) khoanh A nhưng vùng Schroder thuộc khẩu cái hàm trên.",
+      "explanation": "Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K40 (câu 40) khoanh “Vùng Schroder” nhưng vùng Schroder thuộc khẩu cái hàm trên.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -243,7 +243,7 @@
         ]
       },
       "correctIndex": 2,
-      "explanation": "Đề gạch cả B và C. Hai bên mất răng tới cuối cung (loại I) và thêm một khoảng mất răng ở giữa phía trước (biến thể 1); đề RHM K40 (câu 48, cùng hình) khoanh \"Loại I, biến thể 1\".",
+      "explanation": "Đề gạch cả “Loại I, biến thể 2” và “Loại I, biến thể 1”. Hai bên mất răng tới cuối cung (loại I) và thêm một khoảng mất răng ở giữa phía trước (biến thể 1); đề RHM K40 (câu 48, cùng hình) khoanh \"Loại I, biến thể 1\".",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -491,7 +491,7 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch cả A và B. Có 4 khoảng mất răng đều có răng giới hạn hai đầu: 1 khoảng chính (loại III) + 3 khoảng phụ → biến thể 3.",
+      "explanation": "Đề gạch cả “Loại III, biến thể 2” và “Loại III, biến thể 3”. Có 4 khoảng mất răng đều có răng giới hạn hai đầu: 1 khoảng chính (loại III) + 3 khoảng phụ → biến thể 3.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -532,7 +532,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch A nhưng có dấu ✓ cạnh C. Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại V có vùng mất răng giới hạn phía trước bằng một răng cửa yếu, chân răng nhỏ ngắn — khớp với hình (khoảng mất răng dài, răng giới hạn phía trước là răng cửa). Cùng hình ở câu 12 thì theo Kennedy là loại III.",
+      "aiNote": "Đề gạch “Loại III” nhưng có dấu ✓ cạnh “Loại V”. Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại V có vùng mất răng giới hạn phía trước bằng một răng cửa yếu, chân răng nhỏ ngắn — khớp với hình (khoảng mất răng dài, răng giới hạn phía trước là răng cửa). Cùng hình ở câu 12 thì theo Kennedy là loại III.",
       "aiOriginal": "A. Loại III."
     },
     {
@@ -793,7 +793,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy ra khi alginate đông cứng hoàn toàn. B (ấn nhẹ tránh đau, giữ yên tránh biến dạng) là các ý sai của câu tự lượng giá Bài 4; C, D trái giáo trình. A đúng ý cử động môi, dù đề in \"ấn từ trước ra sau\". Đề RHM K41 (câu 60) khoanh A.",
+      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy ra khi alginate đông cứng hoàn toàn. Phương án “…nhẹ nhàng tránh làm đau bệnh nhân… bảo bệnh nhân há to và giữ yên…” lấy đúng các ý sai trong câu tự lượng giá Bài 4; phương án lấy khay ra “khi Alginate vừa đông” và phương án “gia tăng áp lực đè lên răng” cũng trái giáo trình. Phương án “…Đồng thời cho bệnh nhân cử động môi” là đúng, dù đề in “ấn từ trước ra sau”. Đề RHM K41 (câu 60) cũng chọn phương án này.",
       "aiOriginal": "B. Đặt khay lấy dấu có chứa Alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu."
     },
     {
@@ -822,7 +822,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch D (có ngoặc gom A, B). Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án B): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao không chui xuống dưới lớp sáp; ngâm ướt và thoa vaseline là các bước khác với mục đích khác.",
+      "aiNote": "Đề gạch “Tất cả đều đúng” (có ngoặc gom “Ngâm mẫu hàm cho ướt”, “Dán mép nền sáp vào mẫu thạch cao”). Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án “Dán mép nền sáp vào mẫu thạch cao”): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao không chui xuống dưới lớp sáp; ngâm ướt và thoa vaseline là các bước khác với mục đích khác.",
       "aiOriginal": "D. Tất cả đều đúng."
     },
     {
@@ -1228,7 +1228,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch B, có người khoanh thêm C. Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm. Đề RHM K45 (câu 15) chọn C.",
+      "aiNote": "Đề gạch “5 – 8 mm”, có người khoanh thêm “5 – 9 mm”. Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm. Đề RHM K45 (câu 15) chọn “5 – 9 mm”.",
       "aiOriginal": "B. 5 – 8 mm."
     },
     {
@@ -1257,7 +1257,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch D, có người khoanh thêm A. Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm. Đề RHM K45 (câu 16) chọn A.",
+      "aiNote": "Đề gạch “5 – 10 mm”, có người khoanh thêm “5 – 7 mm”. Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm. Đề RHM K45 (câu 16) chọn “5 – 7 mm”.",
       "aiOriginal": "D. 5 – 10 mm."
     },
     {
@@ -1315,7 +1315,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch C, có người khoanh thêm B. Giáo trình PHTL (Bài 8, mục 3.4.1): đau tại chỗ do DƯ bờ hàm (không phải thiếu bờ hàm), nướu giả lẹm, mặt tiếp xúc không chính xác, điểm chạm sớm… → \"thiếu bờ hàm\" sai, chỉ B đúng.",
+      "aiNote": "Đề gạch “A và B đúng”, có người khoanh thêm “Có điểm chạm sớm ở khớp cắn”. Giáo trình PHTL (Bài 8, mục 3.4.1): đau tại chỗ do DƯ bờ hàm (không phải thiếu bờ hàm), nướu giả lẹm, mặt tiếp xúc không chính xác, điểm chạm sớm… → \"thiếu bờ hàm\" sai, chỉ “Có điểm chạm sớm ở khớp cắn” đúng.",
       "aiOriginal": "C. A và B đúng."
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề gạch cả A và C. Giáo trình PHTL (Bài 6, mục 2.1.3): theo Berry, chiều cao mặt / chiều cao răng cửa trên = 20/1 nên A (1/20) là câu sai; C đúng (3 loại hình thể: giải phẫu, bán giải phẫu, không giải phẫu).",
+      "explanation": "Đề gạch cả phương án Berry “1/20” và phương án “3 loại hình thể chính”. Giáo trình PHTL (Bài 6, mục 2.1.3): theo Berry, chiều cao mặt / chiều cao răng cửa trên = 20/1, nên phương án ghi 1/20 là câu sai; ý răng sau có 3 loại hình thể (giải phẫu, bán giải phẫu, không giải phẫu) là đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1684,7 +1684,7 @@
         },
         {
           "label": "D",
-          "text": "(1) → (3) → (4) → (2) (đề in trùng phương án A)."
+          "text": "(1) → (3) → (4) → (2) (đề in trùng với một phương án khác)."
         }
       ],
       "image": null,
@@ -1692,7 +1692,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch A và D (in trùng nhau), có người khoanh thêm B. Giáo trình PHTL (Bài 8, mục 1.2.5): thứ tự điều chỉnh là tái lập kích thước dọc → khớp cắn trung tâm → hoàn hảo cắn khớp làm việc và thăng bằng → khớp cắn tới, tức (1) → (3) → (2) → (4).",
+      "aiNote": "Đề gạch phương án “(1) → (3) → (4) → (2)” (in trùng ở hai phương án), có người khoanh thêm “(1) → (3) → (2) → (4)”. Giáo trình PHTL (Bài 8, mục 1.2.5): thứ tự điều chỉnh là tái lập kích thước dọc → khớp cắn trung tâm → hoàn hảo cắn khớp làm việc và thăng bằng → khớp cắn tới, tức (1) → (3) → (2) → (4).",
       "aiOriginal": "A. (1) → (3) → (4) → (2)."
     },
     {

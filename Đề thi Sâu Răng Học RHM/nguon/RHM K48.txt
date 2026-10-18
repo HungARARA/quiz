@@ -121,7 +121,7 @@ A. Che tủy thất bại
 B. Cần điều trị nội nha ngay
 *C. Cầu ngà có thể không thấy rõ trên X-quang
 D. MTA không kích thích tạo ngà
-> Câu 20: mép trang bị cắt mất phần đầu dòng; phương án C đọc được là "…không thấy rõ trên X-quang … vẫn hiện diện".
+> Câu 20: mép trang bị cắt mất phần đầu dòng; phương án “Cầu ngà có thể không thấy rõ trên X-quang” đọc được là "…không thấy rõ trên X-quang … vẫn hiện diện".
 
 Câu 21. Yếu tố nào sau đây giải thích tại sao MTA cần môi trường ẩm để đông cứng đúng cách?
 A. Phản ứng đông cứng là phản ứng acid–base
@@ -489,7 +489,7 @@ A. IgM
 B. IgG
 C. IgA
 *D. A, B đúng
-> Đáp án chính thức của đề là D. Lưu ý: theo sách, kháng thể chủ yếu trong nước bọt là IgA tiết (sIgA) — nếu gặp lại câu này nên đối chiếu thêm.
+> Đáp án chính thức của đề là “A, B đúng”. Lưu ý: theo sách, kháng thể chủ yếu trong nước bọt là IgA tiết (sIgA) — nếu gặp lại câu này nên đối chiếu thêm.
 
 Câu 82. Thành phần sang thương sâu ngà ở lớp ngà bên ngoài:
 *A. Có sự thâm nhiễm vi khuẩn

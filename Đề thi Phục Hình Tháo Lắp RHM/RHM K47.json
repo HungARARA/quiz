@@ -350,7 +350,7 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề khoanh C và gạch D. Giáo trình PHTL (Bài 19, mục 1.1.2): các vân khẩu cái có niêm mạc dày, không có mô dưới niêm mạc; vùng đường giữa niêm mạc mỏng; vùng Schroder nhiều mô mỡ, mô tuyến.",
+      "explanation": "Đề khoanh “Vân khẩu cái” và gạch “Đường nối giữa”. Giáo trình PHTL (Bài 19, mục 1.1.2): các vân khẩu cái có niêm mạc dày, không có mô dưới niêm mạc; vùng đường giữa niêm mạc mỏng; vùng Schroder nhiều mô mỡ, mô tuyến.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -600,7 +600,7 @@
         ]
       },
       "correctIndex": 1,
-      "explanation": "Đề gạch A, C và khoanh B. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn \"Loại III, biến thể 1\".",
+      "explanation": "Đề gạch “Loại IV, biến thể 1”, “Loại IV, biến thể 2” và khoanh “Loại III, biến thể 1”. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn \"Loại III, biến thể 1\".",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1198,7 +1198,7 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30): răng cửa giữa chọn theo cấu trúc xương mặt. Đề RHM K40 (câu 27) khoanh răng cối lớn.",
+      "explanation": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30): răng cửa giữa chọn theo cấu trúc xương mặt. Đề RHM K40 (câu 27) khoanh răng cối lớn.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1462,7 +1462,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — B làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; C sai vì phải đậy nắp. Chỉ A đúng.",
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — “Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn” làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; “Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài” sai vì phải đậy nắp. Chỉ “Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra” đúng.",
       "aiOriginal": "D. A và B đúng"
     },
     {
@@ -1491,7 +1491,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên D \"Tất cả đều đúng\" không khớp giáo trình.",
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên “Tất cả đều đúng” không khớp giáo trình.",
       "aiOriginal": "D. Tất cả đều đúng"
     },
     {
@@ -1752,7 +1752,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 8, mục 3.4.1 và câu tự lượng giá 5 – đáp án D): đau tại chỗ có thể do dư bờ hàm, nướu giả lẹm quá mức, mặt tiếp xúc niêm mạc không chính xác, điểm chạm sớm, hư hỏng móc, bệnh nhân tháo lắp hàm không đúng hướng → cả 3 ý đều đúng.",
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 3.4.1 và câu tự lượng giá 5 – đáp án “Tất cả đều đúng”): đau tại chỗ có thể do dư bờ hàm, nướu giả lẹm quá mức, mặt tiếp xúc niêm mạc không chính xác, điểm chạm sớm, hư hỏng móc, bệnh nhân tháo lắp hàm không đúng hướng → cả 3 ý đều đúng.",
       "aiOriginal": "A. Dư bờ hàm"
     },
     {

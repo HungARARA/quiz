@@ -32,7 +32,7 @@ A. R12
 B. R11
 *C. R28
 D. R48
-> Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → B, C, D bằng nhau, câu hỏi có vấn đề. Đề khoanh C.
+> Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → “R11”, “R28”, “R48” bằng nhau, câu hỏi có vấn đề. Đề khoanh “R28”.
 
 Câu 6. Theo phân loại Kennedy, mô hình sau đây mất răng loại nào (xem hình):
 [hinh: 10 0.635 0.35 0.77 0.445]
@@ -70,14 +70,14 @@ Câu 10. Theo phân loại Kennedy, mô hình sau đây mất răng loại nào 
 B. Loại IV
 C. Loại V
 D. Loại VI
-> Đề khoanh cả A và D. Ảnh: còn nhóm răng trước và răng cối cuối hai bên, hai vùng mất răng đều có răng giới hạn hai đầu → Kennedy loại III, biến thể 1. Loại VI theo giáo trình là mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng — không khớp vì ở đây còn nhiều răng trước.
+> Đề khoanh cả “Loại III, biến thể 1” và “Loại VI”. Ảnh: còn nhóm răng trước và răng cối cuối hai bên, hai vùng mất răng đều có răng giới hạn hai đầu → Kennedy loại III, biến thể 1. Loại VI theo giáo trình là mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng — không khớp vì ở đây còn nhiều răng trước.
 
 Câu 11. Răng hàm trên được chọn theo cấu trúc xương hàm là răng:
 *A. Răng cửa giữa
 B. Răng cửa bên
 C. Răng nanh
 D. Răng cối lớn
-> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30): răng cửa giữa hàm trên chọn theo cấu trúc xương mặt.
+> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30): răng cửa giữa hàm trên chọn theo cấu trúc xương mặt.
 
 Câu 12. Răng hàm trên được chọn theo tính tình bệnh nhân là răng:
 A. Răng cửa giữa
@@ -114,7 +114,7 @@ A. Trước khi lên răng trước hàm trên
 @B. Trước khi lên răng sau
 C. Sau khi ghi tương quan tâm
 D. Sau khi vô cung mặt
-> Đề không khoanh câu này. Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án B): quỹ đạo răng cửa được xác định trước khi lên răng sau.
+> Đề không khoanh câu này. Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án “Trước khi lên răng sau”): quỹ đạo răng cửa được xác định trước khi lên răng sau.
 
 Câu 18. Răng cối hàm dưới có giới hạn:
 A. Cách gối hậu nha 3mm
@@ -173,7 +173,7 @@ A. Loại bỏ thạch cao dính trên hàm nhựa
 B. Làm nhẵn mịn hàm nhựa
 *C. Đánh bóng hàm nhựa
 D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng hàm.
+> Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng hàm.
 
 Câu 27. Sau khi dội sáp, vernis được thoa lúc:
 A. Khuôn còn đang nóng và đang bốc hơi nước
@@ -222,14 +222,14 @@ A. Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần
 ?B. Phần giữ của móc nằm ngay đường vòng lớn nhất
 !C. Phần giữ có tác dụng giữ dính hàm, không cho hàm di chuyển theo chiều đứng.
 D. Phần giữ có tác dụng giữ dính và chống lún hàm.
-> Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ là đầu tận cùng tay móc, đàn hồi hơn các phần khác, nằm trong vùng lẹm (dưới đường vòng lớn nhất) — không nằm ngay đường vòng lớn nhất (B sai) và không chôn trong nền nhựa (A sai, đó là phần nối); phần giữ giữ hàm lại, không cho hàm trượt ra theo chiều đứng (C). Chống lún là việc của tựa (D sai).
+> Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ là đầu tận cùng tay móc, đàn hồi hơn các phần khác, nằm trong vùng lẹm (dưới đường vòng lớn nhất) — không nằm ngay đường vòng lớn nhất (“Phần giữ của móc nằm ngay đường vòng lớn nhất” sai) và không chôn trong nền nhựa (“Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần khác và được chôn trong nền nhựa” sai, đó là phần nối); phần giữ giữ hàm lại, không cho hàm trượt ra theo chiều đứng (“Phần giữ có tác dụng giữ dính hàm, không cho hàm di chuyển theo chiều đứng”). Chống lún là việc của tựa (“Phần giữ có tác dụng giữ dính và chống lún hàm” sai).
 
 Câu 35. Móc dây:
 ?A. Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi.
 B. Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ
 !C. Tay móc phải ôm khít khao thân răng trụ.
 D. Khi hàm giả không hoạt động chức năng, móc vẫn được tác dụng lực lên răng trụ.
-> Giáo trình PHTL (Bài 13, mục 2.2.2): móc dây làm bằng hợp kim không rỉ, CÓ tính đàn hồi nhưng phải đủ cứng rắn (A ghi "ít đàn hồi" là sai); móc và nền nhựa ôm ít nhất 2/3 chu vi răng trụ (B sai); khi hàm không hoạt động, móc không được tác động lực lên răng trụ (D sai); tay móc phải ôm thân răng trụ khít để lưu giữ tốt (C đúng).
+> Giáo trình PHTL (Bài 13, mục 2.2.2): móc dây làm bằng hợp kim không rỉ, CÓ tính đàn hồi nhưng phải đủ cứng rắn (“Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi” ghi "ít đàn hồi" là sai); móc và nền nhựa ôm ít nhất 2/3 chu vi răng trụ (“Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ” sai); khi hàm không hoạt động, móc không được tác động lực lên răng trụ (“Khi hàm giả không hoạt động chức năng, móc vẫn được tác dụng lực lên răng trụ” sai); tay móc phải ôm thân răng trụ khít để lưu giữ tốt (“Tay móc phải ôm khít khao thân răng trụ” đúng).
 
 Câu 36. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
 A. Móc đúc
@@ -383,4 +383,4 @@ Câu 60. Chọn phát biểu đúng về kỹ thuật lấy dấu bằng Alginat
 B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu
 C. Khay lấy dấu được lấy ra khỏi miệng khi Alginate vừa đông để dễ dàng lấy dấu ra khỏi miệng. Tránh để alginate cứng quá vì sẽ khó lấy ra khỏi vùng lẹm.
 D. Khay được giữ yên bằng hai ngón trỏ và gia tăng áp lực đè lên răng trong thời gian chờ Alginate đông cứng hoàn toàn.
-> Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng. Phương án B là các ý sai của câu tự lượng giá Bài 4 (ấn nhẹ tránh đau, giữ yên tránh biến dạng). Lưu ý đề in "ấn từ trước ra sau", khác giáo trình.
+> Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng. Phương án “…nhẹ nhàng tránh làm đau bệnh nhân… bảo bệnh nhân há to và giữ yên…” lấy đúng các ý sai trong câu tự lượng giá Bài 4. Lưu ý đề in “ấn từ trước ra sau”, khác giáo trình.

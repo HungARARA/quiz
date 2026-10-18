@@ -545,7 +545,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu → phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng (R6 phải, 4 răng cửa, R6 trái) đều ngắn và có răng trụ hai đầu. Đề RHM K47 (câu 7, sơ đồ gần giống) khoanh A.",
+      "aiNote": "Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu → phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng (R6 phải, 4 răng cửa, R6 trái) đều ngắn và có răng trụ hai đầu. Đề RHM K47 (câu 7, sơ đồ gần giống) khoanh “Phục hình cố định”.",
       "aiOriginal": "C. Phục hình tháo lắp bán phần nền nhựa"
     },
     {
@@ -1502,7 +1502,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 1): labo gồm đổ mẫu → làm khay cá nhân (nếu cần) → đổ mẫu sau cùng (nếu cần) → làm nền tạm gối sáp → lên răng → biến đổi sáp thành nhựa. Nền tạm gối sáp là bước bắt buộc nên C (bỏ nền tạm gối sáp) sai; A đủ các bước bắt buộc, đúng thứ tự.",
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 1): labo gồm đổ mẫu → làm khay cá nhân (nếu cần) → đổ mẫu sau cùng (nếu cần) → làm nền tạm gối sáp → lên răng → biến đổi sáp thành nhựa. Nền tạm gối sáp là bước bắt buộc nên “Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa” (bỏ nền tạm gối sáp) sai; “Đổ mẫu hàm nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa” đủ các bước bắt buộc, đúng thứ tự.",
       "aiOriginal": "C. Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa"
     },
     {

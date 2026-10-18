@@ -75,7 +75,7 @@ A. Gai cửa
 B. Schroder
 *C. Vân khẩu cái
 D. Đường nối giữa
-> Đề khoanh C và gạch D. Giáo trình PHTL (Bài 19, mục 1.1.2): các vân khẩu cái có niêm mạc dày, không có mô dưới niêm mạc; vùng đường giữa niêm mạc mỏng; vùng Schroder nhiều mô mỡ, mô tuyến.
+> Đề khoanh “Vân khẩu cái” và gạch “Đường nối giữa”. Giáo trình PHTL (Bài 19, mục 1.1.2): các vân khẩu cái có niêm mạc dày, không có mô dưới niêm mạc; vùng đường giữa niêm mạc mỏng; vùng Schroder nhiều mô mỡ, mô tuyến.
 
 Câu 13. Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình:
 A. Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp
@@ -128,7 +128,7 @@ A. Loại IV, biến thể 1
 *B. Loại III, biến thể 1
 C. Loại IV, biến thể 2
 D. Loại III, biến thể 2
-> Đề gạch A, C và khoanh B. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn "Loại III, biến thể 1".
+> Đề gạch “Loại IV, biến thể 1”, “Loại IV, biến thể 2” và khoanh “Loại III, biến thể 1”. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn "Loại III, biến thể 1".
 
 Câu 21. Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):
 [hinh: 54 0.08 0.383 0.215 0.465]
@@ -251,7 +251,7 @@ Câu 40. Răng hàm trên được chọn theo cấu trúc xương hàm là:
 B. Răng cửa bên
 C. Răng nanh
 D. Răng cối lớn
-> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30): răng cửa giữa chọn theo cấu trúc xương mặt. Đề RHM K40 (câu 27) khoanh răng cối lớn.
+> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30): răng cửa giữa chọn theo cấu trúc xương mặt. Đề RHM K40 (câu 27) khoanh răng cối lớn.
 
 Câu 41. Răng hàm trên được chọn theo tính tình bệnh nhân là:
 A. Răng cửa giữa
@@ -306,14 +306,14 @@ Câu 49. Nguyên tắc trộn nhựa khi thực hiện một phục hình tháo 
 B. Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn
 C. Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài
 ?D. A và B đúng
-> Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — B làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; C sai vì phải đậy nắp. Chỉ A đúng.
+> Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — “Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn” làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; “Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài” sai vì phải đậy nắp. Chỉ “Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra” đúng.
 
 Câu 50. Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm là:
 !A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
 B. Dùng búa nhỏ gõ cho mẫu hàm bể dần ra.
 C. Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa.
 ?D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên D "Tất cả đều đúng" không khớp giáo trình.
+> Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên “Tất cả đều đúng” không khớp giáo trình.
 
 Câu 51. Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn:
 A. Không nên mang thường xuyên
@@ -369,7 +369,7 @@ Câu 59. Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả l�
 B. Nướu giả bị lẹm quá mức
 C. Bệnh nhân tháo lắp hàm không đúng hướng
 !D. Cả 3 đều đúng
-> Giáo trình PHTL (Bài 8, mục 3.4.1 và câu tự lượng giá 5 – đáp án D): đau tại chỗ có thể do dư bờ hàm, nướu giả lẹm quá mức, mặt tiếp xúc niêm mạc không chính xác, điểm chạm sớm, hư hỏng móc, bệnh nhân tháo lắp hàm không đúng hướng → cả 3 ý đều đúng.
+> Giáo trình PHTL (Bài 8, mục 3.4.1 và câu tự lượng giá 5 – đáp án “Tất cả đều đúng”): đau tại chỗ có thể do dư bờ hàm, nướu giả lẹm quá mức, mặt tiếp xúc niêm mạc không chính xác, điểm chạm sớm, hư hỏng móc, bệnh nhân tháo lắp hàm không đúng hướng → cả 3 ý đều đúng.
 
 Câu 60. Bệnh nhân không mang được hàm giả thường vì:
 ?A. Nước bọt tiết nhiều

@@ -118,7 +118,7 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch A rồi khoanh lại D.",
+      "explanation": "Đề gạch “Nền nhựa” rồi khoanh lại “Nền nhựa và móc”.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -437,7 +437,7 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch C và khoanh D.",
+      "explanation": "Đề gạch “Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm” và khoanh “Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại”.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -788,7 +788,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30 mục 1.1.1): răng cửa giữa hàm trên được chọn theo cấu trúc xương mặt. Đề RHM K41 (câu 11) và K47 (câu 40) cũng chọn răng cửa giữa.",
+      "aiNote": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30 mục 1.1.1): răng cửa giữa hàm trên được chọn theo cấu trúc xương mặt. Đề RHM K41 (câu 11) và K47 (câu 40) cũng chọn răng cửa giữa.",
       "aiOriginal": "D. Răng cối lớn"
     },
     {
@@ -904,7 +904,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh cả B (có gạch) và D, bên lề ghi \"nếu ít → R kim loại\". Giáo trình PHTL (Bài 6, mục 1.1; Bài 30, mục 1.4): răng sứ lưu giữ kém trong nền nhựa nên cần khoảng cách với hàm đối diện đủ cao; răng nhựa dễ mài, chỉ định khi kích thước dọc thấp. Đề RHM K41 (câu 15) chọn B.",
+      "aiNote": "Đề khoanh cả “Răng nhựa” (có gạch) và “Tất cả đều sai”, bên lề ghi \"nếu ít → R kim loại\". Giáo trình PHTL (Bài 6, mục 1.1; Bài 30, mục 1.4): răng sứ lưu giữ kém trong nền nhựa nên cần khoảng cách với hàm đối diện đủ cao; răng nhựa dễ mài, chỉ định khi kích thước dọc thấp. Đề RHM K41 (câu 15) chọn “Răng nhựa”.",
       "aiOriginal": "D. Tất cả đều sai"
     },
     {
@@ -962,7 +962,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án B): quỹ đạo răng cửa được xác định trước khi lên răng sau.",
+      "aiNote": "Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án “Trước khi lên răng sau”): quỹ đạo răng cửa được xác định trước khi lên răng sau.",
       "aiOriginal": "A. Trước khi lên răng trước hàm trên"
     },
     {
@@ -1165,7 +1165,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): phần tử bất lợi của hàm dưới là nơi bám của cơ, dây chằng và đường chéo trong; vùng Schroder thuộc khẩu cái hàm trên. Đề RHM K43 (câu 4) chọn C.",
+      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): phần tử bất lợi của hàm dưới là nơi bám của cơ, dây chằng và đường chéo trong; vùng Schroder thuộc khẩu cái hàm trên. Đề RHM K43 (câu 4) chọn “Đường chéo trong”.",
       "aiOriginal": "A. Vùng Schroder"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → B, C, D bằng nhau, câu hỏi có vấn đề. Đề khoanh C (đề RHM K41 câu 5 cũng khoanh C).",
+      "explanation": "Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → “R11”, “R28”, “R48” bằng nhau, câu hỏi có vấn đề. Đề khoanh “R28” (đề RHM K41 câu 5 cũng khoanh “R28”).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1616,7 +1616,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước cho alginate tràn và lấp đầy đáy hành lang, yêu cầu bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy khay ra khi alginate đông cứng hoàn toàn. Phương án B (ấn nhẹ tránh đau, giữ yên để khỏi biến dạng dấu) chính là các ý sai trong câu tự lượng giá Bài 4; C, D cũng trái giáo trình. A đúng ý cho bệnh nhân cử động môi, dù đề in \"ấn từ trước ra sau\" (giáo trình: từ sau ra trước). Đề RHM K41 (câu 60) khoanh A.",
+      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước cho alginate tràn và lấp đầy đáy hành lang, yêu cầu bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy khay ra khi alginate đông cứng hoàn toàn. Phương án “…nhẹ nhàng tránh làm đau bệnh nhân… bảo bệnh nhân há to và giữ yên…” lấy đúng các ý sai trong câu tự lượng giá Bài 4; phương án lấy khay ra “khi Alginate vừa đông” và phương án “gia tăng áp lực đè lên răng” cũng trái giáo trình. Phương án “…Đồng thời cho bệnh nhân cử động môi” là đúng, dù đề in “ấn từ trước ra sau” (giáo trình: từ sau ra trước). Đề RHM K41 (câu 60) cũng chọn phương án này.",
       "aiOriginal": "B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu"
     },
     {
@@ -1642,7 +1642,7 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án B): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp.",
+      "explanation": "Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án “Dán mép nền sáp vào mẫu thạch cao”): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1703,7 +1703,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): khi thạch cao phần đáy khuôn đã cứng, thoa vaseline lên mặt thạch cao để cách ly với lớp thạch cao phần trên khuôn; giáo trình không có ý vaseline cách ly răng và thạch cao. Đề RHM K41 (câu 23), K43 (câu 27), K45 (câu 54) chọn A.",
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): khi thạch cao phần đáy khuôn đã cứng, thoa vaseline lên mặt thạch cao để cách ly với lớp thạch cao phần trên khuôn; giáo trình không có ý vaseline cách ly răng và thạch cao. Đề RHM K41 (câu 23), K43 (câu 27), K45 (câu 54) chọn “Vaseline”.",
       "aiOriginal": "D. Tất cả đều đúng"
     },
     {
@@ -1790,7 +1790,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.8.5 và câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng lần cuối cho hàm giả láng, bóng.",
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.8.5 và câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng lần cuối cho hàm giả láng, bóng.",
       "aiOriginal": "D. Tất cả đều đúng"
     }
   ]

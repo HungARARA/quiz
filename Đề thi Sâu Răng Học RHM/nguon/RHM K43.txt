@@ -15,14 +15,14 @@ Câu 2. Yếu tố nào sau đây làm tăng tính nhạy cảm của răng đ�
 B. Răng đã mọc lâu trên cung hàm
 C. Răng nhiễm Fluor
 D. Răng có nhiều cao răng
-> Đề gạch A, có người khoanh thêm B. Răng MỚI mọc mới là răng nhạy cảm với sâu (đề RHM K45 câu 32 có phương án "Răng mới mọc trên cung hàm" và chọn ý đó); "răng đã mọc lâu" thì không hợp lý.
+> Đề gạch “Răng nhiễm tetracycline”, có người khoanh thêm “Răng đã mọc lâu trên cung hàm”. Răng MỚI mọc mới là răng nhạy cảm với sâu (đề RHM K45 câu 32 có phương án "Răng mới mọc trên cung hàm" và chọn ý đó); "răng đã mọc lâu" thì không hợp lý.
 
 Câu 3. Loại vi khuẩn nào sau đây làm pH giảm nhanh trong môi trường miệng:
 A. Streptococcus mutans
 *B. Lactobacillus acidophilus
 C. Actinomyces
 D. Streptococcus sanguis
-> Đề gạch A rồi khoanh lại B; đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B. Giáo trình Sâu Răng Học (Bài 1) chỉ ghi S. mutans gây khởi phát, Lactobacillus làm sang thương tiến triển sâu xuống dưới bề mặt — không nói rõ loại nào làm pH giảm nhanh.
+> Đề gạch “Streptococcus mutans” rồi khoanh lại “Lactobacillus acidophilus”; đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh “Lactobacillus acidophilus”. Giáo trình Sâu Răng Học (Bài 1) chỉ ghi S. mutans gây khởi phát, Lactobacillus làm sang thương tiến triển sâu xuống dưới bề mặt — không nói rõ loại nào làm pH giảm nhanh.
 
 Câu 4. Nước bọt có khả năng tái khoáng hóa sang thương sâu răng sớm nhờ:
 A. Lysozyme, lactoferrin
@@ -35,7 +35,7 @@ A. Fluor
 B. Vi khuẩn
 C. Đường
 *D. Nước bọt
-> Đề gạch cả A lẫn D, D được khoanh lại.
+> Đề gạch cả “Fluor” lẫn “Nước bọt”, “Nước bọt” được khoanh lại.
 
 Câu 6. Triệu chứng đau trong sâu ngà có đặc điểm sau:
 A. Đau từng cơn
@@ -72,7 +72,7 @@ Câu 11. Xoang sâu chân răng ở mức độ 4, tuỷ sống, răng khoẻ m�
 B. Lấy tuỷ, trám răng
 C. Tạo xoang, trám răng
 D. Chỉ cần trám răng
-> Đề gạch A, có người khoanh B. Tủy còn sống nên ưu tiên bảo tồn tủy (che tủy rồi trám).
+> Đề gạch “Che tuỷ, trám răng”, có người khoanh “Lấy tuỷ, trám răng”. Tủy còn sống nên ưu tiên bảo tồn tủy (che tủy rồi trám).
 
 Câu 12. Sâu chân răng thường gặp ở lứa tuổi nào, vì sao:
 A. Người trẻ vì chân răng chưa hình thành đủ
@@ -85,14 +85,14 @@ A. Đèn chiếu sáng
 B. Thám châm phải có điểm nhọn
 C. Thám châm đầu tù
 *D. A và C đúng
-> Đề gạch B rồi khoanh lại D. Khám cộng đồng theo WHO dùng cây thăm dò đầu tù và nguồn sáng, không dùng thám châm nhọn.
+> Đề gạch “Thám châm phải có điểm nhọn” rồi khoanh lại “A và C đúng”. Khám cộng đồng theo WHO dùng cây thăm dò đầu tù và nguồn sáng, không dùng thám châm nhọn.
 
 Câu 14. Tư thế cầm bút cải tiến khi dùng thám châm và tay khoan là:
 A. Sử dụng 3 ngón tay: ngón cái, ngón trỏ, ngón giữa
 *B. Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út
 C. Sử dụng tối đa lực cổ tay
 D. B và C đúng
-> Đề gạch A rồi khoanh lại B (ngón áp út làm điểm tựa).
+> Đề gạch “Sử dụng 3 ngón tay: ngón cái, ngón trỏ, ngón giữa” rồi khoanh lại “Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út” (ngón áp út làm điểm tựa).
 
 Câu 15. Quy trình "Nha khoa Bốn Tay" có ý nghĩa:
 A. Đảm bảo vô khuẩn trong nha khoa
@@ -147,7 +147,7 @@ A. Hố mặt trong
 B. Rìa cắn
 C. Cổ răng mặt ngoài
 *D. Gờ cingulum
-> Đề đánh dấu D. Ghi chú bên lề: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V — loại trừ còn D.
+> Đề đánh dấu “Gờ cingulum”. Ghi chú bên lề: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V — loại trừ còn “Gờ cingulum”.
 
 Câu 24. Xoang IV ở răng cửa giữa hàm trên nằm ở:
 A. Hố mặt trong
@@ -172,14 +172,14 @@ Câu 27. CHỌN CÂU SAI: Khi tạo xoang trám composite ta cần vạt men ở
 B. Tăng diện tích vi lưu khi etching sau này
 C. Tạo sự chuyển tiếp màu miếng trám
 D. Tránh sự gãy, hở bờ miếng trám sau này
-> Đề gạch D rồi khoanh lại A. Vạt men làm TĂNG diện tích men để xoi mòn, nên A là câu sai.
+> Đề gạch “Tránh sự gãy, hở bờ miếng trám sau này” rồi khoanh lại “Giảm bớt diện tích men răng, tăng độ lưu”. Vạt men làm TĂNG diện tích men để xoi mòn, nên “Giảm bớt diện tích men răng, tăng độ lưu” là câu sai.
 
 Câu 28. Theo nguyên tắc tạo xoang xâm lấn tối thiểu, khi làm sạch xoang sâu ta sẽ lấy sạch ngà sâu và dừng lại ở lớp:
 A. Ngà hoại tử
 B. Ngà thâm nhiễm
 *C. Ngà mất khoáng
 D. Ngà xơ hóa
-> Đề gạch B rồi khoanh lại C. Lấy hết ngà nhiễm khuẩn, giữ lại ngà mất khoáng (ngà bị ảnh hưởng) còn khả năng tái khoáng.
+> Đề gạch “Ngà thâm nhiễm” rồi khoanh lại “Ngà mất khoáng”. Lấy hết ngà nhiễm khuẩn, giữ lại ngà mất khoáng (ngà bị ảnh hưởng) còn khả năng tái khoáng.
 
 Câu 29. Bệnh nhân có xoang sâu tại vị trí hố xa của răng cối lớn thứ nhất hàm trên, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt khi ăn nóng uống lạnh sau vài giây thì hết ê buốt, chẩn đoán nào sau đây phù hợp nhất:
 A. Sâu men hố xa
@@ -192,7 +192,7 @@ A. Sâu men hố xa
 B. Sâu ngà hố xa
 *C. Viêm tủy không hồi phục
 D. Viêm quanh chóp mãn
-> Đề gạch B rồi khoanh lại C. Ê buốt kéo dài + đau về đêm là dấu hiệu viêm tủy không hồi phục.
+> Đề gạch “Sâu ngà hố xa” rồi khoanh lại “Viêm tủy không hồi phục”. Ê buốt kéo dài + đau về đêm là dấu hiệu viêm tủy không hồi phục.
 
 Câu 31. Men răng sữa:
 *A. Mềm hơn men răng vĩnh viễn
@@ -296,7 +296,7 @@ A. Thổi khô bề mặt răng
 *B. Làm sạch bề mặt răng
 C. Làm ướt bề mặt răng
 D. Không làm gì cả
-> Đề gạch B, có người khoanh thêm A. Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả hai đều cần. Đề RHM K45, K46 (câu 17) bỏ ý "làm sạch" và chọn "Lau khô bề mặt răng".
+> Đề gạch “Làm sạch bề mặt răng”, có người khoanh thêm “Thổi khô bề mặt răng”. Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả hai đều cần. Đề RHM K45, K46 (câu 17) bỏ ý "làm sạch" và chọn "Lau khô bề mặt răng".
 
 Câu 48. Tỉ lệ chất vô cơ của ngà răng và men răng lần lượt là:
 A. 85% và 90%
@@ -321,7 +321,7 @@ A. Kháng nước hoàn toàn
 B. Kị nước
 *C. Bôi vaseline, varnish giúp kháng nước
 D. Tan trong nước khi chưa đông cứng hoàn toàn
-> Đề gạch C, có người khoanh thêm D. Giáo trình Sâu Răng Học (Bài 7, mục 1.3): bôi vaseline ngay sau khi gỡ khuôn để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng — đề RHM K45, K46 (câu 21) chọn ý này.
+> Đề gạch “Bôi vaseline, varnish giúp kháng nước”, có người khoanh thêm “Tan trong nước khi chưa đông cứng hoàn toàn”. Giáo trình Sâu Răng Học (Bài 7, mục 1.3): bôi vaseline ngay sau khi gỡ khuôn để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng — đề RHM K45, K46 (câu 21) chọn ý này.
 
 Câu 52. Răng vĩnh viễn với các triệu chứng: lớp men bị phá hủy hoàn toàn, lỗ sâu lan tới lớp ngà. Khi nạo xoang thấy có ngà mềm, ngà phản ứng và ngà xơ không kịp thành lập để bảo vệ tủy. Chẩn đoán tình trạng răng:
 A. Sâu răng lan nhanh
@@ -334,21 +334,21 @@ A. Xoang II, sâu ngà sâu
 B. Xoang II kép, sâu ngà nông
 C. Xoang II kép, sâu ngà sâu
 *D. Xoang II, sâu ngà nông
-> Đề gạch A rồi khoanh lại D. Lan vào 1/3 lớp ngà là sâu ngà nông (khác đề K40 hỏi 1/2 lớp ngà).
+> Đề gạch “Xoang II, sâu ngà sâu” rồi khoanh lại “Xoang II, sâu ngà nông”. Lan vào 1/3 lớp ngà là sâu ngà nông (khác đề K40 hỏi 1/2 lớp ngà).
 
 Câu 54. Màu sắc mô răng không phụ thuộc vào:
 *A. Vệ sinh răng miệng định kì
 B. Độ khoáng hoá canxi
 C. Di truyền
 D. Tính thấm men ngà
-> Đề gạch D rồi khoanh lại A. Đề RHM K40 (câu 39) khoanh D.
+> Đề gạch “Tính thấm men ngà” rồi khoanh lại “Vệ sinh răng miệng định kì”. Đề RHM K40 (câu 39) khoanh “Tính thấm men ngà”.
 
 Câu 55. Sâu hố rãnh:
 A. Kích thước thật sự luôn nhỏ hơn kích thước nhìn thấy được
 !B. Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự
 ?C. Tổn thương có dạng chữ A
 D. Kích thước nhìn thấy được chính là kích thước thật sự
-> Đề gạch C, có người khoanh thêm B. Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: "Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương". Đề RHM K45, K46 (câu 25) cũng chọn B.
+> Đề gạch “Tổn thương có dạng chữ A”, có người khoanh thêm “Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự”. Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: "Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương". Đề RHM K45, K46 (câu 25) cũng chọn “Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự”.
 
 Câu 56. Sâu răng thường gặp ở trẻ em dưới 6 tuổi:
 A. Sâu răng ẩn mình, sâu răng bú bình
@@ -379,4 +379,4 @@ A. Răng người trẻ
 B. Răng người già
 C. Răng bệnh lý
 *D. B và C đúng
-> Đề gạch A rồi khoanh lại D. Giáo trình Sâu Răng Học (Bài 6): buồng tủy hẹp dần theo tuổi (ngà thứ cấp sinh lý) và ở răng bị kích thích như sâu răng (ngà phản ứng).
+> Đề gạch “Răng người trẻ” rồi khoanh lại “B và C đúng”. Giáo trình Sâu Răng Học (Bài 6): buồng tủy hẹp dần theo tuổi (ngà thứ cấp sinh lý) và ở răng bị kích thích như sâu răng (ngà phản ứng).

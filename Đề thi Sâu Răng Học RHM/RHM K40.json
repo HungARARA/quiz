@@ -1017,7 +1017,7 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Giáo trình Sâu Răng Học (Bài 7, mục 1.3): sau khi gỡ khuôn, bôi vaseline ngay để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng hoàn toàn — đề RHM K45, K46 (câu 21) đổi phương án C và chọn ý này.",
+      "explanation": "Giáo trình Sâu Răng Học (Bài 7, mục 1.3): sau khi gỡ khuôn, bôi vaseline ngay để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng hoàn toàn — đề RHM K45, K46 (câu 21) đổi phương án “Bôi vaseline, varnish giúp kháng nước” thành “Bôi vaseline giúp mau đông” và chọn “Tan trong nước khi chưa đông cứng hoàn toàn”.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1136,7 +1136,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề RHM K43 (câu 54, cùng phương án) đã gạch D và khoanh lại A; đề RHM K45, K46 (câu 24) cũng chọn ý \"chải răng/vệ sinh\". Màu răng phụ thuộc mức khoáng hóa, di truyền, độ thấm và độ trong của men ngà, không phụ thuộc việc vệ sinh định kỳ.",
+      "aiNote": "Đề RHM K43 (câu 54, cùng phương án) đã gạch “Tính thấm men ngà” và khoanh lại “Vệ sinh răng miệng định kì”; đề RHM K45, K46 (câu 24) cũng chọn ý \"chải răng/vệ sinh\". Màu răng phụ thuộc mức khoáng hóa, di truyền, độ thấm và độ trong của men ngà, không phụ thuộc việc vệ sinh định kỳ.",
       "aiOriginal": "D. Tính thấm men ngà"
     },
     {
@@ -1165,7 +1165,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: \"Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương\". Phương án C (dạng chữ A) chỉ gần với ý \"tổn thương trong lớp men có dạng chữ V ngược\". Đề RHM K45, K46 (câu 25) cũng chọn B.",
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: “Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương”. Phương án “Tổn thương có dạng chữ A” chỉ gần với ý “tổn thương trong lớp men có dạng chữ V ngược”. Đề RHM K45, K46 (câu 25) cũng chọn ý kích thước nhìn thấy nhỏ hơn thật.",
       "aiOriginal": "C. Tổn thương có dạng chữ A"
     },
     {
@@ -1339,7 +1339,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình Sâu Răng Học (Bài 6, mục 1.2–1.3): buồng tủy hẹp dần theo tuổi do ngà thứ cấp sinh lý, và ngà phản ứng (ngà thứ cấp bệnh lý) thành lập ở vùng bị kích thích như sâu răng, chấn thương → cả B và C. Đề RHM K43 (câu 60), K45, K46 (câu 30) chọn D.",
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 6, mục 1.2–1.3): buồng tủy hẹp dần theo tuổi do ngà thứ cấp sinh lý, và ngà phản ứng (ngà thứ cấp bệnh lý) thành lập ở vùng bị kích thích như sâu răng, chấn thương → cả “Răng người già” và “Răng bệnh lý”. Đề RHM K43 (câu 60), K45, K46 (câu 30) chọn “B và C đúng”.",
       "aiOriginal": "B. Răng người già"
     },
     {
@@ -2003,7 +2003,7 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Lưu ý: saccharose chính là tên gọi khác của sucrose; đề khoanh B.",
+      "explanation": "Lưu ý: saccharose chính là tên gọi khác của sucrose; đề khoanh “Sucrose”.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,

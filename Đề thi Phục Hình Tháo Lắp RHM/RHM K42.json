@@ -179,7 +179,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Nhựa được ép khuôn ở giai đoạn dẻo như bột nhào (hết dính, nhồi được bằng tay); giai đoạn còn dính thành chén là quá sớm. Đề RHM K43 (câu 35, cùng câu hỏi) cũng gạch D.",
+      "aiNote": "Nhựa được ép khuôn ở giai đoạn dẻo như bột nhào (hết dính, nhồi được bằng tay); giai đoạn còn dính thành chén là quá sớm. Đề RHM K43 (câu 35, cùng câu hỏi) cũng gạch “Khi nhựa kéo sợi, có thể nhồi bằng tay”.",
       "aiOriginal": null
     },
     {
@@ -237,7 +237,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.2): tay móc phải ôm thân răng trụ khít để có độ lưu giữ tốt; móc dây có tính đàn hồi nhưng đủ cứng rắn (A \"ít đàn hồi\" sai), ôm ít nhất 2/3 chu vi (B sai), không tác động lực khi hàm nghỉ (D sai).",
+      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.2): tay móc phải ôm thân răng trụ khít để có độ lưu giữ tốt; móc dây có tính đàn hồi nhưng đủ cứng rắn (“Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi” \"ít đàn hồi\" sai), ôm ít nhất 2/3 chu vi (“Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ” sai), không tác động lực khi hàm nghỉ (“Khi hàm giả không hoạt động chức năng, móc vẫn được tác dụng lực lên răng trụ” sai).",
       "aiOriginal": null
     },
     {
@@ -592,7 +592,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 2, mục 3.4.6 và câu tự lượng giá 10 – đáp án D): khi mào xương không tiêu, gối hậu nha tạo góc 45° với đường đỉnh sống hàm.",
+      "aiNote": "Giáo trình PHTL (Bài 2, mục 3.4.6 và câu tự lượng giá 10 – đáp án “45°”): khi mào xương không tiêu, gối hậu nha tạo góc 45° với đường đỉnh sống hàm.",
       "aiOriginal": null
     },
     {
@@ -1188,7 +1188,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Ảnh: còn 2 răng cửa giữa và răng cối cuối hai bên; hai vùng mất răng đều có răng giới hạn hai đầu → theo 4 loại căn bản là Kennedy loại III, biến thể 1 (đề RHM K43 câu 14, sơ đồ tương tự, khoanh A). Giáo trình có thêm loại VI cho mất răng gần toàn bộ (chỉ còn 1–2 răng chia đôi đoạn mất răng) — nên đối chiếu thêm.",
+      "aiNote": "Ảnh: còn 2 răng cửa giữa và răng cối cuối hai bên; hai vùng mất răng đều có răng giới hạn hai đầu → theo 4 loại căn bản là Kennedy loại III, biến thể 1 (đề RHM K43 câu 14, sơ đồ tương tự, khoanh “Loại III, biến thể 1”). Giáo trình có thêm loại VI cho mất răng gần toàn bộ (chỉ còn 1–2 răng chia đôi đoạn mất răng) — nên đối chiếu thêm.",
       "aiOriginal": null
     },
     {
@@ -1275,7 +1275,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại VI là loại đơn giản nhất và thường gặp nhất. Đề RHM K43 (câu 17) cũng chọn D.",
+      "aiNote": "Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại VI là loại đơn giản nhất và thường gặp nhất. Đề RHM K43 (câu 17) cũng chọn “Loại VI”.",
       "aiOriginal": null
     },
     {
@@ -1362,7 +1362,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K43 (câu 4) chọn C; đề RHM K40 (câu 40) khoanh A nhưng vùng Schroder thuộc khẩu cái hàm trên.",
+      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K43 (câu 4) chọn “Đường chéo trong”; đề RHM K40 (câu 40) khoanh “Vùng Schroder” nhưng vùng Schroder thuộc khẩu cái hàm trên.",
       "aiOriginal": null
     },
     {
@@ -1507,7 +1507,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng. Đề RHM K41 (câu 26), K43 (câu 30) cũng chọn C.",
+      "aiNote": "Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng. Đề RHM K41 (câu 26), K43 (câu 30) cũng chọn “Đánh bóng hàm nhựa”.",
       "aiOriginal": null
     },
     {
@@ -1565,7 +1565,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Đổ từng lượng nhỏ từ một đầu (chỗ cao) của dấu, rung cho thạch cao tự chảy lan để không lẫn bọt. Phương án B bị cắt chữ ở mép trang. Đề RHM K43 (câu 23, cùng câu hỏi) cũng gạch C.",
+      "aiNote": "Đổ từng lượng nhỏ từ một đầu (chỗ cao) của dấu, rung cho thạch cao tự chảy lan để không lẫn bọt. Phương án “Thạch cao trộn càng lỏng thì khả năng chảy vào những chi tiết nhỏ càng cao và càng ít bọt” bị cắt chữ ở mép trang. Đề RHM K43 (câu 23, cùng câu hỏi) cũng gạch “Thạch cao được đổ vào dấu bắt đầu từ một phía trên cao của dấu với lượng nhỏ”.",
       "aiOriginal": null
     },
     {
@@ -1681,7 +1681,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ nằm trong vùng lẹm (dưới đường vòng lớn nhất), giữ hàm không cho trượt ra; A sai vì phần chôn trong nền nhựa là phần nối. Đề RHM K41 (câu 34) khoanh B.",
+      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ nằm trong vùng lẹm (dưới đường vòng lớn nhất), giữ hàm không cho trượt ra; “Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần khác và được chôn trong nền nhựa” sai vì phần chôn trong nền nhựa là phần nối. Đề RHM K41 (câu 34) khoanh “Phần giữ của móc nằm ngay đường vòng lớn nhất”.",
       "aiOriginal": null
     },
     {
@@ -1739,7 +1739,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 7, câu tự lượng giá 6 – đáp án B). Đề RHM K40 (câu 55), K41 (câu 21) chọn B.",
+      "aiNote": "Giáo trình PHTL (Bài 7, câu tự lượng giá 6 – đáp án “Dán mép nền sáp vào mẫu thạch cao”). Đề RHM K40 (câu 55), K41 (câu 21) chọn “Dán mép nền sáp vào mẫu thạch cao”.",
       "aiOriginal": null
     },
     {
@@ -1768,7 +1768,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): thoa vaseline lên mặt thạch cao để cách ly thạch cao với thạch cao. Đề RHM K41 (câu 23), K43 (câu 27) chọn A.",
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): thoa vaseline lên mặt thạch cao để cách ly thạch cao với thạch cao. Đề RHM K41 (câu 23), K43 (câu 27) chọn “Cách ly thạch cao với thạch cao”.",
       "aiOriginal": null
     },
     {
@@ -1797,7 +1797,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu thì phục hình cố định luôn được ưu tiên. Đề RHM K47 (câu 7, cùng sơ đồ) khoanh A.",
+      "aiNote": "Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu thì phục hình cố định luôn được ưu tiên. Đề RHM K47 (câu 7, cùng sơ đồ) khoanh “Phục hình cố định”.",
       "aiOriginal": null
     },
     {
@@ -1826,7 +1826,7 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II). Đề RHM K45 (câu 19, cùng sơ đồ) khoanh C.",
+      "aiNote": "Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II). Đề RHM K45 (câu 19, cùng sơ đồ) khoanh “Phục hình tháo lắp bán phần nền nhựa”.",
       "aiOriginal": null
     }
   ]
