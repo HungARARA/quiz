@@ -54,11 +54,11 @@ C. Độ lẹm các răng còn lại.
 > Theo đề RHM K40 (câu 4, cùng câu hỏi).
 
 Câu 8. Đặc điểm của móc dây:
-@A. Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi.
+A. Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi.
 B. Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ
-C. Tay móc phải ôm khít khao thân răng trụ.
+@C. Tay móc phải ôm khít khao thân răng trụ.
 D. Khi hàm giả không hoạt động chức năng, móc vẫn được tác dụng lực lên răng trụ.
-> Theo đề RHM K41 (câu 35, cùng câu hỏi).
+> Giáo trình PHTL (Bài 13, mục 2.2.2): tay móc phải ôm thân răng trụ khít để có độ lưu giữ tốt; móc dây có tính đàn hồi nhưng đủ cứng rắn (A "ít đàn hồi" sai), ôm ít nhất 2/3 chu vi (B sai), không tác động lực khi hàm nghỉ (D sai).
 
 Câu 9. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
 A. Móc đúc
@@ -78,25 +78,25 @@ Câu 11. Cấu trúc giải phẫu số 7 trong hình bên dưới là:
 [hinh: 18 0.1 0.49 0.37 0.62]
 A. Nhú khẩu cái
 B. Torus
-C. Đường nối giữa xương hàm trên
+@C. Đường nối giữa xương hàm trên
 D. Khẩu cái
-> Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.
+> Theo Hình 2.1 giáo trình PHTL (Bài 2), các mốc hàm trên đánh số: 1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ "a", 10 rãnh chân bướm hàm, 11 vùng Schroder. Hình trong đề mờ nên đáp án dựa vào cách đánh số này (đề RHM K41 câu 41–42 khớp cách đánh số đó).
 
 Câu 12. Cấu trúc giải phẫu số 9 trong hình bên dưới là:
 [hinh: 18 0.1 0.73 0.37 0.848]
 A. Vùng Schroder
 B. Rãnh chân bướm hàm
-C. Đường rung chữ "a"
+@C. Đường rung chữ "a"
 D. Khẩu cái mềm
-> Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.
+> Theo Hình 2.1 giáo trình PHTL (Bài 2), mốc số 9 của hàm trên là đường rung chữ "a" (1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ "a", 10 rãnh chân bướm hàm, 11 vùng Schroder). Hình trong đề mờ.
 
 Câu 13. Cấu trúc giải phẫu số 1 trong hình bên dưới là:
 [hinh: 18 0.52 0.207 0.77 0.338]
-A. Dây chằng chân bướm hàm
+@A. Dây chằng chân bướm hàm
 B. Rãnh chân bướm hàm
 C. Gối hậu nha
 D. Đỉnh sống hàm
-> Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.
+> Theo Hình 2.1 giáo trình PHTL (Bài 2), các mốc hàm dưới đánh số: 1 dây chằng chân bướm hàm, 2 gối hậu nha, 3 đỉnh sống hàm, 4 thắng lưỡi, 5 thắng má, 6 thắng môi. Hình trong đề mờ; đề RHM K41 (câu 43) chọn số 2 = gối hậu nha, khớp cách đánh số này.
 
 Câu 14. Cấu trúc giải phẫu số 2 trong hình bên dưới là:
 [hinh: 18 0.52 0.432 0.77 0.563]
@@ -138,8 +138,8 @@ Câu 19. Khi mào xương không tiêu, gối hậu nha tạo một góc bao nhi
 A. 25 độ
 B. 30 độ
 C. 40 độ
-D. 45 độ
-> Không có câu trùng ở đề khác để đối chiếu; để trống đáp án.
+@D. 45 độ
+> Giáo trình PHTL (Bài 2, mục 3.4.6 và câu tự lượng giá 10 – đáp án D): khi mào xương không tiêu, gối hậu nha tạo góc 45° với đường đỉnh sống hàm.
 
 Câu 20. Vào buổi tái khám, bác sĩ chỉ nên:
 A. Chỉ chú ý đến vấn đề đau của bệnh nhân
@@ -201,8 +201,8 @@ Câu 28. Khi lên răng phía trước hàm dưới:
 A. Bờ cắn răng cửa bên thấp hơn bờ cắn răng cửa giữa 0,5 mm.
 B. Đỉnh răng nanh cao hơn bờ cắn răng cửa bên.
 C. Đỉnh răng nanh nghiêng ra ngoài so với cổ răng.
-D. Đỉnh răng nanh nghiêng vào trong so với cổ răng.
-> Không có câu trùng ở đề khác để đối chiếu; để trống đáp án.
+@D. Đỉnh răng nanh nghiêng vào trong so với cổ răng.
+> Giáo trình PHTL (Bài 6, mục 3.3.3; Bài 30, câu tự lượng giá 3 – đáp án "nghiêng vào trong"): răng nanh hàm dưới có cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi → đỉnh răng nanh nghiêng vào trong so với cổ răng.
 
 Câu 29. Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo .......... và tương quan theo ..........
 @A. Chiều dọc / chiều ngang.
@@ -277,7 +277,7 @@ Câu 38. Theo phân loại Kennedy, mô hình sau đây mất răng loại nào 
 B. Loại IV
 C. Loại V
 D. Loại VI
-> Còn 2 răng cửa giữa và răng cối lớn cuối ở hai bên: hai vùng mất răng đều có răng giới hạn hai đầu → Kennedy loại III, biến thể 1.
+> Ảnh: còn 2 răng cửa giữa và răng cối cuối hai bên; hai vùng mất răng đều có răng giới hạn hai đầu → theo 4 loại căn bản là Kennedy loại III, biến thể 1 (đề RHM K43 câu 14, sơ đồ tương tự, khoanh A). Giáo trình có thêm loại VI cho mất răng gần toàn bộ (chỉ còn 1–2 răng chia đôi đoạn mất răng) — nên đối chiếu thêm.
 
 Câu 39. Răng hàm trên được chọn theo tính tình bệnh nhân là răng:
 A. Răng cửa giữa
@@ -298,15 +298,14 @@ A. Loại I
 B. Loại II
 C. Loại V
 @D. Loại VI
-> Loại VI của Applegate là khoảng mất răng ngắn, hai răng giới hạn đủ khỏe để chịu lực — trường hợp đơn giản nhất.
-> Đề RHM K43 (câu 17, cùng câu hỏi) cũng gạch D.
+> Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại VI là loại đơn giản nhất và thường gặp nhất. Đề RHM K43 (câu 17) cũng chọn D.
 
 Câu 42. Khoảng cách từ mặt ngoài các răng cửa giữa tới giữa gai cửa là:
 A. 3 mm
 B. 5 mm
-C. 7 mm
-@D. 9 mm
-> Mốc kinh điển khi lên răng trước: mặt ngoài răng cửa giữa hàm trên cách giữa gai cửa (nhú răng cửa) khoảng 8–10 mm.
+@C. 7 mm
+D. 9 mm
+> Giáo trình PHTL (Bài 6, mục 3.2.1): khoảng cách từ mặt ngoài các răng cửa giữa tới giữa gai cửa là 7 mm (Bài 30, phần toàn hàm: 6–8 mm).
 
 Câu 43. Những điểm thuận lợi của hàm dưới trong PHTL bán hàm:
 @A. Độ cong lồi của thân răng còn lại trên hàm
@@ -320,7 +319,7 @@ A. Vùng Schroder
 B. Núm sau răng cửa
 @C. Đường chéo trong
 D. Đường chéo ngoài
-> Theo đề RHM K43 (câu 4, cùng câu hỏi). Đề RHM K40 (câu 40) khoanh A, nhưng vùng Schroder nằm ở khẩu cái hàm trên.
+> Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K43 (câu 4) chọn C; đề RHM K40 (câu 40) khoanh A nhưng vùng Schroder thuộc khẩu cái hàm trên.
 
 Câu 45. Trong trường hợp khoảng cách giữa 2 sống hàm ít, nên chọn răng:
 A. Răng sứ
@@ -330,11 +329,11 @@ D. Răng nhựa hàm trên, răng sứ hàm dưới
 > Theo đề RHM K40 (câu 31) và K41 (câu 15).
 
 Câu 46. Trường hợp sắp các răng sau hàm dưới bị thiếu chỗ, răng nào sau đây có thể được bỏ bớt:
-A. R4
+@A. R4
 B. R5
 C. R6
 D. R7
-> Không có câu trùng ở đề khác để đối chiếu; để trống đáp án.
+> Giáo trình PHTL (Bài 6, mục 5.2): khi thiếu chỗ có thể thu nhỏ hoặc bỏ bớt răng 4, hoặc thế một răng cối nhỏ cho một răng cối.
 
 Câu 47. Thời gian và nhiệt độ của nấu nhựa theo cách chậm:
 A. Nấu từ nước nguội đến 74° trong 9 giờ
@@ -355,7 +354,7 @@ A. Loại bỏ thạch cao dính trên hàm nhựa
 B. Làm nhẵn mịn hàm nhựa
 @C. Đánh bóng hàm nhựa
 D. Tất cả đều đúng
-> Theo đề RHM K41 (câu 26) và K43 (câu 30); riêng đề RHM K40 (câu 60) khoanh D.
+> Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng. Đề RHM K41 (câu 26), K43 (câu 30) cũng chọn C.
 
 Câu 50. Tư thế bệnh nhân khi lấy dấu:
 A. Ngồi ngã ra sau
@@ -398,7 +397,7 @@ A. Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần
 B. Phần giữ của móc nằm ngay đường vòng lớn nhất.
 @C. Phần giữ có tác dụng giữ dính hàm, không cho hàm di chuyển theo chiều đứng.
 D. Phần giữ có tác dụng giữ dính và chống lún hàm.
-> Đề RHM K41 (câu 34) khoanh B, nhưng phần giữ nằm DƯỚI đường vòng lớn nhất (trong vùng lẹm) và có tác dụng chống sút hàm theo chiều đứng.
+> Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ nằm trong vùng lẹm (dưới đường vòng lớn nhất), giữ hàm không cho trượt ra; A sai vì phần chôn trong nền nhựa là phần nối. Đề RHM K41 (câu 34) khoanh B.
 
 Câu 56. Sau khi dội sáp, vernis được thoa lúc:
 A. Khuôn còn đang nóng và đang bốc hơi nước
@@ -412,26 +411,25 @@ A. Ngâm mẫu hàm cho ướt
 @B. Dán mép nền sáp vào mẫu thạch cao
 C. Cách ly bằng vaselin
 D. Tất cả đều đúng
-> Theo đề RHM K40 (câu 55) và K41 (câu 21).
-> Đề RHM K43 (câu 26) gạch D "Tất cả đều đúng".
+> Giáo trình PHTL (Bài 7, câu tự lượng giá 6 – đáp án B). Đề RHM K40 (câu 55), K41 (câu 21) chọn B.
 
 Câu 58. Khi vô khuôn ta thoa vaselin lên bề mặt thạch cao có tác dụng:
-A. Cách ly thạch cao với thạch cao
+@A. Cách ly thạch cao với thạch cao
 B. Cách ly răng và thạch cao
 C. Cách ly thạch cao với khuôn
-@D. Tất cả đều đúng
-> Đề RHM K40 (câu 57) khoanh D; đề RHM K41 (câu 23) và K43 (câu 27) chọn A.
+D. Tất cả đều đúng
+> Giáo trình PHTL (Bài 7, mục 2.1.3): thoa vaseline lên mặt thạch cao để cách ly thạch cao với thạch cao. Đề RHM K41 (câu 23), K43 (câu 27) chọn A.
 
 Câu 59. Trường hợp mất răng sau đây: 8 7 x 5 4 3 x x | x x 3 4 5 6 7 8 — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
-A. Phục hình cố định.
+@A. Phục hình cố định.
 B. Phục hình khung bộ
-@C. Phục hình tháo lắp bán phần nền nhựa
+C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Đề RHM K45 (câu 18, sơ đồ gần giống: 8 7 x 5 4 3 x x | x x 3 4 5 x 7 8) khoanh C. Nếu chỉ xét kỹ thuật, các khoảng mất răng ngắn có răng trụ hai đầu vẫn có thể làm cầu cố định.
+> Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu thì phục hình cố định luôn được ưu tiên. Đề RHM K47 (câu 7, cùng sơ đồ) khoanh A.
 
 Câu 60. Trường hợp mất răng sau đây: x x x 5 4 3 2 1 | 1 2 3 4 x x x x — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
 A. Phục hình cố định.
 B. Phục hình khung bộ
 @C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Theo đề RHM K45 (câu 19, cùng sơ đồ) khoanh C. Về kỹ thuật, mất răng sau hai bên không còn răng giới hạn phía xa (Kennedy loại I) thì khung bộ cũng là lựa chọn kinh điển.
+> Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II). Đề RHM K45 (câu 19, cùng sơ đồ) khoanh C.

@@ -36,7 +36,7 @@ Câu 5. Trong giai đoạn sửa soạn vào khuôn, Vaseline có tác dụng:
 B. Cách ly mẫu hàm và khuôn
 C. Cách ly răng với thạch cao
 D. Cách ly sáp với thạch cao
-> Ở bước sửa soạn, vaseline được thoa vào lòng khuôn ép để sau này dễ gỡ khối thạch cao ra (đề RHM K40 câu 57 có ý "cách ly thạch cao với khuôn").
+> Giáo trình PHTL (Bài 7, mục 2.1.1): ở giai đoạn sửa soạn, thoa vaseline lên bề mặt mẫu hàm và mặt trong của khuôn để sau này gỡ khối thạch cao khỏi khuôn ép.
 
 Câu 6. Khi đặt mẫu hàm vào khuôn ép cần chú ý:
 A. Mặt nhai các răng song song khuôn ép
@@ -64,7 +64,7 @@ A. Khi vừa dội sáp xong
 @B. Khi mẫu hàm còn ấm
 C. Khi mẫu hàm đã nguội hoàn toàn
 D. Khi mẫu hàm còn bốc hơi nước
-> Theo đề RHM K41 (câu 27) và K45 (câu 55): thoa khi khuôn còn nóng nhưng đã hết bốc hơi nước.
+> Giáo trình PHTL (Bài 7, mục 2.3): thoa varnish khi khuôn còn nóng nhưng đã hết bốc hơi. Đề RHM K41 (câu 27), K45 (câu 55) cùng ý.
 
 Câu 10. Tổng thời gian nấu chậm:
 A. 9 giờ
@@ -85,7 +85,7 @@ A. Trên hai bản nền tạm – gối sáp
 @B. Trên miệng bệnh nhân
 C. Trên hai mẫu hàm thạch cao
 D. Trên giá khớp
-> Tương quan hai hàm được xác định trên miệng nhờ nền tạm – gối sáp rồi mới chuyển sang mẫu hàm (xem đề RHM K42 câu 24).
+> Giáo trình PHTL (Bài 5, mục 3): tương quan hai hàm được xác định trên miệng bệnh nhân, ghi lại nhờ nền tạm – gối sáp rồi chuyển qua mẫu hàm. Đề RHM K47 (câu 31) khoanh "Trên miệng".
 
 Câu 13. Nền tạm cần đạt các yêu cầu:
 A. Phủ 2/3 lồi cùng và 2/3 gối hậu nha
@@ -134,7 +134,7 @@ A. Kích thước 2 răng cửa giữa hàm trên
 B. Kích thước 4 răng cửa hàm trên
 @C. Khoảng cách 2 đỉnh răng nanh hàm trên
 D. Kích thước 6 răng cửa hàm trên
-> Đường thẳng hạ từ cánh mũi xuống đi qua đỉnh răng nanh; răng cửa giữa rộng bằng ¼ khoảng cách hai cánh mũi (đề RHM K45 câu 38).
+> Giáo trình PHTL (Bài 30, mục 1.2.3): theo Lee, khoảng cách giữa hai cánh mũi bằng khoảng cách giữa hai đỉnh răng nanh.
 
 Câu 20. Theo mặt phẳng trán, cung răng vuông, độ nghiêng các răng cửa giữa, cửa bên và răng nanh lần lượt là:
 @A. 0° – 5° – 0°
@@ -147,8 +147,8 @@ Câu 21. Theo mặt phẳng dọc, góc độ nghiêng của răng cửa bên h�
 A. 0°
 B. 3°
 C. 5°
-D. 10°
-> Không có câu trùng ở đề khác để đối chiếu; để trống đáp án.
+@D. 10°
+> Giáo trình PHTL (Bài 6, mục 3.2.3): theo mặt phẳng dọc giữa, răng cửa bên hàm trên có cổ răng nghiêng trong 10° (răng cửa giữa 5°, răng nanh 0–5°).
 
 Câu 22. Khi lên răng cối hàm dưới, răng được lên đầu tiên là:
 A. Răng 4
@@ -188,9 +188,9 @@ C. Vùng khẩu cái sau
 Câu 27. Vùng Schroder là:
 A. Từ răng cửa giữa đến đường A
 B. Từ răng nanh đến đường A
-C. Từ răng cối nhỏ đến đường A
-@D. Từ răng cối lớn đến đường A
-> Theo đề RHM K45 (câu 4, cùng câu hỏi).
+@C. Từ răng cối nhỏ đến đường A
+D. Từ răng cối lớn đến đường A
+> Giáo trình PHTL (Bài 3, mục 1.1.2): vùng Schroder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong. Đề RHM K45 (câu 4) khoanh D.
 
 Câu 28. Phân loại mất răng theo Kennedy (xem hình):
 [hinh: 48 0.13 0.455 0.34 0.585]
@@ -241,56 +241,56 @@ Câu 34. Trong mài chỉnh khớp cắn thì tránh mài sửa:
 B. Múi ngoài hàm trên và hàm dưới
 C. Múi trong hàm trên và hàm dưới
 D. Rãnh, trũng giữa
-> Múi chịu (múi trong hàm trên, múi ngoài hàm dưới) giữ kích thước dọc nên hạn chế mài; mài theo quy tắc BULL ở các múi không chịu.
+> Giáo trình PHTL (Bài 8, mục 1.2.4): múi chịu dùng để nghiền thức ăn, duy trì kích thước dọc, khớp cắn trung tâm và thăng bằng nên tránh mài sửa.
 
 Câu 35. Bước cuối cùng khi giao hàm cho bệnh nhân là kiểm tra:
 A. Sự khít sát
 @B. Kiểm tra kích thước dọc và điều chỉnh khớp cắn
 C. Kiểm tra thẩm mỹ
 D. Kiểm tra nền hàm, sự lưu giữ và vững ổn
-> Theo đề RHM K40 (câu 20): lắp hàm cho khít sát trước rồi mới chỉnh khớp cắn.
+> Giáo trình PHTL (Bài 8, mục 1.2.4): bước cuối cùng khi giao hàm cho bệnh nhân là kiểm tra kích thước dọc và điều chỉnh khớp cắn.
 
 Câu 36. Khi nền hàm giả ở bờ hàm vùng khẩu cái quá dày thì sẽ gây:
 @A. Gây buồn nôn
 B. Ảnh hưởng đến thẩm mỹ
 C. Cản trở hoạt động của lưỡi
 D. Tất cả đều đúng
-> Bờ sau nền hàm vùng khẩu cái quá dày gây vướng, kích thích buồn nôn; không liên quan thẩm mỹ nên D không hợp lý.
+> Giáo trình PHTL (Bài 8, mục 1.2.2): nền hàm quá dày ảnh hưởng thẩm mỹ ở phía răng trước, còn ở phía sau răng cửa và bờ hàm vùng khẩu cái thì gây buồn nôn.
 
 Câu 37. Mài theo quy tắc Bull:
 A. Múi ngoài dưới, trong trên
 B. Múi gần xa, ngoài trong
 @C. Múi ngoài trên, trong dưới
 D. Múi chịu
-> BULL = Buccal of Upper, Lingual of Lower: mài múi ngoài hàm trên và múi trong hàm dưới.
+> Giáo trình PHTL (Bài 8, mục 1.2.5): tái lập kích thước dọc bằng cách mài theo quy tắc Bull — múi ngoài răng trên, múi trong răng dưới.
 
 Câu 38. Cho các ý sau đây, hãy sắp xếp theo thứ tự điều chỉnh khớp cắn: (1) Tái lập khớp cắn trung tâm đúng, (2) Hoàn hảo cắn khớp làm việc và thăng bằng, (3) Tái lập kích thước dọc đúng, (4) Tái lập khớp cắn tới đúng:
 A. (4), (1), (3), (2)
 B. (1), (2), (3), (4)
 @C. (3), (1), (2), (4)
 D. (1), (3), (4), (2)
-> Theo đề RHM K45 (câu 48): kích thước dọc → khớp cắn trung tâm → cắn khớp làm việc và thăng bằng → khớp cắn tới.
+> Giáo trình PHTL (Bài 8, mục 1.2.5): thứ tự điều chỉnh là kích thước dọc → khớp cắn trung tâm → cắn khớp làm việc và thăng bằng → khớp cắn tới, tức (3), (1), (2), (4).
 
 Câu 39. Những điểm đau thường gặp:
 A. Bờ nền hàm vùng trước đường hàm móng
 @B. Vùng đường hàm móng
 C. Vùng phía má của sống hàm dưới
 D. Vùng phía lưỡi của sống hàm trên
-> Gờ hàm móng sắc, niêm mạc phủ mỏng nên là vị trí đau thường gặp dưới nền hàm dưới.
+> Giáo trình PHTL (Bài 8, mục 1.2.6): điểm chạm sớm thường gặp gồm sóng hàm dưới phía lưỡi vùng răng cối nhỏ, vùng đường hàm móng, bờ nền hàm vùng SAU đường hàm móng, vùng phía má của sóng hàm TRÊN… nên chỉ B đúng nguyên văn.
 
 Câu 40. Cách sử dụng và bảo quản hàm giả, CHỌN CÂU SAI:
 A. Tháo lắp hàm theo đúng hướng dẫn của bác sĩ
 B. Không nên tháo lắp hàm giả ra khỏi miệng quá lâu
 @C. Nên ăn những thức ăn mềm, dẻo
 D. Thời gian đầu nên mang thường xuyên để tập quen dần
-> Thức ăn dẻo, dính dễ làm sút hàm. B và D đúng theo đề RHM K45 (câu 50) và K40 (câu 24).
+> Giáo trình PHTL (Bài 8, mục 2.2): tránh ăn những thức ăn dẻo, đặc, cứng trong thời gian đầu; các ý A, B, D đều đúng.
 
 Câu 41. Chọn phát biểu đúng khi nói về hàm phục hình tháo lắp bán phần nền nhựa:
 A. Nền hàm luôn được làm bằng nhựa tự cứng
 B. Cấu tạo gồm có nền hàm và móc đúc
 @C. Lực nhai phân bố hoàn toàn lên mô niêm mạc xương
 D. Khó thực hiện các sửa chữa hàm khi có mất thêm răng hoặc gãy móc
-> Theo đề RHM K45 (câu 21): hàm nền nhựa truyền lực nhai hoàn toàn lên mô niêm mạc – xương.
+> Giáo trình PHTL (Bài 1, mục 1): ở hàm nền nhựa lực nhai được truyền từ nền hàm qua niêm mạc xuống xương. A sai (nền hàm nhựa acrylic, không "luôn" tự cứng), B sai (móc dây tròn, không phải móc đúc), D sai (dễ sửa chữa).
 
 Câu 42. Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa:
 A. Mất răng xen kẽ với khoảng mất răng ngắn
@@ -335,34 +335,34 @@ D. 3 – 6 năm
 > Theo đề RHM K43 (câu 37).
 
 Câu 48. Nội dung của lần hẹn 2 trên lâm sàng:
-@A. Lấy dấu
-B. Xác định khớp cắn trung tâm hoặc tương quan tâm
+A. Lấy dấu
+@B. Xác định khớp cắn trung tâm hoặc tương quan tâm
 C. Thử răng
 D. Lắp hàm
-> Quy trình 5–6 lần hẹn (đề RHM K43 câu 36, K45 câu 13): lần 1 khám và lấy dấu nghiên cứu; lần 2 lấy dấu sau cùng bằng khay cá nhân; lần 3 ghi tương quan; lần 4 thử răng; lần 5 lắp hàm; lần 6 tái khám.
+> Giáo trình PHTL (Bài 1, mục 7): lần hẹn 1 khám và lấy dấu hai hàm; lần hẹn 2 có thể lấy dấu sau cùng và ghi tương quan hai hàm (labo vô giá khớp, sắp răng); lần 3 thử răng; lần 4 lắp hàm. Phần chắc chắn của lần hẹn 2 là ghi tương quan.
 
 Câu 49. Ở phục hình tháo lắp bán phần, thông thường yếu tố thẩm mỹ được quyết định vào giai đoạn:
 A. Giai đoạn ghi tương quan hai hàm
 @B. Giai đoạn thử răng
 C. Giai đoạn giao hàm
 D. Giai đoạn chữa đau
-> Theo đề RHM K43 (câu 42).
+> Giáo trình PHTL (Bài 8, mục 1.2.3): thông thường yếu tố thẩm mỹ đã được quyết định vào giai đoạn thử răng.
 
 Câu 50. Cấu trúc giải phẫu số 7 trong hình bên là:
 [hinh: 50 0.06 0.222 0.21 0.318]
 A. Nhú khẩu cái
 B. Torus
-C. Đường nối giữa xương hàm trên
+@C. Đường nối giữa xương hàm trên
 D. Khẩu cái
-> Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.
+> Theo Hình 2.1 giáo trình PHTL (Bài 2), mốc số 7 của hàm trên là đường giữa xương hàm trên (1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ "a"). Hình trong đề quá mờ nên đáp án dựa vào cách đánh số này.
 
 Câu 51. Cấu trúc giải phẫu số 8 trong hình bên là:
 [hinh: 50 0.06 0.392 0.22 0.492]
 A. Khẩu cái mềm
-B. Lỗ khẩu cái sau
+@B. Lỗ khẩu cái sau
 C. Đường nối giữa xương hàm trên
 D. Đường rung chữ "a"
-> Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.
+> Theo Hình 2.1 giáo trình PHTL (Bài 2), mốc số 8 của hàm trên là lỗ khẩu cái sau. Hình trong đề quá mờ nên đáp án dựa vào cách đánh số này.
 
 Câu 52. Khi khám cử động hàm dưới, bình thường lúc bệnh nhân há miệng, khoảng cách giữa hai cung hàm trên dưới là:
 A. 30 – 40 mm
@@ -404,21 +404,21 @@ A. Hai triền phía hành lang và khẩu cái song song nhau
 B. Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng
 @C. Không có một độ cao nào
 D. Lồi cùng lẹm
-> Hai triền song song là lồi cùng tốt (đề RHM K45 câu 17), hơi thấp và nghiêng là trung bình, không còn độ cao là kém.
+> Giáo trình PHTL (Bài 2, mục 3.3.4): lồi cùng tốt khi hai triền song song; trung bình khi hơi thấp và nghiêng; kém khi teo nhỏ, không có một độ cao nào.
 
 Câu 58. Gối hậu nha có giá trị cho việc nâng đỡ và vững hàm khi:
 @A. Phần trước gối hậu nha săn chắc, có nhiều mô sợi
 B. Gối hậu nha tạo một góc dưới 40 độ so với đường đỉnh sống hàm
 C. Niêm mạc bên trên gối hậu nha bám vào xương lỏng lẻo
 D. Gối hậu nha có kích thước trung bình
-> Phần trước gối hậu nha là mô sợi săn chắc nên chịu lực tốt; niêm mạc bám lỏng lẻo thì không nâng đỡ được.
+> Giáo trình PHTL (Bài 2, mục 3.4.6): phần trước gối hậu nha là mô xơ rất chắc, là chỗ tựa cho nền hàm, thuận lợi cho việc nâng đỡ và giữ vững hàm; khi mào xương không tiêu gối hậu nha tạo góc 45°.
 
 Câu 59. Trường hợp mất răng sau đây: x x x 5 4 3 2 1 | 1 2 3 4 x x x x — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
 A. Phục hình cố định
 B. Phục hình khung bộ
 @C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Theo đề RHM K45 (câu 19, cùng sơ đồ) khoanh C. Về kỹ thuật, mất răng sau hai bên không còn răng giới hạn phía xa (Kennedy loại I) thì khung bộ cũng là lựa chọn kinh điển.
+> Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II). Đề RHM K45 (câu 19, cùng sơ đồ) khoanh C.
 
 Câu 60. Điền khuyết. Đường nối giữa xương hàm trên: nếu không có đường gờ, việc mang hàm giả .......... dưới tác động của lực ép. Nếu có đường gờ cần .......... trên nền hàm.
 @A. Không bị đau / tạo sự giảm nén

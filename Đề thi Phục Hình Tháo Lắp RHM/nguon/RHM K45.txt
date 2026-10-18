@@ -24,8 +24,9 @@ C. Vùng khẩu cái sau
 Câu 4. Vùng Schroder là:
 A. Từ răng cửa giữa đến đường A
 B. Từ răng nanh đến đường A
-C. Từ răng cối nhỏ đến đường A
-*D. Từ răng cối lớn đến đường A
+!C. Từ răng cối nhỏ đến đường A
+?D. Từ răng cối lớn đến đường A
+> Giáo trình PHTL (Bài 3, mục 1.1.2): vùng Schroder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong, nhiều mô mỡ và mô tuyến.
 
 Câu 5. Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):
 [hinh: 39 0.585 0.245 0.79 0.37]
@@ -94,14 +95,14 @@ A. 5 – 7 mm
 B. 5 – 8 mm
 *C. 5 – 9 mm
 D. 5 – 10 mm
-> Đề RHM K43 (câu 40, cùng câu hỏi) gạch B (5 – 8 mm), có người khoanh thêm C.
+> Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm.
 
 Câu 16. Khớp thái dương hàm bình thường, hàm dưới đưa sang phải hoặc sang trái một khoảng là:
 *A. 5 – 7 mm
 B. 5 – 8 mm
 C. 5 – 9 mm
 D. 5 – 10 mm
-> Đề RHM K43 (câu 41, cùng câu hỏi) gạch D (5 – 10 mm), có người khoanh thêm A.
+> Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm.
 
 Câu 17. Lồi cùng tốt khi:
 *A. Hai triền phía hành lang và khẩu cái song song nhau
@@ -110,18 +111,18 @@ C. Lồi cùng quá to
 D. Lồi cùng lẹm
 
 Câu 18. Trường hợp mất răng sau đây: 8 7 x 5 4 3 x x | x x 3 4 5 x 7 8 — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
-A. Phục hình cố định
+!A. Phục hình cố định
 B. Phục hình khung bộ
-*C. Phục hình tháo lắp bán phần nền nhựa
+?C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Đề khoanh C. Lưu ý đề RHM K42 (câu 59, sơ đồ gần giống) nghiêng về ưu tiên phục hình cố định vì các khoảng mất răng đều ngắn và có răng trụ hai đầu.
+> Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu → phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng (R6 phải, 4 răng cửa, R6 trái) đều ngắn và có răng trụ hai đầu. Đề RHM K47 (câu 7, sơ đồ gần giống) khoanh A.
 
 Câu 19. Trường hợp mất răng sau đây: x x x 5 4 3 2 1 | 1 2 3 4 x x x x — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
 A. Phục hình cố định
 B. Phục hình khung bộ
 *C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Đề khoanh C. Mất răng sau hai bên không còn răng giới hạn phía xa (Kennedy loại I) thì khung bộ cũng là lựa chọn kinh điển.
+> Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II).
 
 Câu 20. ĐIỀN KHUYẾT: Đường nối giữa xương hàm trên: Nếu không có đường gờ, việc mang hàm giả .......... dưới tác động của lực ép. Nếu có đường gờ cần .......... trên nền hàm.
 *A. Không bị đau / tạo sự giảm nén
@@ -310,10 +311,11 @@ C. Dù đã quen với hàm giả thì khi ngủ cũng phải mang hàm giả đ
 D. Vệ sinh hàm giả thường xuyên bằng kem đánh răng và bàn chải như răng thật
 
 Câu 51. Thứ tự ĐÚNG các giai đoạn thực hiện phục hình tháo lắp bán hàm trong labo là:
-A. Đổ mẫu hàm nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa
+!A. Đổ mẫu hàm nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa
 B. Đổ mẫu hàm làm việc, khay cá nhân, lên răng, ép nhựa
-*C. Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa
+?C. Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa
 D. Tất cả đều sai
+> Giáo trình PHTL (Bài 7, mục 1): labo gồm đổ mẫu → làm khay cá nhân (nếu cần) → đổ mẫu sau cùng (nếu cần) → làm nền tạm gối sáp → lên răng → biến đổi sáp thành nhựa. Nền tạm gối sáp là bước bắt buộc nên C (bỏ nền tạm gối sáp) sai; A đủ các bước bắt buộc, đúng thứ tự.
 
 Câu 52. Thứ tự ĐÚNG các giai đoạn thực hiện phục hình tháo lắp bán hàm trong labo là:
 *A. Khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa

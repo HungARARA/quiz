@@ -22,7 +22,7 @@ A. Streptococcus mutans
 *B. Lactobacillus acidophilus
 C. Actinomyces
 D. Streptococcus sanguis
-> Đề gạch A rồi khoanh lại B. Đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B.
+> Đề gạch A rồi khoanh lại B; đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B. Giáo trình Sâu Răng Học (Bài 1) chỉ ghi S. mutans gây khởi phát, Lactobacillus làm sang thương tiến triển sâu xuống dưới bề mặt — không nói rõ loại nào làm pH giảm nhanh.
 
 Câu 4. Nước bọt có khả năng tái khoáng hóa sang thương sâu răng sớm nhờ:
 A. Lysozyme, lactoferrin
@@ -271,7 +271,7 @@ A. Sâu mặt láng
 *B. Sâu chân răng
 C. Sâu cổ răng
 D. Sâu kẽ răng
-> Đề RHM K40 (câu 18) khoanh C (sâu cổ răng).
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.1): sâu chân răng thường là hậu quả của bệnh nha chu.
 
 Câu 44. Sâu men hố rãnh có dạng:
 A. Hình nón, đáy ở phía bên
@@ -296,7 +296,7 @@ A. Thổi khô bề mặt răng
 *B. Làm sạch bề mặt răng
 C. Làm ướt bề mặt răng
 D. Không làm gì cả
-> Đề gạch B, có người khoanh thêm A. Đề RHM K40 (câu 31) chọn B. Theo ICDAS cần làm sạch rồi thổi khô.
+> Đề gạch B, có người khoanh thêm A. Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả hai đều cần. Đề RHM K45, K46 (câu 17) bỏ ý "làm sạch" và chọn "Lau khô bề mặt răng".
 
 Câu 48. Tỉ lệ chất vô cơ của ngà răng và men răng lần lượt là:
 A. 85% và 90%
@@ -321,7 +321,7 @@ A. Kháng nước hoàn toàn
 B. Kị nước
 *C. Bôi vaseline, varnish giúp kháng nước
 D. Tan trong nước khi chưa đông cứng hoàn toàn
-> Đề gạch C, có người khoanh thêm D. Đề RHM K40 (câu 35) cũng chọn C.
+> Đề gạch C, có người khoanh thêm D. Giáo trình Sâu Răng Học (Bài 7, mục 1.3): bôi vaseline ngay sau khi gỡ khuôn để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng — đề RHM K45, K46 (câu 21) chọn ý này.
 
 Câu 52. Răng vĩnh viễn với các triệu chứng: lớp men bị phá hủy hoàn toàn, lỗ sâu lan tới lớp ngà. Khi nạo xoang thấy có ngà mềm, ngà phản ứng và ngà xơ không kịp thành lập để bảo vệ tủy. Chẩn đoán tình trạng răng:
 A. Sâu răng lan nhanh
@@ -348,7 +348,7 @@ A. Kích thước thật sự luôn nhỏ hơn kích thước nhìn thấy đư�
 B. Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự
 *C. Tổn thương có dạng chữ A
 D. Kích thước nhìn thấy được chính là kích thước thật sự
-> Đề gạch C, có người khoanh thêm B. Đề RHM K40 (câu 40) cũng chọn C.
+> Đề gạch C, có người khoanh thêm B. Giáo trình Sâu Răng Học (Bài 5): tổn thương hố rãnh trong men có dạng chữ V ngược (giống chữ A), và "kích thước nhìn thấy được luôn nhỏ hơn kích thước thật" (B) cũng là câu nguyên văn giáo trình. Đề RHM K45, K46 (câu 25) đổi C thành "chữ U" và chọn B.
 
 Câu 56. Sâu răng thường gặp ở trẻ em dưới 6 tuổi:
 A. Sâu răng ẩn mình, sâu răng bú bình
@@ -379,4 +379,4 @@ A. Răng người trẻ
 B. Răng người già
 C. Răng bệnh lý
 *D. B và C đúng
-> Đề gạch A rồi khoanh lại D. Đề RHM K40 (câu 46) khoanh B.
+> Đề gạch A rồi khoanh lại D. Giáo trình Sâu Răng Học (Bài 6): buồng tủy hẹp dần theo tuổi (ngà thứ cấp sinh lý) và ở răng bị kích thích như sâu răng (ngà phản ứng).

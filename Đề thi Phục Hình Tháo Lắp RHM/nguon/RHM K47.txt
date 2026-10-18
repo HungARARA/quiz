@@ -47,10 +47,10 @@ D. Phục hình kết hợp
 
 Câu 8. Bệnh nhân Nguyễn Thị A, nữ, 63 tuổi, trên lâm sàng ghi nhận bằng mắt thường răng 46 lung lay khoảng 0,7mm, có thể kết luận R46 của bệnh nhân lung lay độ mấy:
 A. Độ 1
-B. Độ 2
-*C. Độ 3
+!B. Độ 2
+?C. Độ 3
 D. Độ 4
-> Đề khoanh C nhưng có đánh dấu nghi vấn bên cạnh. Kết quả tuỳ thang phân độ: theo thang "độ 1 < 1mm" thì 0,7mm là độ 1; theo Miller (độ 2 ≤ 1mm) thì là độ 2 — nên đối chiếu lại giáo trình.
+> Giáo trình PHTL (Bài 2, mục 3.4.8): độ 1 lung lay cảm thấy bằng tay; độ 2 lung lay thấy bằng mắt, hơn 0,5 mm; độ 3 hơn 1 mm; độ 4 lung lay chiều đứng. Lung lay 0,7 mm thấy bằng mắt thường → độ 2.
 
 Câu 9. Răng có thể dùng làm trụ khi tỷ lệ chiều cao thân răng và chân răng:
 *A. Nhỏ hơn 1.
@@ -73,9 +73,9 @@ D. Đường nối giữa
 Câu 12. Ở vòm miệng vùng nào có ít mô liên kết dưới niêm mạc:
 A. Gai cửa
 B. Schroder
-C. Vân khẩu cái
+*C. Vân khẩu cái
 D. Đường nối giữa
-> Đề khoanh C và gạch D. Theo giải phẫu, vùng đường nối giữa xương hàm trên có niêm mạc mỏng, gần như không có mô liên kết dưới niêm mạc (nên dễ đau, phải giảm nén — xem các câu điền khuyết về đường nối giữa); đáp án chưa chắc chắn nên để trống.
+> Đề khoanh C và gạch D. Giáo trình PHTL (Bài 19, mục 1.1.2): các vân khẩu cái có niêm mạc dày, không có mô dưới niêm mạc; vùng đường giữa niêm mạc mỏng; vùng Schroder nhiều mô mỡ, mô tuyến.
 
 Câu 13. Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình:
 A. Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp
@@ -106,7 +106,7 @@ A. Mất răng loại I Kennedy
 B. Mất răng loại V Kennedy
 *C. Mất răng loại VI Kennedy
 D. Mất răng loại II Kennedy
-> Đề khoanh C. Kennedy chỉ có 4 loại (I–IV); loại V, VI là của Applegate. Với sơ đồ chỉ còn 2 răng cửa giữa, hai bên mất răng tới cuối cung thì theo Kennedy là loại I (biến thể theo các vùng mất răng phụ). Nên đối chiếu thêm.
+> Giáo trình PHTL (Bài 3, mục 4.2): ngoài 4 loại căn bản, Kennedy còn 2 loại đặc biệt cho mất răng gần toàn bộ — loại V: mất răng một bên trên đoạn rất rộng chỉ còn 1–2 răng cối; loại VI: mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng. Sơ đồ chỉ còn 2 răng cửa giữa → loại VI.
 
 Câu 18. Sơ đồ răng ở hàm trên như sau, được phân loại theo Kennedy là: x x x x 3 x x 1 | 1 2 3 4 5 6 7 x
 A. Mất răng loại I, biến thể 1
@@ -251,7 +251,7 @@ Câu 40. Răng hàm trên được chọn theo cấu trúc xương hàm là:
 B. Răng cửa bên
 C. Răng nanh
 D. Răng cối lớn
-> Đề RHM K41 (câu 11) cũng chọn răng cửa giữa; đề RHM K40 (câu 27) khoanh răng cối lớn.
+> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30): răng cửa giữa chọn theo cấu trúc xương mặt. Đề RHM K40 (câu 27) khoanh răng cối lớn.
 
 Câu 41. Răng hàm trên được chọn theo tính tình bệnh nhân là:
 A. Răng cửa giữa
@@ -302,16 +302,18 @@ C. Móc và răng giả sẽ dính với nhau
 D. A và C đúng
 
 Câu 49. Nguyên tắc trộn nhựa khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:
-A. Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra
+!A. Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra
 B. Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn
 C. Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài
-*D. A và B đúng
+?D. A và B đúng
+> Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — B làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; C sai vì phải đậy nắp. Chỉ A đúng.
 
 Câu 50. Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm là:
 A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
 B. Dùng búa nhỏ gõ cho mẫu hàm bể dần ra.
 C. Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa.
 *D. Tất cả đều đúng
+> Giáo trình PHTL (Bài 7, mục 2.5–2.7): cưa đế mẫu hàm làm nhiều miếng nhỏ, dùng dao tách dần hàm giả khỏi thạch cao, dùng búa gỗ gõ để tách khối thạch cao khỏi múp. Đề khoanh D (có dấu hỏi bên cạnh).
 
 Câu 51. Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn:
 A. Không nên mang thường xuyên
@@ -342,7 +344,7 @@ A. 3 tháng
 @B. 6 tháng
 C. 9 tháng
 D. 12 tháng
-> Đề không khoanh rõ câu này; đáp án theo đề RHM K43 (câu 59, cùng câu hỏi).
+> Đề không khoanh rõ câu này. Giáo trình PHTL (Bài 8, mục 2.2): tái khám mỗi 6 tháng. Đề RHM K43 (câu 59) cũng chọn 6 tháng.
 
 Câu 56. Trong trường hợp bệnh nhân than ĐAU sau khi lắp hàm, thì bác sĩ cần làm gì đầu tiên:
 *A. Tìm điểm đau
@@ -363,13 +365,15 @@ C. Dù đã quen với hàm giả thì khi ngủ cũng phải mang hàm giả đ
 D. Không cần vệ sinh hàm giả vì không cần thiết.
 
 Câu 59. Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả là:
-*A. Dư bờ hàm
+?A. Dư bờ hàm
 B. Nướu giả bị lẹm quá mức
 C. Bệnh nhân tháo lắp hàm không đúng hướng
-D. Cả 3 đều đúng
+!D. Cả 3 đều đúng
+> Giáo trình PHTL (Bài 8, mục 3.4.1 và câu tự lượng giá 5 – đáp án D): đau tại chỗ có thể do dư bờ hàm, nướu giả lẹm quá mức, mặt tiếp xúc niêm mạc không chính xác, điểm chạm sớm, hư hỏng móc, bệnh nhân tháo lắp hàm không đúng hướng → cả 3 ý đều đúng.
 
 Câu 60. Bệnh nhân không mang được hàm giả thường vì:
-*A. Nước bọt tiết nhiều
-B. Tăng nhạy cảm ở vùng khẩu cái sau
+?A. Nước bọt tiết nhiều
+!B. Tăng nhạy cảm ở vùng khẩu cái sau
 C. Có vị kim loại trong miệng
 D. Móc quá siết chặt gây đau
+> Giáo trình PHTL (Bài 8, mục 3.4.5): không mang được hàm giả (hàm trên) thường do tăng nhạy cảm ở vùng khẩu cái sau gây phản xạ nôn; nước bọt nhiều, vị kim loại chỉ là than phiền tạm thời (mục 3.4.6).

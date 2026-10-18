@@ -34,7 +34,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Lấy dấu và ghi tương quan làm trên lâm sàng, không phải trong labo. Đề RHM K45 (câu 52) chọn trình tự labo \"khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa\"."
+      "aiNote": "Lấy dấu và ghi tương quan làm trên lâm sàng, không phải trong labo. Đề RHM K45 (câu 52) chọn trình tự labo \"khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa\".",
+      "aiOriginal": null
     },
     {
       "number": 2,
@@ -62,7 +63,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Với hàm bán phần nền nhựa thường lấy dấu luôn bằng khay làm sẵn, nên khay cá nhân có thể bỏ qua."
+      "aiNote": "Với hàm bán phần nền nhựa thường lấy dấu luôn bằng khay làm sẵn, nên khay cá nhân có thể bỏ qua.",
+      "aiOriginal": null
     },
     {
       "number": 3,
@@ -90,7 +92,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Hàm sáp phải được thử trên miệng (thẩm mỹ, khớp cắn, phát âm) rồi mới vô khuôn ép nhựa."
+      "aiNote": "Hàm sáp phải được thử trên miệng (thẩm mỹ, khớp cắn, phát âm) rồi mới vô khuôn ép nhựa.",
+      "aiOriginal": null
     },
     {
       "number": 4,
@@ -118,7 +121,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 55) và K41 (câu 21): dán mép nền sáp để thạch cao không chui xuống dưới lớp sáp."
+      "aiNote": "Theo đề RHM K40 (câu 55) và K41 (câu 21): dán mép nền sáp để thạch cao không chui xuống dưới lớp sáp.",
+      "aiOriginal": null
     },
     {
       "number": 5,
@@ -146,7 +150,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Ở bước sửa soạn, vaseline được thoa vào lòng khuôn ép để sau này dễ gỡ khối thạch cao ra (đề RHM K40 câu 57 có ý \"cách ly thạch cao với khuôn\")."
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.1): ở giai đoạn sửa soạn, thoa vaseline lên bề mặt mẫu hàm và mặt trong của khuôn để sau này gỡ khối thạch cao khỏi khuôn ép.",
+      "aiOriginal": null
     },
     {
       "number": 6,
@@ -174,7 +179,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Bề mặt thạch cao ở phần đáy khuôn phải láng và không có vùng lẹm để tách hai nửa khuôn dễ dàng."
+      "aiNote": "Bề mặt thạch cao ở phần đáy khuôn phải láng và không có vùng lẹm để tách hai nửa khuôn dễ dàng.",
+      "aiOriginal": null
     },
     {
       "number": 7,
@@ -202,7 +208,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 59): đổ thạch cao phủ móc thì răng giả và móc nằm ở 2 phần khuôn khác nhau."
+      "aiNote": "Theo đề RHM K45 (câu 59): đổ thạch cao phủ móc thì răng giả và móc nằm ở 2 phần khuôn khác nhau.",
+      "aiOriginal": null
     },
     {
       "number": 8,
@@ -230,7 +237,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 54) và K41 (câu 23): vaseline dùng để cách ly thạch cao với thạch cao."
+      "aiNote": "Theo đề RHM K45 (câu 54) và K41 (câu 23): vaseline dùng để cách ly thạch cao với thạch cao.",
+      "aiOriginal": null
     },
     {
       "number": 9,
@@ -258,7 +266,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 27) và K45 (câu 55): thoa khi khuôn còn nóng nhưng đã hết bốc hơi nước."
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.3): thoa varnish khi khuôn còn nóng nhưng đã hết bốc hơi. Đề RHM K41 (câu 27), K45 (câu 55) cùng ý.",
+      "aiOriginal": null
     },
     {
       "number": 10,
@@ -286,7 +295,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 28) và K43 (câu 32): 74°C trong 9 giờ rồi 100°C trong 30 phút."
+      "aiNote": "Theo đề RHM K41 (câu 28) và K43 (câu 32): 74°C trong 9 giờ rồi 100°C trong 30 phút.",
+      "aiOriginal": null
     },
     {
       "number": 11,
@@ -314,7 +324,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K47 (câu 29, cùng câu điền khuyết)."
+      "aiNote": "Theo đề RHM K47 (câu 29, cùng câu điền khuyết).",
+      "aiOriginal": null
     },
     {
       "number": 12,
@@ -342,7 +353,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Tương quan hai hàm được xác định trên miệng nhờ nền tạm – gối sáp rồi mới chuyển sang mẫu hàm (xem đề RHM K42 câu 24)."
+      "aiNote": "Giáo trình PHTL (Bài 5, mục 3): tương quan hai hàm được xác định trên miệng bệnh nhân, ghi lại nhờ nền tạm – gối sáp rồi chuyển qua mẫu hàm. Đề RHM K47 (câu 31) khoanh \"Trên miệng\".",
+      "aiOriginal": null
     },
     {
       "number": 13,
@@ -370,7 +382,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 13) và K45 (câu 25)."
+      "aiNote": "Theo đề RHM K40 (câu 13) và K45 (câu 25).",
+      "aiOriginal": null
     },
     {
       "number": 14,
@@ -398,7 +411,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 16, cùng ý)."
+      "aiNote": "Theo đề RHM K40 (câu 16, cùng ý).",
+      "aiOriginal": null
     },
     {
       "number": 15,
@@ -426,7 +440,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 15) và K45 (câu 26)."
+      "aiNote": "Theo đề RHM K40 (câu 15) và K45 (câu 26).",
+      "aiOriginal": null
     },
     {
       "number": 16,
@@ -454,7 +469,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Không còn răng sau để chặn khớp nên phải khắc khóa trên gối sáp hàm trên và phủ sáp nhôm (mềm, ghi dấu tốt) lên gối sáp hàm dưới cho bệnh nhân cắn vào."
+      "aiNote": "Không còn răng sau để chặn khớp nên phải khắc khóa trên gối sáp hàm trên và phủ sáp nhôm (mềm, ghi dấu tốt) lên gối sáp hàm dưới cho bệnh nhân cắn vào.",
+      "aiOriginal": null
     },
     {
       "number": 17,
@@ -482,7 +498,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K43 (câu 38) và K45 (câu 31)."
+      "aiNote": "Theo đề RHM K43 (câu 38) và K45 (câu 31).",
+      "aiOriginal": null
     },
     {
       "number": 18,
@@ -510,7 +527,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 12)."
+      "aiNote": "Theo đề RHM K41 (câu 12).",
+      "aiOriginal": null
     },
     {
       "number": 19,
@@ -538,7 +556,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Đường thẳng hạ từ cánh mũi xuống đi qua đỉnh răng nanh; răng cửa giữa rộng bằng ¼ khoảng cách hai cánh mũi (đề RHM K45 câu 38)."
+      "aiNote": "Giáo trình PHTL (Bài 30, mục 1.2.3): theo Lee, khoảng cách giữa hai cánh mũi bằng khoảng cách giữa hai đỉnh răng nanh.",
+      "aiOriginal": null
     },
     {
       "number": 20,
@@ -566,7 +585,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 30) và K41 (câu 14)."
+      "aiNote": "Theo đề RHM K40 (câu 30) và K41 (câu 14).",
+      "aiOriginal": null
     },
     {
       "number": 21,
@@ -590,11 +610,12 @@
         }
       ],
       "image": null,
-      "correctIndex": null,
-      "explanation": "Không có câu trùng ở đề khác để đối chiếu; để trống đáp án.",
-      "ai": false,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": "Giáo trình PHTL (Bài 6, mục 3.2.3): theo mặt phẳng dọc giữa, răng cửa bên hàm trên có cổ răng nghiêng trong 10° (răng cửa giữa 5°, răng nanh 0–5°).",
+      "aiOriginal": null
     },
     {
       "number": 22,
@@ -622,7 +643,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Răng cối lớn thứ nhất hàm dưới được lên trước để định vị khớp cắn với răng 6 hàm trên."
+      "aiNote": "Răng cối lớn thứ nhất hàm dưới được lên trước để định vị khớp cắn với răng 6 hàm trên.",
+      "aiOriginal": null
     },
     {
       "number": 23,
@@ -650,7 +672,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 15)."
+      "aiNote": "Theo đề RHM K41 (câu 15).",
+      "aiOriginal": null
     },
     {
       "number": 24,
@@ -678,7 +701,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 1, cùng câu hỏi)."
+      "aiNote": "Theo đề RHM K45 (câu 1, cùng câu hỏi).",
+      "aiOriginal": null
     },
     {
       "number": 25,
@@ -706,7 +730,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 2, cùng câu hỏi)."
+      "aiNote": "Theo đề RHM K45 (câu 2, cùng câu hỏi).",
+      "aiOriginal": null
     },
     {
       "number": 26,
@@ -734,7 +759,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 3, cùng câu hỏi)."
+      "aiNote": "Theo đề RHM K45 (câu 3, cùng câu hỏi).",
+      "aiOriginal": null
     },
     {
       "number": 27,
@@ -758,11 +784,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 4, cùng câu hỏi)."
+      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.1.2): vùng Schroder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong. Đề RHM K45 (câu 4) khoanh D.",
+      "aiOriginal": null
     },
     {
       "number": 28,
@@ -799,7 +826,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 5, cùng hình)."
+      "aiNote": "Theo đề RHM K45 (câu 5, cùng hình).",
+      "aiOriginal": null
     },
     {
       "number": 29,
@@ -836,7 +864,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 6, cùng hình)."
+      "aiNote": "Theo đề RHM K45 (câu 6, cùng hình).",
+      "aiOriginal": null
     },
     {
       "number": 30,
@@ -864,7 +893,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 7, cùng câu hỏi)."
+      "aiNote": "Theo đề RHM K45 (câu 7, cùng câu hỏi).",
+      "aiOriginal": null
     },
     {
       "number": 31,
@@ -892,7 +922,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40, K41, K43, K45."
+      "aiNote": "Theo đề RHM K40, K41, K43, K45.",
+      "aiOriginal": null
     },
     {
       "number": 32,
@@ -920,7 +951,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 9, cùng câu hỏi)."
+      "aiNote": "Theo đề RHM K45 (câu 9, cùng câu hỏi).",
+      "aiOriginal": null
     },
     {
       "number": 33,
@@ -948,7 +980,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40, K41, K43, K45."
+      "aiNote": "Theo đề RHM K40, K41, K43, K45.",
+      "aiOriginal": null
     },
     {
       "number": 34,
@@ -976,7 +1009,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Múi chịu (múi trong hàm trên, múi ngoài hàm dưới) giữ kích thước dọc nên hạn chế mài; mài theo quy tắc BULL ở các múi không chịu."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.4): múi chịu dùng để nghiền thức ăn, duy trì kích thước dọc, khớp cắn trung tâm và thăng bằng nên tránh mài sửa.",
+      "aiOriginal": null
     },
     {
       "number": 35,
@@ -1004,7 +1038,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 20): lắp hàm cho khít sát trước rồi mới chỉnh khớp cắn."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.4): bước cuối cùng khi giao hàm cho bệnh nhân là kiểm tra kích thước dọc và điều chỉnh khớp cắn.",
+      "aiOriginal": null
     },
     {
       "number": 36,
@@ -1032,7 +1067,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Bờ sau nền hàm vùng khẩu cái quá dày gây vướng, kích thích buồn nôn; không liên quan thẩm mỹ nên D không hợp lý."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.2): nền hàm quá dày ảnh hưởng thẩm mỹ ở phía răng trước, còn ở phía sau răng cửa và bờ hàm vùng khẩu cái thì gây buồn nôn.",
+      "aiOriginal": null
     },
     {
       "number": 37,
@@ -1060,7 +1096,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "BULL = Buccal of Upper, Lingual of Lower: mài múi ngoài hàm trên và múi trong hàm dưới."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.5): tái lập kích thước dọc bằng cách mài theo quy tắc Bull — múi ngoài răng trên, múi trong răng dưới.",
+      "aiOriginal": null
     },
     {
       "number": 38,
@@ -1088,7 +1125,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 48): kích thước dọc → khớp cắn trung tâm → cắn khớp làm việc và thăng bằng → khớp cắn tới."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.5): thứ tự điều chỉnh là kích thước dọc → khớp cắn trung tâm → cắn khớp làm việc và thăng bằng → khớp cắn tới, tức (3), (1), (2), (4).",
+      "aiOriginal": null
     },
     {
       "number": 39,
@@ -1116,7 +1154,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Gờ hàm móng sắc, niêm mạc phủ mỏng nên là vị trí đau thường gặp dưới nền hàm dưới."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.6): điểm chạm sớm thường gặp gồm sóng hàm dưới phía lưỡi vùng răng cối nhỏ, vùng đường hàm móng, bờ nền hàm vùng SAU đường hàm móng, vùng phía má của sóng hàm TRÊN… nên chỉ B đúng nguyên văn.",
+      "aiOriginal": null
     },
     {
       "number": 40,
@@ -1144,7 +1183,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Thức ăn dẻo, dính dễ làm sút hàm. B và D đúng theo đề RHM K45 (câu 50) và K40 (câu 24)."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 2.2): tránh ăn những thức ăn dẻo, đặc, cứng trong thời gian đầu; các ý A, B, D đều đúng.",
+      "aiOriginal": null
     },
     {
       "number": 41,
@@ -1172,7 +1212,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 21): hàm nền nhựa truyền lực nhai hoàn toàn lên mô niêm mạc – xương."
+      "aiNote": "Giáo trình PHTL (Bài 1, mục 1): ở hàm nền nhựa lực nhai được truyền từ nền hàm qua niêm mạc xuống xương. A sai (nền hàm nhựa acrylic, không \"luôn\" tự cứng), B sai (móc dây tròn, không phải móc đúc), D sai (dễ sửa chữa).",
+      "aiOriginal": null
     },
     {
       "number": 42,
@@ -1200,7 +1241,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 3) và K45 (câu 11)."
+      "aiNote": "Theo đề RHM K40 (câu 3) và K45 (câu 11).",
+      "aiOriginal": null
     },
     {
       "number": 43,
@@ -1228,7 +1270,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 1) và K45 (câu 14)."
+      "aiNote": "Theo đề RHM K40 (câu 1) và K45 (câu 14).",
+      "aiOriginal": null
     },
     {
       "number": 44,
@@ -1256,7 +1299,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 38)."
+      "aiNote": "Theo đề RHM K41 (câu 38).",
+      "aiOriginal": null
     },
     {
       "number": 45,
@@ -1284,7 +1328,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 32)."
+      "aiNote": "Theo đề RHM K41 (câu 32).",
+      "aiOriginal": null
     },
     {
       "number": 46,
@@ -1312,7 +1357,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 4)."
+      "aiNote": "Theo đề RHM K40 (câu 4).",
+      "aiOriginal": null
     },
     {
       "number": 47,
@@ -1340,7 +1386,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K43 (câu 37)."
+      "aiNote": "Theo đề RHM K43 (câu 37).",
+      "aiOriginal": null
     },
     {
       "number": 48,
@@ -1364,11 +1411,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Quy trình 5–6 lần hẹn (đề RHM K43 câu 36, K45 câu 13): lần 1 khám và lấy dấu nghiên cứu; lần 2 lấy dấu sau cùng bằng khay cá nhân; lần 3 ghi tương quan; lần 4 thử răng; lần 5 lắp hàm; lần 6 tái khám."
+      "aiNote": "Giáo trình PHTL (Bài 1, mục 7): lần hẹn 1 khám và lấy dấu hai hàm; lần hẹn 2 có thể lấy dấu sau cùng và ghi tương quan hai hàm (labo vô giá khớp, sắp răng); lần 3 thử răng; lần 4 lắp hàm. Phần chắc chắn của lần hẹn 2 là ghi tương quan.",
+      "aiOriginal": null
     },
     {
       "number": 49,
@@ -1396,7 +1444,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K43 (câu 42)."
+      "aiNote": "Giáo trình PHTL (Bài 8, mục 1.2.3): thông thường yếu tố thẩm mỹ đã được quyết định vào giai đoạn thử răng.",
+      "aiOriginal": null
     },
     {
       "number": 50,
@@ -1429,11 +1478,12 @@
           0.318
         ]
       },
-      "correctIndex": null,
-      "explanation": "Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.",
-      "ai": false,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": "Theo Hình 2.1 giáo trình PHTL (Bài 2), mốc số 7 của hàm trên là đường giữa xương hàm trên (1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ \"a\"). Hình trong đề quá mờ nên đáp án dựa vào cách đánh số này.",
+      "aiOriginal": null
     },
     {
       "number": 51,
@@ -1466,11 +1516,12 @@
           0.492
         ]
       },
-      "correctIndex": null,
-      "explanation": "Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.",
-      "ai": false,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": "Theo Hình 2.1 giáo trình PHTL (Bài 2), mốc số 8 của hàm trên là lỗ khẩu cái sau. Hình trong đề quá mờ nên đáp án dựa vào cách đánh số này.",
+      "aiOriginal": null
     },
     {
       "number": 52,
@@ -1498,7 +1549,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 9) và K41 (câu 44)."
+      "aiNote": "Theo đề RHM K40 (câu 9) và K41 (câu 44).",
+      "aiOriginal": null
     },
     {
       "number": 53,
@@ -1526,7 +1578,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 45)."
+      "aiNote": "Theo đề RHM K41 (câu 45).",
+      "aiOriginal": null
     },
     {
       "number": 54,
@@ -1554,7 +1607,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 46)."
+      "aiNote": "Theo đề RHM K41 (câu 46).",
+      "aiOriginal": null
     },
     {
       "number": 55,
@@ -1582,7 +1636,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 11)."
+      "aiNote": "Theo đề RHM K40 (câu 11).",
+      "aiOriginal": null
     },
     {
       "number": 56,
@@ -1610,7 +1665,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 12) và K41 (câu 47)."
+      "aiNote": "Theo đề RHM K40 (câu 12) và K41 (câu 47).",
+      "aiOriginal": null
     },
     {
       "number": 57,
@@ -1638,7 +1694,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Hai triền song song là lồi cùng tốt (đề RHM K45 câu 17), hơi thấp và nghiêng là trung bình, không còn độ cao là kém."
+      "aiNote": "Giáo trình PHTL (Bài 2, mục 3.3.4): lồi cùng tốt khi hai triền song song; trung bình khi hơi thấp và nghiêng; kém khi teo nhỏ, không có một độ cao nào.",
+      "aiOriginal": null
     },
     {
       "number": 58,
@@ -1666,7 +1723,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Phần trước gối hậu nha là mô sợi săn chắc nên chịu lực tốt; niêm mạc bám lỏng lẻo thì không nâng đỡ được."
+      "aiNote": "Giáo trình PHTL (Bài 2, mục 3.4.6): phần trước gối hậu nha là mô xơ rất chắc, là chỗ tựa cho nền hàm, thuận lợi cho việc nâng đỡ và giữ vững hàm; khi mào xương không tiêu gối hậu nha tạo góc 45°.",
+      "aiOriginal": null
     },
     {
       "number": 59,
@@ -1694,7 +1752,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 19, cùng sơ đồ) khoanh C. Về kỹ thuật, mất răng sau hai bên không còn răng giới hạn phía xa (Kennedy loại I) thì khung bộ cũng là lựa chọn kinh điển."
+      "aiNote": "Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II). Đề RHM K45 (câu 19, cùng sơ đồ) khoanh C.",
+      "aiOriginal": null
     },
     {
       "number": 60,
@@ -1722,7 +1781,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 20, cùng câu hỏi)."
+      "aiNote": "Theo đề RHM K45 (câu 20, cùng câu hỏi).",
+      "aiOriginal": null
     }
   ]
 }

@@ -34,7 +34,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 2,
@@ -62,7 +63,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 3,
@@ -90,7 +92,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 4,
@@ -115,10 +118,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề RHM K40 (câu 40, cùng câu hỏi) khoanh A \"Vùng Schroder\"; vùng Schroder nằm ở khẩu cái hàm trên nên C hợp lý hơn cho hàm dưới.",
+      "explanation": "Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K40 (câu 40) khoanh A nhưng vùng Schroder thuộc khẩu cái hàm trên.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 5,
@@ -146,7 +150,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 6,
@@ -174,7 +179,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 7,
@@ -202,7 +208,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 8,
@@ -239,7 +246,8 @@
       "explanation": "Đề gạch cả B và C. Hai bên mất răng tới cuối cung (loại I) và thêm một khoảng mất răng ở giữa phía trước (biến thể 1); đề RHM K40 (câu 48, cùng hình) khoanh \"Loại I, biến thể 1\".",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 9,
@@ -276,7 +284,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 10,
@@ -313,7 +322,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 11,
@@ -350,7 +360,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 12,
@@ -387,7 +398,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 13,
@@ -424,7 +436,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 14,
@@ -449,10 +462,11 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": null,
+      "explanation": "Giáo trình PHTL (Bài 3) có thêm loại VI: mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng. Ở đây còn răng 8 hai bên giới hạn phía xa nên theo 4 loại căn bản vẫn là loại III, biến thể 1; khi không còn răng 8 thì xếp loại VI (đề RHM K47 câu 17).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 15,
@@ -480,7 +494,8 @@
       "explanation": "Đề gạch cả A và B. Có 4 khoảng mất răng đều có răng giới hạn hai đầu: 1 khoảng chính (loại III) + 3 khoảng phụ → biến thể 3.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 16,
@@ -517,7 +532,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch A nhưng có dấu ✓ cạnh C. Khoảng mất răng dài, giới hạn phía trước bằng răng cửa (yếu, khó làm trụ) → Applegate loại V (xem câu 18). Cùng hình ở câu 12 thì theo Kennedy là loại III."
+      "aiNote": "Đề gạch A nhưng có dấu ✓ cạnh C. Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại V có vùng mất răng giới hạn phía trước bằng một răng cửa yếu, chân răng nhỏ ngắn — khớp với hình (khoảng mất răng dài, răng giới hạn phía trước là răng cửa). Cùng hình ở câu 12 thì theo Kennedy là loại III.",
+      "aiOriginal": "A. Loại III."
     },
     {
       "number": 17,
@@ -545,7 +561,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 18,
@@ -573,7 +590,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 19,
@@ -601,7 +619,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 20,
@@ -629,7 +648,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 21,
@@ -657,7 +677,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 22,
@@ -685,7 +706,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 23,
@@ -713,7 +735,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 24,
@@ -741,7 +764,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 25,
@@ -765,11 +789,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy ra khi alginate đông cứng hoàn toàn. B (ấn nhẹ tránh đau, giữ yên tránh biến dạng) là các ý sai của câu tự lượng giá Bài 4; C, D trái giáo trình. A đúng ý cử động môi, dù đề in \"ấn từ trước ra sau\". Đề RHM K41 (câu 60) khoanh A.",
+      "aiOriginal": "B. Đặt khay lấy dấu có chứa Alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu."
     },
     {
       "number": 26,
@@ -793,11 +818,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
-      "explanation": "Đề gạch D (có ngoặc gom A, B). Đề RHM K40 (câu 55) và K41 (câu 21) khoanh B.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề gạch D (có ngoặc gom A, B). Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án B): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao không chui xuống dưới lớp sáp; ngâm ướt và thoa vaseline là các bước khác với mục đích khác.",
+      "aiOriginal": "D. Tất cả đều đúng."
     },
     {
       "number": 27,
@@ -825,7 +851,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 28,
@@ -853,7 +880,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 29,
@@ -881,7 +909,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 30,
@@ -909,7 +938,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 31,
@@ -937,7 +967,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 32,
@@ -965,7 +996,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 33,
@@ -993,7 +1025,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 34,
@@ -1021,7 +1054,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 35,
@@ -1049,7 +1083,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 36,
@@ -1077,7 +1112,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 37,
@@ -1105,7 +1141,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 38,
@@ -1133,7 +1170,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 39,
@@ -1161,7 +1199,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 40,
@@ -1185,11 +1224,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
-      "explanation": "Đề gạch B, có người khoanh thêm C.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề gạch B, có người khoanh thêm C. Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm. Đề RHM K45 (câu 15) chọn C.",
+      "aiOriginal": "B. 5 – 8 mm."
     },
     {
       "number": 41,
@@ -1213,11 +1253,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
-      "explanation": "Đề gạch D, có người khoanh thêm A.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề gạch D, có người khoanh thêm A. Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm. Đề RHM K45 (câu 16) chọn A.",
+      "aiOriginal": "D. 5 – 10 mm."
     },
     {
       "number": 42,
@@ -1245,7 +1286,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 43,
@@ -1269,11 +1311,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
-      "explanation": "Đề gạch C, có người khoanh thêm B (bút xanh).",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề gạch C, có người khoanh thêm B. Giáo trình PHTL (Bài 8, mục 3.4.1): đau tại chỗ do DƯ bờ hàm (không phải thiếu bờ hàm), nướu giả lẹm, mặt tiếp xúc không chính xác, điểm chạm sớm… → \"thiếu bờ hàm\" sai, chỉ B đúng.",
+      "aiOriginal": "C. A và B đúng."
     },
     {
       "number": 44,
@@ -1301,7 +1344,8 @@
       "explanation": "Kích thước dọc quá cao làm môi khó khép → khó phát âm các âm môi như \"b\", \"p\", \"m\".",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 45,
@@ -1329,7 +1373,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 46,
@@ -1357,7 +1402,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 47,
@@ -1382,10 +1428,11 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề gạch cả A và C. Theo Berry tỷ lệ là 1/16 nên A sai; răng sau có 3 loại hình thể (giải phẫu, bán giải phẫu, không múi) nên C đúng.",
+      "explanation": "Đề gạch cả A và C. Giáo trình PHTL (Bài 6, mục 2.1.3): theo Berry, chiều cao mặt / chiều cao răng cửa trên = 20/1 nên A (1/20) là câu sai; C đúng (3 loại hình thể: giải phẫu, bán giải phẫu, không giải phẫu).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 48,
@@ -1413,7 +1460,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 49,
@@ -1441,7 +1489,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 50,
@@ -1469,7 +1518,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 53,
@@ -1497,7 +1547,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 54,
@@ -1525,7 +1576,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 55,
@@ -1553,7 +1605,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 56,
@@ -1581,7 +1634,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 57,
@@ -1609,7 +1663,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 58,
@@ -1633,11 +1688,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
-      "explanation": "Đề gạch A và D (hai phương án in trùng nhau), có người khoanh thêm B.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề gạch A và D (in trùng nhau), có người khoanh thêm B. Giáo trình PHTL (Bài 8, mục 1.2.5): thứ tự điều chỉnh là tái lập kích thước dọc → khớp cắn trung tâm → hoàn hảo cắn khớp làm việc và thăng bằng → khớp cắn tới, tức (1) → (3) → (2) → (4).",
+      "aiOriginal": "A. (1) → (3) → (4) → (2)."
     },
     {
       "number": 59,
@@ -1665,7 +1721,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 60,
@@ -1693,7 +1750,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     }
   ]
 }

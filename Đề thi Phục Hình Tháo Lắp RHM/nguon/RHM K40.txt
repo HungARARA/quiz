@@ -162,17 +162,18 @@ C. Nền hàm không khít sát, móc không nằm trong vùng lẹm.
 *D. Thiếu thăng bằng khớp cắn.
 
 Câu 27. Răng hàm trên được chọn theo cấu trúc xương hàm là răng:
-A. Răng cửa giữa
+!A. Răng cửa giữa
 B. Răng cửa bên
 C. Răng nanh
-*D. Răng cối lớn
+?D. Răng cối lớn
+> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30 mục 1.1.1): răng cửa giữa hàm trên được chọn theo cấu trúc xương mặt. Đề RHM K41 (câu 11) và K47 (câu 40) cũng chọn răng cửa giữa.
 
 Câu 28. Răng hàm trên được chọn theo tính tình bệnh nhân là răng:
 A. Răng cửa giữa
 !B. Răng cửa bên
 ?C. Răng nanh
 D. Răng cối lớn
-> Đề khoanh C (răng nanh). Theo kinh điển chọn răng giả: răng cửa giữa theo khuôn mặt, răng cửa bên theo tính tình – giới tính, răng nanh theo tuổi. Bên lề có ghi chú gạch chéo câu 27–28; nên đối chiếu thêm.
+> Giáo trình PHTL (Bài 30, mục 1.1.2): răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân; răng nanh thể hiện ước muốn bản năng và được chọn theo tuổi tác. Đề RHM K41 (câu 12), K46 (câu 18), K47 (câu 41) chọn răng cửa bên.
 
 Câu 29. Kích thước theo chiều ngang của răng cửa giữa hàm trên:
 A. ½ khoảng cách 2 cánh mũi
@@ -188,10 +189,10 @@ D. Tất cả đều sai
 
 Câu 31. Trong trường hợp khoảng cách giữa 2 sống hàm ít, nên chọn răng:
 A. Răng sứ
-*B. Răng nhựa
+!B. Răng nhựa
 C. Răng sứ hàm trên, răng nhựa hàm dưới
-D. Tất cả đều sai
-> Đề gạch B và khoanh D; ghi chú bên lề "nếu ít → R kim loại". Khoảng liên hàm ít thì răng nhựa (mài được) hoặc mặt nhai kim loại là lựa chọn kinh điển.
+?D. Tất cả đều sai
+> Đề khoanh cả B (có gạch) và D, bên lề ghi "nếu ít → R kim loại". Giáo trình PHTL (Bài 6, mục 1.1; Bài 30, mục 1.4): răng sứ lưu giữ kém trong nền nhựa nên cần khoảng cách với hàm đối diện đủ cao; răng nhựa dễ mài, chỉ định khi kích thước dọc thấp. Đề RHM K41 (câu 15) chọn B.
 
 Câu 32. Hình dáng cung hàm trên được sắp theo:
 A. Hình dáng khuôn mặt
@@ -200,10 +201,11 @@ C. Thẩm mỹ
 *D. Tất cả đều đúng
 
 Câu 33. Quỹ đạo răng cửa được xác định:
-*A. Trước khi lên răng trước hàm trên
-B. Trước khi lên răng sau
+?A. Trước khi lên răng trước hàm trên
+!B. Trước khi lên răng sau
 C. Sau khi ghi tương quan tâm
 D. Sau khi vô cung mặt
+> Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án B): quỹ đạo răng cửa được xác định trước khi lên răng sau.
 
 Câu 34. Răng cối hàm dưới có giới hạn:
 A. Cách gối hậu nha 3mm
@@ -246,7 +248,7 @@ Câu 40. Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong
 B. Núm sau răng cửa
 !C. Đường chéo trong
 D. Đường chéo ngoài
-> Đề khoanh A. Vùng Schroder nằm ở khẩu cái hàm trên; với hàm dưới, đường chéo trong mới là yếu tố bất lợi (đề RHM K43 câu 4 chọn C).
+> Giáo trình PHTL (Bài 3, mục 1.2.2): phần tử bất lợi của hàm dưới là nơi bám của cơ, dây chằng và đường chéo trong; vùng Schroder thuộc khẩu cái hàm trên. Đề RHM K43 (câu 4) chọn C.
 
 Câu 41. Mặt phẳng Camper là:
 A. Mặt phẳng đi ngang qua hai điểm tragus và điểm giữa mũi
@@ -271,7 +273,7 @@ A. R12
 B. R11
 *C. R28
 D. R48
-> Hệ số nhai theo Oxman: răng cửa giữa trên 2, cửa bên trên 1, cối lớn thứ 3 hàm trên 3, cối lớn thứ 3 hàm dưới 3 (ghi chú tay trong đề: 2 1 1 3 5 5 3 – 1 1 1 3 5 5 3). R28 và R48 cùng hệ số 3; đề khoanh C.
+> Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → B, C, D bằng nhau, câu hỏi có vấn đề. Đề khoanh C (đề RHM K41 câu 5 cũng khoanh C).
 
 Câu 45. Phân loại mất răng theo Kennedy (xem hình):
 [hinh: 7 0.075 0.247 0.29 0.366]
@@ -333,18 +335,18 @@ B. Đứng phía sau bên trái bệnh nhân
 D. Đứng phía trước bên trái bệnh nhân
 
 Câu 54. Chọn phát biểu đúng về kỹ thuật lấy dấu bằng Alginate:
-A. Đặt khay lấy dấu vào cung hàm, ấn từ trước ra sau cho Alginate tràn ra khỏi khay. Đồng thời cho bệnh nhân cử động môi
-*B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu
+!A. Đặt khay lấy dấu vào cung hàm, ấn từ trước ra sau cho Alginate tràn ra khỏi khay. Đồng thời cho bệnh nhân cử động môi
+?B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu
 C. Khay lấy dấu được lấy ra khỏi miệng khi Alginate vừa đông để dễ dàng lấy dấu ra khỏi miệng. Tránh để alginate cứng quá vì sẽ khó lấy ra khỏi vùng lẹm.
 D. Khay được giữ yên bằng hai ngón trỏ và gia tăng áp lực đè lên răng trong thời gian chờ Alginate đông cứng hoàn toàn.
-> Đề khoanh B; phương án D bị gạch và đánh dấu hỏi.
+> Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước cho alginate tràn và lấp đầy đáy hành lang, yêu cầu bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy khay ra khi alginate đông cứng hoàn toàn. Phương án B (ấn nhẹ tránh đau, giữ yên để khỏi biến dạng dấu) chính là các ý sai trong câu tự lượng giá Bài 4; C, D cũng trái giáo trình. A đúng ý cho bệnh nhân cử động môi, dù đề in "ấn từ trước ra sau" (giáo trình: từ sau ra trước). Đề RHM K41 (câu 60) khoanh A.
 
 Câu 55. Để thạch cao không chui xuống dưới lớp sáp khi vô khuôn:
 A. Ngâm mẫu hàm cho ướt
 *B. Dán mép nền sáp vào mẫu thạch cao
 C. Cách ly bằng vaselin
 D. Tất cả đều đúng
-> Đề RHM K43 (câu 26, cùng câu hỏi) gạch D "Tất cả đều đúng".
+> Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án B): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp.
 
 Câu 56. Khi dội sáp, ta cần ngâm khuôn vào nước sôi trong:
 *A. 5 – 10 phút
@@ -353,10 +355,11 @@ C. 15 – 20 phút
 D. 30 phút
 
 Câu 57. Khi vô khuôn ta thoa vaselin lên bề mặt thạch cao có tác dụng:
-A. Cách ly thạch cao với thạch cao
+!A. Cách ly thạch cao với thạch cao
 B. Cách ly răng và thạch cao
 C. Cách ly thạch cao với khuôn
-*D. Tất cả đều đúng
+?D. Tất cả đều đúng
+> Giáo trình PHTL (Bài 7, mục 2.1.3): khi thạch cao phần đáy khuôn đã cứng, thoa vaseline lên mặt thạch cao để cách ly với lớp thạch cao phần trên khuôn; giáo trình không có ý vaseline cách ly răng và thạch cao. Đề RHM K41 (câu 23), K43 (câu 27), K45 (câu 54) chọn A.
 
 Câu 58. Thời gian và nhiệt độ của nấu nhựa theo cách chậm:
 A. Nấu từ nước nguội đến 74° trong 9 giờ
@@ -373,5 +376,6 @@ D. Không cho nhựa dính vào răng
 Câu 60. Tripolo có tác dụng:
 A. Loại bỏ thạch cao dính trên hàm nhựa
 B. Làm nhẵn mịn hàm nhựa
-C. Đánh bóng hàm nhựa
-*D. Tất cả đều đúng
+!C. Đánh bóng hàm nhựa
+?D. Tất cả đều đúng
+> Giáo trình PHTL (Bài 7, mục 2.8.5 và câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng lần cuối cho hàm giả láng, bóng.

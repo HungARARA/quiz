@@ -20,7 +20,7 @@ A. Xoang V
 ?B. Xoang IV
 !C. Xoang VI
 D. Xoang II
-> Đề khoanh B (xoang IV). Theo phân loại Black – Simon, sâu ở cạnh cắn răng trước / đỉnh múi răng sau là xoang VI; xoang IV là sâu mặt bên răng trước có tổn thương góc cắn (xem câu 14).
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.2): phân loại G.V. Black cải tiến bổ sung loại VI — sâu ở cạnh cắn các răng trước, đỉnh múi các răng sau; loại IV là sâu mặt bên răng cửa, răng nanh có ảnh hưởng góc cắn.
 
 Câu 4. Lớp men dày nhất ở:
 *A. Múi răng cối lớn
@@ -39,7 +39,7 @@ Câu 6. Sâu cổ mặt ngoài răng cối lớn hàm dưới:
 B. Xoang I
 !C. Xoang V
 D. Xoang II
-> Đề khoanh A (xoang VI). Sâu ở 1/3 cổ răng mặt ngoài/mặt trong là xoang V theo phân loại Black.
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.2): loại V là sâu ở 1/3 phía nướu của mặt ngoài hoặc mặt trong của tất cả các răng; loại VI là cạnh cắn răng trước, đỉnh múi răng sau.
 
 Câu 7. Đặc điểm của sâu men:
 A. Không thể hoàn nguyên
@@ -80,9 +80,9 @@ D. Xoang I
 Câu 13. Ngăn ngừa mòn răng:
 A. Chải răng ngay sau khi ăn uống thức ăn có tính acid
 B. Không dùng kem chải răng
-C. Chải răng sau 30 phút khi ăn uống thức ăn có tính acid
-*D. Làm máng nhai cho bệnh nhân trào ngược dạ dày
-> Đề khoanh D. Phương án C (chải răng sau ăn đồ acid khoảng 30 phút) cũng là khuyến cáo đúng — đề RHM K48 câu 67 chọn ý này.
+!C. Chải răng sau 30 phút khi ăn uống thức ăn có tính acid
+?D. Làm máng nhai cho bệnh nhân trào ngược dạ dày
+> Giáo trình Sâu Răng Học (Bài 10, mục 5.2.1): máng nhai ban đêm dùng cho cơ mòn do nghiến răng, không phải cho trào ngược; xói mòn do acid cần loại bỏ nguyên nhân. Chải răng sau khi ăn uống đồ acid khoảng 30 phút là khuyến cáo đúng (đáp án chính thức đề RHM K48 câu 67: chải răng sau ăn 30–40 phút).
 
 Câu 14. Răng nanh bị sâu góc cắn:
 A. Xoang VI
@@ -95,7 +95,7 @@ A. Răng trước thường bị sâu nhiều hơn răng sau
 B. Răng cối hàm trên thường dễ bị sâu hơn hàm dưới
 ?C. Xảy ra ngẫu nhiên, không đối xứng
 !D. Xảy ra ở các mặt răng kề nhau, đối xứng hai bên
-> Đề khoanh C. Về dịch tễ, sâu răng có tính đối xứng hai bên cung hàm và hay gặp ở các mặt răng kề nhau, nên D hợp lý hơn.
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.2): sâu răng thường xảy ra ở các mặt răng kề nhau và đối xứng hai bên; răng sau bị nhiều hơn răng trước, răng cối hàm dưới dễ bị hơn hàm trên.
 
 Câu 16. Acid sinh ra do quá trình chuyển hoá của vi khuẩn có vai trò quan trọng trong bệnh nguyên sâu răng:
 *A. Acid lactic
@@ -111,10 +111,10 @@ D. Sâu răng nguyên phát
 
 Câu 18. Loại sâu răng có thể là hậu quả của bệnh nha chu:
 A. Sâu mặt láng
-B. Sâu chân răng
-*C. Sâu cổ răng
+!B. Sâu chân răng
+?C. Sâu cổ răng
 D. Sâu kẽ răng
-> Đề khoanh C. Lưu ý: bệnh nha chu gây tụt nướu, lộ chân răng nên sâu chân răng (B) cũng hay được coi là hậu quả.
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.1 và câu lượng giá 8): sâu chân răng thường là hậu quả của bệnh nha chu khi chân răng tiếp xúc với môi trường miệng. Đề RHM K43 (câu 43), K45, K46 (câu 13) chọn sâu chân răng.
 
 Câu 19. Sâu men hố rãnh có dạng:
 A. Hình nón, đáy ở phía bên
@@ -154,9 +154,10 @@ D. Tất cả đúng
 
 Câu 25. Vùng ngà bị phá huỷ là vùng:
 A. Vùng 3
-B. Vùng 5
-*C. Vùng 1
+!B. Vùng 5
+?C. Vùng 1
 D. Vùng 4
+> Giáo trình Sâu Răng Học (Bài 5, Hình 5.12) chia sâu ngà 5 vùng, đánh số từ phía tủy ra: (1) thoái hóa sợi Tomes, (2) ngà xơ hóa, (3) ngà bị ảnh hưởng (khử khoáng một phần), (4) ngà thâm nhiễm vi khuẩn, (5) ngà bị phá hủy → ngà bị phá hủy là vùng 5. Đáp án khoanh (vùng 1) khớp với cách chia 4 vùng cũ, đánh số từ ngoài vào.
 
 Câu 26. Ngà sơ cấp:
 *A. Được tạo ra trước khi răng mọc
@@ -183,17 +184,18 @@ C. 7 thành
 *D. 8 thành
 
 Câu 30. Vùng mô học của sâu ngà gồm:
-A. 5 vùng
+!A. 5 vùng
 B. 2 vùng
-*C. 4 vùng
+?C. 4 vùng
 D. 3 vùng
+> Giáo trình Sâu Răng Học (Bài 5, Hình 5.12): sâu ngà có 5 vùng mô học — (1) thoái hóa sợi Tomes, (2) ngà xơ hóa, (3) ngà bị ảnh hưởng, (4) ngà thâm nhiễm, (5) ngà bị phá hủy. Đáp án khoanh (4 vùng) theo cách chia cũ.
 
 Câu 31. Để chẩn đoán đúng tình trạng sâu răng, khi thăm khám cần:
 A. Thổi khô bề mặt răng
 *B. Làm sạch bề mặt răng
 C. Làm ướt bề mặt răng
 D. Không làm gì cả
-> Đề RHM K45 (câu 17) có phương án "Lau khô bề mặt răng" và chọn ý đó; theo ICDAS cần làm sạch rồi thổi khô.
+> Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả làm sạch lẫn thổi khô đều cần. Đề RHM K45, K46 (câu 17) bỏ ý "làm sạch" và chọn "Lau khô bề mặt răng".
 
 Câu 32. Tỉ lệ chất vô cơ của ngà răng và men răng lần lượt là:
 A. 85% và 90%
@@ -218,7 +220,7 @@ A. Kháng nước hoàn toàn
 B. Kị nước
 *C. Bôi vaseline, varnish giúp kháng nước
 D. Tan trong nước khi chưa đông cứng hoàn toàn
-> Đề RHM K45 (câu 21) chọn "Tan trong nước khi chưa đông cứng hoàn toàn" (D).
+> Giáo trình Sâu Răng Học (Bài 7, mục 1.3): sau khi gỡ khuôn, bôi vaseline ngay để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng hoàn toàn — đề RHM K45, K46 (câu 21) đổi phương án C và chọn ý này.
 
 Câu 36. Mòn răng do chải răng không đúng cách:
 *A. Tổn thương có dạng hình chêm
@@ -239,18 +241,18 @@ C. Xoang II kép, sâu ngà sâu
 D. Xoang II, sâu ngà nông
 
 Câu 39. Màu sắc mô răng không phụ thuộc vào:
-A. Vệ sinh răng miệng định kì
+!A. Vệ sinh răng miệng định kì
 B. Độ khoáng hoá canxi
 C. Di truyền
-*D. Tính thấm men ngà
-> Đề RHM K43 (câu 54) và K45 (câu 24) chọn ý "vệ sinh / chải răng" (A).
+?D. Tính thấm men ngà
+> Đề RHM K43 (câu 54, cùng phương án) đã gạch D và khoanh lại A; đề RHM K45, K46 (câu 24) cũng chọn ý "chải răng/vệ sinh". Màu răng phụ thuộc mức khoáng hóa, di truyền, độ thấm và độ trong của men ngà, không phụ thuộc việc vệ sinh định kỳ.
 
 Câu 40. Sâu hố rãnh:
 A. Kích thước thật sự luôn nhỏ hơn kích thước nhìn thấy được
 B. Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự
 *C. Tổn thương có dạng chữ A
 D. Kích thước nhìn thấy được chính là kích thước thật sự
-> Đề RHM K45 (câu 25) chọn "Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự" (B).
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.1): tổn thương sâu hố rãnh trong lớp men có dạng chữ V ngược (giống chữ A); "kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật" (B) cũng là câu nguyên văn giáo trình. Đề RHM K45, K46 (câu 25) đổi C thành "chữ U" và chọn B.
 
 Câu 41. Sâu răng thường gặp ở trẻ em dưới 6 tuổi:
 A. Sâu răng ẩn mình, sâu răng bú bình
@@ -263,7 +265,7 @@ Câu 42. Hệ thống ICDAS có mấy thang điểm:
 B. 5
 ?C. 6
 D. 4
-> Đề khoanh C (6). ICDAS II có 7 mã điểm từ 0 đến 6, nên đáp án là 7 (đề RHM K43 câu 57 cũng chọn 7).
+> Giáo trình Sâu Răng Học (Bài 5, Bảng 5.3): ICDAS có các thang điểm 0 đến 6, tức 7 mức. Đề RHM K43 (câu 57) chọn 7.
 
 Câu 43. Bước đầu tiên của tạo xoang:
 A. Tạo hình thể thuận tiện
@@ -285,10 +287,10 @@ D. Xoang I kép
 
 Câu 46. Tuỷ thường thu hẹp lại ở:
 A. Răng người trẻ
-*B. Răng người già
+?B. Răng người già
 C. Răng bệnh lý
-D. B và C đúng
-> Đề RHM K43 (câu 60) và K45 (câu 30) chọn D (B và C đúng).
+!D. B và C đúng
+> Giáo trình Sâu Răng Học (Bài 6, mục 1.2–1.3): buồng tủy hẹp dần theo tuổi do ngà thứ cấp sinh lý, và ngà phản ứng (ngà thứ cấp bệnh lý) thành lập ở vùng bị kích thích như sâu răng, chấn thương → cả B và C. Đề RHM K43 (câu 60), K45, K46 (câu 30) chọn D.
 
 Câu 47. Sâu răng ngưng tiến triển:
 A. Ngà phản ứng không kịp thành lập
@@ -345,10 +347,11 @@ C. Do thay đổi nhiệt độ
 *D. Chất lỏng trong ống ngà dịch chuyển
 
 Câu 56. Vùng ngà xơ hoá:
-*A. Vùng 4
-B. Vùng 2
+?A. Vùng 4
+!B. Vùng 2
 C. Vùng 3
 D. Vùng 1
+> Giáo trình Sâu Răng Học (Bài 5, Hình 5.12) chia sâu ngà 5 vùng, đánh số từ phía tủy ra: (1) thoái hóa sợi Tomes, (2) ngà xơ hóa, (3) ngà bị ảnh hưởng, (4) ngà thâm nhiễm, (5) ngà bị phá hủy → ngà xơ hóa là vùng 2. Đáp án khoanh (vùng 4) theo cách chia 4 vùng cũ, đánh số từ ngoài vào.
 
 Câu 57. Men răng sữa:
 *A. Mềm hơn men răng vĩnh viễn
@@ -358,9 +361,10 @@ D. Cứng hơn men răng vĩnh viễn
 
 Câu 58. Ngưỡng giữa bệnh tật và sức khoẻ là:
 A. Giữa D3 và D4
-B. Giữa D2 và D3
+!B. Giữa D2 và D3
 C. Giữa D2 và D1
-*D. Giữa D1 và D0
+?D. Giữa D1 và D0
+> Giáo trình Sâu Răng Học (Bài 5, Hình 5.13 – mô hình tảng băng của Pitts): đường mặt nước, tức ngưỡng giữa bệnh tật và sức khỏe, nằm giữa D2 và D3; D3, D4 trên mặt nước cần tạo xoang trám, D1, D2 dưới mặt nước điều trị dự phòng tích cực.
 
 Câu 59. Triệu chứng cơ năng của sâu ngà:
 A. Đau tự phát
@@ -434,4 +438,4 @@ Câu 70. Sâu răng xuất hiện ở cạnh cắn răng cửa giữa hàm trên
 ?B. Xoang IV
 C. Xoang V
 D. Xoang III
-> Đề khoanh B (xoang IV). Theo phân loại Black – Simon, sâu ở cạnh cắn răng trước là xoang VI (giống câu 3).
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.2): sâu ở cạnh cắn răng trước là xoang VI theo phân loại Black cải tiến (giống câu 3).

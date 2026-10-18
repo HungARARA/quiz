@@ -34,7 +34,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 2,
@@ -62,7 +63,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 3,
@@ -90,7 +92,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 4,
@@ -118,7 +121,8 @@
       "explanation": "Đề gạch A rồi khoanh lại D.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 5,
@@ -146,7 +150,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 6,
@@ -174,7 +179,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 7,
@@ -202,7 +208,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 8,
@@ -230,7 +237,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 9,
@@ -258,7 +266,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 10,
@@ -286,7 +295,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 11,
@@ -314,7 +324,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 12,
@@ -342,7 +353,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 13,
@@ -370,7 +382,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 14,
@@ -398,7 +411,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 15,
@@ -426,7 +440,8 @@
       "explanation": "Đề gạch C và khoanh D.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 16,
@@ -454,7 +469,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 17,
@@ -482,7 +498,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 18,
@@ -510,7 +527,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 19,
@@ -538,7 +556,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 20,
@@ -566,7 +585,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 21,
@@ -594,7 +614,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 22,
@@ -622,7 +643,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 23,
@@ -650,7 +672,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 24,
@@ -678,7 +701,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 25,
@@ -706,7 +730,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 26,
@@ -734,7 +759,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 27,
@@ -758,11 +784,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án A; Bài 30 mục 1.1.1): răng cửa giữa hàm trên được chọn theo cấu trúc xương mặt. Đề RHM K41 (câu 11) và K47 (câu 40) cũng chọn răng cửa giữa.",
+      "aiOriginal": "D. Răng cối lớn"
     },
     {
       "number": 28,
@@ -790,7 +817,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh C (răng nanh). Theo kinh điển chọn răng giả: răng cửa giữa theo khuôn mặt, răng cửa bên theo tính tình – giới tính, răng nanh theo tuổi. Bên lề có ghi chú gạch chéo câu 27–28; nên đối chiếu thêm."
+      "aiNote": "Giáo trình PHTL (Bài 30, mục 1.1.2): răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân; răng nanh thể hiện ước muốn bản năng và được chọn theo tuổi tác. Đề RHM K41 (câu 12), K46 (câu 18), K47 (câu 41) chọn răng cửa bên.",
+      "aiOriginal": "C. Răng nanh"
     },
     {
       "number": 29,
@@ -818,7 +846,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 30,
@@ -846,7 +875,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 31,
@@ -871,10 +901,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch B và khoanh D; ghi chú bên lề \"nếu ít → R kim loại\". Khoảng liên hàm ít thì răng nhựa (mài được) hoặc mặt nhai kim loại là lựa chọn kinh điển.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề khoanh cả B (có gạch) và D, bên lề ghi \"nếu ít → R kim loại\". Giáo trình PHTL (Bài 6, mục 1.1; Bài 30, mục 1.4): răng sứ lưu giữ kém trong nền nhựa nên cần khoảng cách với hàm đối diện đủ cao; răng nhựa dễ mài, chỉ định khi kích thước dọc thấp. Đề RHM K41 (câu 15) chọn B.",
+      "aiOriginal": "D. Tất cả đều sai"
     },
     {
       "number": 32,
@@ -902,7 +933,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 33,
@@ -926,11 +958,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án B): quỹ đạo răng cửa được xác định trước khi lên răng sau.",
+      "aiOriginal": "A. Trước khi lên răng trước hàm trên"
     },
     {
       "number": 34,
@@ -958,7 +991,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 35,
@@ -986,7 +1020,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 36,
@@ -1014,7 +1049,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 37,
@@ -1042,7 +1078,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 38,
@@ -1070,7 +1107,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 39,
@@ -1098,7 +1136,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 40,
@@ -1126,7 +1165,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh A. Vùng Schroder nằm ở khẩu cái hàm trên; với hàm dưới, đường chéo trong mới là yếu tố bất lợi (đề RHM K43 câu 4 chọn C)."
+      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): phần tử bất lợi của hàm dưới là nơi bám của cơ, dây chằng và đường chéo trong; vùng Schroder thuộc khẩu cái hàm trên. Đề RHM K43 (câu 4) chọn C.",
+      "aiOriginal": "A. Vùng Schroder"
     },
     {
       "number": 41,
@@ -1154,7 +1194,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 42,
@@ -1182,7 +1223,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 43,
@@ -1210,7 +1252,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 44,
@@ -1235,10 +1278,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Hệ số nhai theo Oxman: răng cửa giữa trên 2, cửa bên trên 1, cối lớn thứ 3 hàm trên 3, cối lớn thứ 3 hàm dưới 3 (ghi chú tay trong đề: 2 1 1 3 5 5 3 – 1 1 1 3 5 5 3). R28 và R48 cùng hệ số 3; đề khoanh C.",
+      "explanation": "Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → B, C, D bằng nhau, câu hỏi có vấn đề. Đề khoanh C (đề RHM K41 câu 5 cũng khoanh C).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 45,
@@ -1275,7 +1319,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 46,
@@ -1312,7 +1357,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 47,
@@ -1349,7 +1395,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 48,
@@ -1386,7 +1433,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 49,
@@ -1423,7 +1471,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 50,
@@ -1451,7 +1500,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 51,
@@ -1479,7 +1529,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 52,
@@ -1507,7 +1558,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 53,
@@ -1535,7 +1587,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 54,
@@ -1559,11 +1612,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
-      "explanation": "Đề khoanh B; phương án D bị gạch và đánh dấu hỏi.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước cho alginate tràn và lấp đầy đáy hành lang, yêu cầu bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy khay ra khi alginate đông cứng hoàn toàn. Phương án B (ấn nhẹ tránh đau, giữ yên để khỏi biến dạng dấu) chính là các ý sai trong câu tự lượng giá Bài 4; C, D cũng trái giáo trình. A đúng ý cho bệnh nhân cử động môi, dù đề in \"ấn từ trước ra sau\" (giáo trình: từ sau ra trước). Đề RHM K41 (câu 60) khoanh A.",
+      "aiOriginal": "B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu"
     },
     {
       "number": 55,
@@ -1588,10 +1642,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề RHM K43 (câu 26, cùng câu hỏi) gạch D \"Tất cả đều đúng\".",
+      "explanation": "Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án B): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 56,
@@ -1619,7 +1674,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 57,
@@ -1643,11 +1699,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): khi thạch cao phần đáy khuôn đã cứng, thoa vaseline lên mặt thạch cao để cách ly với lớp thạch cao phần trên khuôn; giáo trình không có ý vaseline cách ly răng và thạch cao. Đề RHM K41 (câu 23), K43 (câu 27), K45 (câu 54) chọn A.",
+      "aiOriginal": "D. Tất cả đều đúng"
     },
     {
       "number": 58,
@@ -1675,7 +1732,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 59,
@@ -1703,7 +1761,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 60,
@@ -1727,11 +1786,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.8.5 và câu tự lượng giá 7 – đáp án C): Tripoli dùng để đánh bóng lần cuối cho hàm giả láng, bóng.",
+      "aiOriginal": "D. Tất cả đều đúng"
     }
   ]
 }

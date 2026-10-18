@@ -34,7 +34,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 2,
@@ -62,7 +63,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 3,
@@ -90,7 +92,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 4,
@@ -114,11 +117,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.1.2): vùng Schroder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong, nhiều mô mỡ và mô tuyến.",
+      "aiOriginal": "D. Từ răng cối lớn đến đường A"
     },
     {
       "number": 5,
@@ -155,7 +159,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 6,
@@ -192,7 +197,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 7,
@@ -220,7 +226,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 8,
@@ -248,7 +255,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 9,
@@ -276,7 +284,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 10,
@@ -304,7 +313,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 11,
@@ -332,7 +342,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 12,
@@ -360,7 +371,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 13,
@@ -388,7 +400,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 14,
@@ -416,7 +429,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 15,
@@ -441,10 +455,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề RHM K43 (câu 40, cùng câu hỏi) gạch B (5 – 8 mm), có người khoanh thêm C.",
+      "explanation": "Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 16,
@@ -469,10 +484,11 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề RHM K43 (câu 41, cùng câu hỏi) gạch D (5 – 10 mm), có người khoanh thêm A.",
+      "explanation": "Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 17,
@@ -500,7 +516,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 18,
@@ -524,11 +541,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
-      "explanation": "Đề khoanh C. Lưu ý đề RHM K42 (câu 59, sơ đồ gần giống) nghiêng về ưu tiên phục hình cố định vì các khoảng mất răng đều ngắn và có răng trụ hai đầu.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu → phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng (R6 phải, 4 răng cửa, R6 trái) đều ngắn và có răng trụ hai đầu. Đề RHM K47 (câu 7, sơ đồ gần giống) khoanh A.",
+      "aiOriginal": "C. Phục hình tháo lắp bán phần nền nhựa"
     },
     {
       "number": 19,
@@ -553,10 +571,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề khoanh C. Mất răng sau hai bên không còn răng giới hạn phía xa (Kennedy loại I) thì khung bộ cũng là lựa chọn kinh điển.",
+      "explanation": "Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 20,
@@ -584,7 +603,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 21,
@@ -612,7 +632,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 22,
@@ -640,7 +661,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 23,
@@ -668,7 +690,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 24,
@@ -696,7 +719,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 25,
@@ -724,7 +748,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 26,
@@ -752,7 +777,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 27,
@@ -780,7 +806,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 28,
@@ -808,7 +835,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 29,
@@ -836,7 +864,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 30,
@@ -864,7 +893,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 31,
@@ -892,7 +922,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 32,
@@ -920,7 +951,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 33,
@@ -948,7 +980,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 34,
@@ -976,7 +1009,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 35,
@@ -1004,7 +1038,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 36,
@@ -1032,7 +1067,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 37,
@@ -1060,7 +1096,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 38,
@@ -1088,7 +1125,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 39,
@@ -1116,7 +1154,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 40,
@@ -1144,7 +1183,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 41,
@@ -1172,7 +1212,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 42,
@@ -1200,7 +1241,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 43,
@@ -1228,7 +1270,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 44,
@@ -1256,7 +1299,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 45,
@@ -1284,7 +1328,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 46,
@@ -1312,7 +1357,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 47,
@@ -1340,7 +1386,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 48,
@@ -1368,7 +1415,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 49,
@@ -1396,7 +1444,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 50,
@@ -1424,7 +1473,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 51,
@@ -1448,11 +1498,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 1): labo gồm đổ mẫu → làm khay cá nhân (nếu cần) → đổ mẫu sau cùng (nếu cần) → làm nền tạm gối sáp → lên răng → biến đổi sáp thành nhựa. Nền tạm gối sáp là bước bắt buộc nên C (bỏ nền tạm gối sáp) sai; A đủ các bước bắt buộc, đúng thứ tự.",
+      "aiOriginal": "C. Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa"
     },
     {
       "number": 52,
@@ -1480,7 +1531,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 53,
@@ -1508,7 +1560,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 54,
@@ -1536,7 +1589,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 55,
@@ -1564,7 +1618,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 56,
@@ -1592,7 +1647,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 57,
@@ -1620,7 +1676,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 58,
@@ -1648,7 +1705,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 59,
@@ -1676,7 +1734,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 60,
@@ -1704,7 +1763,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     }
   ]
 }

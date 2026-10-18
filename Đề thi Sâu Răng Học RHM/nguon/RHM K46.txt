@@ -28,11 +28,11 @@ C. Cạnh cắn răng cửa
 D. Mặt bên của răng
 
 Câu 5. Mô răng có ánh đen bên dưới lớp men ở vị trí mặt phía xa răng cửa bên hàm dưới, là sang thương sâu răng:
-A. Xoang III
+!A. Xoang III
 B. Xoang I
 C. Xoang V
-*D. Xoang II
-> Đề khoanh D. Sâu mặt bên (gần/xa) của RĂNG CỬA là xoang III theo Black; xoang II chỉ dành cho mặt bên răng sau. Câu này có thể chép lại từ đề RHM K45 (câu 5 hỏi răng cối lớn) nên đáp án khoanh chưa sửa theo.
+?D. Xoang II
+> Giáo trình Sâu Răng Học (Bài 5, mục 1.2): loại II là mặt bên răng cối nhỏ và cối lớn; loại III là mặt bên răng cửa và răng nanh không ảnh hưởng góc cắn → mặt xa răng cửa bên là xoang III. Câu này có thể chép từ đề RHM K45 (câu 5 hỏi răng cối lớn) nên đáp án khoanh chưa sửa theo.
 
 Câu 6. Đặc điểm của sâu men:
 A. Không thể tái khoáng ở giai đoạn sớm
@@ -51,7 +51,7 @@ A. Hình thái, giải phẫu dị dạng của răng
 B. Vị trí mặt răng
 ?C. Sự trưởng thành của răng sau khi mọc
 !D. Số lượng răng mọc
-> Đề khoanh C. Sự trưởng thành sau mọc (men non của răng mới mọc) chính là yếu tố LÀM TĂNG nhạy cảm sâu răng; đề RHM K45 (câu 8, cùng câu hỏi) khoanh "Số lượng răng".
+> Giáo trình Sâu Răng Học (Bài 1, mục 1.2.3): sự trưởng thành của răng sau khi mọc ảnh hưởng nhiều đến khả năng đề kháng — men răng mới mọc chứa nhiều carbonate, dễ bị acid hòa tan — nên đây là yếu tố LÀM TĂNG nhạy cảm. Đề RHM K45 (câu 8, cùng câu hỏi) khoanh "Số lượng răng".
 
 Câu 9. Sâu giới hạn ở hố mặt ngoài răng cối lớn hàm dưới là loại sâu răng:
 *A. Xoang I
@@ -94,6 +94,7 @@ A. 1 ngày
 B. 1 tuần
 *C. 3 tháng
 D. 15 ngày
+> Giáo trình Sâu Răng Học (Bài 9, mục 3.1 và theo dõi): khoảng 4 tuần sau che tủy trực tiếp chụp phim có thể quan sát thấy cầu ngà; sau 3 tháng làm thử nghiệm độ sống tủy. Đề không có phương án 4 tuần, khoanh 3 tháng.
 
 Câu 16. Ngà sơ cấp:
 *A. Được tạo ra trước khi răng mọc

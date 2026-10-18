@@ -785,6 +785,7 @@ function buildQuiz() {
       ai: q.ai || false,
       aiCheck: q.aiCheck || false,
       aiNote: q.aiNote || null,
+      aiOriginal: q.aiOriginal || null,
       options,
       correctIndex,
     };
@@ -806,8 +807,8 @@ function hasAnswerKey(q) {
 function aiBadgeHtml(q) {
   if (!q.ai) return "";
   return q.aiCheck
-    ? `<span class="ai-badge warn" title="AI chọn khác với gợi ý của ngân hàng đề — nên kiểm tra lại câu này">
-         🤖 ( AI làm đáp án ) ⚠️ nên kiểm tra
+    ? `<span class="ai-badge warn" title="${q.aiOriginal ? "AI chọn khác đáp án khoanh trong đề gốc" : "AI chọn khác với gợi ý của ngân hàng đề"} — nên kiểm tra lại câu này">
+         🤖 ( AI làm đáp án${q.aiOriginal ? ", khác đề gốc" : ""} ) ⚠️ nên kiểm tra
        </span>`
     : `<span class="ai-badge" title="Đáp án do AI suy luận, không lấy từ ngân hàng đề">
          🤖 ( AI làm đáp án )
@@ -817,9 +818,13 @@ function aiBadgeHtml(q) {
 /* Lý do AI chọn đáp án đó - chỉ hiện khi đã chấm bài / xem lại */
 function aiNoteHtml(q) {
   if (!q.ai || !q.aiNote) return "";
-  const warn = q.aiCheck
-    ? `<div class="ai-note-warn">⚠️ Đáp án này KHÁC gợi ý của ngân hàng đề — nên tra lại sách trước khi tin.</div>`
-    : "";
+  // Đề scan có đáp án khoanh sẵn ("B. Xoang IV"): nêu nội dung trước vì web đã đảo thứ tự phương án
+  const original = q.aiOriginal ? q.aiOriginal.match(/^([A-F])\.\s*(.*)$/) : null;
+  const warn = !q.aiCheck
+    ? ""
+    : original
+      ? `<div class="ai-note-warn">⚠️ Đề gốc khoanh <strong>“${escapeHtml(original[2])}”</strong> (phương án ${original[1]} trong đề gốc) — AI chọn đáp án khác, nên tra lại sách trước khi tin.</div>`
+      : `<div class="ai-note-warn">⚠️ Đáp án này KHÁC gợi ý của ngân hàng đề — nên tra lại sách trước khi tin.</div>`;
   return `
     <div class="ai-note-box${q.aiCheck ? " warn" : ""}">
       <strong>🤖 AI lý giải:</strong> ${escapeHtml(q.aiNote)}
@@ -1537,6 +1542,7 @@ function retryWrongOnly() {
     ai: q.ai,
     aiCheck: q.aiCheck,
     aiNote: q.aiNote,
+    aiOriginal: q.aiOriginal,
   }));
 
   // Bỏ giới hạn số câu để làm hết các câu sai

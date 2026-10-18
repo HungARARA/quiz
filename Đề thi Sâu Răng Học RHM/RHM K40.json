@@ -34,7 +34,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 2,
@@ -62,7 +63,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 3,
@@ -90,7 +92,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh B (xoang IV). Theo phân loại Black – Simon, sâu ở cạnh cắn răng trước / đỉnh múi răng sau là xoang VI; xoang IV là sâu mặt bên răng trước có tổn thương góc cắn (xem câu 14)."
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.2): phân loại G.V. Black cải tiến bổ sung loại VI — sâu ở cạnh cắn các răng trước, đỉnh múi các răng sau; loại IV là sâu mặt bên răng cửa, răng nanh có ảnh hưởng góc cắn.",
+      "aiOriginal": "B. Xoang IV"
     },
     {
       "number": 4,
@@ -118,7 +121,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 5,
@@ -146,7 +150,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 6,
@@ -174,7 +179,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh A (xoang VI). Sâu ở 1/3 cổ răng mặt ngoài/mặt trong là xoang V theo phân loại Black."
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.2): loại V là sâu ở 1/3 phía nướu của mặt ngoài hoặc mặt trong của tất cả các răng; loại VI là cạnh cắn răng trước, đỉnh múi răng sau.",
+      "aiOriginal": "A. Xoang VI"
     },
     {
       "number": 7,
@@ -202,7 +208,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 8,
@@ -230,7 +237,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 9,
@@ -258,7 +266,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 10,
@@ -286,7 +295,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 11,
@@ -314,7 +324,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 12,
@@ -342,7 +353,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 13,
@@ -366,11 +378,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
-      "explanation": "Đề khoanh D. Phương án C (chải răng sau ăn đồ acid khoảng 30 phút) cũng là khuyến cáo đúng — đề RHM K48 câu 67 chọn ý này.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 10, mục 5.2.1): máng nhai ban đêm dùng cho cơ mòn do nghiến răng, không phải cho trào ngược; xói mòn do acid cần loại bỏ nguyên nhân. Chải răng sau khi ăn uống đồ acid khoảng 30 phút là khuyến cáo đúng (đáp án chính thức đề RHM K48 câu 67: chải răng sau ăn 30–40 phút).",
+      "aiOriginal": "D. Làm máng nhai cho bệnh nhân trào ngược dạ dày"
     },
     {
       "number": 14,
@@ -398,7 +411,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 15,
@@ -426,7 +440,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh C. Về dịch tễ, sâu răng có tính đối xứng hai bên cung hàm và hay gặp ở các mặt răng kề nhau, nên D hợp lý hơn."
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.2): sâu răng thường xảy ra ở các mặt răng kề nhau và đối xứng hai bên; răng sau bị nhiều hơn răng trước, răng cối hàm dưới dễ bị hơn hàm trên.",
+      "aiOriginal": "C. Xảy ra ngẫu nhiên, không đối xứng"
     },
     {
       "number": 16,
@@ -454,7 +469,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 17,
@@ -482,7 +498,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 18,
@@ -506,11 +523,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
-      "explanation": "Đề khoanh C. Lưu ý: bệnh nha chu gây tụt nướu, lộ chân răng nên sâu chân răng (B) cũng hay được coi là hậu quả.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1 và câu lượng giá 8): sâu chân răng thường là hậu quả của bệnh nha chu khi chân răng tiếp xúc với môi trường miệng. Đề RHM K43 (câu 43), K45, K46 (câu 13) chọn sâu chân răng.",
+      "aiOriginal": "C. Sâu cổ răng"
     },
     {
       "number": 19,
@@ -538,7 +556,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 20,
@@ -566,7 +585,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 21,
@@ -594,7 +614,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 22,
@@ -622,7 +643,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 23,
@@ -650,7 +672,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 24,
@@ -678,7 +701,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 25,
@@ -702,11 +726,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, Hình 5.12) chia sâu ngà 5 vùng, đánh số từ phía tủy ra: (1) thoái hóa sợi Tomes, (2) ngà xơ hóa, (3) ngà bị ảnh hưởng (khử khoáng một phần), (4) ngà thâm nhiễm vi khuẩn, (5) ngà bị phá hủy → ngà bị phá hủy là vùng 5. Đáp án khoanh (vùng 1) khớp với cách chia 4 vùng cũ, đánh số từ ngoài vào.",
+      "aiOriginal": "C. Vùng 1"
     },
     {
       "number": 26,
@@ -734,7 +759,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 27,
@@ -762,7 +788,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 28,
@@ -790,7 +817,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 29,
@@ -818,7 +846,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 30,
@@ -842,11 +871,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, Hình 5.12): sâu ngà có 5 vùng mô học — (1) thoái hóa sợi Tomes, (2) ngà xơ hóa, (3) ngà bị ảnh hưởng, (4) ngà thâm nhiễm, (5) ngà bị phá hủy. Đáp án khoanh (4 vùng) theo cách chia cũ.",
+      "aiOriginal": "C. 4 vùng"
     },
     {
       "number": 31,
@@ -871,10 +901,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề RHM K45 (câu 17) có phương án \"Lau khô bề mặt răng\" và chọn ý đó; theo ICDAS cần làm sạch rồi thổi khô.",
+      "explanation": "Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả làm sạch lẫn thổi khô đều cần. Đề RHM K45, K46 (câu 17) bỏ ý \"làm sạch\" và chọn \"Lau khô bề mặt răng\".",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 32,
@@ -902,7 +933,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 33,
@@ -930,7 +962,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 34,
@@ -958,7 +991,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 35,
@@ -983,10 +1017,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề RHM K45 (câu 21) chọn \"Tan trong nước khi chưa đông cứng hoàn toàn\" (D).",
+      "explanation": "Giáo trình Sâu Răng Học (Bài 7, mục 1.3): sau khi gỡ khuôn, bôi vaseline ngay để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng hoàn toàn — đề RHM K45, K46 (câu 21) đổi phương án C và chọn ý này.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 36,
@@ -1014,7 +1049,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 37,
@@ -1042,7 +1078,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 38,
@@ -1070,7 +1107,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 39,
@@ -1094,11 +1132,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
-      "explanation": "Đề RHM K43 (câu 54) và K45 (câu 24) chọn ý \"vệ sinh / chải răng\" (A).",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Đề RHM K43 (câu 54, cùng phương án) đã gạch D và khoanh lại A; đề RHM K45, K46 (câu 24) cũng chọn ý \"chải răng/vệ sinh\". Màu răng phụ thuộc mức khoáng hóa, di truyền, độ thấm và độ trong của men ngà, không phụ thuộc việc vệ sinh định kỳ.",
+      "aiOriginal": "D. Tính thấm men ngà"
     },
     {
       "number": 40,
@@ -1123,10 +1162,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề RHM K45 (câu 25) chọn \"Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự\" (B).",
+      "explanation": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1): tổn thương sâu hố rãnh trong lớp men có dạng chữ V ngược (giống chữ A); \"kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật\" (B) cũng là câu nguyên văn giáo trình. Đề RHM K45, K46 (câu 25) đổi C thành \"chữ U\" và chọn B.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 41,
@@ -1154,7 +1194,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 42,
@@ -1182,7 +1223,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh C (6). ICDAS II có 7 mã điểm từ 0 đến 6, nên đáp án là 7 (đề RHM K43 câu 57 cũng chọn 7)."
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, Bảng 5.3): ICDAS có các thang điểm 0 đến 6, tức 7 mức. Đề RHM K43 (câu 57) chọn 7.",
+      "aiOriginal": "C. 6"
     },
     {
       "number": 43,
@@ -1210,7 +1252,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 44,
@@ -1238,7 +1281,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 45,
@@ -1266,7 +1310,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 46,
@@ -1290,11 +1335,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
-      "explanation": "Đề RHM K43 (câu 60) và K45 (câu 30) chọn D (B và C đúng).",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 6, mục 1.2–1.3): buồng tủy hẹp dần theo tuổi do ngà thứ cấp sinh lý, và ngà phản ứng (ngà thứ cấp bệnh lý) thành lập ở vùng bị kích thích như sâu răng, chấn thương → cả B và C. Đề RHM K43 (câu 60), K45, K46 (câu 30) chọn D.",
+      "aiOriginal": "B. Răng người già"
     },
     {
       "number": 47,
@@ -1322,7 +1368,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 48,
@@ -1350,7 +1397,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 49,
@@ -1378,7 +1426,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 50,
@@ -1406,7 +1455,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 51,
@@ -1434,7 +1484,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 52,
@@ -1462,7 +1513,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 53,
@@ -1490,7 +1542,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 54,
@@ -1518,7 +1571,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 55,
@@ -1546,7 +1600,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 56,
@@ -1570,11 +1625,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, Hình 5.12) chia sâu ngà 5 vùng, đánh số từ phía tủy ra: (1) thoái hóa sợi Tomes, (2) ngà xơ hóa, (3) ngà bị ảnh hưởng, (4) ngà thâm nhiễm, (5) ngà bị phá hủy → ngà xơ hóa là vùng 2. Đáp án khoanh (vùng 4) theo cách chia 4 vùng cũ, đánh số từ ngoài vào.",
+      "aiOriginal": "A. Vùng 4"
     },
     {
       "number": 57,
@@ -1602,7 +1658,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 58,
@@ -1626,11 +1683,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, Hình 5.13 – mô hình tảng băng của Pitts): đường mặt nước, tức ngưỡng giữa bệnh tật và sức khỏe, nằm giữa D2 và D3; D3, D4 trên mặt nước cần tạo xoang trám, D1, D2 dưới mặt nước điều trị dự phòng tích cực.",
+      "aiOriginal": "D. Giữa D1 và D0"
     },
     {
       "number": 59,
@@ -1658,7 +1716,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 60,
@@ -1686,7 +1745,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 61,
@@ -1714,7 +1774,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 62,
@@ -1742,7 +1803,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 63,
@@ -1770,7 +1832,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 64,
@@ -1798,7 +1861,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 65,
@@ -1826,7 +1890,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 66,
@@ -1854,7 +1919,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 67,
@@ -1882,7 +1948,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 68,
@@ -1910,7 +1977,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 69,
@@ -1938,7 +2006,8 @@
       "explanation": "Lưu ý: saccharose chính là tên gọi khác của sucrose; đề khoanh B.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 70,
@@ -1966,7 +2035,8 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh B (xoang IV). Theo phân loại Black – Simon, sâu ở cạnh cắn răng trước là xoang VI (giống câu 3)."
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.2): sâu ở cạnh cắn răng trước là xoang VI theo phân loại Black cải tiến (giống câu 3).",
+      "aiOriginal": "B. Xoang IV"
     }
   ]
 }

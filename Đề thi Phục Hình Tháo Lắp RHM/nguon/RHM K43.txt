@@ -26,7 +26,7 @@ A. Vùng Schroder.
 B. Núm sau răng cửa.
 *C. Đường chéo trong.
 D. Đường chéo ngoài.
-> Đề RHM K40 (câu 40, cùng câu hỏi) khoanh A "Vùng Schroder"; vùng Schroder nằm ở khẩu cái hàm trên nên C hợp lý hơn cho hàm dưới.
+> Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K40 (câu 40) khoanh A nhưng vùng Schroder thuộc khẩu cái hàm trên.
 
 Câu 5. Mặt phẳng Camper là:
 A. Mặt phẳng đi ngang qua hai điểm tragus và điểm giữa mũi.
@@ -94,6 +94,7 @@ Câu 14. Theo phân loại Kennedy, sơ đồ sau đây mất răng loại nào?
 B. Loại IV.
 C. Loại V.
 D. Loại VI.
+> Giáo trình PHTL (Bài 3) có thêm loại VI: mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng. Ở đây còn răng 8 hai bên giới hạn phía xa nên theo 4 loại căn bản vẫn là loại III, biến thể 1; khi không còn răng 8 thì xếp loại VI (đề RHM K47 câu 17).
 
 Câu 15. Theo phân loại Kennedy, sơ đồ sau đây mất răng loại nào? 7 x x 4 3 2 x 1 | x 3 x x 6 7 (đề in thiếu số; người làm đánh số 1, 2, 3 trên các khoảng mất răng phụ)
 A. Loại III, biến thể 2.
@@ -108,7 +109,7 @@ Câu 16. Theo phân loại Applegate, mô hình sau đây mất răng loại nà
 B. Loại IV.
 !C. Loại V.
 D. Loại VI.
-> Đề gạch A nhưng có dấu ✓ cạnh C. Khoảng mất răng dài, giới hạn phía trước bằng răng cửa (yếu, khó làm trụ) → Applegate loại V (xem câu 18). Cùng hình ở câu 12 thì theo Kennedy là loại III.
+> Đề gạch A nhưng có dấu ✓ cạnh C. Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại V có vùng mất răng giới hạn phía trước bằng một răng cửa yếu, chân răng nhỏ ngắn — khớp với hình (khoảng mất răng dài, răng giới hạn phía trước là răng cửa). Cùng hình ở câu 12 thì theo Kennedy là loại III.
 
 Câu 17. Trong 6 phân loại mất răng của Applegate, loại mất răng đơn giản và thường gặp nhất là:
 A. Loại I.
@@ -159,17 +160,18 @@ C. Khay bị thiếu đáy hành lang thì nên đắp thêm sáp.
 D. Khay bị dư đáy hành lang thì mài bớt sao cho cách đáy hành lang 3mm.
 
 Câu 25. Phát biểu đúng về kỹ thuật lấy dấu bằng Alginate là:
-A. Đặt khay lấy dấu vào cung hàm, ấn từ trước ra sau cho Alginate tràn ra khỏi khay. Đồng thời cho bệnh nhân cử động môi.
-*B. Đặt khay lấy dấu có chứa Alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu.
+!A. Đặt khay lấy dấu vào cung hàm, ấn từ trước ra sau cho Alginate tràn ra khỏi khay. Đồng thời cho bệnh nhân cử động môi.
+?B. Đặt khay lấy dấu có chứa Alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu.
 C. Khay lấy dấu được lấy ra khỏi miệng khi Alginate vừa đông để dễ dàng lấy dấu ra khỏi miệng, tránh để Alginate cứng quá vì sẽ khó lấy ra khỏi vùng lẹm.
 D. Khay được giữ yên bằng hai ngón trỏ và gia tăng áp lực đè lên răng trong thời gian chờ Alginate đông cứng hoàn toàn.
+> Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước, cho bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy ra khi alginate đông cứng hoàn toàn. B (ấn nhẹ tránh đau, giữ yên tránh biến dạng) là các ý sai của câu tự lượng giá Bài 4; C, D trái giáo trình. A đúng ý cử động môi, dù đề in "ấn từ trước ra sau". Đề RHM K41 (câu 60) khoanh A.
 
 Câu 26. Cách để thạch cao không chui xuống dưới lớp sáp khi vô khuôn là:
 A. Ngâm mẫu hàm cho ướt.
-B. Dán mép nền sáp vào mẫu thạch cao.
+!B. Dán mép nền sáp vào mẫu thạch cao.
 C. Cách ly bằng vaselin.
-*D. Tất cả đều đúng.
-> Đề gạch D (có ngoặc gom A, B). Đề RHM K40 (câu 55) và K41 (câu 21) khoanh B.
+?D. Tất cả đều đúng.
+> Đề gạch D (có ngoặc gom A, B). Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án B): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao không chui xuống dưới lớp sáp; ngâm ướt và thoa vaseline là các bước khác với mục đích khác.
 
 Câu 27. Khi vô khuôn ta thoa vaselin lên bề mặt thạch cao có tác dụng là:
 *A. Cách ly thạch cao với thạch cao.
@@ -251,17 +253,17 @@ D. Là khác nhau ở mọi người.
 
 Câu 40. Khớp thái dương hàm bình thường, hàm dưới đưa ra trước được bao nhiêu?
 A. 5 – 7 mm.
-*B. 5 – 8 mm.
-C. 5 – 9 mm.
+?B. 5 – 8 mm.
+!C. 5 – 9 mm.
 D. 5 – 10 mm.
-> Đề gạch B, có người khoanh thêm C.
+> Đề gạch B, có người khoanh thêm C. Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm. Đề RHM K45 (câu 15) chọn C.
 
 Câu 41. Khớp thái dương hàm bình thường, hàm dưới đưa sang phải hoặc sang trái được bao nhiêu mm?
-A. 5 – 7 mm.
+!A. 5 – 7 mm.
 B. 5 – 8 mm.
 C. 5 – 9 mm.
-*D. 5 – 10 mm.
-> Đề gạch D, có người khoanh thêm A.
+?D. 5 – 10 mm.
+> Đề gạch D, có người khoanh thêm A. Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm. Đề RHM K45 (câu 16) chọn A.
 
 Câu 42. Giai đoạn quyết định yếu tố thẩm mỹ của phục hình là:
 *A. Thử răng.
@@ -271,10 +273,10 @@ D. Lấy dấu, đổ mẫu làm việc.
 
 Câu 43. Nguyên nhân gây đau thường gặp ở bệnh nhân phục hình tháo lắp bán hàm là:
 A. Thiếu bờ hàm.
-B. Có điểm chạm sớm ở khớp cắn.
-*C. A và B đúng.
+!B. Có điểm chạm sớm ở khớp cắn.
+?C. A và B đúng.
 D. A và B sai.
-> Đề gạch C, có người khoanh thêm B (bút xanh).
+> Đề gạch C, có người khoanh thêm B. Giáo trình PHTL (Bài 8, mục 3.4.1): đau tại chỗ do DƯ bờ hàm (không phải thiếu bờ hàm), nướu giả lẹm, mặt tiếp xúc không chính xác, điểm chạm sớm… → "thiếu bờ hàm" sai, chỉ B đúng.
 
 Câu 44. Kích thước dọc quá cao sẽ gây khó âm chữ nào trong các chữ sau?
 A. Chữ "b".
@@ -300,7 +302,7 @@ Câu 47. Chọn phát biểu sai:
 B. Răng cối nhỏ thường giống màu răng cửa, nhạt màu hơn răng nanh.
 C. Chọn hình thể răng giả vùng răng sau, có 3 loại hình thể chính.
 D. Kích thước mặt trong răng cối lớn không vượt quá đường chéo trong về phía lưỡi.
-> Đề gạch cả A và C. Theo Berry tỷ lệ là 1/16 nên A sai; răng sau có 3 loại hình thể (giải phẫu, bán giải phẫu, không múi) nên C đúng.
+> Đề gạch cả A và C. Giáo trình PHTL (Bài 6, mục 2.1.3): theo Berry, chiều cao mặt / chiều cao răng cửa trên = 20/1 nên A (1/20) là câu sai; C đúng (3 loại hình thể: giải phẫu, bán giải phẫu, không giải phẫu).
 
 Câu 48. Chọn phát biểu đúng:
 A. Chiều rộng mỗi răng sau theo chiều ngoài – trong thường lớn hơn răng thật.
@@ -351,11 +353,11 @@ C. Khi cười, nói thấy ít răng.
 D. Nói chỉ thấy răng dưới, vẻ mặt già.
 
 Câu 58. Thứ tự điều chỉnh khớp cắn là: (1) Tái lập kích thước dọc đúng; (2) Hoàn hảo cắn khớp làm việc và thăng bằng; (3) Tái lập khớp cắn trung tâm đúng; (4) Tái lập khớp cắn tới đúng.
-*A. (1) → (3) → (4) → (2).
-B. (1) → (3) → (2) → (4).
+?A. (1) → (3) → (4) → (2).
+!B. (1) → (3) → (2) → (4).
 C. (3) → (1) → (4) → (2).
 D. (1) → (3) → (4) → (2) (đề in trùng phương án A).
-> Đề gạch A và D (hai phương án in trùng nhau), có người khoanh thêm B.
+> Đề gạch A và D (in trùng nhau), có người khoanh thêm B. Giáo trình PHTL (Bài 8, mục 1.2.5): thứ tự điều chỉnh là tái lập kích thước dọc → khớp cắn trung tâm → hoàn hảo cắn khớp làm việc và thăng bằng → khớp cắn tới, tức (1) → (3) → (2) → (4).
 
 Câu 59. Nếu không có vấn đề về hàm giả, thời gian tái khám hàm giả mỗi lần là bao lâu?
 A. 3 tháng.

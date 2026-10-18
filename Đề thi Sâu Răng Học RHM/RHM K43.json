@@ -34,7 +34,8 @@
       "explanation": "Thang WHO cho tuổi 12: rất thấp < 1,2; thấp 1,2–2,6; trung bình 2,7–4,4; cao 4,5–6,5.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 2,
@@ -62,7 +63,8 @@
       "explanation": "Đề gạch A, có người khoanh thêm B. Răng MỚI mọc mới là răng nhạy cảm với sâu (đề RHM K45 câu 32 có phương án \"Răng mới mọc trên cung hàm\" và chọn ý đó); \"răng đã mọc lâu\" thì không hợp lý.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 3,
@@ -87,10 +89,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch A rồi khoanh lại B. Đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B.",
+      "explanation": "Đề gạch A rồi khoanh lại B; đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B. Giáo trình Sâu Răng Học (Bài 1) chỉ ghi S. mutans gây khởi phát, Lactobacillus làm sang thương tiến triển sâu xuống dưới bề mặt — không nói rõ loại nào làm pH giảm nhanh.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 4,
@@ -118,7 +121,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 5,
@@ -146,7 +150,8 @@
       "explanation": "Đề gạch cả A lẫn D, D được khoanh lại.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 6,
@@ -174,7 +179,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 7,
@@ -202,7 +208,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 8,
@@ -230,7 +237,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 9,
@@ -258,7 +266,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 10,
@@ -286,7 +295,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 11,
@@ -314,7 +324,8 @@
       "explanation": "Đề gạch A, có người khoanh B. Tủy còn sống nên ưu tiên bảo tồn tủy (che tủy rồi trám).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 12,
@@ -342,7 +353,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 13,
@@ -370,7 +382,8 @@
       "explanation": "Đề gạch B rồi khoanh lại D. Khám cộng đồng theo WHO dùng cây thăm dò đầu tù và nguồn sáng, không dùng thám châm nhọn.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 14,
@@ -398,7 +411,8 @@
       "explanation": "Đề gạch A rồi khoanh lại B (ngón áp út làm điểm tựa).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 15,
@@ -426,7 +440,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 16,
@@ -454,7 +469,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 17,
@@ -482,7 +498,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 18,
@@ -510,7 +527,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 19,
@@ -538,7 +556,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 20,
@@ -566,7 +585,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 21,
@@ -594,7 +614,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 22,
@@ -622,7 +643,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 23,
@@ -650,7 +672,8 @@
       "explanation": "Đề đánh dấu D. Ghi chú bên lề: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V — loại trừ còn D.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 24,
@@ -678,7 +701,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 25,
@@ -706,7 +730,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 26,
@@ -734,7 +759,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 27,
@@ -762,7 +788,8 @@
       "explanation": "Đề gạch D rồi khoanh lại A. Vạt men làm TĂNG diện tích men để xoi mòn, nên A là câu sai.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 28,
@@ -790,7 +817,8 @@
       "explanation": "Đề gạch B rồi khoanh lại C. Lấy hết ngà nhiễm khuẩn, giữ lại ngà mất khoáng (ngà bị ảnh hưởng) còn khả năng tái khoáng.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 29,
@@ -818,7 +846,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 30,
@@ -846,7 +875,8 @@
       "explanation": "Đề gạch B rồi khoanh lại C. Ê buốt kéo dài + đau về đêm là dấu hiệu viêm tủy không hồi phục.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 31,
@@ -874,7 +904,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 32,
@@ -902,7 +933,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 33,
@@ -930,7 +962,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 34,
@@ -958,7 +991,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 35,
@@ -986,7 +1020,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 36,
@@ -1014,7 +1049,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 37,
@@ -1042,7 +1078,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 38,
@@ -1070,7 +1107,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 39,
@@ -1098,7 +1136,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 40,
@@ -1126,7 +1165,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 41,
@@ -1154,7 +1194,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 42,
@@ -1182,7 +1223,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 43,
@@ -1207,10 +1249,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề RHM K40 (câu 18) khoanh C (sâu cổ răng).",
+      "explanation": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1): sâu chân răng thường là hậu quả của bệnh nha chu.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 44,
@@ -1238,7 +1281,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 45,
@@ -1266,7 +1310,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 46,
@@ -1294,7 +1339,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 47,
@@ -1319,10 +1365,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch B, có người khoanh thêm A. Đề RHM K40 (câu 31) chọn B. Theo ICDAS cần làm sạch rồi thổi khô.",
+      "explanation": "Đề gạch B, có người khoanh thêm A. Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả hai đều cần. Đề RHM K45, K46 (câu 17) bỏ ý \"làm sạch\" và chọn \"Lau khô bề mặt răng\".",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 48,
@@ -1350,7 +1397,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 49,
@@ -1378,7 +1426,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 50,
@@ -1406,7 +1455,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 51,
@@ -1431,10 +1481,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề gạch C, có người khoanh thêm D. Đề RHM K40 (câu 35) cũng chọn C.",
+      "explanation": "Đề gạch C, có người khoanh thêm D. Giáo trình Sâu Răng Học (Bài 7, mục 1.3): bôi vaseline ngay sau khi gỡ khuôn để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng — đề RHM K45, K46 (câu 21) chọn ý này.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 52,
@@ -1462,7 +1513,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 53,
@@ -1490,7 +1542,8 @@
       "explanation": "Đề gạch A rồi khoanh lại D. Lan vào 1/3 lớp ngà là sâu ngà nông (khác đề K40 hỏi 1/2 lớp ngà).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 54,
@@ -1518,7 +1571,8 @@
       "explanation": "Đề gạch D rồi khoanh lại A. Đề RHM K40 (câu 39) khoanh D.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 55,
@@ -1543,10 +1597,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề gạch C, có người khoanh thêm B. Đề RHM K40 (câu 40) cũng chọn C.",
+      "explanation": "Đề gạch C, có người khoanh thêm B. Giáo trình Sâu Răng Học (Bài 5): tổn thương hố rãnh trong men có dạng chữ V ngược (giống chữ A), và \"kích thước nhìn thấy được luôn nhỏ hơn kích thước thật\" (B) cũng là câu nguyên văn giáo trình. Đề RHM K45, K46 (câu 25) đổi C thành \"chữ U\" và chọn B.",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 56,
@@ -1574,7 +1629,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 57,
@@ -1602,7 +1658,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 58,
@@ -1630,7 +1687,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 59,
@@ -1658,7 +1716,8 @@
       "explanation": null,
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     },
     {
       "number": 60,
@@ -1683,10 +1742,11 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch A rồi khoanh lại D. Đề RHM K40 (câu 46) khoanh B.",
+      "explanation": "Đề gạch A rồi khoanh lại D. Giáo trình Sâu Răng Học (Bài 6): buồng tủy hẹp dần theo tuổi (ngà thứ cấp sinh lý) và ở răng bị kích thích như sâu răng (ngà phản ứng).",
       "ai": false,
       "aiCheck": false,
-      "aiNote": null
+      "aiNote": null,
+      "aiOriginal": null
     }
   ]
 }

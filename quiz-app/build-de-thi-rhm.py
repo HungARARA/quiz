@@ -91,7 +91,8 @@ def resolve(path, item):
         fail(path, f"question {item['number']} has fewer than two options")
     if any(len(v) > 1 for v in marks.values()) or set(marks) not in (set(), {"*"}, {"@"}, {"?", "!"}):
         fail(path, f"question {item['number']} has inconsistent answer marks {marks}")
-    out = {"correctIndex": None, "explanation": None, "ai": False, "aiCheck": False, "aiNote": None}
+    out = {"correctIndex": None, "explanation": None, "ai": False, "aiCheck": False, "aiNote": None,
+           "aiOriginal": None}
     if "*" in marks:
         out.update(correctIndex=marks["*"][0], explanation=note)
     elif "@" in marks:
@@ -101,7 +102,9 @@ def resolve(path, item):
     elif "!" in marks:
         if not note:
             fail(path, f"question {item['number']} overrides the exam without a reason")
-        out.update(correctIndex=marks["!"][0], ai=True, aiCheck=True, aiNote=note)
+        original = item["options"][marks["?"][0]]
+        out.update(correctIndex=marks["!"][0], ai=True, aiCheck=True, aiNote=note,
+                   aiOriginal=f"{original['label']}. {original['text']}")
     else:
         if not note:
             fail(path, f"question {item['number']} has no answer and no note saying why")
@@ -163,7 +166,7 @@ def create_docx(title, header, questions, folder, target):
         index = q["correctIndex"]
         answer = "chưa có" if index is None else q["options"][index]["label"]
         if q["aiCheck"]:
-            answer += " (AI làm đáp án, khác phương án khoanh trong đề — nên kiểm tra)"
+            answer += f" (AI làm đáp án — đề gốc khoanh {q['aiOriginal']})"
         elif q["ai"]:
             answer += " (AI làm đáp án)"
         doc.add_paragraph().add_run(f"Đáp án: {answer}").bold = True
