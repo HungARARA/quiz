@@ -50,7 +50,7 @@ A. Độ 1
 !B. Độ 2
 ?C. Độ 3
 D. Độ 4
-> Giáo trình PHTL (Bài 2, mục 3.4.8): độ 1 lung lay cảm thấy bằng tay; độ 2 lung lay thấy bằng mắt, hơn 0,5 mm; độ 3 hơn 1 mm; độ 4 lung lay chiều đứng. Lung lay 0,7 mm thấy bằng mắt thường → độ 2.
+> Giáo trình chia độ lung lay răng khi khám: độ 1 – lung lay chỉ cảm thấy bằng tay; độ 2 – lung lay thấy được bằng mắt, biên độ hơn 0,5 mm; độ 3 – lung lay hơn 1 mm; độ 4 – lung lay theo chiều thẳng đứng, răng không còn chức năng. Răng 46 lung lay khoảng 0,7 mm, nhìn thấy bằng mắt thường, tức là hơn 0,5 mm nhưng chưa tới 1 mm → độ 2. (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.4.8)
 
 Câu 9. Răng có thể dùng làm trụ khi tỷ lệ chiều cao thân răng và chân răng:
 *A. Nhỏ hơn 1.
@@ -75,7 +75,7 @@ A. Gai cửa
 B. Schroder
 *C. Vân khẩu cái
 D. Đường nối giữa
-> Đề khoanh “Vân khẩu cái” và gạch “Đường nối giữa”. Giáo trình PHTL (Bài 19, mục 1.1.2): các vân khẩu cái có niêm mạc dày, không có mô dưới niêm mạc; vùng đường giữa niêm mạc mỏng; vùng Schroder nhiều mô mỡ, mô tuyến.
+> Giáo trình chia vòm miệng theo khả năng chịu lực nén. Vùng chịu được lực nén nhiều gồm các vân khẩu cái (niêm mạc dày, không có mô dưới niêm mạc) và sống hàm (niêm mạc dày, dính chắc vào xương); ở những vùng này niêm mạc không bị biến dạng nên lực nén truyền thẳng xuống xương. Vì vậy vân khẩu cái là vùng có ít mô liên kết dưới niêm mạc nhất. (Giáo trình PHTL, Bài 19, mục 1.1.2)
 
 Câu 13. Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình:
 A. Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp
@@ -106,7 +106,7 @@ A. Mất răng loại I Kennedy
 B. Mất răng loại V Kennedy
 *C. Mất răng loại VI Kennedy
 D. Mất răng loại II Kennedy
-> Giáo trình PHTL (Bài 3, mục 4.2): ngoài 4 loại căn bản, Kennedy còn 2 loại đặc biệt cho mất răng gần toàn bộ — loại V: mất răng một bên trên đoạn rất rộng chỉ còn 1–2 răng cối; loại VI: mất răng hai bên trên đoạn rất rộng chỉ còn 1–2 răng chia đôi đoạn mất răng. Sơ đồ chỉ còn 2 răng cửa giữa → loại VI.
+> Ngoài 4 loại căn bản, Kennedy còn 2 loại đặc biệt dành cho trường hợp mất răng gần toàn bộ: loại V – mất răng một bên trên một đoạn rất rộng, chỉ còn lại 1–2 răng cối; loại VI – mất răng hai bên trên một đoạn rất rộng, chỉ còn lại 1–2 răng chia đôi đoạn mất răng. Sơ đồ chỉ còn hai răng cửa giữa nằm ở giữa cung, chia đôi đoạn mất răng hai bên → loại VI. (Giáo trình PHTL, Bài 3, mục 4.2)
 
 Câu 18. Sơ đồ răng ở hàm trên như sau, được phân loại theo Kennedy là: x x x x 3 x x 1 | 1 2 3 4 5 6 7 x
 A. Mất răng loại I, biến thể 1
@@ -120,7 +120,8 @@ A. Loại III, biến thể 2
 *B. Loại II, biến thể 2
 C. Loại V
 D. Loại VI
-> Cùng hình này, đề RHM K40 (câu 46) và K43 (câu 11) cũng chọn "Loại II, biến thể 2".
+> Trong hình, một bên mất hết răng sau tới cuối cung (không còn răng giới hạn phía xa) → theo Kennedy là loại II (mất răng sau một bên). Bên còn lại có 2 khoảng mất răng có răng giới hạn hai đầu; mỗi khoảng mất răng thêm vào là một biến thể → loại II, biến thể 2. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)
+>> Đề RHM K40 (câu 46), K41 (câu 9) và K43 (câu 11) dùng cùng hình và đều chọn “Loại II, biến thể 2”.
 
 Câu 20. Mất răng như hình phân loại theo Kennedy là (xem hình):
 [hinh: 54 0.08 0.198 0.215 0.275]
@@ -128,7 +129,8 @@ A. Loại IV, biến thể 1
 *B. Loại III, biến thể 1
 C. Loại IV, biến thể 2
 D. Loại III, biến thể 2
-> Đề gạch “Loại IV, biến thể 1”, “Loại IV, biến thể 2” và khoanh “Loại III, biến thể 1”. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn "Loại III, biến thể 1".
+> Trong hình, các vùng mất răng đều có răng giới hạn ở hai đầu, không có vùng mất răng tự do phía sau. Theo Kennedy, vùng mất răng có răng kẹp hai đầu là loại III; vùng mất răng còn lại tính là một khoảng phụ → loại III, biến thể 1. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)
+>> Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự và chọn “Loại III, biến thể 1”.
 
 Câu 21. Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):
 [hinh: 54 0.08 0.383 0.215 0.465]
@@ -251,7 +253,7 @@ Câu 40. Răng hàm trên được chọn theo cấu trúc xương hàm là:
 B. Răng cửa bên
 C. Răng nanh
 D. Răng cối lớn
-> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30): răng cửa giữa chọn theo cấu trúc xương mặt. Đề RHM K40 (câu 27) khoanh răng cối lớn.
+> Răng cửa giữa hàm trên là răng ảnh hưởng thẩm mỹ nhiều nhất, được chọn theo cấu trúc xương mặt và độ cong phần mềm của khuôn mặt. Hình dáng răng cửa giữa ngược với hình dáng khuôn mặt; có 4 loại khuôn mặt: vuông, tam giác, bầu dục và hỗn hợp, đồng thời răng phải hài hòa với dáng mũi và khuôn mặt nhìn nghiêng. Câu tự lượng giá 8 của Bài 6 cũng có đáp án “Răng cửa giữa”. (Giáo trình PHTL, Bài 30, mục 1.1.1; Bài 6, câu tự lượng giá 8)
 
 Câu 41. Răng hàm trên được chọn theo tính tình bệnh nhân là:
 A. Răng cửa giữa
@@ -306,14 +308,14 @@ Câu 49. Nguyên tắc trộn nhựa khi thực hiện một phục hình tháo 
 B. Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn
 C. Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài
 ?D. A và B đúng
-> Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — “Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn” làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; “Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài” sai vì phải đậy nắp. Chỉ “Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra” đúng.
+> Tỷ lệ bột nhựa và nước nhựa quyết định chất lượng nhựa nên phải theo chỉ dẫn của nhà sản xuất, thường là 3 thể tích bột trộn với 1 thể tích nước. Cách trộn: cho nước nhựa vào hũ sứ trước, rồi thêm bột cho tới khi nước thấm hết bột, dùng cây trộn trộn đều; đậy nắp hũ để tránh bay hơi nước nhựa. Khi nhựa dẻo và không còn dính vào thành hũ là lúc sẵn sàng ép; ép sớm thì hàm sẽ bị bọt. (Giáo trình PHTL, Bài 7, mục 2.4.1)
 
 Câu 50. Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm là:
 !A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
 B. Dùng búa nhỏ gõ cho mẫu hàm bể dần ra.
 C. Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa.
 ?D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên “Tất cả đều đúng” không khớp giáo trình.
+> Sau khi nấu, để khuôn nguội rồi lấy khối thạch cao ra khỏi múp (mục 2.5) và đặt mẫu hàm trở lại giá khớp để chỉnh khớp cắn (mục 2.6). Đến bước gỡ hàm nhựa ra khỏi mẫu hàm, giáo trình hướng dẫn cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ từng phần thạch cao, cẩn thận để tránh gãy hàm. (Giáo trình PHTL, Bài 7, mục 2.7)
 
 Câu 51. Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn:
 A. Không nên mang thường xuyên
@@ -344,7 +346,8 @@ A. 3 tháng
 @B. 6 tháng
 C. 9 tháng
 D. 12 tháng
-> Đề không khoanh rõ câu này. Giáo trình PHTL (Bài 8, mục 2.2): tái khám mỗi 6 tháng. Đề RHM K43 (câu 59) cũng chọn 6 tháng.
+> Khi giao hàm, bác sĩ dặn bệnh nhân tái khám mỗi 6 tháng, kể cả khi không có vấn đề gì. Lần tái khám giúp phát hiện sớm điểm chạm sớm, thay đổi của nền hàm do tiêu xương hoặc sự di chuyển của các răng còn lại, đồng thời kiểm tra sâu răng, viêm nướu ở răng trụ và chỉnh lại móc. (Giáo trình PHTL, Bài 8, mục 1.2.5 và 2.2)
+>> Đề gốc không khoanh câu này. Đề RHM K43 (câu 59) có cùng câu hỏi và chọn “6 tháng”.
 
 Câu 56. Trong trường hợp bệnh nhân than ĐAU sau khi lắp hàm, thì bác sĩ cần làm gì đầu tiên:
 *A. Tìm điểm đau
@@ -369,11 +372,11 @@ Câu 59. Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả l�
 B. Nướu giả bị lẹm quá mức
 C. Bệnh nhân tháo lắp hàm không đúng hướng
 !D. Cả 3 đều đúng
-> Giáo trình PHTL (Bài 8, mục 3.4.1 và câu tự lượng giá 5 – đáp án “Tất cả đều đúng”): đau tại chỗ có thể do dư bờ hàm, nướu giả lẹm quá mức, mặt tiếp xúc niêm mạc không chính xác, điểm chạm sớm, hư hỏng móc, bệnh nhân tháo lắp hàm không đúng hướng → cả 3 ý đều đúng.
+> Theo giáo trình, đau tại chỗ vùng mô mềm đang mang hàm giả có thể do sáu nguyên nhân: (1) dư bờ hàm; (2) nướu giả bị lẹm quá mức; (3) mặt tiếp xúc niêm mạc không chính xác; (4) có điểm chạm sớm ở khớp cắn, ở tư thế tĩnh hoặc khi vận động; (5) hư hỏng bất thường, như tay móc bị uốn cong khi làm vệ sinh; (6) bệnh nhân tháo, lắp hàm không đúng hướng. Cả ba ý trong câu hỏi đều thuộc danh sách này. Câu tự lượng giá 5 của Bài 8 cũng có đáp án “Tất cả đều đúng”. (Giáo trình PHTL, Bài 8, mục 3.4.1)
 
 Câu 60. Bệnh nhân không mang được hàm giả thường vì:
 ?A. Nước bọt tiết nhiều
 !B. Tăng nhạy cảm ở vùng khẩu cái sau
 C. Có vị kim loại trong miệng
 D. Móc quá siết chặt gây đau
-> Giáo trình PHTL (Bài 8, mục 3.4.5): không mang được hàm giả (hàm trên) thường do tăng nhạy cảm ở vùng khẩu cái sau gây phản xạ nôn; nước bọt nhiều, vị kim loại chỉ là than phiền tạm thời (mục 3.4.6).
+> Nếu là hàm trên, bệnh nhân không mang được hàm giả thường do tăng nhạy cảm ở vùng khẩu cái sau, gây phản xạ nôn bất thường; mặt lưng lưỡi tăng nhạy cảm cũng gây nôn nếu hàm giả chạm vào lưỡi. Cách xử lý: làm mỏng nền hàm ở khẩu cái, không phủ lên mô khẩu cái sau, tăng lưu giữ tối đa cho hàm, và hàm dưới phải chừa khoảng trống lớn nhất cho lưỡi. (Giáo trình PHTL, Bài 8, mục 3.4.5)

@@ -188,21 +188,22 @@ A. Mũi tròn cán dài
 *B. Mũi trụ đầu tròn nhỏ
 C. Mũi búp lửa
 D. Mũi trụ đầu nhọn nhỏ
-> Đề khoanh “Mũi trụ đầu tròn nhỏ”, có người tô vàng thêm “Mũi trụ đầu nhọn nhỏ”.
+> Thành bên xoang cần thẳng, đều. Mũi trụ (fissure) tạo được thành bên thẳng; đầu tròn làm các góc trong của xoang tròn, tránh tập trung lực và giảm nguy cơ nứt gãy mô răng; kích thước nhỏ giúp bảo tồn mô răng lành. Giáo trình không ghi loại mũi khoan cho bước này; đáp án theo đề.
 
 Câu 32. Yếu tố nào sau đây làm tăng tính nhạy cảm của răng đối với sự khởi phát sâu răng:
 A. Răng nhiễm tetracycline
 *B. Răng mới mọc trên cung hàm
 C. Răng nhiễm Fluor
 D. Răng có nhiều mảng bám
-> Đề khoanh “Răng mới mọc trên cung hàm”, có người tô vàng thêm “Răng có nhiều mảng bám”.
+> Giáo trình nêu sự trưởng thành của răng sau khi mọc ảnh hưởng rất nhiều đến khả năng đề kháng sâu răng: men răng mới mọc có apatite chứa nhiều thành phần carbonate, là dạng tinh thể dễ bị acid hòa tan. Sau thời gian và nhiều chu kỳ mất khoáng – tái khoáng, nhóm carbonate được thay phần lớn bằng nhóm hydroxyl hoặc fluor; đó là quá trình chín mùi của men răng, giúp răng đề kháng với acid hơn. Vì vậy răng mới mọc nhạy cảm với sâu răng hơn. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.3)
 
 Câu 33. Loại vi khuẩn nào sau đây làm pH giảm nhanh trong môi trường miệng:
 A. Streptococcus mutans
 *B. Lactobacillus acidophilus
 C. Actinomyces
 D. Streptococcus sanguis
-> Giáo trình Sâu Răng Học (Bài 1) chỉ ghi S. mutans gây khởi phát, Lactobacillus làm sang thương tiến triển sâu — không nói rõ loại nào làm pH giảm nhanh. Đề RHM K43 (câu 3) cũng khoanh “Lactobacillus acidophilus”.
+> Giáo trình nêu Streptococcus mutans là tác nhân chủ yếu tạo mảng bám và gây khởi phát sang thương sâu răng, còn Lactobacillus acidophilus thường cấy được khi sang thương đã tiến vào ngà và làm sang thương tiến triển sâu xuống dưới bề mặt. Lactobacillus là vi khuẩn sinh acid mạnh và sống được trong môi trường acid, nên đề chọn loại này cho ý “làm pH giảm nhanh”. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.1)
+>> Đề RHM K43 (câu 3) có cùng câu hỏi và chọn đáp án này.
 
 Câu 34. Nước bọt có khả năng tái khoáng hóa sang thương sâu răng sớm nhờ:
 A. Lysozyme, lactoferrin

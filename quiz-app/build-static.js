@@ -322,6 +322,7 @@ async function build() {
           aiCheck: q.aiCheck,
           aiNote: q.aiNote,
           aiOriginal: q.aiOriginal,
+          scanNote: q.scanNote,
           source: exam.source,
           sourceNumber: q.number,
         });

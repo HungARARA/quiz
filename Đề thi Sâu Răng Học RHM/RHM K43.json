@@ -31,11 +31,12 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Thang WHO cho tuổi 12: rất thấp < 1,2; thấp 1,2–2,6; trung bình 2,7–4,4; cao 4,5–6,5.",
+      "explanation": "WHO đánh giá chỉ số SMT (DMFT) ở lứa tuổi 12 theo thang: rất thấp dưới 1,2; thấp 1,2–2,6; trung bình 2,7–4,4; cao 4,5–6,5; rất cao trên 6,5. Chỉ số 1,87 nằm trong khoảng 1,2–2,6 nên được đánh giá là thấp. (Thang phân loại của WHO; giáo trình Sâu Răng Học không có bảng này)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 2,
@@ -60,11 +61,12 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề gạch “Răng nhiễm tetracycline”, có người khoanh thêm “Răng đã mọc lâu trên cung hàm”. Răng MỚI mọc mới là răng nhạy cảm với sâu (đề RHM K45 câu 32 có phương án \"Răng mới mọc trên cung hàm\" và chọn ý đó); \"răng đã mọc lâu\" thì không hợp lý.",
+      "explanation": "Răng là yếu tố tiên quyết để có sâu răng; giáo trình nêu các yếu tố làm tăng tính nhạy cảm của răng: hình thái giải phẫu khác thường (hố rãnh sâu, vùng tiếp xúc rộng), những khiếm khuyết trên bề mặt răng do quá trình hình thành chất căn bản, vị trí răng bất thường, và men răng mới mọc chưa trưởng thành. Răng nhiễm tetracycline là răng bị rối loạn trong giai đoạn hình thành mô răng, nên thuộc nhóm khiếm khuyết cấu trúc này. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 3,
@@ -89,11 +91,12 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch “Streptococcus mutans” rồi khoanh lại “Lactobacillus acidophilus”; đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh “Lactobacillus acidophilus”. Giáo trình Sâu Răng Học (Bài 1) chỉ ghi S. mutans gây khởi phát, Lactobacillus làm sang thương tiến triển sâu xuống dưới bề mặt — không nói rõ loại nào làm pH giảm nhanh.",
+      "explanation": "Giáo trình nêu Streptococcus mutans là tác nhân chủ yếu tạo mảng bám và gây khởi phát sang thương sâu răng, còn Lactobacillus acidophilus thường cấy được khi sang thương đã tiến vào ngà và làm sang thương tiến triển sâu xuống dưới bề mặt. Lactobacillus là vi khuẩn sinh acid mạnh và sống được trong môi trường acid, nên đề chọn loại này cho ý “làm pH giảm nhanh”. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.1)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 33) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 4,
@@ -122,7 +125,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 5,
@@ -147,11 +151,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch cả “Fluor” lẫn “Nước bọt”, “Nước bọt” được khoanh lại.",
+      "explanation": "Giáo trình xếp nước bọt vào nhóm yếu tố cân bằng sâu răng: nước bọt có khả năng đệm nhờ bicarbonate, giữ pH môi trường miệng ổn định và giảm tác động của acid do vi khuẩn sinh ra; các khoáng chất trong nước bọt (fluoride, calcium, phosphate) giúp tái khoáng bề mặt răng; nước bọt còn chứa kháng thể IgA ngăn vi khuẩn bám dính. Giáo trình không nhắc tới tác giả White; đáp án theo đề. (Giáo trình Sâu Răng Học, Bài 1, mục 1.3; Bài 4)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 6,
@@ -180,7 +185,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 7,
@@ -209,7 +215,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 8,
@@ -238,7 +245,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 9,
@@ -267,7 +275,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 10,
@@ -296,7 +305,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 11,
@@ -321,11 +331,12 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề gạch “Che tuỷ, trám răng”, có người khoanh “Lấy tuỷ, trám răng”. Tủy còn sống nên ưu tiên bảo tồn tủy (che tủy rồi trám).",
+      "explanation": "Khi tủy còn sống và răng khỏe mạnh, mục tiêu là giữ sự sống của tủy. Che tủy là đặt một lớp vật liệu tương hợp sinh học lên phần tủy lành mạnh, nhằm tránh vi khuẩn xâm nhập, thúc đẩy thành lập cầu ngà ngăn cách tủy và duy trì sự sống của mô tủy bên dưới; sau đó trám kín xoang. (Giáo trình Sâu Răng Học, Bài 9, mục 3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 12,
@@ -354,7 +365,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 13,
@@ -379,11 +391,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch “Thám châm phải có điểm nhọn” rồi khoanh lại “A và C đúng”. Khám cộng đồng theo WHO dùng cây thăm dò đầu tù và nguồn sáng, không dùng thám châm nhọn.",
+      "explanation": "Khám sâu răng ở cộng đồng theo WHO cần nguồn sáng tốt, gương và cây thăm khám đầu tù (đầu tròn). Giáo trình cũng lưu ý khi tổn thương còn giới hạn trong men thì không được dùng đầu nhọn của dụng cụ rà vào tổn thương, và ICDAS dùng dụng cụ thăm khám đầu tròn sau khi làm sạch, thổi khô. Vì vậy cần cả đèn chiếu sáng và thám châm đầu tù. (Giáo trình Sâu Răng Học, Bài 5, mục 2–3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 14,
@@ -408,11 +421,12 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch “Sử dụng 3 ngón tay: ngón cái, ngón trỏ, ngón giữa” rồi khoanh lại “Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út” (ngón áp út làm điểm tựa).",
+      "explanation": "Tư thế cầm bút cải tiến dùng 4 ngón: ngón cái, ngón trỏ và ngón giữa cầm dụng cụ, còn ngón áp út tựa lên răng hoặc mô cứng gần vùng làm việc làm điểm tựa. Điểm tựa giúp kiểm soát dụng cụ chính xác, tránh trượt gây tổn thương mô mềm; lực chủ yếu đến từ các ngón tay, không dùng tối đa lực cổ tay.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 15,
@@ -441,7 +455,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 16,
@@ -470,7 +485,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 17,
@@ -499,7 +515,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 18,
@@ -528,7 +545,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 19,
@@ -557,7 +575,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 20,
@@ -586,7 +605,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 21,
@@ -615,7 +635,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 22,
@@ -644,7 +665,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 23,
@@ -669,11 +691,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề đánh dấu “Gờ cingulum”. Ghi chú bên lề: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V — loại trừ còn “Gờ cingulum”.",
+      "explanation": "Theo phân loại G.V. Black, xoang III là sâu ở mặt bên các răng cửa và răng nanh, không ảnh hưởng đến góc cắn. Không phương án nào ghi đúng “mặt bên”; đề chọn gờ cingulum theo cách loại trừ (xem ghi chú bên lề). (Giáo trình Sâu Răng Học, Bài 5, mục 1.2)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": "Bên lề đề gốc ghi: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V; đề gốc chọn “Gờ cingulum”."
     },
     {
       "number": 24,
@@ -702,7 +725,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 25,
@@ -731,7 +755,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 26,
@@ -760,7 +785,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 27,
@@ -785,11 +811,12 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề gạch “Tránh sự gãy, hở bờ miếng trám sau này” rồi khoanh lại “Giảm bớt diện tích men răng, tăng độ lưu”. Vạt men làm TĂNG diện tích men để xoi mòn, nên “Giảm bớt diện tích men răng, tăng độ lưu” là câu sai.",
+      "explanation": "Giáo trình nêu tác dụng của vát men khi trám composite: giúp hòa trộn sự khác biệt màu ở vùng đường hoàn tất trong khoảng 0,5–1 mm (chuyển tiếp màu miếng trám), cung cấp thêm diện tích bề mặt men cho liên kết rìa và giảm nguy cơ rò rỉ, hở bờ. Vát men làm tăng diện tích men để khắc acid tạo vi lưu, nên câu “Giảm bớt diện tích men răng, tăng độ lưu” là câu sai. (Giáo trình Sâu Răng Học, Bài 8, mục 5 và 6.2)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 28,
@@ -814,11 +841,12 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề gạch “Ngà thâm nhiễm” rồi khoanh lại “Ngà mất khoáng”. Lấy hết ngà nhiễm khuẩn, giữ lại ngà mất khoáng (ngà bị ảnh hưởng) còn khả năng tái khoáng.",
+      "explanation": "Trong 5 vùng mô học của sâu ngà, vùng 4 (ngà thâm nhiễm – vi khuẩn xâm nhập) và vùng 5 (ngà bị phá hủy) phải lấy bỏ, còn vùng 3 là ngà bị ảnh hưởng – chỉ khử khoáng một phần, chưa có vi khuẩn. Theo nguyên tắc xâm lấn tối thiểu, lấy sạch ngà nhiễm khuẩn và dừng lại ở lớp ngà mất khoáng này để bảo tồn mô răng, vì nó còn khả năng tái khoáng. (Giáo trình Sâu Răng Học, Bài 5, mục 2, Hình 5.12)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 29,
@@ -847,7 +875,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 30,
@@ -872,11 +901,12 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề gạch “Sâu ngà hố xa” rồi khoanh lại “Viêm tủy không hồi phục”. Ê buốt kéo dài + đau về đêm là dấu hiệu viêm tủy không hồi phục.",
+      "explanation": "Giáo trình phân biệt theo triệu chứng: sâu ngà sâu gây ê buốt kéo dài khoảng 30 giây đến 1 phút sau khi ngừng kích thích, lỗ sâu 2–4 mm có nhiều ngà mùn; khi sâu răng tiến tới tủy, bệnh nhân đau tự phát, đau nhiều về đêm, tủy bị ảnh hưởng và nhiễm trùng. Bệnh nhân có xoang sâu nhiều ngà mùn, ê buốt kéo dài khi ăn nóng uống lạnh và đau về đêm → tủy đã tổn thương không hồi phục. (Giáo trình Sâu Răng Học, Bài 5, mục 2)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 31,
@@ -905,7 +935,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 32,
@@ -934,7 +965,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 33,
@@ -963,7 +995,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 34,
@@ -992,7 +1025,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 35,
@@ -1021,7 +1055,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 36,
@@ -1050,7 +1085,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 37,
@@ -1079,7 +1115,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 38,
@@ -1108,7 +1145,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 39,
@@ -1137,7 +1175,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 40,
@@ -1166,7 +1205,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 41,
@@ -1195,7 +1235,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 42,
@@ -1224,7 +1265,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 43,
@@ -1249,11 +1291,12 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1): sâu chân răng thường là hậu quả của bệnh nha chu.",
+      "explanation": "Khi tụt nướu làm lộ xê măng và ngà chân răng thì có thể bị sâu chân răng. Giáo trình ghi tổn thương này thường do hậu quả của bệnh nha chu, khi chân răng tiếp xúc với môi trường miệng; vi khuẩn thường gặp là Actinomyces, ngoài ra có Streptococcus mutans và Lactobacillus. Câu lượng giá 8 của Bài 5 (nguyên nhân của sâu chân răng) cũng có đáp án “Viêm nha chu”. (Giáo trình Sâu Răng Học, Bài 5, mục 1.1)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 44,
@@ -1282,7 +1325,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 45,
@@ -1311,7 +1355,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 46,
@@ -1340,7 +1385,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 47,
@@ -1365,11 +1411,12 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Đề gạch “Làm sạch bề mặt răng”, có người khoanh thêm “Thổi khô bề mặt răng”. Giáo trình Sâu Răng Học (Bài 5, ICDAS): làm sạch, thổi khô rồi mới thăm khám — cả hai đều cần. Đề RHM K45, K46 (câu 17) bỏ ý \"làm sạch\" và chọn \"Lau khô bề mặt răng\".",
+      "explanation": "Muốn đánh giá đúng tổn thương theo ICDAS phải làm sạch bề mặt răng, thổi khô rồi mới dùng dụng cụ thăm khám đầu tròn. Mảng bám và thức ăn che lấp sang thương, còn các đốm trắng sâu men sớm chỉ thấy được khi bề mặt sạch và khô, nên làm sạch bề mặt răng là bước đầu tiên của việc thăm khám. (Giáo trình Sâu Răng Học, Bài 5, mục 2–3, Bảng 5.3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 48,
@@ -1398,7 +1445,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 49,
@@ -1427,7 +1475,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 50,
@@ -1456,7 +1505,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 51,
@@ -1481,11 +1531,12 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Đề gạch “Bôi vaseline, varnish giúp kháng nước”, có người khoanh thêm “Tan trong nước khi chưa đông cứng hoàn toàn”. Giáo trình Sâu Răng Học (Bài 7, mục 1.3): bôi vaseline ngay sau khi gỡ khuôn để ngăn GIC mất nước hoặc ngấm nước. GIC cũng tan trong nước khi chưa đông cứng — đề RHM K45, K46 (câu 21) chọn ý này.",
+      "explanation": "Trong những lưu ý khi trám GIC, giáo trình ghi: nếu có đặt khuôn trám thì phải kiểm tra vật liệu đã đông cứng hoàn toàn trước khi gỡ khuôn, rồi bôi vaseline ngay để ngăn sự mất nước hoặc ngấm nước. Phản ứng đông của GIC cần lượng nước cân bằng, nên miếng trám mới cần được phủ một lớp kháng nước như vaseline hay varnish. (Giáo trình Sâu Răng Học, Bài 7, mục 1.3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 52,
@@ -1514,7 +1565,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 53,
@@ -1539,11 +1591,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch “Xoang II, sâu ngà sâu” rồi khoanh lại “Xoang II, sâu ngà nông”. Lan vào 1/3 lớp ngà là sâu ngà nông (khác đề K40 hỏi 1/2 lớp ngà).",
+      "explanation": "Sâu mặt bên răng cối nhỏ thuộc xoang II theo G.V. Black (mặt bên các răng cối nhỏ và cối lớn). Về độ sâu, giáo trình chia sâu ngà nông (ê buốt hết ngay khi ngừng kích thích, lỗ sâu dưới 2 mm) và sâu ngà sâu (ê buốt kéo dài, lỗ sâu 2–4 mm, gần tủy). Tổn thương mới lan vào 1/3 ngoài lớp ngà, còn xa tủy → sâu ngà nông. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2 và 2)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 54,
@@ -1568,11 +1621,12 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": "Đề gạch “Tính thấm men ngà” rồi khoanh lại “Vệ sinh răng miệng định kì”. Đề RHM K40 (câu 39) khoanh “Tính thấm men ngà”.",
+      "explanation": "Màu sắc răng là sự kết hợp nhiều sắc thái (xám, vàng, cam…) và chịu ảnh hưởng bởi độ dày, độ trong, sự phân bố men – ngà, tuổi tác, cũng như các yếu tố bệnh lý hoặc điều trị (fluorosis, nhiễm tetracycline, nội nha). Phần ba cạnh cắn nhiều men nên trắng và thấu quang hơn, phần ba cổ nhiều ngà nên đậm hơn. Vệ sinh răng miệng định kỳ không nằm trong các yếu tố quyết định màu của mô răng. (Giáo trình Sâu Răng Học, Bài 8, mục 6.3.3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 55,
@@ -1600,8 +1654,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề gạch “Tổn thương có dạng chữ A”, có người khoanh thêm “Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự”. Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: \"Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương\". Đề RHM K45, K46 (câu 25) cũng chọn “Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự”.",
-      "aiOriginal": "C. Tổn thương có dạng chữ A"
+      "aiNote": "Ở sâu hố rãnh, sự khử khoáng bắt đầu ở thành bên của trũng rãnh và lan theo các trụ men, nên tổn thương trong men có dạng chữ V ngược. Khi tới đường nối men ngà, sâu răng lan rộng theo đường nối; trong ngà tổn thương lan về phía tủy theo dạng chữ V. Ngà bị phá hủy nhiều không còn nâng đỡ lớp men bên trên, men vỡ ra mới thành lỗ sâu. Vì vậy giáo trình ghi: “Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương”. (Giáo trình Sâu Răng Học, Bài 5, mục 1.1)",
+      "aiOriginal": "C. Tổn thương có dạng chữ A",
+      "scanNote": null
     },
     {
       "number": 56,
@@ -1630,7 +1685,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 57,
@@ -1659,7 +1715,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 58,
@@ -1688,7 +1745,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 59,
@@ -1717,7 +1775,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 60,
@@ -1742,11 +1801,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch “Răng người trẻ” rồi khoanh lại “B và C đúng”. Giáo trình Sâu Răng Học (Bài 6): buồng tủy hẹp dần theo tuổi (ngà thứ cấp sinh lý) và ở răng bị kích thích như sâu răng (ngà phản ứng).",
+      "explanation": "Giáo trình nêu hai nguyên nhân làm tủy thu hẹp. Ngà thứ cấp sinh lý hình thành sau khi răng mọc và ăn nhai bình thường, ở mọi phía của răng, làm buồng tủy ngày càng hẹp lại — càng lớn tuổi buồng tủy càng hẹp (răng người già). Ngà thứ cấp bệnh lý (ngà phản ứng) thành lập ở bề mặt ngà hướng về tủy tại vùng bị kích thích như sâu răng, chấn thương, để bảo vệ tủy (răng bệnh lý). Vì vậy cả “Răng người già” và “Răng bệnh lý” đều đúng. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2–1.3)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     }
   ]
 }

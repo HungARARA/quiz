@@ -788,6 +788,7 @@ function buildQuiz() {
       aiCheck: q.aiCheck || false,
       aiNote: q.aiNote || null,
       aiOriginal: q.aiOriginal || null,
+      scanNote: q.scanNote || null,
       options,
       correctIndex,
     };
@@ -822,6 +823,22 @@ function aiBadgeHtml(q) {
        </span>`;
 }
 
+/* Ghi chú về bản scan đề gốc (đánh dấu bị gạch, đề khoá khác chọn gì) - tách khỏi phần giải thích */
+function scanNoteHtml(q) {
+  if (!q.scanNote) return "";
+  return `<div class="scan-note">📝 <strong>Bản scan:</strong> ${escapeHtml(q.scanNote)}</div>`;
+}
+
+/* Giải thích cho câu có đáp án từ đề (không phải AI làm) */
+function explanationBoxHtml(q) {
+  const scan = q.ai ? "" : scanNoteHtml(q);
+  if (!q.explanation && !scan) return "";
+  const text = q.explanation
+    ? `<strong>💡 Giải thích:</strong> ${escapeHtml(q.explanation)}`
+    : "";
+  return `<div class="explanation-box">${text}${scan}</div>`;
+}
+
 /* Lý do AI chọn đáp án đó - chỉ hiện khi đã chấm bài / xem lại */
 function aiNoteHtml(q) {
   if (!q.ai || !q.aiNote) return "";
@@ -830,12 +847,13 @@ function aiNoteHtml(q) {
   const warn = !q.aiCheck
     ? ""
     : original
-      ? `<div class="ai-note-warn">📌 Đề gốc khoanh <strong>“${escapeHtml(original[2])}”</strong> (phương án ${original[1]} trong đề gốc). Đáp án đúng là phương án ✅ ở trên.</div>`
+      ? `<div class="ai-note-warn">📌 Đề gốc chọn <strong>“${escapeHtml(original[2])}”</strong>. Đáp án đúng là phương án ✅ ở trên.</div>`
       : `<div class="ai-note-warn">⚠️ Đáp án này KHÁC gợi ý của ngân hàng đề — nên tra lại sách trước khi tin.</div>`;
   return `
     <div class="ai-note-box${q.aiCheck ? " warn" : ""}">
       <strong>🤖 AI lý giải:</strong> ${escapeHtml(q.aiNote)}
       ${warn}
+      ${scanNoteHtml(q)}
     </div>`;
 }
 
@@ -1064,10 +1082,7 @@ function renderQuestion(index) {
     ? `<span class="question-source" title="Nguồn đề">📚 ${escapeHtml(q.source)}</span>`
     : "";
 
-  const explanationHtml =
-    graded && q.explanation
-      ? `<div class="explanation-box"><strong>💡 Giải thích:</strong> ${escapeHtml(q.explanation)}</div>`
-      : "";
+  const explanationHtml = graded ? explanationBoxHtml(q) : "";
   const missingAnswerHtml = !hasAnswerKey(q)
     ? '<div class="explanation-box">Nguồn đề chưa có đáp án cho câu này. Lựa chọn của bạn sẽ không được chấm đúng sai.</div>'
     : "";
@@ -1482,9 +1497,7 @@ function renderReviewList() {
         })
         .join("");
 
-      const exp = q.explanation
-        ? `<div class="explanation-box"><strong>💡 Giải thích:</strong> ${escapeHtml(q.explanation)}</div>`
-        : "";
+      const exp = explanationBoxHtml(q);
 
       const src = q.source
         ? `<span class="question-source">📚 ${escapeHtml(q.source)}</span>`
@@ -1550,6 +1563,7 @@ function retryWrongOnly() {
     aiCheck: q.aiCheck,
     aiNote: q.aiNote,
     aiOriginal: q.aiOriginal,
+    scanNote: q.scanNote,
   }));
 
   // Bỏ giới hạn số câu để làm hết các câu sai

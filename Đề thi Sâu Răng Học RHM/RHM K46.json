@@ -35,7 +35,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 2,
@@ -64,7 +65,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 3,
@@ -93,7 +95,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 4,
@@ -122,7 +125,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 5,
@@ -150,8 +154,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.2): loại II là mặt bên răng cối nhỏ và cối lớn; loại III là mặt bên răng cửa và răng nanh không ảnh hưởng góc cắn → mặt xa răng cửa bên là xoang III. Câu này có thể chép từ đề RHM K45 (câu 5 hỏi răng cối lớn) nên đáp án khoanh chưa sửa theo.",
-      "aiOriginal": "D. Xoang II"
+      "aiNote": "Theo phân loại G.V. Black, loại II là sâu ở mặt bên các răng cối nhỏ và cối lớn; loại III là sâu ở mặt bên các răng cửa và răng nanh, không ảnh hưởng đến góc cắn. Ánh đen dưới lớp men ở mặt xa răng cửa bên hàm dưới là sang thương mặt bên của răng cửa, chưa phá tới góc cắn → xoang III. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.6–5.7)",
+      "aiOriginal": "D. Xoang II",
+      "scanNote": null
     },
     {
       "number": 6,
@@ -180,7 +185,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 7,
@@ -209,7 +215,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 8,
@@ -237,8 +244,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình Sâu Răng Học (Bài 1, mục 1.2.3): sự trưởng thành của răng sau khi mọc ảnh hưởng nhiều đến khả năng đề kháng — men răng mới mọc chứa nhiều carbonate, dễ bị acid hòa tan — nên đây là yếu tố LÀM TĂNG nhạy cảm. Đề RHM K45 (câu 8, cùng câu hỏi) khoanh \"Số lượng răng\".",
-      "aiOriginal": "C. Sự trưởng thành của răng sau khi mọc"
+      "aiNote": "Giáo trình nêu răng là yếu tố tiên quyết để có sâu răng, và các yếu tố làm tăng tính nhạy cảm của răng gồm: hình thái, giải phẫu khác thường của răng (hố rãnh sâu, vùng tiếp xúc rộng, khiếm khuyết bề mặt); vị trí răng bất thường do chen chúc, lộn xộn, dễ tích tụ mảng bám; và sự trưởng thành của răng sau khi mọc — men răng mới mọc chứa nhiều carbonate, dễ bị acid hòa tan. Số lượng răng mọc không nằm trong các yếu tố này. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.3)",
+      "aiOriginal": "C. Sự trưởng thành của răng sau khi mọc",
+      "scanNote": null
     },
     {
       "number": 9,
@@ -267,7 +275,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 10,
@@ -296,7 +305,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 11,
@@ -325,7 +335,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 12,
@@ -354,7 +365,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 13,
@@ -383,7 +395,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 14,
@@ -412,7 +425,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 15,
@@ -437,11 +451,12 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Giáo trình Sâu Răng Học (Bài 9, mục 3.1 và theo dõi): khoảng 4 tuần sau che tủy trực tiếp chụp phim có thể quan sát thấy cầu ngà; sau 3 tháng làm thử nghiệm độ sống tủy. Đề không có phương án 4 tuần, khoanh 3 tháng.",
+      "explanation": "Sau che tủy trực tiếp khoảng 4 tuần sẽ có sự hình thành cầu ngà (cầu khoáng hóa) đóng kín chỗ lộ tủy. Lịch theo dõi trong giáo trình: lần 1 sau 1 tuần; lần 2 sau 4 tuần, chụp phim có thể quan sát thấy cầu ngà; lần 3 sau 3 tháng, làm các thử nghiệm độ sống tủy; sau đó tái khám mỗi 6 tháng trong 2–4 năm. Đề không có phương án 4 tuần, nên “3 tháng” là phương án phù hợp nhất. (Giáo trình Sâu Răng Học, Bài 9, mục 3.1 và phần theo dõi bệnh nhân)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 16,
@@ -470,7 +485,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 17,
@@ -499,7 +515,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 18,
@@ -528,7 +545,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 19,
@@ -557,7 +575,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 20,
@@ -586,7 +605,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 21,
@@ -615,7 +635,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 22,
@@ -644,7 +665,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 23,
@@ -673,7 +695,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 24,
@@ -702,7 +725,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 25,
@@ -731,7 +755,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 26,
@@ -760,7 +785,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 27,
@@ -789,7 +815,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 28,
@@ -818,7 +845,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 29,
@@ -847,7 +875,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 30,
@@ -876,7 +905,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 31,
@@ -905,7 +935,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 32,
@@ -934,7 +965,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 33,
@@ -963,7 +995,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 34,
@@ -992,7 +1025,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 35,
@@ -1021,7 +1055,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 36,
@@ -1050,7 +1085,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 37,
@@ -1079,7 +1115,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 38,
@@ -1108,7 +1145,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 39,
@@ -1137,7 +1175,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 40,
@@ -1166,7 +1205,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 41,
@@ -1195,7 +1235,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 42,
@@ -1224,7 +1265,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 43,
@@ -1253,7 +1295,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 44,
@@ -1282,7 +1325,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 45,
@@ -1311,7 +1355,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 46,
@@ -1340,7 +1385,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 47,
@@ -1369,7 +1415,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 48,
@@ -1398,7 +1445,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 49,
@@ -1427,7 +1475,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 50,
@@ -1456,7 +1505,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 51,
@@ -1485,7 +1535,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 52,
@@ -1514,7 +1565,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 53,
@@ -1543,7 +1595,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 54,
@@ -1572,7 +1625,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 55,
@@ -1601,7 +1655,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 56,
@@ -1630,7 +1685,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 57,
@@ -1659,7 +1715,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 58,
@@ -1688,7 +1745,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 59,
@@ -1717,7 +1775,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 60,
@@ -1746,7 +1805,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     }
   ]
 }

@@ -12,7 +12,8 @@ Source format:
   *A. option   answer marked in the scanned exam
   @A. option   answer chosen by AI (exam unmarked; taken from another year or reasoned)
   ?A. / !B.    exam marked A but AI picked B (shown with a warning badge)
-  > note       explanation (or the AI's reasoning for @ and ?/! answers)
+  > note       explanation from the textbook (or the AI's reasoning for @ and ?/! answers)
+  >> note      what the scan shows (crossed-out marks, other cohorts' answers)
 Questions with no marked option have no answer key.
 """
 
@@ -57,11 +58,14 @@ def parse(path):
         match = QUESTION_RE.match(line)
         if match:
             current = {"number": int(match.group(1)), "question": match.group(2).strip(),
-                       "options": [], "marks": {}, "notes": [], "image": None}
+                       "options": [], "marks": {}, "notes": [], "scan": [], "image": None}
             items.append(current)
             continue
         if current is None:
             fail(path, f"text before the first question: {line}")
+        if line.startswith(">> "):
+            current["scan"].append(line[3:].strip())
+            continue
         if line.startswith("> "):
             current["notes"].append(line[2:].strip())
             continue
@@ -73,7 +77,7 @@ def parse(path):
             current["image"] = {"page": int(page), "box": [float(v) for v in box]}
             continue
         match = OPTION_RE.match(line)
-        if not match or current["notes"]:
+        if not match or current["notes"] or current["scan"]:
             fail(path, f"unexpected line in question {current['number']}: {line}")
         mark, label, text = match.groups()
         if label != "ABCDEF"[len(current["options"])]:
@@ -87,12 +91,13 @@ def parse(path):
 def resolve(path, item):
     """Turn option markers into the website's answer fields."""
     marks, note = item["marks"], " ".join(item["notes"]) or None
+    scan = " ".join(item["scan"]) or None
     if len(item["options"]) < 2:
         fail(path, f"question {item['number']} has fewer than two options")
     if any(len(v) > 1 for v in marks.values()) or set(marks) not in (set(), {"*"}, {"@"}, {"?", "!"}):
         fail(path, f"question {item['number']} has inconsistent answer marks {marks}")
     out = {"correctIndex": None, "explanation": None, "ai": False, "aiCheck": False, "aiNote": None,
-           "aiOriginal": None}
+           "aiOriginal": None, "scanNote": scan}
     if "*" in marks:
         out.update(correctIndex=marks["*"][0], explanation=note)
     elif "@" in marks:
@@ -106,7 +111,7 @@ def resolve(path, item):
         out.update(correctIndex=marks["!"][0], ai=True, aiCheck=True, aiNote=note,
                    aiOriginal=f"{original['label']}. {original['text']}")
     else:
-        if not note:
+        if not note and not scan:
             fail(path, f"question {item['number']} has no answer and no note saying why")
         out["explanation"] = note
     return out
@@ -166,15 +171,19 @@ def create_docx(title, header, questions, folder, target):
         index = q["correctIndex"]
         answer = "chưa có" if index is None else q["options"][index]["label"]
         if q["aiCheck"]:
-            answer += f" (AI làm đáp án — đề gốc khoanh {q['aiOriginal']})"
+            answer += f" (AI làm đáp án — đề gốc chọn {q['aiOriginal']})"
         elif q["ai"]:
             answer += " (AI làm đáp án)"
         doc.add_paragraph().add_run(f"Đáp án: {answer}").bold = True
         note = q["aiNote"] or q["explanation"]
         if note:
             para = doc.add_paragraph()
-            para.add_run("Ghi chú: ").bold = True
+            para.add_run("Giải thích: ").bold = True
             para.add_run(note)
+        if q["scanNote"]:
+            para = doc.add_paragraph()
+            para.add_run("Ghi chú bản scan: ").bold = True
+            para.add_run(q["scanNote"])
     doc.save(target)
 
 

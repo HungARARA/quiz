@@ -34,8 +34,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 28, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Có hai cách nấu nhựa. Cách nấu chậm: cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ phòng lên khoảng 74°C (165°F) và giữ trong 9 giờ, sau đó tăng lên khoảng 100°C (212°F) và giữ thêm 30 phút. Nấu chậm giúp nhựa trùng hợp từ từ, hạn chế bọt trong nền hàm. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.4.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 28) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 2,
@@ -63,8 +64,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 29, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Cách nấu nhanh: cho khuôn vào nước lạnh, đưa nhiệt độ lên khoảng 74°C (165°F) và giữ 1 giờ 30 phút, sau đó tăng lên khoảng 100°C (212°F) và giữ 30 phút. Cộng lại tổng thời gian là 2 giờ. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.4.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 29) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 3,
@@ -92,8 +94,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Mọi hạt nhựa thừa trên mặt tiếp xúc niêm mạc đều có thể gây loét nên phải mài bỏ hết, nhưng không mài lõm nền hàm.",
-      "aiOriginal": null
+      "aiNote": "Trước khi lắp hàm vào miệng, bác sĩ phải kiểm tra và loại bỏ mọi yếu tố có thể gây chấn thương mô: những hạt nhựa nhỏ ở mặt tiếp xúc niêm mạc, bờ hàm và đầu tay móc bén nhọn. Các hạt nhựa này phải được mài bỏ cẩn thận — mài vừa đủ để mặt nền láng, không gây tổn thương niêm mạc nhưng cũng không làm hỏng độ khít của nền hàm. (Giáo trình PHTL, Bài 8 – Lắp và điều chỉnh phục hình, mục 1.1)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 4,
@@ -121,8 +124,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 21, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Khi mới mang hàm, bệnh nhân thường thấy vướng như vật lạ, khó phát âm, nói ngọng, tiết nhiều nước bọt. Vì vậy cần dặn bệnh nhân mang hàm thường xuyên để quen dần, nói chậm, và thực hiện chức năng từ dễ tới khó: ăn thức ăn mềm, cắt thành miếng nhỏ, nhai chậm. (Giáo trình PHTL, Bài 8, mục 2.1–2.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 21) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 5,
@@ -150,8 +154,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 30, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Quy trình hoàn thiện hàm nhựa đi từ thô tới mịn: trước hết mài bỏ phần nhựa thừa quanh bờ hàm bằng mũi mài nhựa, sau đó làm nhẵn nền hàm bằng đá mài hạt thô rồi hạt mịn, tiếp đến đánh giấy nhám từ thô tới mịn, cuối cùng đánh bóng bằng bánh xe vải, bàn chải với bột đánh bóng. (Giáo trình PHTL, Bài 7, mục 2.8)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 30) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 6,
@@ -179,8 +184,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Nhựa được ép khuôn ở giai đoạn dẻo như bột nhào (hết dính, nhồi được bằng tay); giai đoạn còn dính thành chén là quá sớm. Đề RHM K43 (câu 35, cùng câu hỏi) cũng gạch “Khi nhựa kéo sợi, có thể nhồi bằng tay”.",
-      "aiOriginal": null
+      "aiNote": "Sau khi trộn, nhựa được để trong hũ đậy kín cho tới khi dẻo nhưng không còn dính vào thành hũ — đó là lúc sẵn sàng để ép. Khi đó lấy nhựa ra nhồi bằng tay (có lót giấy bóng kính ẩm) rồi ấn vào khuôn; nếu ép sớm khi nhựa còn dính thì hàm sẽ bị bọt. (Giáo trình PHTL, Bài 7, mục 2.4.1–2.4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K43 (câu 35) và K47 (câu 44) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 7,
@@ -208,8 +214,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 4, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Hàm bán phần nền nhựa được giữ trên cung hàm nhờ hai thành phần cùng lúc: nền nhựa phủ và ôm sát sống hàm, vòm khẩu cái, cổ các răng còn lại (tạo sự bám dính, vững ổn), và hệ thống móc dây tròn ôm quanh răng trụ để lưu giữ phục hình. Vì vậy sự dính của hàm nhờ cả nền nhựa lẫn móc. (Giáo trình PHTL, Bài 1, mục 2; Bài 10, mục 4)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 4) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 8,
@@ -237,8 +244,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.2): tay móc phải ôm thân răng trụ khít để có độ lưu giữ tốt; móc dây có tính đàn hồi nhưng đủ cứng rắn (“Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi” \"ít đàn hồi\" sai), ôm ít nhất 2/3 chu vi (“Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ” sai), không tác động lực khi hàm nghỉ (“Khi hàm giả không hoạt động chức năng, móc vẫn được tác dụng lực lên răng trụ” sai).",
-      "aiOriginal": null
+      "aiNote": "Theo giáo trình, tay móc phải ôm thân răng trụ khít để có độ lưu giữ tốt; tay móc là một đường cong liên tục, không gãy khúc, đầu móc được mài trơn láng. Móc dây được uốn từ hợp kim không rỉ, có tính đàn hồi nhưng phải đủ cứng rắn. (Giáo trình PHTL, Bài 13 – Móc, mục 2.2.2)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 9,
@@ -266,8 +274,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 5) và K41 (câu 36).",
-      "aiOriginal": null
+      "aiNote": "Phục hình tháo lắp bán hàm nền nhựa gồm nền hàm bằng nhựa, răng giả và hệ thống móc dây tròn. Móc thường dùng là móc hợp kim dây tròn đường kính 0,7–1 mm, được uốn bằng kềm và ôm quanh răng trụ để lưu giữ hàm. (Giáo trình PHTL, Bài 1 – Đại cương, mục 1–2; Bài 13, mục 2.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 5) và K41 (câu 36) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 10,
@@ -295,8 +304,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Không muốn mài răng, muốn dễ vệ sinh và sợ đau khi lấy tủy, khoan ống chân răng đều là lý do tâm lý khiến bệnh nhân chọn hàm tháo lắp (đề RHM K47 câu 5 cũng coi ba ý này là đúng).",
-      "aiOriginal": null
+      "aiNote": "Giáo trình nêu ba lý do tâm lý khiến bệnh nhân chọn phục hình tháo lắp thay vì phục hình cố định: không muốn mài răng, sợ đau trong các thủ thuật của phục hình cố định như lấy tủy, mài răng, và muốn làm hàm tháo lắp để dễ vệ sinh. Cả ba ý đều nằm trong phần chỉ định về tâm lý. (Giáo trình PHTL, Bài 1 – Đại cương, mục 3.2)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 11,
@@ -333,8 +343,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo Hình 2.1 giáo trình PHTL (Bài 2), các mốc hàm trên đánh số: 1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ \"a\", 10 rãnh chân bướm hàm, 11 vùng Schroder. Hình trong đề mờ nên đáp án dựa vào cách đánh số này (đề RHM K41 câu 41–42 khớp cách đánh số đó).",
-      "aiOriginal": null
+      "aiNote": "Trong hình các mốc giải phẫu hàm trên của giáo trình (Hình 2.1), số 7 là đường nối giữa hai xương hàm trên, chạy dọc giữa vòm khẩu cái. Niêm mạc phủ trên đường này rất mỏng nên không chịu được lực nén mạnh; nếu có đường gờ thì phải tạo sự giảm nén trên nền hàm. (Giáo trình PHTL, Bài 2, mục 1; Bài 3, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Hình trong bản scan quá mờ, không đọc được số chú thích; đáp án dựa vào cách đánh số Hình 2.1 trong giáo trình (1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ “a”, 10 rãnh chân bướm hàm, 11 vùng Schroder)."
     },
     {
       "number": 12,
@@ -371,8 +382,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo Hình 2.1 giáo trình PHTL (Bài 2), mốc số 9 của hàm trên là đường rung chữ \"a\" (1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ \"a\", 10 rãnh chân bướm hàm, 11 vùng Schroder). Hình trong đề mờ.",
-      "aiOriginal": null
+      "aiNote": "Trong hình các mốc giải phẫu hàm trên của giáo trình (Hình 2.1), số 9 là đường rung chữ “a” — đường di động của màn hầu khi bệnh nhân phát âm “a”, nằm ở ranh giới khẩu cái cứng và khẩu cái mềm. Đây là giới hạn phía sau của nền hàm trên khi mất hết răng phía sau. (Giáo trình PHTL, Bài 2, mục 1; Bài 3, mục 1.1.1)",
+      "aiOriginal": null,
+      "scanNote": "Hình trong bản scan quá mờ, không đọc được số chú thích; đáp án dựa vào cách đánh số Hình 2.1 trong giáo trình (1 thắng môi, 2 núm răng cửa, 3 nhú khẩu cái, 4 thắng má, 5 đỉnh sống hàm, 6 lồi cùng, 7 đường giữa xương hàm trên, 8 lỗ khẩu cái sau, 9 đường rung chữ “a”, 10 rãnh chân bướm hàm, 11 vùng Schroder)."
     },
     {
       "number": 13,
@@ -409,8 +421,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo Hình 2.1 giáo trình PHTL (Bài 2), các mốc hàm dưới đánh số: 1 dây chằng chân bướm hàm, 2 gối hậu nha, 3 đỉnh sống hàm, 4 thắng lưỡi, 5 thắng má, 6 thắng môi. Hình trong đề mờ; đề RHM K41 (câu 43) chọn số 2 = gối hậu nha, khớp cách đánh số này.",
-      "aiOriginal": null
+      "aiNote": "Trong hình các mốc giải phẫu hàm dưới của giáo trình (Hình 2.1), số 1 là dây chằng chân bướm hàm, nối tiếp với phần sau của gối hậu nha. Dây chằng này di chuyển ra trước và căng ra khi há miệng tối đa nên nền hàm phải tránh vùng này. (Giáo trình PHTL, Bài 2, mục 1 và 3.4.6)",
+      "aiOriginal": null,
+      "scanNote": "Hình trong bản scan quá mờ, không đọc được số chú thích; đáp án dựa vào cách đánh số Hình 2.1 trong giáo trình (1 dây chằng chân bướm hàm, 2 gối hậu nha, 3 đỉnh sống hàm, 4 thắng lưỡi, 5 thắng má, 6 thắng môi)."
     },
     {
       "number": 14,
@@ -447,8 +460,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 43: cùng hình, cùng câu hỏi số 2).",
-      "aiOriginal": null
+      "aiNote": "Trong hình các mốc giải phẫu hàm dưới (Hình 2.1), số 2 là gối hậu nha — vành niêm mạc phủ tam giác hậu nha ở phía sau răng cối cuối. Phần trước gối hậu nha là mô xơ rất chắc, là chỗ tựa tốt cho nền hàm và giúp giữ vững hàm. (Giáo trình PHTL, Bài 2, mục 1 và 3.4.6)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 43) dùng cùng hình, cùng câu hỏi và chọn gối hậu nha."
     },
     {
       "number": 15,
@@ -476,8 +490,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 9) và K41 (câu 44).",
-      "aiOriginal": null
+      "aiNote": "Khi khám khớp thái dương hàm, biên độ há miệng bình thường là 40–50 mm. Nhỏ hơn 40 mm là há miệng hạn chế (cần tìm nguyên nhân ở khớp, cơ hay khớp cắn); lớn hơn 50 mm có thể do giãn dây chằng khớp quá mức. (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 9) và K41 (câu 44) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 16,
@@ -505,8 +520,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 45, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Khớp cắn bình thường khi ngậm miệng các răng cửa trên phủ các răng cửa dưới theo hai chiều: chiều dọc (overbite) khoảng 2 mm và chiều ngang (overjet) khoảng 2 mm. Overbite hơn 4 mm là cắn sâu, overjet hơn 4 mm là hô. (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.4.9)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 45) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 17,
@@ -534,8 +550,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Sống hàm quá thấp là khi mào xương tiêu gần hết, bằng phẳng, không còn độ cao; hai triền hội tụ là sống hàm nhọn hình tam giác.",
-      "aiOriginal": null
+      "aiNote": "Giáo trình chia sống hàm làm ba mức: sống hàm lý tưởng (cao, rộng, hai triền song song), sống hàm thấp (hai triền má – lưỡi hội tụ, kém vững theo chiều ngang) và sống hàm quá thấp — mào xương bằng phẳng, không còn độ cao. Sống hàm quá thấp không tạo được sự vững ổn hay giữ dính cho hàm. (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.3.3)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 18,
@@ -563,8 +580,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Hai triền song song là lồi củ tốt; hơi thấp và nghiêng là trung bình; quá to hoặc lẹm là bất lợi.",
-      "aiOriginal": null
+      "aiNote": "Giá trị lồi cùng được đánh giá qua hai triền phía hành lang và phía khẩu cái: tốt khi hai triền song song nhau; trung bình khi hai triền hơi thấp và nghiêng vào nhau; kém khi lồi cùng teo nhỏ, không còn độ cao. Lồi cùng rất quan trọng khi mất răng sau hai bên vì giúp nâng đỡ và lưu giữ hàm. (Giáo trình PHTL, Bài 2, mục 3.3.4)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 19,
@@ -592,8 +610,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 2, mục 3.4.6 và câu tự lượng giá 10 – đáp án “45°”): khi mào xương không tiêu, gối hậu nha tạo góc 45° với đường đỉnh sống hàm.",
-      "aiOriginal": null
+      "aiNote": "Gối hậu nha gồm phần trước là mô xơ chắc (chỗ tựa tốt cho nền hàm) và phần sau di động. Khi mào xương không tiêu, gối hậu nha tạo một góc 45° với đường đỉnh sống hàm; khi xương tiêu nhiều, vùng này teo nhỏ và mất giá trị nâng đỡ. (Giáo trình PHTL, Bài 2, mục 3.4.6; câu tự lượng giá 10)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 20,
@@ -621,8 +640,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 22, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Hàm giả được giao và hẹn tái khám sau khoảng 7 ngày. Ở buổi tái khám, bác sĩ hỏi bệnh nhân mọi khó khăn khi mang hàm (đau, lỏng hàm, nói ngọng, buồn nôn…), khám trong miệng và khám hàm giả, rồi tìm nguyên nhân và xử lý những than phiền chính đó. (Giáo trình PHTL, Bài 8, mục 3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 22) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 21,
@@ -650,8 +670,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 23) và K41 (câu 53).",
-      "aiOriginal": null
+      "aiNote": "Khi hai hàm tháo lắp bán phần đối diện nhau, lắp một hàm vào trước và điều chỉnh khớp cắn của hàm này theo các răng thật đối diện, coi như cung hàm đó là răng thật; sau đó lắp hàm còn lại và điều chỉnh theo hàm kia. Ưu tiên chỉnh trước hàm chạm răng thật nhiều hơn, hoặc hàm mất răng xen kẽ. (Giáo trình PHTL, Bài 8, mục 1.2.4–1.2.5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 23) và K41 (câu 53) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 22,
@@ -679,8 +700,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 38) và K41 (câu 2).",
-      "aiOriginal": null
+      "aiNote": "Các phần tử bất lợi của hàm trên khi làm phục hình tháo lắp bán hàm gồm núm sau răng cửa, đường nối giữa xương hàm trên, lồi rắn (torus), vùng Schroder, nơi bám của cơ và dây chằng. Lồi rắn là khối xương lồi giữa vòm khẩu phủ niêm mạc mỏng, ít chịu lực nén; nếu quá lớn phải phẫu thuật trước khi làm hàm. (Giáo trình PHTL, Bài 3, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 38) và K41 (câu 2) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 23,
@@ -708,8 +730,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K45 (câu 20) và K46 (câu 60), cùng câu điền khuyết.",
-      "aiOriginal": null
+      "aiNote": "Lớp niêm mạc phủ đường nối giữa xương hàm trên rất mỏng. Nếu đường nối không có gờ thì hàm giả đè lên không gây đau dưới tác động của lực ép; nếu có đường gờ lồi lên thì phải tạo sự giảm nén trên nền hàm ở vùng này. (Giáo trình PHTL, Bài 2, mục 3.4.5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 20) và K46 (câu 60) có cùng câu điền khuyết và chọn đáp án này."
     },
     {
       "number": 24,
@@ -737,8 +760,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Tương quan hai hàm được ghi trên miệng nhờ nền tạm – gối sáp, rồi chuyển qua mẫu hàm để hai mẫu có tương quan giống như trên miệng (đề RHM K47 câu 31–32).",
-      "aiOriginal": null
+      "aiNote": "Tương quan hai hàm được xác định trên miệng bệnh nhân, được ghi lại nhờ nền tạm và gối sáp, rồi chuyển qua mẫu hàm để hai mẫu hàm có mối tương quan giống như trên miệng; sau đó hai mẫu hàm được vô giá khớp. (Giáo trình PHTL, Bài 5 – Tương quan khớp cắn, mục 3)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 25,
@@ -766,8 +790,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 13, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Nền tạm là nền hàm tạm thời dùng suốt giai đoạn làm hàm, sau này được thay bằng nền nhựa. Yêu cầu: phủ và ôm sát sống hàm, vòm khẩu; ôm sát cổ răng trước và đường vòng lớn nhất của răng sau; tránh các thắng; bờ và góc tròn nhẵn; tương đối đối xứng; chiều dày đồng nhất khoảng 2 mm, nhẵn, bóng. (Giáo trình PHTL, Bài 5, mục 4.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 13) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 26,
@@ -795,8 +820,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 15, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Kích thước dọc cắn khớp bình thường được giữ bởi sự tiếp xúc của các răng đối kháng còn lại. Khi không còn sự tiếp xúc răng — mất răng toàn hàm, hoặc mất răng xen kẽ mà các răng còn lại không còn điểm chạm — thì phải xác định lại kích thước dọc rồi mới ghi tương quan hai hàm. (Giáo trình PHTL, Bài 5, mục 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 15) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 27,
@@ -824,8 +850,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 17) và K41 (câu 49).",
-      "aiOriginal": null
+      "aiNote": "Có hai phương pháp thiết lập tương quan hai hàm theo chiều ngang, tùy tương quan lồng múi của bệnh nhân: nếu các răng thật còn lại ở hai hàm cho một tương quan lồng múi chính xác ở kích thước dọc đúng thì ghi khớp cắn trung tâm; trong mọi trường hợp khác thì ghi tương quan tâm như ở hàm toàn bộ. (Giáo trình PHTL, Bài 5, mục 7.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 17) và K41 (câu 49) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 28,
@@ -853,8 +880,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 6, mục 3.3.3; Bài 30, câu tự lượng giá 3 – đáp án \"nghiêng vào trong\"): răng nanh hàm dưới có cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi → đỉnh răng nanh nghiêng vào trong so với cổ răng.",
-      "aiOriginal": null
+      "aiNote": "Khi sắp răng trước hàm dưới theo mặt phẳng dọc: răng cửa giữa có cổ răng hướng về phía lưỡi, cạnh cắn ra ngoài; răng cửa bên gần thẳng; răng nanh có cổ răng đưa ra ngoài và đỉnh hướng về phía lưỡi. Vì vậy đỉnh răng nanh dưới nghiêng vào trong so với cổ răng. (Giáo trình PHTL, Bài 6, mục 3.3.3; Bài 30, câu tự lượng giá 3)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 29,
@@ -882,8 +910,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K47 (câu 29, cùng câu điền khuyết).",
-      "aiOriginal": null
+      "aiNote": "Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, gồm tương quan theo chiều dọc (kích thước dọc) và tương quan theo chiều ngang (khớp cắn trung tâm hoặc tương quan tâm). (Giáo trình PHTL, Bài 5 – Tương quan khớp cắn, mục 3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K46 (câu 11) và K47 (câu 29) có cùng câu điền khuyết và chọn đáp án này."
     },
     {
       "number": 30,
@@ -911,8 +940,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Răng cối lớn thứ nhất hàm dưới thường được lên trước để định vị khớp cắn với răng 6 hàm trên.",
-      "aiOriginal": null
+      "aiNote": "Răng 6 là chìa khóa khớp cắn, nên khi lên răng sau hàm dưới thì răng 6 được sắp đầu tiên, gần hoặc ngay điểm trũng nhất của sống hàm — vị trí vững ổn của phục hình; sau đó mới sắp răng 7, 5 rồi 4. (Giáo trình PHTL, Bài 6, mục 5 và câu tự lượng giá 6; Bài 31, mục 2.2)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 31,
@@ -940,8 +970,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 26) và K41 (câu 54).",
-      "aiOriginal": null
+      "aiNote": "Hàm giả lỏng có thể do bờ hàm quá dư, hình dạng hàm không hợp với mô xung quanh hoặc lưu giữ không tốt — khi đó hàm lỏng cả lúc nói và lúc nghỉ. Nếu bệnh nhân than hàm chỉ lỏng khi nhai thức ăn thì nguyên nhân là thiếu thăng bằng khớp cắn; xử lý bằng giấy cắn để tìm cản trở khi đưa hàm ra trước, sang bên và mài chọn lọc. (Giáo trình PHTL, Bài 8, mục 3.4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 26) và K41 (câu 54) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 32,
@@ -969,8 +1000,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 37) và K41 (câu 1).",
-      "aiOriginal": null
+      "aiNote": "Ở hàm trên, các phần tử thuận lợi cho phục hình tháo lắp bán hàm gồm độ cong lồi của thân răng còn lại, điểm tiếp xúc giữa các răng, vùng sau răng cửa và triền sống hàm phía khẩu cái, sống hàm, lồi cùng, giới hạn khẩu cái cứng – mềm. Điểm tiếp xúc giữa các răng giúp nền hàm vững chắc và thức ăn không nhét vào kẽ răng. (Giáo trình PHTL, Bài 3, mục 1.1.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 37) và K41 (câu 1) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 33,
@@ -998,8 +1030,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 43, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Mặt phẳng nhai phục hình là mặt phẳng tưởng tượng song song với mặt phẳng Camper (đi qua hai điểm tragus và điểm dưới cánh mũi), đi qua bờ cắn răng cửa và mặt nhai các răng cối. (Giáo trình PHTL, Bài 3, mục 2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 43) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 34,
@@ -1036,8 +1069,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 45: cùng hình, khoanh \"Loại I, biến thể 2\").",
-      "aiOriginal": null
+      "aiNote": "Trong hình, cả hai bên đều mất răng sau tới cuối cung (không còn răng giới hạn phía xa) → Kennedy loại I (mất răng sau hai bên). Phía trước còn hai khoảng mất răng xen giữa các răng còn lại; mỗi khoảng thêm vào là một biến thể → loại I, biến thể 2. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 45) và K43 (câu 9) dùng cùng hình và chọn đáp án này."
     },
     {
       "number": 35,
@@ -1074,8 +1108,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Răng còn lại chỉ ở một bên cung hàm, bên kia mất răng tới cuối cung (một vùng mất răng không giới hạn phía xa) → Kennedy loại II.",
-      "aiOriginal": null
+      "aiNote": "Trong ảnh, răng còn lại chỉ nằm ở một bên cung hàm, bên kia mất hết răng sau tới cuối cung, không còn răng giới hạn phía xa → mất răng sau một bên, tức Kennedy loại II; không có khoảng mất răng phụ nên không có biến thể. (Giáo trình PHTL, Bài 3, mục 4.1)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 36,
@@ -1112,8 +1147,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 49) và K41 (câu 8): cùng hình, khoanh \"Loại II, biến thể 2\".",
-      "aiOriginal": null
+      "aiNote": "Trong hình, một bên mất răng sau tới cuối cung → Kennedy loại II. Ngoài vùng đó còn hai khoảng mất răng phụ: vùng răng cửa giữa hai răng nanh và vùng giữa răng nanh với răng cối ở bên còn răng → biến thể 2. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 49), K41 (câu 8) và K45 (câu 6) dùng cùng hình và chọn đáp án này."
     },
     {
       "number": 37,
@@ -1150,8 +1186,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 47: cùng hình, khoanh \"Loại III, biến thể 1\").",
-      "aiOriginal": null
+      "aiNote": "Trong hình, hai bên đều còn răng cối phía sau; một bên có khoảng mất răng sau được giới hạn hai đầu bởi răng nanh và răng sau → Kennedy loại III (vùng mất răng phía sau quyết định loại). Vùng răng cửa bị mất là một khoảng phụ → biến thể 1. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 47) và K43 (câu 13) dùng cùng hình và chọn đáp án này."
     },
     {
       "number": 38,
@@ -1188,8 +1225,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Ảnh: còn 2 răng cửa giữa và răng cối cuối hai bên; hai vùng mất răng đều có răng giới hạn hai đầu → theo 4 loại căn bản là Kennedy loại III, biến thể 1 (đề RHM K43 câu 14, sơ đồ tương tự, khoanh “Loại III, biến thể 1”). Giáo trình có thêm loại VI cho mất răng gần toàn bộ (chỉ còn 1–2 răng chia đôi đoạn mất răng) — nên đối chiếu thêm.",
-      "aiOriginal": null
+      "aiNote": "Trong ảnh, còn 2 răng cửa giữa và răng cối cuối cùng ở mỗi bên; hai vùng mất răng hai bên đều có răng giới hạn ở hai đầu. Theo 4 loại căn bản của Kennedy, vùng mất răng có răng kẹp hai đầu là loại III; vùng thứ hai là một khoảng phụ → loại III, biến thể 1. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K43 (câu 14, sơ đồ tương tự) chọn đáp án này. Giáo trình có thêm loại VI cho mất răng gần toàn bộ (chỉ còn 1–2 răng chia đôi đoạn mất răng) nên câu này có thể được hiểu khác."
     },
     {
       "number": 39,
@@ -1217,8 +1255,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 12, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Khi chọn răng trước, mỗi răng gắn với một tiêu chí riêng. Răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân: người mạnh mẽ, chất phác thì chọn răng cửa bên thô, góc cạnh ít được mài tròn; người dịu dàng thì răng mảnh, mỏng hơn. (Giáo trình PHTL, Bài 30, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 12) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 40,
@@ -1246,8 +1285,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 29) và K41 (câu 13).",
-      "aiOriginal": null
+      "aiNote": "Theo chỉ số LEE, chiều rộng răng cửa giữa hàm trên bằng 1/4 khoảng cách giữa hai cánh mũi (tức hai răng cửa giữa bằng 1/2 khoảng cách đó). Ngoài ra chiều rộng răng cửa giữa còn bằng tổng chiều rộng răng cửa bên và 1/2 răng nanh. (Giáo trình PHTL, Bài 6, mục 2.1.3; Bài 30, mục 1.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 29) và K41 (câu 13) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 41,
@@ -1275,8 +1315,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 3, mục 4.3): Applegate loại VI là loại đơn giản nhất và thường gặp nhất. Đề RHM K43 (câu 17) cũng chọn “Loại VI”.",
-      "aiOriginal": null
+      "aiNote": "Applegate chia mất răng bán phần thành 6 loại dựa trên cách nâng đỡ phục hình. Loại VI là loại đơn giản nhất và có lẽ thường gặp nhất: khoảng mất răng ngắn, chân răng trụ đủ dài và hình dáng thích hợp để nâng đỡ, sống hàm cao, lực đối diện không quá mạnh. (Giáo trình PHTL, Bài 3, mục 4.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K43 (câu 17) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 42,
@@ -1304,8 +1345,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 6, mục 3.2.1): khoảng cách từ mặt ngoài các răng cửa giữa tới giữa gai cửa là 7 mm (Bài 30, phần toàn hàm: 6–8 mm).",
-      "aiOriginal": null
+      "aiNote": "Khi sắp răng trước hàm trên theo mặt phẳng ngang, mặt ngoài các răng cửa giữa cách điểm giữa gai cửa 7 mm: từ giữa gai cửa đo ra trước 7 mm và vạch một đường song song với đường nối hai rãnh chân bướm hàm — đó là đường răng cửa dùng để lên răng cửa giữa. (Giáo trình PHTL, Bài 6, mục 3.2.1)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 43,
@@ -1333,8 +1375,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 39, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Ở hàm dưới, các phần tử thuận lợi cho phục hình tháo lắp bán hàm gồm độ cong lồi của thân răng còn lại, điểm tiếp xúc giữa các răng thật, sống hàm và gối hậu nha. Nhờ độ cong lồi của thân răng mà nền nhựa vững hơn và móc giữ hàm tốt hơn. (Giáo trình PHTL, Bài 3, mục 1.1.1 và 1.2.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 39) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 44,
@@ -1362,8 +1405,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): bất lợi của hàm dưới là nơi bám cơ, dây chằng và đường chéo trong. Đề RHM K43 (câu 4) chọn “Đường chéo trong”; đề RHM K40 (câu 40) khoanh “Vùng Schroder” nhưng vùng Schroder thuộc khẩu cái hàm trên.",
-      "aiOriginal": null
+      "aiNote": "Ở hàm dưới, giáo trình nêu hai phần tử bất lợi cho phục hình tháo lắp bán hàm: nơi bám của cơ, dây chằng và đường chéo trong. Đường chéo trong là gờ xương nhô, phủ niêm mạc mỏng, nhạy cảm và là nơi bám của cơ hàm móng, nên nền hàm đè lên dễ gây đau và dễ bị đẩy khi cơ hoạt động. (Giáo trình PHTL, Bài 3, mục 1.2.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K43 (câu 4) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 45,
@@ -1391,8 +1435,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 31) và K41 (câu 15).",
-      "aiOriginal": null
+      "aiNote": "Răng sứ lưu giữ kém trong nền nhựa acrylic: cần khoảng cách với hàm đối diện đủ cao thì phần tiếp xúc của răng (phần nằm trong nền) mới được nhựa giữ chắc; răng sứ cũng quá cứng nên khó mài khi sắp răng. Răng nhựa thì lưu giữ tốt trong nền nhựa và dễ mài cho vừa khoảng trống, nên được chỉ định khi khoảng cách giữa hai hàm nhỏ. (Giáo trình PHTL, Bài 6, mục 1.1; Bài 31, mục 1.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 15) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 46,
@@ -1420,8 +1465,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 6, mục 5.2): khi thiếu chỗ có thể thu nhỏ hoặc bỏ bớt răng 4, hoặc thế một răng cối nhỏ cho một răng cối.",
-      "aiOriginal": null
+      "aiNote": "Khi sắp răng sau, răng 6 là chìa khóa khớp cắn nên được sắp trước và giữ nguyên. Nếu thiếu chỗ, có thể thu nhỏ hoặc bỏ bớt răng 4, hoặc thế một răng cối nhỏ cho một răng cối; ít khi bỏ răng 7. (Giáo trình PHTL, Bài 6, mục 5.2; Bài 31, mục 2.2)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 47,
@@ -1449,8 +1495,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 58) và K41 (câu 24).",
-      "aiOriginal": null
+      "aiNote": "Cách nấu chậm gồm hai giai đoạn: đưa nhiệt độ nước từ nhiệt độ phòng lên khoảng 74°C và giữ 9 giờ, sau đó tăng lên khoảng 100°C và giữ 30 phút. Cả hai ý trong đề đều là một phần của quy trình này. (Giáo trình PHTL, Bài 7, mục 2.4.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 58) và K41 (câu 24) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 48,
@@ -1478,8 +1525,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 59) và K41 (câu 25).",
-      "aiOriginal": null
+      "aiNote": "Sau khi dội sáp, varnish được thoa 2–3 lớp lên mặt thạch cao quanh răng giả và trên mặt mẫu hàm. Varnish khô tạo một lớp mỏng trên thạch cao, giúp nhựa ép không bị dính vào thạch cao và mặt nhựa sau này láng, dễ đánh bóng. (Giáo trình PHTL, Bài 7, mục 2.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 59) và K41 (câu 25) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 49,
@@ -1507,8 +1555,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 7, câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng. Đề RHM K41 (câu 26), K43 (câu 30) cũng chọn “Đánh bóng hàm nhựa”.",
-      "aiOriginal": null
+      "aiNote": "Tripoli là bột đánh bóng. Ở bước cuối cùng của khâu hoàn thiện, hàm giả được lau khô rồi đánh bóng lần cuối bằng bánh xe vải khô với Tripoli để hàm thật láng và bóng. (Giáo trình PHTL, Bài 7, mục 2.8.5; câu tự lượng giá 7)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 26) và K43 (câu 30) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 50,
@@ -1536,8 +1585,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 52) và K41 (câu 59).",
-      "aiOriginal": null
+      "aiNote": "Khi lấy dấu, bệnh nhân ngồi thẳng, miệng ngang tầm tay bác sĩ; cho bệnh nhân súc miệng nước ấm để giảm chất nhờn của nước bọt. Bác sĩ đứng phía sau bên phải khi lấy dấu hàm trên và phía trước bên phải khi lấy dấu hàm dưới. (Giáo trình PHTL, Bài 4, mục 1.3.1–1.3.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 52) và K41 (câu 59) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 51,
@@ -1565,8 +1615,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Đổ từng lượng nhỏ từ một đầu (chỗ cao) của dấu, rung cho thạch cao tự chảy lan để không lẫn bọt. Phương án “Thạch cao trộn càng lỏng thì khả năng chảy vào những chi tiết nhỏ càng cao và càng ít bọt” bị cắt chữ ở mép trang. Đề RHM K43 (câu 23, cùng câu hỏi) cũng gạch “Thạch cao được đổ vào dấu bắt đầu từ một phía trên cao của dấu với lượng nhỏ”.",
-      "aiOriginal": null
+      "aiNote": "Khi đổ mẫu, thạch cao luôn được đổ vào dấu bắt đầu từ một phía trên cao của dấu với một lượng nhỏ, cho chảy từ từ lấp dần khắp bề mặt dấu (đặt trên máy rung để đuổi bọt khí); khi đã đầy các dấu răng mới đổ lượng lớn hơn cho tới đầy dấu. Thạch cao được trộn theo tỷ lệ nhà sản xuất (nước : bột khoảng 1:3 hay 1:4). (Giáo trình PHTL, Bài 4, mục 2.1.4)",
+      "aiOriginal": null,
+      "scanNote": "Một phương án trong bản scan bị mất chữ ở mép trang. Đề RHM K43 (câu 23) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 52,
@@ -1594,8 +1645,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K43 (câu 24, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Khay cá nhân được làm trên mẫu hàm nghiên cứu nên vừa với từng bệnh nhân. Khay phải phủ hoàn toàn vùng mô sẽ mang hàm giả để dấu ghi lại đủ bề mặt tựa của nền hàm, đồng thời phải cứng chắc, chính xác, tránh vùng lẹm, tránh các thắng và nhẵn láng. (Giáo trình PHTL, Bài 4, mục 1.1.2 và 2.1.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K43 (câu 24) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 53,
@@ -1623,8 +1675,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 1, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa: rẻ tiền, tiết kiệm mô răng, dễ giữ vệ sinh, thời gian điều trị ngắn, và dễ sửa chữa — có thể thêm răng, thêm móc, đệm hàm khi bệnh nhân mất thêm răng hay gãy móc. (Giáo trình PHTL, Bài 1, mục 5.1; câu tự lượng giá 4)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 1) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 54,
@@ -1652,8 +1705,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K40 (câu 3, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Về kỹ thuật, phục hình tháo lắp bán hàm nền nhựa được chỉ định khi mất răng xen kẽ với khoảng mất răng dài không thể làm phục hình cố định, mất răng phía sau không còn răng giới hạn phía xa (Kennedy I, II), làm hàm tức thì, hàm giữ chỗ, hàm chuyển tiếp hoặc mất gần hết răng. (Giáo trình PHTL, Bài 1, mục 3.1; câu tự lượng giá 3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 3) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 55,
@@ -1681,8 +1735,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 13, mục 2.2.1): phần giữ nằm trong vùng lẹm (dưới đường vòng lớn nhất), giữ hàm không cho trượt ra; “Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần khác và được chôn trong nền nhựa” sai vì phần chôn trong nền nhựa là phần nối. Đề RHM K41 (câu 34) khoanh “Phần giữ của móc nằm ngay đường vòng lớn nhất”.",
-      "aiOriginal": null
+      "aiNote": "Móc dây gồm ba phần: phần giữ, phần ôm và phần nối. Phần giữ là đầu tận cùng của tay móc, đàn hồi hơn các phần khác và nằm trong vùng lẹm (dưới đường vòng lớn nhất) của răng trụ. Muốn tháo hàm ra, đầu móc phải vượt qua chỗ phình nhất của răng, vì vậy phần giữ giữ hàm lại, không cho hàm bị kéo ra theo chiều đứng. (Giáo trình PHTL, Bài 13 – Móc, mục 2.2.1 và 2.3.1.3)",
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 56,
@@ -1710,8 +1765,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Theo đề RHM K41 (câu 27, cùng câu hỏi).",
-      "aiOriginal": null
+      "aiNote": "Sau khi dội sạch sáp, varnish được thoa lên mặt thạch cao khi khuôn còn nóng nhưng đã hết bốc hơi nước: khuôn nóng giúp varnish khô nhanh, còn nếu đang bốc hơi thì lớp varnish không bám tốt. (Giáo trình PHTL, Bài 7, mục 2.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 27) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 57,
@@ -1739,8 +1795,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 7, câu tự lượng giá 6 – đáp án “Dán mép nền sáp vào mẫu thạch cao”). Đề RHM K40 (câu 55), K41 (câu 21) chọn “Dán mép nền sáp vào mẫu thạch cao”.",
-      "aiOriginal": null
+      "aiNote": "Trước khi vô khuôn, mép nền sáp phải được dán chặt vào mẫu thạch cao. Nếu còn khe hở, thạch cao vô khuôn sẽ chui xuống dưới lớp sáp, làm mất độ chính xác của mẫu hàm và mặt trong nền hàm sau khi ép nhựa. (Giáo trình PHTL, Bài 7, mục 2.1.1; câu tự lượng giá 6)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 55) và K41 (câu 21) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 58,
@@ -1768,8 +1825,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): thoa vaseline lên mặt thạch cao để cách ly thạch cao với thạch cao. Đề RHM K41 (câu 23), K43 (câu 27) chọn “Cách ly thạch cao với thạch cao”.",
-      "aiOriginal": null
+      "aiNote": "Khi vô khuôn, thạch cao phần đáy khuôn được đổ trước; khi lớp này đã cứng, thoa một lớp vaseline lên mặt thạch cao rồi mới đặt phần trên khuôn và đổ tiếp thạch cao. Lớp vaseline làm hai khối thạch cao không dính vào nhau, nhờ đó tách được hai nửa khuôn khi dội sáp và khi gỡ hàm. (Giáo trình PHTL, Bài 7, mục 2.1.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 23) và K43 (câu 27) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 59,
@@ -1797,8 +1855,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu thì phục hình cố định luôn được ưu tiên. Đề RHM K47 (câu 7, cùng sơ đồ) khoanh “Phục hình cố định”.",
-      "aiOriginal": null
+      "aiNote": "Khi lựa chọn kiểu phục hình: trong các trường hợp khoảng mất răng ngắn, có răng trụ ở hai đầu và chi phí không là trở ngại thì phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng đều ngắn và đều có răng trụ ở hai đầu. (Giáo trình PHTL, Bài 2, mục 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K47 (câu 7, cùng sơ đồ) chọn đáp án này."
     },
     {
       "number": 60,
@@ -1826,8 +1885,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": false,
-      "aiNote": "Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II). Đề RHM K45 (câu 19, cùng sơ đồ) khoanh “Phục hình tháo lắp bán phần nền nhựa”.",
-      "aiOriginal": null
+      "aiNote": "Sơ đồ là mất răng sau hai bên, không còn răng giới hạn phía xa (Kennedy loại I) nên không làm cầu răng được. Giáo trình xếp trường hợp “mất răng phía sau và không còn răng giới hạn phía xa (loại I, II Kennedy)” vào chỉ định của phục hình tháo lắp bán hàm nền nhựa. (Giáo trình PHTL, Bài 1, mục 3.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 19, cùng sơ đồ) chọn đáp án này."
     }
   ]
 }

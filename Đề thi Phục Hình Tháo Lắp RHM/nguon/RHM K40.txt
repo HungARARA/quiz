@@ -26,7 +26,7 @@ A. Nền nhựa.
 B. Móc.
 C. Độ lẹm các răng còn lại.
 *D. Nền nhựa và móc.
-> Đề gạch “Nền nhựa” rồi khoanh lại “Nền nhựa và móc”.
+> Hàm bán phần nền nhựa được giữ trên cung hàm nhờ hai thành phần cùng lúc: nền nhựa phủ và ôm sát sống hàm, vòm khẩu cái, cổ các răng còn lại (tạo sự bám dính, vững ổn), và hệ thống móc dây tròn ôm quanh răng trụ để lưu giữ phục hình. Vì vậy sự dính của hàm nhờ cả nền nhựa lẫn móc. (Giáo trình PHTL, Bài 1 – Đại cương, mục 2; Bài 10, mục 4)
 
 Câu 5. Móc thường dùng trong hàm bán phần nền nhựa là:
 A. Móc đúc
@@ -93,7 +93,7 @@ A. Khi cung hàm còn răng thật và có tình trạng khớp cắn bình thư
 B. Trường hợp mất răng loại I và loại II Kennedy trên 1 cung hàm.
 C. Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm.
 *D. Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại.
-> Đề gạch “Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm” và khoanh “Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại”.
+> Kích thước dọc cắn khớp bình thường được giữ bởi sự tiếp xúc của các răng đối kháng còn lại. Khi không còn sự tiếp xúc răng — mất răng toàn hàm, hoặc mất răng xen kẽ mà các răng còn lại không còn điểm chạm nhau — thì không còn gì giữ kích thước dọc, nên phải xác định lại kích thước dọc rồi mới ghi tương quan hai hàm. (Giáo trình PHTL, Bài 5 – Tương quan khớp cắn, mục 5; câu tự lượng giá 6)
 
 Câu 16. Khi ghi khớp cắn trung tâm:
 A. Không cần thử nền tạm – gối sáp trước
@@ -166,14 +166,14 @@ Câu 27. Răng hàm trên được chọn theo cấu trúc xương hàm là răn
 B. Răng cửa bên
 C. Răng nanh
 ?D. Răng cối lớn
-> Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30 mục 1.1.1): răng cửa giữa hàm trên được chọn theo cấu trúc xương mặt. Đề RHM K41 (câu 11) và K47 (câu 40) cũng chọn răng cửa giữa.
+> Răng cửa giữa hàm trên là răng ảnh hưởng thẩm mỹ nhiều nhất, được chọn theo cấu trúc xương mặt và độ cong phần mềm của khuôn mặt: hình dáng răng ngược với hình dáng khuôn mặt (vuông, tam giác, bầu dục — theo Williams), đồng thời hài hòa với dáng mũi và khuôn mặt nhìn nghiêng. (Giáo trình PHTL, Bài 30 – Chọn răng và lên răng trước, mục 1.1.1; Bài 6, câu tự lượng giá 8)
 
 Câu 28. Răng hàm trên được chọn theo tính tình bệnh nhân là răng:
 A. Răng cửa giữa
 !B. Răng cửa bên
 ?C. Răng nanh
 D. Răng cối lớn
-> Giáo trình PHTL (Bài 30, mục 1.1.2): răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân; răng nanh thể hiện ước muốn bản năng và được chọn theo tuổi tác. Đề RHM K41 (câu 12), K46 (câu 18), K47 (câu 41) chọn răng cửa bên.
+> Khi chọn răng trước, mỗi răng gắn với một tiêu chí riêng. Răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân: người mạnh mẽ, chất phác thì chọn răng cửa bên thô, góc cạnh ít được mài tròn; người dịu dàng thì răng mảnh, mỏng hơn. (Giáo trình PHTL, Bài 30 – Chọn răng và lên răng trước, mục 1.1.2)
 
 Câu 29. Kích thước theo chiều ngang của răng cửa giữa hàm trên:
 A. ½ khoảng cách 2 cánh mũi
@@ -192,7 +192,8 @@ A. Răng sứ
 !B. Răng nhựa
 C. Răng sứ hàm trên, răng nhựa hàm dưới
 ?D. Tất cả đều sai
-> Đề khoanh cả “Răng nhựa” (có gạch) và “Tất cả đều sai”, bên lề ghi "nếu ít → R kim loại". Giáo trình PHTL (Bài 6, mục 1.1; Bài 30, mục 1.4): răng sứ lưu giữ kém trong nền nhựa nên cần khoảng cách với hàm đối diện đủ cao; răng nhựa dễ mài, chỉ định khi kích thước dọc thấp. Đề RHM K41 (câu 15) chọn “Răng nhựa”.
+> Răng sứ lưu giữ kém trong nền nhựa acrylic: cần khoảng cách với hàm đối diện đủ cao thì phần tiếp xúc của răng (phần nằm trong nền) mới được nhựa giữ chắc; răng sứ cũng quá cứng nên khó mài khi sắp răng, chỉnh khớp. Răng nhựa thì lưu giữ tốt trong nền nhựa và dễ mài cho vừa khoảng trống, nên giáo trình chỉ định răng nhựa khi khoảng cách giữa hai hàm nhỏ. (Giáo trình PHTL, Bài 6 – mục 1.1; Bài 31 – mục 1.3)
+>> Bên lề đề gốc ghi “nếu ít → R kim loại”, ý là khi khoảng cách giữa hai sống hàm ít thì chọn răng kim loại.
 
 Câu 32. Hình dáng cung hàm trên được sắp theo:
 A. Hình dáng khuôn mặt
@@ -205,7 +206,7 @@ Câu 33. Quỹ đạo răng cửa được xác định:
 !B. Trước khi lên răng sau
 C. Sau khi ghi tương quan tâm
 D. Sau khi vô cung mặt
-> Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án “Trước khi lên răng sau”): quỹ đạo răng cửa được xác định trước khi lên răng sau.
+> Quỹ đạo răng cửa (độ dốc hướng dẫn của răng cửa khi hàm dưới trượt ra trước) cùng quỹ đạo lồi cầu quyết định chiều cao múi và độ nghiêng mặt nhai của răng sau để có khớp cắn thăng bằng. Vì vậy trước khi lên răng sau phải hoàn tất: định hướng mặt phẳng nhai, xác định kích thước dọc và tương quan trung tâm, chuyển quỹ đạo lồi cầu và điều chỉnh phần hướng dẫn răng cửa trên giá khớp. (Giáo trình PHTL, Bài 31 – Chọn răng và lên răng sau, phần mở đầu; câu tự lượng giá 1)
 
 Câu 34. Răng cối hàm dưới có giới hạn:
 A. Cách gối hậu nha 3mm
@@ -248,7 +249,7 @@ Câu 40. Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong
 B. Núm sau răng cửa
 !C. Đường chéo trong
 D. Đường chéo ngoài
-> Giáo trình PHTL (Bài 3, mục 1.2.2): phần tử bất lợi của hàm dưới là nơi bám của cơ, dây chằng và đường chéo trong; vùng Schroder thuộc khẩu cái hàm trên. Đề RHM K43 (câu 4) chọn “Đường chéo trong”.
+> Ở hàm dưới, giáo trình nêu hai phần tử bất lợi cho phục hình tháo lắp bán hàm: nơi bám của cơ, dây chằng và đường chéo trong. Đường chéo trong là gờ xương nhô, phủ niêm mạc mỏng, nhạy cảm và là nơi bám của cơ hàm móng, nên nền hàm đè lên dễ gây đau và dễ bị đẩy khi cơ hoạt động. (Giáo trình PHTL, Bài 3 – Những điểm căn bản, mục 1.2.2)
 
 Câu 41. Mặt phẳng Camper là:
 A. Mặt phẳng đi ngang qua hai điểm tragus và điểm giữa mũi
@@ -273,7 +274,7 @@ A. R12
 B. R11
 *C. R28
 D. R48
-> Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → “R11”, “R28”, “R48” bằng nhau, câu hỏi có vấn đề. Đề khoanh “R28” (đề RHM K41 câu 5 cũng khoanh “R28”).
+> Theo bảng hệ số nhai của giáo trình, hàm trên: răng 1 = 2, răng 2 = 1, răng 3 = 4, răng 4 và 5 = 3, răng 6 và 7 = 5, răng 8 = 2; hàm dưới giống hàm trên, chỉ khác răng 1 = 1. Như vậy R11, R28 và R48 cùng hệ số 2, cao hơn R12 (hệ số 1) nhưng bằng nhau, nên câu hỏi chưa chặt; đề khoanh R28. (Giáo trình PHTL, Bài 3, mục 3, Bảng 3.1)
 
 Câu 45. Phân loại mất răng theo Kennedy (xem hình):
 [hinh: 7 0.075 0.247 0.29 0.366]
@@ -339,14 +340,14 @@ Câu 54. Chọn phát biểu đúng về kỹ thuật lấy dấu bằng Alginat
 ?B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu
 C. Khay lấy dấu được lấy ra khỏi miệng khi Alginate vừa đông để dễ dàng lấy dấu ra khỏi miệng. Tránh để alginate cứng quá vì sẽ khó lấy ra khỏi vùng lẹm.
 D. Khay được giữ yên bằng hai ngón trỏ và gia tăng áp lực đè lên răng trong thời gian chờ Alginate đông cứng hoàn toàn.
-> Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước cho alginate tràn và lấp đầy đáy hành lang, yêu cầu bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy khay ra khi alginate đông cứng hoàn toàn. Phương án “…nhẹ nhàng tránh làm đau bệnh nhân… bảo bệnh nhân há to và giữ yên…” lấy đúng các ý sai trong câu tự lượng giá Bài 4; phương án lấy khay ra “khi Alginate vừa đông” và phương án “gia tăng áp lực đè lên răng” cũng trái giáo trình. Phương án “…Đồng thời cho bệnh nhân cử động môi” là đúng, dù đề in “ấn từ trước ra sau” (giáo trình: từ sau ra trước). Đề RHM K41 (câu 60) cũng chọn phương án này.
+> Kỹ thuật lấy dấu alginate: đặt khay đúng vị trí, ấn khay cho alginate tràn ra khỏi khay và lấp đầy đáy hành lang, đồng thời yêu cầu bệnh nhân mím môi, cử động môi má (hàm dưới thì đưa lưỡi ra trước, sang bên) để ghi lại dấu các thắng và giới hạn đáy hành lang. Sau đó giữ khay yên bằng hai ngón trỏ ở vùng răng cối nhỏ, không thay đổi áp lực cho tới khi alginate đông cứng hoàn toàn mới lấy ra. Phương án này đúng ở ý cho bệnh nhân cử động môi; lưu ý giáo trình ghi ấn khay từ sau ra trước, còn đề in ngược lại. (Giáo trình PHTL, Bài 4 – Vật liệu và phương pháp lấy dấu, mục 2.1.3)
 
 Câu 55. Để thạch cao không chui xuống dưới lớp sáp khi vô khuôn:
 A. Ngâm mẫu hàm cho ướt
 *B. Dán mép nền sáp vào mẫu thạch cao
 C. Cách ly bằng vaselin
 D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án “Dán mép nền sáp vào mẫu thạch cao”): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp.
+> Trước khi vô khuôn, mép nền sáp phải được dán chặt vào mẫu thạch cao. Nếu còn khe hở, thạch cao vô khuôn sẽ chui xuống dưới lớp sáp, làm mất độ chính xác của mẫu hàm và mặt trong nền hàm sau khi ép nhựa. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.1.1; câu tự lượng giá 6)
 
 Câu 56. Khi dội sáp, ta cần ngâm khuôn vào nước sôi trong:
 *A. 5 – 10 phút
@@ -359,7 +360,7 @@ Câu 57. Khi vô khuôn ta thoa vaselin lên bề mặt thạch cao có tác d�
 B. Cách ly răng và thạch cao
 C. Cách ly thạch cao với khuôn
 ?D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, mục 2.1.3): khi thạch cao phần đáy khuôn đã cứng, thoa vaseline lên mặt thạch cao để cách ly với lớp thạch cao phần trên khuôn; giáo trình không có ý vaseline cách ly răng và thạch cao. Đề RHM K41 (câu 23), K43 (câu 27), K45 (câu 54) chọn “Vaseline”.
+> Khi vô khuôn, thạch cao phần đáy khuôn được đổ trước; khi lớp này đã cứng, thoa một lớp vaseline lên mặt thạch cao rồi mới đặt phần trên khuôn và đổ tiếp thạch cao. Lớp vaseline làm hai khối thạch cao không dính vào nhau, nhờ đó tách được hai nửa khuôn khi dội sáp và khi gỡ hàm. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.1.3)
 
 Câu 58. Thời gian và nhiệt độ của nấu nhựa theo cách chậm:
 A. Nấu từ nước nguội đến 74° trong 9 giờ
@@ -378,4 +379,4 @@ A. Loại bỏ thạch cao dính trên hàm nhựa
 B. Làm nhẵn mịn hàm nhựa
 !C. Đánh bóng hàm nhựa
 ?D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, mục 2.8.5 và câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng lần cuối cho hàm giả láng, bóng.
+> Tripoli là bột đánh bóng. Ở bước cuối cùng của khâu hoàn thiện, hàm giả được lau khô rồi đánh bóng lần cuối bằng bánh xe vải khô với Tripoli để hàm thật láng và bóng. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.8.5; câu tự lượng giá 7)

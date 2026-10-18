@@ -26,7 +26,7 @@ A. Từ răng cửa giữa đến đường A
 B. Từ răng nanh đến đường A
 !C. Từ răng cối nhỏ đến đường A
 ?D. Từ răng cối lớn đến đường A
-> Giáo trình PHTL (Bài 3, mục 1.1.2): vùng Schroder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong, nhiều mô mỡ và mô tuyến.
+> Vùng Schroder là hai vùng lõm ở hai bên khẩu cái, tính từ vị trí răng cối nhỏ trở vào trong (về phía sau). Niêm mạc ở đây có nhiều mô mỡ (vùng răng cối nhỏ) và mô tuyến (vùng răng cối lớn), không chịu được lực nén mạnh nên là phần tử bất lợi của hàm trên. (Giáo trình PHTL, Bài 3, mục 1.1.2; Bài 19, mục 1.1.2)
 
 Câu 5. Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):
 [hinh: 39 0.585 0.245 0.79 0.37]
@@ -95,14 +95,14 @@ A. 5 – 7 mm
 B. 5 – 8 mm
 *C. 5 – 9 mm
 D. 5 – 10 mm
-> Giáo trình PHTL (Bài 2, mục 3.2): bình thường đưa hàm ra trước 5–9 mm, sang bên 5–7 mm.
+> Khi khám khớp thái dương hàm, yêu cầu bệnh nhân đưa hàm ra trước: bình thường hàm dưới đưa ra trước không bị lệch một khoảng 5–9 mm, và đưa sang mỗi bên 5–7 mm. Biên độ đưa hàm ra trước tối đa bằng khoảng cách đo được cộng độ cắn chìa (nếu có). (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.2)
 
 Câu 16. Khớp thái dương hàm bình thường, hàm dưới đưa sang phải hoặc sang trái một khoảng là:
 *A. 5 – 7 mm
 B. 5 – 8 mm
 C. 5 – 9 mm
 D. 5 – 10 mm
-> Giáo trình PHTL (Bài 2, mục 3.2): đưa hàm sang bên 5–7 mm.
+> Khi khám khớp thái dương hàm, bình thường hàm dưới đưa sang bên (phải hoặc trái) được 5–7 mm, và đưa ra trước 5–9 mm không bị lệch. Biên độ thấp hơn gợi ý có vấn đề ở khớp, cơ hoặc khớp cắn. (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.2)
 
 Câu 17. Lồi cùng tốt khi:
 *A. Hai triền phía hành lang và khẩu cái song song nhau
@@ -115,14 +115,14 @@ Câu 18. Trường hợp mất răng sau đây: 8 7 x 5 4 3 x x | x x 3 4 5 x 7 
 B. Phục hình khung bộ
 ?C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Giáo trình PHTL (Bài 2, mục 5): khoảng mất răng ngắn, có răng trụ ở hai đầu → phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng (R6 phải, 4 răng cửa, R6 trái) đều ngắn và có răng trụ hai đầu. Đề RHM K47 (câu 7, sơ đồ gần giống) khoanh “Phục hình cố định”.
+> Khi lựa chọn kiểu phục hình: trong các trường hợp khoảng mất răng ngắn, có răng trụ ở hai đầu và chi phí không là trở ngại thì phục hình cố định luôn được ưu tiên. Ở sơ đồ này các khoảng mất răng (răng 6 bên phải, 4 răng cửa, răng 6 bên trái) đều ngắn và đều có răng trụ ở hai đầu. (Giáo trình PHTL, Bài 2, mục 5)
 
 Câu 19. Trường hợp mất răng sau đây: x x x 5 4 3 2 1 | 1 2 3 4 x x x x — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
 A. Phục hình cố định
 B. Phục hình khung bộ
 *C. Phục hình tháo lắp bán phần nền nhựa
 D. Phục hình kết hợp
-> Giáo trình PHTL (Bài 1, mục 3.1): phục hình tháo lắp nền nhựa chỉ định cho mất răng phía sau không còn răng giới hạn phía xa (Kennedy loại I, II).
+> Sơ đồ là mất răng sau hai bên, không còn răng giới hạn phía xa (Kennedy loại I) nên không làm cầu răng được. Giáo trình xếp trường hợp “mất răng phía sau và không còn răng giới hạn phía xa (loại I, II Kennedy)” vào chỉ định của phục hình tháo lắp bán hàm nền nhựa. (Giáo trình PHTL, Bài 1, mục 3.1)
 
 Câu 20. ĐIỀN KHUYẾT: Đường nối giữa xương hàm trên: Nếu không có đường gờ, việc mang hàm giả .......... dưới tác động của lực ép. Nếu có đường gờ cần .......... trên nền hàm.
 *A. Không bị đau / tạo sự giảm nén
@@ -315,7 +315,7 @@ Câu 51. Thứ tự ĐÚNG các giai đoạn thực hiện phục hình tháo l�
 B. Đổ mẫu hàm làm việc, khay cá nhân, lên răng, ép nhựa
 ?C. Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa
 D. Tất cả đều sai
-> Giáo trình PHTL (Bài 7, mục 1): labo gồm đổ mẫu → làm khay cá nhân (nếu cần) → đổ mẫu sau cùng (nếu cần) → làm nền tạm gối sáp → lên răng → biến đổi sáp thành nhựa. Nền tạm gối sáp là bước bắt buộc nên “Đổ mẫu hàm nghiên cứu, khay cá nhân, lên răng, ép nhựa” (bỏ nền tạm gối sáp) sai; “Đổ mẫu hàm nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa” đủ các bước bắt buộc, đúng thứ tự.
+> Các giai đoạn làm phục hình tháo lắp bán hàm nền nhựa trong labo theo thứ tự: đổ mẫu hàm → làm khay cá nhân (nếu cần) → đổ mẫu sau cùng (nếu cần) → làm nền tạm gối sáp → lên răng → biến đổi phần sáp thành nhựa (vô khuôn, ép nhựa). Khay cá nhân chỉ làm khi cần, còn nền tạm gối sáp là bước bắt buộc để ghi tương quan và sắp răng. (Giáo trình PHTL, Bài 7, mục 1)
 
 Câu 52. Thứ tự ĐÚNG các giai đoạn thực hiện phục hình tháo lắp bán hàm trong labo là:
 *A. Khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa

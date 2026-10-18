@@ -35,7 +35,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 2,
@@ -64,7 +65,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 3,
@@ -93,7 +95,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 4,
@@ -118,11 +121,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch “Nền nhựa” rồi khoanh lại “Nền nhựa và móc”.",
+      "explanation": "Hàm bán phần nền nhựa được giữ trên cung hàm nhờ hai thành phần cùng lúc: nền nhựa phủ và ôm sát sống hàm, vòm khẩu cái, cổ các răng còn lại (tạo sự bám dính, vững ổn), và hệ thống móc dây tròn ôm quanh răng trụ để lưu giữ phục hình. Vì vậy sự dính của hàm nhờ cả nền nhựa lẫn móc. (Giáo trình PHTL, Bài 1 – Đại cương, mục 2; Bài 10, mục 4)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 5,
@@ -151,7 +155,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 6,
@@ -180,7 +185,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 7,
@@ -209,7 +215,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 8,
@@ -238,7 +245,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 9,
@@ -267,7 +275,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 10,
@@ -296,7 +305,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 11,
@@ -325,7 +335,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 12,
@@ -354,7 +365,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 13,
@@ -383,7 +395,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 14,
@@ -412,7 +425,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 15,
@@ -437,11 +451,12 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": "Đề gạch “Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm” và khoanh “Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại”.",
+      "explanation": "Kích thước dọc cắn khớp bình thường được giữ bởi sự tiếp xúc của các răng đối kháng còn lại. Khi không còn sự tiếp xúc răng — mất răng toàn hàm, hoặc mất răng xen kẽ mà các răng còn lại không còn điểm chạm nhau — thì không còn gì giữ kích thước dọc, nên phải xác định lại kích thước dọc rồi mới ghi tương quan hai hàm. (Giáo trình PHTL, Bài 5 – Tương quan khớp cắn, mục 5; câu tự lượng giá 6)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 16,
@@ -470,7 +485,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 17,
@@ -499,7 +515,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 18,
@@ -528,7 +545,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 19,
@@ -557,7 +575,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 20,
@@ -586,7 +605,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 21,
@@ -615,7 +635,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 22,
@@ -644,7 +665,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 23,
@@ -673,7 +695,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 24,
@@ -702,7 +725,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 25,
@@ -731,7 +755,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 26,
@@ -760,7 +785,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 27,
@@ -788,8 +814,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 6, câu tự lượng giá 8 – đáp án “Răng cửa giữa”; Bài 30 mục 1.1.1): răng cửa giữa hàm trên được chọn theo cấu trúc xương mặt. Đề RHM K41 (câu 11) và K47 (câu 40) cũng chọn răng cửa giữa.",
-      "aiOriginal": "D. Răng cối lớn"
+      "aiNote": "Răng cửa giữa hàm trên là răng ảnh hưởng thẩm mỹ nhiều nhất, được chọn theo cấu trúc xương mặt và độ cong phần mềm của khuôn mặt: hình dáng răng ngược với hình dáng khuôn mặt (vuông, tam giác, bầu dục — theo Williams), đồng thời hài hòa với dáng mũi và khuôn mặt nhìn nghiêng. (Giáo trình PHTL, Bài 30 – Chọn răng và lên răng trước, mục 1.1.1; Bài 6, câu tự lượng giá 8)",
+      "aiOriginal": "D. Răng cối lớn",
+      "scanNote": null
     },
     {
       "number": 28,
@@ -817,8 +844,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 30, mục 1.1.2): răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân; răng nanh thể hiện ước muốn bản năng và được chọn theo tuổi tác. Đề RHM K41 (câu 12), K46 (câu 18), K47 (câu 41) chọn răng cửa bên.",
-      "aiOriginal": "C. Răng nanh"
+      "aiNote": "Khi chọn răng trước, mỗi răng gắn với một tiêu chí riêng. Răng cửa bên hàm trên được lựa chọn theo tính tình bệnh nhân: người mạnh mẽ, chất phác thì chọn răng cửa bên thô, góc cạnh ít được mài tròn; người dịu dàng thì răng mảnh, mỏng hơn. (Giáo trình PHTL, Bài 30 – Chọn răng và lên răng trước, mục 1.1.2)",
+      "aiOriginal": "C. Răng nanh",
+      "scanNote": null
     },
     {
       "number": 29,
@@ -847,7 +875,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 30,
@@ -876,7 +905,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 31,
@@ -904,8 +934,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Đề khoanh cả “Răng nhựa” (có gạch) và “Tất cả đều sai”, bên lề ghi \"nếu ít → R kim loại\". Giáo trình PHTL (Bài 6, mục 1.1; Bài 30, mục 1.4): răng sứ lưu giữ kém trong nền nhựa nên cần khoảng cách với hàm đối diện đủ cao; răng nhựa dễ mài, chỉ định khi kích thước dọc thấp. Đề RHM K41 (câu 15) chọn “Răng nhựa”.",
-      "aiOriginal": "D. Tất cả đều sai"
+      "aiNote": "Răng sứ lưu giữ kém trong nền nhựa acrylic: cần khoảng cách với hàm đối diện đủ cao thì phần tiếp xúc của răng (phần nằm trong nền) mới được nhựa giữ chắc; răng sứ cũng quá cứng nên khó mài khi sắp răng, chỉnh khớp. Răng nhựa thì lưu giữ tốt trong nền nhựa và dễ mài cho vừa khoảng trống, nên giáo trình chỉ định răng nhựa khi khoảng cách giữa hai hàm nhỏ. (Giáo trình PHTL, Bài 6 – mục 1.1; Bài 31 – mục 1.3)",
+      "aiOriginal": "D. Tất cả đều sai",
+      "scanNote": "Bên lề đề gốc ghi “nếu ít → R kim loại”, ý là khi khoảng cách giữa hai sống hàm ít thì chọn răng kim loại."
     },
     {
       "number": 32,
@@ -934,7 +965,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 33,
@@ -962,8 +994,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 31, câu tự lượng giá 1 cùng nội dung – đáp án “Trước khi lên răng sau”): quỹ đạo răng cửa được xác định trước khi lên răng sau.",
-      "aiOriginal": "A. Trước khi lên răng trước hàm trên"
+      "aiNote": "Quỹ đạo răng cửa (độ dốc hướng dẫn của răng cửa khi hàm dưới trượt ra trước) cùng quỹ đạo lồi cầu quyết định chiều cao múi và độ nghiêng mặt nhai của răng sau để có khớp cắn thăng bằng. Vì vậy trước khi lên răng sau phải hoàn tất: định hướng mặt phẳng nhai, xác định kích thước dọc và tương quan trung tâm, chuyển quỹ đạo lồi cầu và điều chỉnh phần hướng dẫn răng cửa trên giá khớp. (Giáo trình PHTL, Bài 31 – Chọn răng và lên răng sau, phần mở đầu; câu tự lượng giá 1)",
+      "aiOriginal": "A. Trước khi lên răng trước hàm trên",
+      "scanNote": null
     },
     {
       "number": 34,
@@ -992,7 +1025,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 35,
@@ -1021,7 +1055,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 36,
@@ -1050,7 +1085,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 37,
@@ -1079,7 +1115,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 38,
@@ -1108,7 +1145,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 39,
@@ -1137,7 +1175,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 40,
@@ -1165,8 +1204,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 3, mục 1.2.2): phần tử bất lợi của hàm dưới là nơi bám của cơ, dây chằng và đường chéo trong; vùng Schroder thuộc khẩu cái hàm trên. Đề RHM K43 (câu 4) chọn “Đường chéo trong”.",
-      "aiOriginal": "A. Vùng Schroder"
+      "aiNote": "Ở hàm dưới, giáo trình nêu hai phần tử bất lợi cho phục hình tháo lắp bán hàm: nơi bám của cơ, dây chằng và đường chéo trong. Đường chéo trong là gờ xương nhô, phủ niêm mạc mỏng, nhạy cảm và là nơi bám của cơ hàm móng, nên nền hàm đè lên dễ gây đau và dễ bị đẩy khi cơ hoạt động. (Giáo trình PHTL, Bài 3 – Những điểm căn bản, mục 1.2.2)",
+      "aiOriginal": "A. Vùng Schroder",
+      "scanNote": null
     },
     {
       "number": 41,
@@ -1195,7 +1235,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 42,
@@ -1224,7 +1265,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 43,
@@ -1253,7 +1295,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 44,
@@ -1278,11 +1321,12 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": "Theo Bảng 3.1 giáo trình PHTL (hệ số nhai): R11 = 2, R12 = 1, R28 = 2, R48 = 2 → “R11”, “R28”, “R48” bằng nhau, câu hỏi có vấn đề. Đề khoanh “R28” (đề RHM K41 câu 5 cũng khoanh “R28”).",
+      "explanation": "Theo bảng hệ số nhai của giáo trình, hàm trên: răng 1 = 2, răng 2 = 1, răng 3 = 4, răng 4 và 5 = 3, răng 6 và 7 = 5, răng 8 = 2; hàm dưới giống hàm trên, chỉ khác răng 1 = 1. Như vậy R11, R28 và R48 cùng hệ số 2, cao hơn R12 (hệ số 1) nhưng bằng nhau, nên câu hỏi chưa chặt; đề khoanh R28. (Giáo trình PHTL, Bài 3, mục 3, Bảng 3.1)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 45,
@@ -1320,7 +1364,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 46,
@@ -1358,7 +1403,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 47,
@@ -1396,7 +1442,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 48,
@@ -1434,7 +1481,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 49,
@@ -1472,7 +1520,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 50,
@@ -1501,7 +1550,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 51,
@@ -1530,7 +1580,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 52,
@@ -1559,7 +1610,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 53,
@@ -1588,7 +1640,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 54,
@@ -1616,8 +1669,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 4, mục 2.1.3): ấn khay từ sau ra trước cho alginate tràn và lấp đầy đáy hành lang, yêu cầu bệnh nhân mím môi, cử động để lấy dấu các thắng; giữ khay yên, không thay đổi áp lực; lấy khay ra khi alginate đông cứng hoàn toàn. Phương án “…nhẹ nhàng tránh làm đau bệnh nhân… bảo bệnh nhân há to và giữ yên…” lấy đúng các ý sai trong câu tự lượng giá Bài 4; phương án lấy khay ra “khi Alginate vừa đông” và phương án “gia tăng áp lực đè lên răng” cũng trái giáo trình. Phương án “…Đồng thời cho bệnh nhân cử động môi” là đúng, dù đề in “ấn từ trước ra sau” (giáo trình: từ sau ra trước). Đề RHM K41 (câu 60) cũng chọn phương án này.",
-      "aiOriginal": "B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu"
+      "aiNote": "Kỹ thuật lấy dấu alginate: đặt khay đúng vị trí, ấn khay cho alginate tràn ra khỏi khay và lấp đầy đáy hành lang, đồng thời yêu cầu bệnh nhân mím môi, cử động môi má (hàm dưới thì đưa lưỡi ra trước, sang bên) để ghi lại dấu các thắng và giới hạn đáy hành lang. Sau đó giữ khay yên bằng hai ngón trỏ ở vùng răng cối nhỏ, không thay đổi áp lực cho tới khi alginate đông cứng hoàn toàn mới lấy ra. Phương án này đúng ở ý cho bệnh nhân cử động môi; lưu ý giáo trình ghi ấn khay từ sau ra trước, còn đề in ngược lại. (Giáo trình PHTL, Bài 4 – Vật liệu và phương pháp lấy dấu, mục 2.1.3)",
+      "aiOriginal": "B. Đặt khay lấy dấu có chứa alginate vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu",
+      "scanNote": null
     },
     {
       "number": 55,
@@ -1642,11 +1696,12 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Giáo trình PHTL (Bài 7, mục 2.1.1 và câu tự lượng giá 6 – đáp án “Dán mép nền sáp vào mẫu thạch cao”): dán mép nền sáp chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp.",
+      "explanation": "Trước khi vô khuôn, mép nền sáp phải được dán chặt vào mẫu thạch cao. Nếu còn khe hở, thạch cao vô khuôn sẽ chui xuống dưới lớp sáp, làm mất độ chính xác của mẫu hàm và mặt trong nền hàm sau khi ép nhựa. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.1.1; câu tự lượng giá 6)",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 56,
@@ -1675,7 +1730,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 57,
@@ -1703,8 +1759,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.1.3): khi thạch cao phần đáy khuôn đã cứng, thoa vaseline lên mặt thạch cao để cách ly với lớp thạch cao phần trên khuôn; giáo trình không có ý vaseline cách ly răng và thạch cao. Đề RHM K41 (câu 23), K43 (câu 27), K45 (câu 54) chọn “Vaseline”.",
-      "aiOriginal": "D. Tất cả đều đúng"
+      "aiNote": "Khi vô khuôn, thạch cao phần đáy khuôn được đổ trước; khi lớp này đã cứng, thoa một lớp vaseline lên mặt thạch cao rồi mới đặt phần trên khuôn và đổ tiếp thạch cao. Lớp vaseline làm hai khối thạch cao không dính vào nhau, nhờ đó tách được hai nửa khuôn khi dội sáp và khi gỡ hàm. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.1.3)",
+      "aiOriginal": "D. Tất cả đều đúng",
+      "scanNote": null
     },
     {
       "number": 58,
@@ -1733,7 +1790,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 59,
@@ -1762,7 +1820,8 @@
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
-      "aiOriginal": null
+      "aiOriginal": null,
+      "scanNote": null
     },
     {
       "number": 60,
@@ -1790,8 +1849,9 @@
       "explanation": null,
       "ai": true,
       "aiCheck": true,
-      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.8.5 và câu tự lượng giá 7 – đáp án “Đánh bóng hàm nhựa”): Tripoli dùng để đánh bóng lần cuối cho hàm giả láng, bóng.",
-      "aiOriginal": "D. Tất cả đều đúng"
+      "aiNote": "Tripoli là bột đánh bóng. Ở bước cuối cùng của khâu hoàn thiện, hàm giả được lau khô rồi đánh bóng lần cuối bằng bánh xe vải khô với Tripoli để hàm thật láng và bóng. (Giáo trình PHTL, Bài 7 – Các giai đoạn labo, mục 2.8.5; câu tự lượng giá 7)",
+      "aiOriginal": "D. Tất cả đều đúng",
+      "scanNote": null
     }
   ]
 }

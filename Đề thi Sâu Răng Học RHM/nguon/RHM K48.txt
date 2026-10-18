@@ -121,7 +121,8 @@ A. Che tủy thất bại
 B. Cần điều trị nội nha ngay
 *C. Cầu ngà có thể không thấy rõ trên X-quang
 D. MTA không kích thích tạo ngà
-> Câu 20: mép trang bị cắt mất phần đầu dòng; phương án “Cầu ngà có thể không thấy rõ trên X-quang” đọc được là "…không thấy rõ trên X-quang … vẫn hiện diện".
+> Sau che tủy trực tiếp khoảng 4 tuần cầu ngà bắt đầu hình thành và có thể thấy trên phim, nhưng giáo trình nhấn mạnh rằng trong che tủy trực tiếp, các thử nghiệm độ sống của tủy có thể tin tưởng được. Sau 1 năm, test tủy dương tính cho thấy tủy vẫn sống và đáp ứng bình thường; cầu ngà mỏng hoặc chồng hình có thể không thấy rõ trên X-quang dù vẫn hiện diện. Cần tiếp tục tái khám mỗi 6 tháng trong 2–4 năm để phát hiện vôi hóa hay nội tiêu. (Giáo trình Sâu Răng Học, Bài 9, mục 3.1 và phần theo dõi bệnh nhân)
+>> Mép trang bản scan bị cắt mất đầu dòng của phương án này; phần đọc được là “…không thấy rõ trên X-quang … vẫn hiện diện”.
 
 Câu 21. Yếu tố nào sau đây giải thích tại sao MTA cần môi trường ẩm để đông cứng đúng cách?
 A. Phản ứng đông cứng là phản ứng acid–base
@@ -487,9 +488,10 @@ D. >4.4
 Câu 81. Nước bọt cung cấp kháng thể nào sau đây để kháng vi khuẩn:
 A. IgM
 B. IgG
-C. IgA
-*D. A, B đúng
-> Đáp án chính thức của đề là “A, B đúng”. Lưu ý: theo sách, kháng thể chủ yếu trong nước bọt là IgA tiết (sIgA) — nếu gặp lại câu này nên đối chiếu thêm.
+!C. IgA
+?D. A, B đúng
+> Giáo trình mô tả: vi khuẩn được nuốt vào tiếp xúc với mô lympho ở mảng Peyer, các tế bào miễn dịch được hoạt hóa di chuyển tới các tuyến nước bọt, sản xuất kháng thể IgA và bài tiết vào nước bọt. IgA làm ngưng kết vi khuẩn, ngăn chúng bám dính lên bề mặt răng nên dễ bị loại bỏ khi nuốt nước bọt; người có nồng độ IgA cao chống Streptococcus mutans được bảo vệ tốt hơn trước sâu răng. (Giáo trình Sâu Răng Học, Bài 4)
+>> Đáp án “A, B đúng” là đáp án chính thức in kèm đề K48, không phải dấu khoanh tay.
 
 Câu 82. Thành phần sang thương sâu ngà ở lớp ngà bên ngoài:
 *A. Có sự thâm nhiễm vi khuẩn

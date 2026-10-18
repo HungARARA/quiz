@@ -1302,6 +1302,18 @@ body {
   color: #a86200;
 }
 
+/* Ghi chú về bản scan đề gốc: chữ nhỏ, màu nhạt để tách khỏi phần giải thích */
+.scan-note {
+  margin-top: 8px;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.scan-note strong {
+  color: inherit;
+}
+
 /* ===== Options ===== */
 .options-list {
   display: flex;
