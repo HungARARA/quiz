@@ -1,0 +1,2531 @@
+{
+  "title": "RHM K48",
+  "subject": "Đề thi Sâu Răng Học RHM",
+  "source": "Sâu răng RHM K48",
+  "header": [
+    "Đề 100 · Ngày thi 25/12/2025 · 90 câu · 60 phút",
+    "Nguồn: Đề Thi/SRH 48.pdf — đáp án lấy từ bảng \"Đáp án SÂU RĂNG HỌC RHM K48 25/12/2025 Đề 100\" (trang 10)"
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Thành phần nào giúp liên kết hạt độn vô cơ với khung nhựa trong composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primer"
+        },
+        {
+          "label": "B",
+          "text": "Acid phosphoric"
+        },
+        {
+          "label": "C",
+          "text": "Silane"
+        },
+        {
+          "label": "D",
+          "text": "Bond"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 2,
+      "question": "Yếu tố nào sau đây làm giảm co ngót trùng hợp của composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng lượng monomer loãng"
+        },
+        {
+          "label": "B",
+          "text": "Giảm kích thước hạt độn"
+        },
+        {
+          "label": "C",
+          "text": "Tăng tỷ lệ hạt độn"
+        },
+        {
+          "label": "D",
+          "text": "Giảm thời gian chiếu đèn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 3,
+      "question": "Mài mòn (Abrasion) là mòn răng do:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lực nhai lệch trục"
+        },
+        {
+          "label": "B",
+          "text": "Acid nội sinh"
+        },
+        {
+          "label": "C",
+          "text": "Ma sát răng với các tác nhân ngoại lai"
+        },
+        {
+          "label": "D",
+          "text": "Tiếp xúc răng – răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 4,
+      "question": "Đặc điểm tổn thương mài mòn thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lan rộng, ít giới hạn"
+        },
+        {
+          "label": "B",
+          "text": "Hình chêm hoặc chữ V, bờ nhẵn"
+        },
+        {
+          "label": "C",
+          "text": "Lõm hình chén ở mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Tổn thương sâu và sắc cạnh"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 5,
+      "question": "Trong che tủy trực tiếp bằng MTA, việc hình thành cầu ngà xảy ra chủ yếu do:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sự kích thích cơ học của vật liệu"
+        },
+        {
+          "label": "B",
+          "text": "Phản ứng viêm mạn kéo dài"
+        },
+        {
+          "label": "C",
+          "text": "Hoạt hóa các tế bào gốc tủy răng"
+        },
+        {
+          "label": "D",
+          "text": "Sự lắng đọng thụ động muối khoáng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 6,
+      "question": "Một bệnh nhân 22 tuổi, xoang sâu mặt nhai răng 36, ngà còn lại mỏng, khi thổi khô xoang bệnh nhân đau nhói tức thì. Cơ chế gây đau phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kích thích trực tiếp nguyên bào tạo ngà"
+        },
+        {
+          "label": "B",
+          "text": "Hoạt hóa phản ứng viêm tủy cấp"
+        },
+        {
+          "label": "C",
+          "text": "Thay đổi áp suất dịch trong ống ngà"
+        },
+        {
+          "label": "D",
+          "text": "Phản ứng hoá học của men bị khử khoáng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 7,
+      "question": "Trong xoang sâu sát tủy, yếu tố nào làm tăng mạnh nguy cơ viêm tủy không hồi phục?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang hẹp"
+        },
+        {
+          "label": "B",
+          "text": "Ngà còn lại dày >2 mm"
+        },
+        {
+          "label": "C",
+          "text": "Mật độ ống ngà cao gần tủy"
+        },
+        {
+          "label": "D",
+          "text": "Có ngà thứ cấp sinh lý"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 8,
+      "question": "Thời gian xoi mòn men bằng acid phosphoric 35–37% thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5–10 giây"
+        },
+        {
+          "label": "B",
+          "text": "10–15 giây"
+        },
+        {
+          "label": "C",
+          "text": "15–30 giây"
+        },
+        {
+          "label": "D",
+          "text": "30–60 giây"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 9,
+      "question": "Loại composite được sử dụng phổ biến nhất hiện nay là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macrofill"
+        },
+        {
+          "label": "B",
+          "text": "Microfill"
+        },
+        {
+          "label": "C",
+          "text": "Hybrid / Nanohybrid"
+        },
+        {
+          "label": "D",
+          "text": "Flowable"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 10,
+      "question": "Composite microfill có ưu điểm nổi bật nào sau đây?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chịu lực tốt"
+        },
+        {
+          "label": "B",
+          "text": "Ít mài mòn"
+        },
+        {
+          "label": "C",
+          "text": "Đánh bóng tốt, thẩm mỹ cao"
+        },
+        {
+          "label": "D",
+          "text": "Độ cứng cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 11,
+      "question": "Composite nha khoa là vật liệu phục hồi dựa trên nền nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kim loại – gốm"
+        },
+        {
+          "label": "B",
+          "text": "Nhựa resin kết hợp hạt độn vô cơ"
+        },
+        {
+          "label": "C",
+          "text": "Xi măng silicate"
+        },
+        {
+          "label": "D",
+          "text": "Amalgam cải tiến"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 12,
+      "question": "Ở người lớn 55–60 tuổi, yếu tố nào góp phần làm tăng nguy cơ sâu răng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buồng tủy trở nên rộng lớn"
+        },
+        {
+          "label": "B",
+          "text": "Hệ miễn dịch đáp ứng quá mức"
+        },
+        {
+          "label": "C",
+          "text": "Tụt nướu và giảm tiết nước bọt"
+        },
+        {
+          "label": "D",
+          "text": "Mặt bên phẳng và rộng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 13,
+      "question": "Hiệu quả kéo dài của Chlorhexidine nhờ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tích luỹ trong nước bọt → tăng pH môi trường"
+        },
+        {
+          "label": "B",
+          "text": "Bám lâu trên bề mặt răng, nướu và niêm mạc miệng"
+        },
+        {
+          "label": "C",
+          "text": "Ức chế enzym lactate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Gắn không hồi phục vào protein mô"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 14,
+      "question": "Nhược điểm chính của florua thiếc (SnF₂ – 8% F) là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ bay hơi trong môi trường bên ngoài"
+        },
+        {
+          "label": "B",
+          "text": "Có vị kim loại, gây rát và nhuộm màu răng"
+        },
+        {
+          "label": "C",
+          "text": "Không có tác dụng ngừa sâu cổ răng"
+        },
+        {
+          "label": "D",
+          "text": "Dùng tại chỗ hiệu quả hạn chế"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 15,
+      "question": "Biện pháp nào giúp phục hồi sang thương sâu răng sớm hiệu quả nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tái khoáng bằng fluor và cải thiện vệ sinh răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Bọc mão răng phòng ngừa"
+        },
+        {
+          "label": "C",
+          "text": "Trám răng phục hồi vùng mất khoáng"
+        },
+        {
+          "label": "D",
+          "text": "Không cần điều trị, tự khỏi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 16,
+      "question": "Khi răng sâu đã sát tủy nhưng tủy vẫn còn sống, phương pháp điều trị phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Che tủy gián tiếp và trám phục hồi"
+        },
+        {
+          "label": "B",
+          "text": "Lấy tủy toàn bộ"
+        },
+        {
+          "label": "C",
+          "text": "Lấy tủy bán phần"
+        },
+        {
+          "label": "D",
+          "text": "Bộc lộ và che tủy trực tiếp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 17,
+      "question": "Theo thang điểm ICDAS thì ICDAS 3,4 được gọi là sâu răng gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng mới chớm"
+        },
+        {
+          "label": "B",
+          "text": "Sâu răng được hình thành"
+        },
+        {
+          "label": "C",
+          "text": "Sâu răng khởi phát"
+        },
+        {
+          "label": "D",
+          "text": "Sâu tiến triển"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 18,
+      "question": "Khi sâu men không được điều trị, tổn thương sẽ tiến triển thành giai đoạn nào tiếp theo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu cement"
+        },
+        {
+          "label": "B",
+          "text": "Sâu ngà"
+        },
+        {
+          "label": "C",
+          "text": "Viêm tủy"
+        },
+        {
+          "label": "D",
+          "text": "Viêm quanh chóp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 19,
+      "question": "Sâu răng nào sau đây còn được gọi là \"sâu răng dạng núi lửa\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng ẩn mình"
+        },
+        {
+          "label": "B",
+          "text": "Sâu răng ngưng tiến triển"
+        },
+        {
+          "label": "C",
+          "text": "Sâu răng tiến triển nhanh"
+        },
+        {
+          "label": "D",
+          "text": "Sâu răng mãn tính"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 20,
+      "question": "Một răng che tủy trực tiếp bằng MTA, sau 1 năm test tủy dương tính nhưng phim X-quang chưa thấy cầu ngà rõ. Nhận định phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Che tủy thất bại"
+        },
+        {
+          "label": "B",
+          "text": "Cần điều trị nội nha ngay"
+        },
+        {
+          "label": "C",
+          "text": "Cầu ngà có thể không thấy rõ trên X-quang"
+        },
+        {
+          "label": "D",
+          "text": "MTA không kích thích tạo ngà"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Câu 20: mép trang bị cắt mất phần đầu dòng; phương án C đọc được là \"…không thấy rõ trên X-quang … vẫn hiện diện\".",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 21,
+      "question": "Yếu tố nào sau đây giải thích tại sao MTA cần môi trường ẩm để đông cứng đúng cách?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phản ứng đông cứng là phản ứng acid–base"
+        },
+        {
+          "label": "B",
+          "text": "Phản ứng hydrat hoá của các silicate canxi"
+        },
+        {
+          "label": "C",
+          "text": "Sự bay hơi dung môi"
+        },
+        {
+          "label": "D",
+          "text": "Quang trùng hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 22,
+      "question": "Trong che tủy trực tiếp, lớp cầu ngà hình thành dưới MTA chủ yếu có nguồn gốc từ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngà thứ cấp do nguyên bào ngà cũ tạo ra"
+        },
+        {
+          "label": "B",
+          "text": "Ngà sửa chữa do tế bào gốc biệt hóa"
+        },
+        {
+          "label": "C",
+          "text": "Lắng đọng thụ động canxi từ vật liệu"
+        },
+        {
+          "label": "D",
+          "text": "Ngà quanh ống còn sót lại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 23,
+      "question": "Chọn câu sai về sâu men:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ở hố rãnh thì sẽ có hình nón với đỉnh quay về phía tuỷ."
+        },
+        {
+          "label": "B",
+          "text": "Khởi đầu thương tổn sâu răng là vết trắng trên bề mặt men, độ cứng ở chỗ vết trắng cũng giảm hơn so với men bình thường."
+        },
+        {
+          "label": "C",
+          "text": "Sâu men chỉ cần điều trị bằng fluor để tăng cường quá trình tái khoáng hoá."
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân cảm thấy ê buốt khi có kích thích, hết kích thích thì hết đau."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 24,
+      "question": "Sau khi ăn carbohydrat, pH acid của mảng bám kéo dài bao lâu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 phút"
+        },
+        {
+          "label": "B",
+          "text": "20 phút"
+        },
+        {
+          "label": "C",
+          "text": "30 phút"
+        },
+        {
+          "label": "D",
+          "text": "40 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 25,
+      "question": "Khi tạo xoang trám sâu ngà cần lưu ý?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy lớp ngà nhiễm trùng để lại ngà ảnh hưởng"
+        },
+        {
+          "label": "B",
+          "text": "Lấy lớp ngà ảnh hưởng để lại ngà nhiễm trùng"
+        },
+        {
+          "label": "C",
+          "text": "Lấy cả hai lớp ngà"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 26,
+      "question": "Yếu tố tiên quyết để có sâu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mảng bám, vi khuẩn gây sâu răng"
+        },
+        {
+          "label": "B",
+          "text": "Thức ăn"
+        },
+        {
+          "label": "C",
+          "text": "Vệ sinh răng miệng"
+        },
+        {
+          "label": "D",
+          "text": "Răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 27,
+      "question": "Sâu răng là bệnh nhiễm khuẩn do Streptococcus mutans ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn đầu"
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn giữa"
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn sau"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 28,
+      "question": "Đặc điểm của sâu men. Chọn câu sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sang thương lan rộng theo hướng trụ men"
+        },
+        {
+          "label": "B",
+          "text": "Xoang sâu hình nón"
+        },
+        {
+          "label": "C",
+          "text": "Đáy xoang sâu nằm ở mặt men"
+        },
+        {
+          "label": "D",
+          "text": "Đường vào nhỏ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 29,
+      "question": "Carbonat tác động lên HA:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm HA dễ hòa tan hơn"
+        },
+        {
+          "label": "B",
+          "text": "Làm HA khó hòa tan hơn"
+        },
+        {
+          "label": "C",
+          "text": "Theo cả 2 chiều thuận nghịch"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 30,
+      "question": "Công thức hóa học của các tinh thể khoáng canxi hydroxyapatite theo Kay là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ca10(PO4)5(OH)2"
+        },
+        {
+          "label": "B",
+          "text": "Ca10(PO4)6(OH)2"
+        },
+        {
+          "label": "C",
+          "text": "Ca5(PO4)3(OH)2"
+        },
+        {
+          "label": "D",
+          "text": "Ca5(PO4)5(OH)2"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 31,
+      "question": "Trong quá trình sâu răng ngưng tiến triển, quá trình khoáng hóa và tái khoáng hóa diễn ra như thế nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tái khoáng < mất khoáng"
+        },
+        {
+          "label": "B",
+          "text": "Tái khoáng > mất khoáng"
+        },
+        {
+          "label": "C",
+          "text": "Cân bằng"
+        },
+        {
+          "label": "D",
+          "text": "Không xác định được"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 32,
+      "question": "Trong quá trình tạo xoang, thấy đáy sang thương có màu nâu và cứng, quá trình nào dưới đây giải thích hiện tượng trên?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tái khoáng"
+        },
+        {
+          "label": "B",
+          "text": "Mất khoáng"
+        },
+        {
+          "label": "C",
+          "text": "Đổi màu răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 33,
+      "question": "Khi giảm đi 1 đơn vị pH, sự hòa tan của apatite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm đi 10 yếu tố"
+        },
+        {
+          "label": "B",
+          "text": "Tăng lên 10 yếu tố"
+        },
+        {
+          "label": "C",
+          "text": "Giảm đi 5 yếu tố"
+        },
+        {
+          "label": "D",
+          "text": "Tăng lên 5 yếu tố"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 34,
+      "question": "Sự hủy khoáng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các hydroxyapatite và fluorapatite bị hòa tan khi pH bị giảm tới dưới mức tới hạn"
+        },
+        {
+          "label": "B",
+          "text": "pH tới hạn của hydroxyapatite là 4.5 còn fluorapatite là 5.5"
+        },
+        {
+          "label": "C",
+          "text": "Thành phần men bị hòa tan nhanh nhất"
+        },
+        {
+          "label": "D",
+          "text": "Thành phần ngà bị hòa tan chậm nhất"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 35,
+      "question": "Quá trình tái khoáng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khá tương đồng với quá trình hủy khoáng"
+        },
+        {
+          "label": "B",
+          "text": "Xảy ra ở pH kiềm"
+        },
+        {
+          "label": "C",
+          "text": "Lớn hơn pH tới hạn, xấp xỉ pH trung tính của nước bọt"
+        },
+        {
+          "label": "D",
+          "text": "Nước bọt không có vai trò đáng kể trong quá trình khoáng hóa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 36,
+      "question": "Trong các bước chẩn đoán sâu răng, việc trả lời câu hỏi \"Bệnh nhân có khuynh hướng phát triển sâu răng không?\" thuộc về bước nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phát hiện và xác định sang thương sâu răng."
+        },
+        {
+          "label": "B",
+          "text": "Đánh giá mức độ tổn thương trung bình đang hoạt động."
+        },
+        {
+          "label": "C",
+          "text": "Xác định nguy cơ sâu răng."
+        },
+        {
+          "label": "D",
+          "text": "Phân loại theo nhóm lỗ sâu thực sự."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 37,
+      "question": "Liều gây độc của Fluoride:",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 mg/kg"
+        },
+        {
+          "label": "B",
+          "text": "5 mg/kg"
+        },
+        {
+          "label": "C",
+          "text": "2 mg/kg"
+        },
+        {
+          "label": "D",
+          "text": "1 mg/kg"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 38,
+      "question": "Nếu ăn bánh ngọt hoặc thức ăn chứa nhiều đường, nên làm gì để bảo vệ răng miệng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uống nhiều nước lọc"
+        },
+        {
+          "label": "B",
+          "text": "Ăn thêm rau xanh ngay sau đó"
+        },
+        {
+          "label": "C",
+          "text": "Ăn vào buổi tối trước khi ngủ"
+        },
+        {
+          "label": "D",
+          "text": "Ăn sau bữa chính và chải răng hoặc súc miệng sạch ngay sau khi ăn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 39,
+      "question": "Khi phát hiện sâu men mới chớm ta cần làm gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều trị can thiệp ngay"
+        },
+        {
+          "label": "B",
+          "text": "Tăng cường các yếu tố kháng sâu răng"
+        },
+        {
+          "label": "C",
+          "text": "Giảm yếu tố gây sâu răng"
+        },
+        {
+          "label": "D",
+          "text": "B và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 40,
+      "question": "Kẹo cao su Xylitol có tác dụng chống sâu răng chủ yếu nhờ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm sạch răng bằng tác động cơ học khi nhai"
+        },
+        {
+          "label": "B",
+          "text": "Kích thích tiết nước bọt và hạn chế vi khuẩn gây sâu răng phát triển"
+        },
+        {
+          "label": "C",
+          "text": "Cung cấp fluor trực tiếp cho men răng"
+        },
+        {
+          "label": "D",
+          "text": "Thay thế cho việc chải răng hằng ngày"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 41,
+      "question": "Vì sao trẻ từ sơ sinh đến 2 tuổi không nên dùng kem đánh răng có fluor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vì fluor không cần thiết cho răng sữa"
+        },
+        {
+          "label": "B",
+          "text": "Vì trẻ có thể nuốt kem, gây nhiễm fluor ở mầm răng vĩnh viễn"
+        },
+        {
+          "label": "C",
+          "text": "Vì fluor làm men răng yếu đi"
+        },
+        {
+          "label": "D",
+          "text": "Vì fluor làm chậm mọc răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 42,
+      "question": "Nguy cơ sâu răng liên quan tới tần suất ăn sucrose hơn số lượng sucrose trong mỗi lần ăn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vì tác động cộng gộp tích lũy của sucrose lên vi khuẩn"
+        },
+        {
+          "label": "B",
+          "text": "Vì sucrose không gây ảnh hưởng nếu chỉ ăn 1 lần"
+        },
+        {
+          "label": "C",
+          "text": "Vì mỗi lần ăn sucrose đều làm giảm pH, lặp lại nhiều lần làm thời gian pH thấp kéo dài"
+        },
+        {
+          "label": "D",
+          "text": "Nguy cơ tương đương nhau vì tổng lượng tương đương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 43,
+      "question": "Tuyến nước bọt nào sau đây là tuyến lớn nhất trong cơ thể?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuyến dưới hàm"
+        },
+        {
+          "label": "B",
+          "text": "Tuyến dưới lưỡi"
+        },
+        {
+          "label": "C",
+          "text": "Tuyến mang tai"
+        },
+        {
+          "label": "D",
+          "text": "Tuyến khẩu cái"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 44,
+      "question": "Trong các phương pháp chẩn đoán sau, phương pháp nào KHÔNG nên sử dụng để phát hiện sang thương sâu răng sớm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quan sát trực tiếp trên răng khô"
+        },
+        {
+          "label": "B",
+          "text": "QLF (Quang huỳnh quang định lượng)"
+        },
+        {
+          "label": "C",
+          "text": "Thám trâm rà trên bề mặt men răng"
+        },
+        {
+          "label": "D",
+          "text": "DIAGNOdent"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 45,
+      "question": "Giai đoạn nào trong quá trình sâu răng có thể đảo ngược hoàn toàn nếu được can thiệp kịp thời?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi đã hình thành lỗ sâu"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ vừa có mất khoáng bề mặt (đốm trắng)"
+        },
+        {
+          "label": "C",
+          "text": "Khi sâu răng đã vào ngà nông"
+        },
+        {
+          "label": "D",
+          "text": "Khi tổn thương giới hạn ở phần khuôn collagen"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 46,
+      "question": "Khi trám GIC, ngà răng cần được xử lý như thế nào để đạt dính tối ưu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm khô tuyệt đối"
+        },
+        {
+          "label": "B",
+          "text": "Giữ ẩm nhẹ"
+        },
+        {
+          "label": "C",
+          "text": "Không cần cô lập kĩ"
+        },
+        {
+          "label": "D",
+          "text": "Bôi nhẹ 1 viên gòn ẩm vào đáy xoang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 47,
+      "question": "Trong trộn GIC thủ công, thời gian trộn thích hợp là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5–10 giây"
+        },
+        {
+          "label": "B",
+          "text": "10–15 giây"
+        },
+        {
+          "label": "C",
+          "text": "20–30 giây"
+        },
+        {
+          "label": "D",
+          "text": ">60 giây"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 48,
+      "question": "Hỗn hợp GIC đạt yêu cầu khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ướt, không bóng"
+        },
+        {
+          "label": "B",
+          "text": "Dính bay trám"
+        },
+        {
+          "label": "C",
+          "text": "Đồng nhất, bóng, không dính bay"
+        },
+        {
+          "label": "D",
+          "text": "Lỏng chảy"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 49,
+      "question": "Sau khi đặt GIC, cần che phủ bề mặt bằng varnish hoặc vaselin nhằm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng độ cứng"
+        },
+        {
+          "label": "B",
+          "text": "Giữ độ ẩm"
+        },
+        {
+          "label": "C",
+          "text": "Tránh hút ẩm hoặc mất nước"
+        },
+        {
+          "label": "D",
+          "text": "Cô lập nước"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 50,
+      "question": "Thời điểm chỉnh cộm và đánh bóng GIC phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngay sau đặt vật liệu"
+        },
+        {
+          "label": "B",
+          "text": "Sau 2–4 phút"
+        },
+        {
+          "label": "C",
+          "text": "Sau khi đông hoàn toàn 7–10 phút"
+        },
+        {
+          "label": "D",
+          "text": "Sau 24 giờ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 51,
+      "question": "Lời dặn phù hợp cho bệnh nhân sau trám GIC là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ăn nhai bình thường ngay"
+        },
+        {
+          "label": "B",
+          "text": "Không ăn trong ít nhất 1 giờ"
+        },
+        {
+          "label": "C",
+          "text": "Súc miệng nước muối sau trám"
+        },
+        {
+          "label": "D",
+          "text": "Không ăn nhai bên trám 24h"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 52,
+      "question": "Khi phục hồi răng cửa yêu cầu thẩm mỹ cao, loại composite phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macrofill"
+        },
+        {
+          "label": "B",
+          "text": "Microfill hoặc Nanofill"
+        },
+        {
+          "label": "C",
+          "text": "Composite chứa hạt lớn"
+        },
+        {
+          "label": "D",
+          "text": "Composite kim loại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 53,
+      "question": "Khi thổi hơi ngà quá khô sau khi rửa acid, nguy cơ thường gặp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại trừ được hoàn toàn nước trong răng, giúp tăng lực dán"
+        },
+        {
+          "label": "B",
+          "text": "Sụp đổ mạng collagen dẫn đến giảm lực dán"
+        },
+        {
+          "label": "C",
+          "text": "Giảm ê buốt sau trám"
+        },
+        {
+          "label": "D",
+          "text": "Tăng độ bền cơ học"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 54,
+      "question": "Sửa soạn xoang IV, đường vạt men phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vạt men ngắn, góc 30°"
+        },
+        {
+          "label": "B",
+          "text": "Vạt men dài, góc 45°"
+        },
+        {
+          "label": "C",
+          "text": "Vạt men dài, góc khoảng 30°"
+        },
+        {
+          "label": "D",
+          "text": "Vạt men ngắn, góc khoảng 45°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 55,
+      "question": "Khi composite bị mòn nhanh sau thời gian ngắn sử dụng, nguyên nhân liên quan vật liệu nhiều nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tỷ lệ hạt độn thấp"
+        },
+        {
+          "label": "B",
+          "text": "Tỷ lệ hạt độn cao"
+        },
+        {
+          "label": "C",
+          "text": "Cường độ đèn quá cao gây nứt vỡ khối composite"
+        },
+        {
+          "label": "D",
+          "text": "Lớp trám quá mỏng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 56,
+      "question": "Để giảm co ngót khi trùng hợp trong trám composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đắp một khối lớn và chiếu đèn một lần"
+        },
+        {
+          "label": "B",
+          "text": "Đắp từng lớp mỏng và chiếu đèn từng lớp"
+        },
+        {
+          "label": "C",
+          "text": "Giảm thời gian chiếu đèn"
+        },
+        {
+          "label": "D",
+          "text": "Tăng thời gian chiếu đèn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 57,
+      "question": "Composite dùng làm sealant bít hố rãnh có tác dụng chính là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hồi chịu lực"
+        },
+        {
+          "label": "B",
+          "text": "Ngăn ngừa sâu răng"
+        },
+        {
+          "label": "C",
+          "text": "Phục hồi hình dạng răng"
+        },
+        {
+          "label": "D",
+          "text": "Tăng chiều cao mặt nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 58,
+      "question": "Nếu chọn composite hạt lớn cho vùng răng cửa, nhược điểm thường gặp là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Co ngót cao"
+        },
+        {
+          "label": "B",
+          "text": "Khó đánh bóng, thẩm mỹ kém"
+        },
+        {
+          "label": "C",
+          "text": "Độ cứng thấp"
+        },
+        {
+          "label": "D",
+          "text": "Không cản quang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 59,
+      "question": "Vai trò chính của khung nhựa (Bis-GMA, UDMA, TEGDMA) trong composite là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo cản quang"
+        },
+        {
+          "label": "B",
+          "text": "Tạo màu cho vật liệu"
+        },
+        {
+          "label": "C",
+          "text": "Gắn kết hạt độn và quyết định độ nhớt, co ngót"
+        },
+        {
+          "label": "D",
+          "text": "Tăng độ bóng bề mặt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 60,
+      "question": "Xoi mòn (Erosion) là mòn răng do:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lực cơ học"
+        },
+        {
+          "label": "B",
+          "text": "Vi khuẩn"
+        },
+        {
+          "label": "C",
+          "text": "Acid"
+        },
+        {
+          "label": "D",
+          "text": "Răng – răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 61,
+      "question": "Nguồn acid nội sinh thường gặp gây xoi mòn là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nước có gas"
+        },
+        {
+          "label": "B",
+          "text": "Trái cây chua"
+        },
+        {
+          "label": "C",
+          "text": "Trào ngược dạ dày – thực quản"
+        },
+        {
+          "label": "D",
+          "text": "Môi trường lao động"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 62,
+      "question": "Dấu hiệu lâm sàng điển hình của xoi mòn răng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tổn thương giới hạn rõ"
+        },
+        {
+          "label": "B",
+          "text": "Bề mặt men bóng, nhẵn, men mờ"
+        },
+        {
+          "label": "C",
+          "text": "Hình chữ V sắc cạnh"
+        },
+        {
+          "label": "D",
+          "text": "Mặt nhai phẳng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 63,
+      "question": "Mòn cổ răng do lực uốn (Abfraction) có đặc điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Do acid"
+        },
+        {
+          "label": "B",
+          "text": "Do chải răng ngang"
+        },
+        {
+          "label": "C",
+          "text": "Do lực nhai lệch trục gây ứng suất cổ răng"
+        },
+        {
+          "label": "D",
+          "text": "Do răng – răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 64,
+      "question": "Tổn thương do lực uốn (abfraction) thường có hình dạng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình chén"
+        },
+        {
+          "label": "B",
+          "text": "Hình U nông"
+        },
+        {
+          "label": "C",
+          "text": "Hình chữ V sâu, sắc cạnh"
+        },
+        {
+          "label": "D",
+          "text": "Hình phẳng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 65,
+      "question": "Bệnh nhân có mòn chủ yếu mặt trong răng cửa hàm trên, nghi ngờ nguyên nhân nào nhiều nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chải răng mạnh"
+        },
+        {
+          "label": "B",
+          "text": "Nghiến răng"
+        },
+        {
+          "label": "C",
+          "text": "Trào ngược dạ dày – thực quản"
+        },
+        {
+          "label": "D",
+          "text": "Cắn vật cứng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 66,
+      "question": "Một bệnh nhân thuận tay phải, mòn cổ răng nặng hơn bên trái. Nguyên nhân phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acid ngoại sinh"
+        },
+        {
+          "label": "B",
+          "text": "Chải răng theo chiều ngang"
+        },
+        {
+          "label": "C",
+          "text": "Nghiến răng ban đêm"
+        },
+        {
+          "label": "D",
+          "text": "Lệch khớp cắn trung tâm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 67,
+      "question": "Để dự phòng mòn răng do xoi mòn, khuyến cáo nào sau đây là đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chải răng ngay sau khi uống nước có gas để loại trừ acid khỏi men răng"
+        },
+        {
+          "label": "B",
+          "text": "Súc miệng bằng nước muối"
+        },
+        {
+          "label": "C",
+          "text": "Chải răng sau ăn 30–40 phút"
+        },
+        {
+          "label": "D",
+          "text": "Không chải răng sau khi ăn thực phẩm chua"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 68,
+      "question": "Bệnh nhân nam 14 tuổi, răng 36 sâu ngà rất sâu, đau thoáng qua với lạnh, không đau tự phát. Khi mở xoang, còn một lớp ngà mỏng sát tủy, chưa lộ. Nếu tiếp tục nạo sẽ lộ tủy. Xử trí phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều trị nội nha ngay"
+        },
+        {
+          "label": "B",
+          "text": "Che tủy trực tiếp"
+        },
+        {
+          "label": "C",
+          "text": "Che tủy gián tiếp"
+        },
+        {
+          "label": "D",
+          "text": "Trám tạm theo dõi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 69,
+      "question": "Bệnh nhân nữ 25 tuổi, răng 11 bị mẻ do chấn thương 1 giờ trước, lộ tủy ~1 mm, chảy máu ít, cầm được, phim X-quang không thấy tổn thương quanh chóp. Xử trí tốt nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều trị nội nha"
+        },
+        {
+          "label": "B",
+          "text": "Che tủy trực tiếp"
+        },
+        {
+          "label": "C",
+          "text": "Lấy tủy buồng"
+        },
+        {
+          "label": "D",
+          "text": "Trám tạm và theo dõi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 70,
+      "question": "Bệnh nhân 30 tuổi, răng 37 sâu ngà sâu, không triệu chứng. Khi tạo xoang thấy ngà sát tủy mềm, ẩm, sậm màu. Lựa chọn điều trị hợp lý nhất để bảo tồn tủy là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Che tủy gián tiếp một lần hẹn"
+        },
+        {
+          "label": "B",
+          "text": "Che tủy gián tiếp nhiều lần hẹn (trám từng bước)"
+        },
+        {
+          "label": "C",
+          "text": "Che tủy trực tiếp"
+        },
+        {
+          "label": "D",
+          "text": "Điều trị nội nha dự phòng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 71,
+      "question": "Sau che tủy trực tiếp răng 21, bệnh nhân than đau nhiều, kéo dài, không giảm sau 48 giờ. Xử trí phù hợp nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kê giảm đau và theo dõi"
+        },
+        {
+          "label": "B",
+          "text": "Thay vật liệu che tủy khác"
+        },
+        {
+          "label": "C",
+          "text": "Điều trị nội nha"
+        },
+        {
+          "label": "D",
+          "text": "Che tủy lại bằng MTA"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 72,
+      "question": "Một răng đã che tủy trực tiếp được 4 tuần, phim X-quang chưa thấy cầu ngà rõ, bệnh nhân không đau, test tủy dương tính. Cách xử trí phù hợp là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều trị nội nha ngay"
+        },
+        {
+          "label": "B",
+          "text": "Che tủy lại"
+        },
+        {
+          "label": "C",
+          "text": "Tiếp tục theo dõi"
+        },
+        {
+          "label": "D",
+          "text": "Tháo miếng trám kiểm tra"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 73,
+      "question": "Trong che tủy trực tiếp, yếu tố nào giải thích hợp lý nhất cho việc không dùng thuốc tê có chất co mạch?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm độc tính thuốc tê"
+        },
+        {
+          "label": "B",
+          "text": "Tránh thiếu máu tủy kéo dài"
+        },
+        {
+          "label": "C",
+          "text": "Đánh giá chính xác tình trạng chảy máu tủy"
+        },
+        {
+          "label": "D",
+          "text": "Tránh ảnh hưởng đến cầu ngà"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 74,
+      "question": "Một răng che tủy trực tiếp bằng Ca(OH)₂, sau 2 năm phát hiện nội tiêu trên phim X-quang. Nguyên nhân có khả năng nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hồi không kín"
+        },
+        {
+          "label": "B",
+          "text": "Phản ứng viêm mạn tính của tủy"
+        },
+        {
+          "label": "C",
+          "text": "Độc tính của cement ionomer"
+        },
+        {
+          "label": "D",
+          "text": "Tuổi bệnh nhân lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 75,
+      "question": "Trong quá trình trộn và đặt MTA, yếu tố nào ảnh hưởng nhiều nhất đến tính chất đông cứng và độ bền vật liệu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại gòn thấm"
+        },
+        {
+          "label": "B",
+          "text": "Môi trường ẩm"
+        },
+        {
+          "label": "C",
+          "text": "Áp lực đặt vật liệu"
+        },
+        {
+          "label": "D",
+          "text": "Loại đèn quang trùng hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 76,
+      "question": "Một răng che tủy trực tiếp bằng MTA, bác sĩ trám composite ngay trong cùng lần hẹn. Nguy cơ lớn nhất của thao tác này là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm độ bền composite"
+        },
+        {
+          "label": "B",
+          "text": "Làm nhiễm khuẩn tủy"
+        },
+        {
+          "label": "C",
+          "text": "Làm xáo trộn quá trình đông cứng của MTA"
+        },
+        {
+          "label": "D",
+          "text": "Gây đau sau điều trị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 77,
+      "question": "Ngà thứ cấp bệnh lý không được hình thành trong trường hợp nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sâu tiến triển chậm"
+        },
+        {
+          "label": "B",
+          "text": "Răng bị chấn thương"
+        },
+        {
+          "label": "C",
+          "text": "Răng còn tủy sống"
+        },
+        {
+          "label": "D",
+          "text": "Răng chết tủy"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 78,
+      "question": "Trong các loại ngà sau, loại nào có ý nghĩa bảo vệ tủy trực tiếp nhất khi răng bị sâu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngà sơ cấp"
+        },
+        {
+          "label": "B",
+          "text": "Ngà thứ cấp sinh lý"
+        },
+        {
+          "label": "C",
+          "text": "Ngà thứ cấp bệnh lý"
+        },
+        {
+          "label": "D",
+          "text": "Ngà quanh ống"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 79,
+      "question": "Trong sửa soạn xoang trám, nguyên tắc nào quan trọng nhất về mặt sinh học giúp bảo vệ phức hợp ngà – tủy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo hình thể lưu cơ học tối đa"
+        },
+        {
+          "label": "B",
+          "text": "Mở rộng xoang theo quan niệm phòng ngừa"
+        },
+        {
+          "label": "C",
+          "text": "Lấy hết mô răng nhiễm khuẩn nhưng bảo tồn tối đa mô răng lành"
+        },
+        {
+          "label": "D",
+          "text": "Tạo xoang có thành thẳng và sắc nét"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 80,
+      "question": "Sự hòa tan tinh thể fluorapatite ở men răng khi pH:",
+      "options": [
+        {
+          "label": "A",
+          "text": "<5"
+        },
+        {
+          "label": "B",
+          "text": ">5"
+        },
+        {
+          "label": "C",
+          "text": "<4.5"
+        },
+        {
+          "label": "D",
+          "text": ">4.4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 81,
+      "question": "Nước bọt cung cấp kháng thể nào sau đây để kháng vi khuẩn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgM"
+        },
+        {
+          "label": "B",
+          "text": "IgG"
+        },
+        {
+          "label": "C",
+          "text": "IgA"
+        },
+        {
+          "label": "D",
+          "text": "A, B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đáp án chính thức của đề là D. Lưu ý: theo sách, kháng thể chủ yếu trong nước bọt là IgA tiết (sIgA) — nếu gặp lại câu này nên đối chiếu thêm.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 82,
+      "question": "Thành phần sang thương sâu ngà ở lớp ngà bên ngoài:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có sự thâm nhiễm vi khuẩn"
+        },
+        {
+          "label": "B",
+          "text": "Được tái khoáng hoá"
+        },
+        {
+          "label": "C",
+          "text": "Là mô sống"
+        },
+        {
+          "label": "D",
+          "text": "Có cảm giác nhạy cảm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 83,
+      "question": "Vi khuẩn gây mảng bám là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "S. mutans"
+        },
+        {
+          "label": "B",
+          "text": "Lactobacillus"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus"
+        },
+        {
+          "label": "D",
+          "text": "Actinomyces"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 84,
+      "question": "Có sự hòa tan các tinh thể hydroxyapatite khi pH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pH = 5.5"
+        },
+        {
+          "label": "B",
+          "text": "pH = 6.5"
+        },
+        {
+          "label": "C",
+          "text": "pH < 5.5"
+        },
+        {
+          "label": "D",
+          "text": "pH < 4.5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 85,
+      "question": "Đặc điểm sang thương sâu ngà?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hướng lan rộng theo đường nối men ngà"
+        },
+        {
+          "label": "B",
+          "text": "Sang thương hình bầu dục"
+        },
+        {
+          "label": "C",
+          "text": "Sang thương có đáy ở phía tủy, đỉnh nằm ở đường nối men ngà"
+        },
+        {
+          "label": "D",
+          "text": "Không cần điều trị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 86,
+      "question": "Xoang sâu loại V được mô tả xảy ra ở khu vực nào trên răng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt nhai răng cối nhỏ và lớn."
+        },
+        {
+          "label": "B",
+          "text": "Mặt bên có phần góc cắn."
+        },
+        {
+          "label": "C",
+          "text": "1/3 phía nướu của mặt ngoài hoặc mặt trong."
+        },
+        {
+          "label": "D",
+          "text": "Mặt bên gần hoặc xa của răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 87,
+      "question": "Sản phẩm chính do vi khuẩn lên men carbohydrate gây ra trong giai đoạn đầu mất khoáng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acid citric"
+        },
+        {
+          "label": "B",
+          "text": "Acid acetic"
+        },
+        {
+          "label": "C",
+          "text": "Acid lactic"
+        },
+        {
+          "label": "D",
+          "text": "Acid phosphoric"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 88,
+      "question": "Mục đích chính của việc trám bít hố rãnh là gì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thay thế men răng bị sâu"
+        },
+        {
+          "label": "B",
+          "text": "Ngăn chặn sự xâm nhập của vi khuẩn và mảng bám vào hố rãnh"
+        },
+        {
+          "label": "C",
+          "text": "Giúp tái khoáng cho men răng."
+        },
+        {
+          "label": "D",
+          "text": "Giảm độ nhạy cảm của răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 89,
+      "question": "Tiêu chí quan trọng nhất của vật liệu trám bít hố rãnh là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Độ cứng cao và chịu lực tốt"
+        },
+        {
+          "label": "B",
+          "text": "Có màu trắng đục để dễ nhận biết"
+        },
+        {
+          "label": "C",
+          "text": "Độ chảy tốt và khả năng bám dính vào men răng"
+        },
+        {
+          "label": "D",
+          "text": "Có fluoride để chống sâu răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 90,
+      "question": "Một bệnh nhân vị thành niên sâu răng tiến triển. Trong tư vấn dinh dưỡng, lựa chọn nào phù hợp nhất theo nội dung đã cho?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm hoàn toàn tất cả carbohydrate trừ bữa ăn chính"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ sử dụng nước xúc miệng fluor hàng ngày mà không cần thay đổi chế độ ăn"
+        },
+        {
+          "label": "C",
+          "text": "Thay thế đồ ăn nhẹ chứa đường bằng thực phẩm không đường, giảm tần suất ăn ngọt"
+        },
+        {
+          "label": "D",
+          "text": "Tăng cường đánh răng nhiều lần trong ngày"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    }
+  ]
+}

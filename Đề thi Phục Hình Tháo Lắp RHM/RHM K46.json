@@ -1,0 +1,1728 @@
+{
+  "title": "RHM K46",
+  "subject": "Đề thi Phục Hình Tháo Lắp RHM",
+  "source": "Phục hình RHM K46",
+  "header": [
+    "Phục hình I · Thi trạm (5 trạm × 7 phút) · Mã đề 289 · Lần 1 · Ngày thi 18/12/2023 · 60 câu",
+    "Nguồn: Đề Thi/phục hình tháo lắp bán phần nền nhựa ( phục hình I ) - biên soạn Võ Viễn Thông.pdf (trang 46–50)",
+    "Đáp án: đề này KHÔNG có đánh dấu. Câu trùng với đề khoá khác lấy theo phương án khoanh ở đề đó; câu còn lại do AI suy luận (có nhãn). Câu hỏi theo hình mà hình quá mờ thì để trống đáp án."
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Trình tự thực hiện PHTL bán hàm nền nhựa trong labo bao gồm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy dấu nghiên cứu – nền tạm gối sáp – ghi tương quan – lên răng"
+        },
+        {
+          "label": "B",
+          "text": "Lấy dấu làm việc – đổ mẫu – nền tạm gối sáp – lên răng"
+        },
+        {
+          "label": "C",
+          "text": "Đổ mẫu – khay cá nhân – nền tạm gối sáp – lên răng"
+        },
+        {
+          "label": "D",
+          "text": "Đổ mẫu – nền tạm gối sáp – ghi tương quan – lên răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Lấy dấu và ghi tương quan làm trên lâm sàng, không phải trong labo. Đề RHM K45 (câu 52) chọn trình tự labo \"khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa\"."
+    },
+    {
+      "number": 2,
+      "question": "Giai đoạn labo có thể không cần thực hiện khi làm PHTL BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đổ mẫu làm việc"
+        },
+        {
+          "label": "B",
+          "text": "Khay cá nhân"
+        },
+        {
+          "label": "C",
+          "text": "Ghi khớp dấu khớp cắn"
+        },
+        {
+          "label": "D",
+          "text": "Thử răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Với hàm bán phần nền nhựa thường lấy dấu luôn bằng khay làm sẵn, nên khay cá nhân có thể bỏ qua."
+    },
+    {
+      "number": 3,
+      "question": "Trước khi biến đổi hàm sáp thành hàm nhựa phải thực hiện giai đoạn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vô giá khớp"
+        },
+        {
+          "label": "B",
+          "text": "Thử răng"
+        },
+        {
+          "label": "C",
+          "text": "Ghi tương quan"
+        },
+        {
+          "label": "D",
+          "text": "Lấy khớp cắn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Hàm sáp phải được thử trên miệng (thẩm mỹ, khớp cắn, phát âm) rồi mới vô khuôn ép nhựa."
+    },
+    {
+      "number": 4,
+      "question": "Dán mép nền sáp vào mẫu thạch cao có tác dụng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bảo vệ sự nguyên vẹn của bờ hàm"
+        },
+        {
+          "label": "B",
+          "text": "Tôn trọng hình dạng ngách hành lang"
+        },
+        {
+          "label": "C",
+          "text": "Ngăn thạch cao lọt vào mẫu hàm"
+        },
+        {
+          "label": "D",
+          "text": "Tránh sự dịch chuyển trong quá trình vào khuôn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 55) và K41 (câu 21): dán mép nền sáp để thạch cao không chui xuống dưới lớp sáp."
+    },
+    {
+      "number": 5,
+      "question": "Trong giai đoạn sửa soạn vào khuôn, Vaseline có tác dụng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly thạch cao với khuôn ép"
+        },
+        {
+          "label": "B",
+          "text": "Cách ly mẫu hàm và khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Cách ly răng với thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Cách ly sáp với thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Ở bước sửa soạn, vaseline được thoa vào lòng khuôn ép để sau này dễ gỡ khối thạch cao ra (đề RHM K40 câu 57 có ý \"cách ly thạch cao với khuôn\")."
+    },
+    {
+      "number": 6,
+      "question": "Khi đặt mẫu hàm vào khuôn ép cần chú ý:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt nhai các răng song song khuôn ép"
+        },
+        {
+          "label": "B",
+          "text": "Mẫu hàm cách đáy khuôn 5–6 mm"
+        },
+        {
+          "label": "C",
+          "text": "Làm láng bề mặt thạch cao cố định mẫu hàm và không được tạo vùng lẹm"
+        },
+        {
+          "label": "D",
+          "text": "Mặt nhai các răng cách thành khuôn 3 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Bề mặt thạch cao ở phần đáy khuôn phải láng và không có vùng lẹm để tách hai nửa khuôn dễ dàng."
+    },
+    {
+      "number": 7,
+      "question": "Khi đổ thạch cao phủ móc và các răng thạch cao của mẫu hàm thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc và răng giả ở hai phần khuôn khác nhau"
+        },
+        {
+          "label": "B",
+          "text": "Móc và răng giả ở cùng 1 phần khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Răng giả và răng thạch cao nằm ở cùng khuôn"
+        },
+        {
+          "label": "D",
+          "text": "Răng giả, móc và răng thạch cao ở cùng khuôn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 59): đổ thạch cao phủ móc thì răng giả và móc nằm ở 2 phần khuôn khác nhau."
+    },
+    {
+      "number": 8,
+      "question": "Trong giai đoạn vào phần trên khuôn, thoa vaseline vào đáy khuôn có tác dụng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly răng giả và thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Cách ly thạch cao đáy khuôn và thạch cao khuôn phía trên"
+        },
+        {
+          "label": "C",
+          "text": "Cách ly móc và răng giả"
+        },
+        {
+          "label": "D",
+          "text": "Cách ly móc và răng thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 54) và K41 (câu 23): vaseline dùng để cách ly thạch cao với thạch cao."
+    },
+    {
+      "number": 9,
+      "question": "Thoa Varnish khi nào là tốt nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi vừa dội sáp xong"
+        },
+        {
+          "label": "B",
+          "text": "Khi mẫu hàm còn ấm"
+        },
+        {
+          "label": "C",
+          "text": "Khi mẫu hàm đã nguội hoàn toàn"
+        },
+        {
+          "label": "D",
+          "text": "Khi mẫu hàm còn bốc hơi nước"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 27) và K45 (câu 55): thoa khi khuôn còn nóng nhưng đã hết bốc hơi nước."
+    },
+    {
+      "number": 10,
+      "question": "Tổng thời gian nấu chậm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "9 giờ"
+        },
+        {
+          "label": "B",
+          "text": "9 giờ 30 phút"
+        },
+        {
+          "label": "C",
+          "text": "10 giờ"
+        },
+        {
+          "label": "D",
+          "text": "10 giờ 30 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 28) và K43 (câu 32): 74°C trong 9 giờ rồi 100°C trong 30 phút."
+    },
+    {
+      "number": 11,
+      "question": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo .......... và tương quan theo ..........",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều dọc / chiều ngang"
+        },
+        {
+          "label": "B",
+          "text": "Chiều dọc / chiều đứng"
+        },
+        {
+          "label": "C",
+          "text": "Chiều cao / chiều đứng"
+        },
+        {
+          "label": "D",
+          "text": "Chiều cao / chiều ngang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K47 (câu 29, cùng câu điền khuyết)."
+    },
+    {
+      "number": 12,
+      "question": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "label": "B",
+          "text": "Trên miệng bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Trên hai mẫu hàm thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Trên giá khớp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Tương quan hai hàm được xác định trên miệng nhờ nền tạm – gối sáp rồi mới chuyển sang mẫu hàm (xem đề RHM K42 câu 24)."
+    },
+    {
+      "number": 13,
+      "question": "Nền tạm cần đạt các yêu cầu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phủ 2/3 lồi cùng và 2/3 gối hậu nha"
+        },
+        {
+          "label": "B",
+          "text": "Ôm sát cổ răng các răng cửa, răng cối nhỏ, răng cối lớn"
+        },
+        {
+          "label": "C",
+          "text": "Có chiều dày đồng nhất khoảng 2mm và được làm nhẵn, bóng"
+        },
+        {
+          "label": "D",
+          "text": "Càng rộng, càng dày càng tốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 13) và K45 (câu 25)."
+    },
+    {
+      "number": 14,
+      "question": "Khi ghi khớp cắn trung tâm, bác sĩ cần phải:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại"
+        },
+        {
+          "label": "B",
+          "text": "Cần so màu răng"
+        },
+        {
+          "label": "C",
+          "text": "Không cần thử nền tạm – gối sáp"
+        },
+        {
+          "label": "D",
+          "text": "Luôn luôn làm khóa chữ H"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 16, cùng ý)."
+    },
+    {
+      "number": 15,
+      "question": "Trường hợp cần phải xác định lại kích thước dọc trước khi ghi tương quan hai hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi cung hàm còn răng thật và có tình trạng khớp cắn bình thường"
+        },
+        {
+          "label": "B",
+          "text": "Trường hợp mất răng loại I và loại II Kennedy trên 1 cung hàm"
+        },
+        {
+          "label": "C",
+          "text": "Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm"
+        },
+        {
+          "label": "D",
+          "text": "Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 15) và K45 (câu 26)."
+    },
+    {
+      "number": 16,
+      "question": "Cách ghi tương quan hai hàm trong trường hợp mất răng Kennedy loại I trên cả hai cung hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cho 2 mẫu hàm khớp vào nhau mà không cần cách ghi nào khác"
+        },
+        {
+          "label": "B",
+          "text": "Khắc khóa trên gối sáp hàm dưới, gối sáp hàm trên nơi đối diện phủ 1 lớp sáp nhôm khoảng 1mm"
+        },
+        {
+          "label": "C",
+          "text": "Khắc khóa trên gối sáp hàm trên, gối sáp hàm dưới nơi đối diện phủ 1 lớp sáp lá khoảng 1mm"
+        },
+        {
+          "label": "D",
+          "text": "Khắc khóa trên gối sáp hàm trên, gối sáp hàm dưới nơi đối diện phủ 1 lớp sáp nhôm khoảng 1mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Không còn răng sau để chặn khớp nên phải khắc khóa trên gối sáp hàm trên và phủ sáp nhôm (mềm, ghi dấu tốt) lên gối sáp hàm dưới cho bệnh nhân cắn vào."
+    },
+    {
+      "number": 17,
+      "question": "Kích thước dọc cắn khớp là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng cách từ điểm nhô nhất ở mũi đến điểm nhô nhất ở cằm"
+        },
+        {
+          "label": "B",
+          "text": "Khoảng cách từ điểm nhô nhất ở mũi đến điểm nhô nhất ở cằm trừ đi 2mm (hoặc 4 mm)"
+        },
+        {
+          "label": "C",
+          "text": "Được xác định khi hàm dưới ở tư thế nghỉ"
+        },
+        {
+          "label": "D",
+          "text": "Không liên quan đến kích thước dọc nghỉ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K43 (câu 38) và K45 (câu 31)."
+    },
+    {
+      "number": 18,
+      "question": "Răng hàm trên được chọn theo tính tình bệnh nhân là răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa bên"
+        },
+        {
+          "label": "C",
+          "text": "Răng nanh"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 12)."
+    },
+    {
+      "number": 19,
+      "question": "Khoảng cách giữa 2 cánh mũi bằng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kích thước 2 răng cửa giữa hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước 4 răng cửa hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Khoảng cách 2 đỉnh răng nanh hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước 6 răng cửa hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Đường thẳng hạ từ cánh mũi xuống đi qua đỉnh răng nanh; răng cửa giữa rộng bằng ¼ khoảng cách hai cánh mũi (đề RHM K45 câu 38)."
+    },
+    {
+      "number": 20,
+      "question": "Theo mặt phẳng trán, cung răng vuông, độ nghiêng các răng cửa giữa, cửa bên và răng nanh lần lượt là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0° – 5° – 0°"
+        },
+        {
+          "label": "B",
+          "text": "5° – 10° – 5°"
+        },
+        {
+          "label": "C",
+          "text": "2° – 6° – 2°"
+        },
+        {
+          "label": "D",
+          "text": "0° – 6° – 2°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 30) và K41 (câu 14)."
+    },
+    {
+      "number": 21,
+      "question": "Theo mặt phẳng dọc, góc độ nghiêng của răng cửa bên hàm trên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0°"
+        },
+        {
+          "label": "B",
+          "text": "3°"
+        },
+        {
+          "label": "C",
+          "text": "5°"
+        },
+        {
+          "label": "D",
+          "text": "10°"
+        }
+      ],
+      "image": null,
+      "correctIndex": null,
+      "explanation": "Không có câu trùng ở đề khác để đối chiếu; để trống đáp án.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 22,
+      "question": "Khi lên răng cối hàm dưới, răng được lên đầu tiên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng 4"
+        },
+        {
+          "label": "B",
+          "text": "Răng 5"
+        },
+        {
+          "label": "C",
+          "text": "Răng 6"
+        },
+        {
+          "label": "D",
+          "text": "Răng 7"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Răng cối lớn thứ nhất hàm dưới được lên trước để định vị khớp cắn với răng 6 hàm trên."
+    },
+    {
+      "number": 23,
+      "question": "Trong trường hợp khoảng cách giữa 2 sống hàm ít, nên chọn răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sứ"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Răng sứ hàm trên, răng nhựa hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Răng nhựa hàm trên, răng sứ hàm dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 15)."
+    },
+    {
+      "number": 24,
+      "question": "Những điểm thuận lợi của hàm trên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Núm sau răng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ \"a\""
+        },
+        {
+          "label": "B",
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ \"a\""
+        },
+        {
+          "label": "C",
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schroder"
+        },
+        {
+          "label": "D",
+          "text": "Núm sau răng cửa, sống hàm rộng và săn chắc và lồi cùng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 1, cùng câu hỏi)."
+    },
+    {
+      "number": 25,
+      "question": "Mặt phẳng nào sau đây là mặt phẳng Camper:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt phẳng tưởng tượng nối 2 điểm tragus và phía dưới cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "Mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "label": "C",
+          "text": "Mặt phẳng tưởng tượng đi qua bờ cắn của răng cửa và mặt nhai các răng cối"
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 2, cùng câu hỏi)."
+    },
+    {
+      "number": 26,
+      "question": "Vùng nào sau đây chịu nén:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lỗ khẩu cái sau"
+        },
+        {
+          "label": "B",
+          "text": "Lồi rắn"
+        },
+        {
+          "label": "C",
+          "text": "Vùng khẩu cái sau"
+        },
+        {
+          "label": "D",
+          "text": "Vòm khẩu cái"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 3, cùng câu hỏi)."
+    },
+    {
+      "number": 27,
+      "question": "Vùng Schroder là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Từ răng cửa giữa đến đường A"
+        },
+        {
+          "label": "B",
+          "text": "Từ răng nanh đến đường A"
+        },
+        {
+          "label": "C",
+          "text": "Từ răng cối nhỏ đến đường A"
+        },
+        {
+          "label": "D",
+          "text": "Từ răng cối lớn đến đường A"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 4, cùng câu hỏi)."
+    },
+    {
+      "number": 28,
+      "question": "Phân loại mất răng theo Kennedy (xem hình):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại IV"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại IV, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại I, biến thể 1"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k46-c28.webp",
+        "page": 48,
+        "box": [
+          0.13,
+          0.455,
+          0.34,
+          0.585
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 5, cùng hình)."
+    },
+    {
+      "number": 29,
+      "question": "Phân loại mất răng theo Kennedy (xem hình):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại III, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại IV"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại IV, biến thể 2"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k46-c29.webp",
+        "page": 48,
+        "box": [
+          0.13,
+          0.68,
+          0.34,
+          0.8
+        ]
+      },
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 6, cùng hình)."
+    },
+    {
+      "number": 30,
+      "question": "Núm sau răng cửa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là điểm bất lợi khi làm phục hình vì có thần kinh và mạch máu đi ra"
+        },
+        {
+          "label": "B",
+          "text": "Là điểm bất lợi khi làm phục hình vì nhiều mô mỡ"
+        },
+        {
+          "label": "C",
+          "text": "Là điểm thuận lợi khi làm phục hình vì được che chở bởi lớp niêm mạc sợi săn chắc, chịu được lực"
+        },
+        {
+          "label": "D",
+          "text": "Là điểm thuận lợi khi làm phục hình vì có nhiều mô mỡ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 7, cùng câu hỏi)."
+    },
+    {
+      "number": 31,
+      "question": "Yêu cầu của khay lấy dấu làm sẵn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mềm dẻo để không gây đau cho bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Bờ khay càng sát đáy hành lang càng tốt"
+        },
+        {
+          "label": "C",
+          "text": "Cứng rắn để không biến dạng khi lấy dấu"
+        },
+        {
+          "label": "D",
+          "text": "Trơn láng để không dính chất lấy dấu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40, K41, K43, K45."
+    },
+    {
+      "number": 32,
+      "question": "Khi lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Bác sĩ đứng phía trước và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân ngồi thẳng tựa đầu vào ghế nha khoa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 9, cùng câu hỏi)."
+    },
+    {
+      "number": 33,
+      "question": "Khi lấy dấu hàm dưới, vị trí đứng của bác sĩ như sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng phía sau, về phía bên phải bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Đứng phía sau, về phía bên trái bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Đứng phía trước, về phía bên phải bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Đứng phía trước, về phía bên trái bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40, K41, K43, K45."
+    },
+    {
+      "number": 34,
+      "question": "Trong mài chỉnh khớp cắn thì tránh mài sửa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Múi chịu"
+        },
+        {
+          "label": "B",
+          "text": "Múi ngoài hàm trên và hàm dưới"
+        },
+        {
+          "label": "C",
+          "text": "Múi trong hàm trên và hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Rãnh, trũng giữa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Múi chịu (múi trong hàm trên, múi ngoài hàm dưới) giữ kích thước dọc nên hạn chế mài; mài theo quy tắc BULL ở các múi không chịu."
+    },
+    {
+      "number": 35,
+      "question": "Bước cuối cùng khi giao hàm cho bệnh nhân là kiểm tra:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sự khít sát"
+        },
+        {
+          "label": "B",
+          "text": "Kiểm tra kích thước dọc và điều chỉnh khớp cắn"
+        },
+        {
+          "label": "C",
+          "text": "Kiểm tra thẩm mỹ"
+        },
+        {
+          "label": "D",
+          "text": "Kiểm tra nền hàm, sự lưu giữ và vững ổn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 20): lắp hàm cho khít sát trước rồi mới chỉnh khớp cắn."
+    },
+    {
+      "number": 36,
+      "question": "Khi nền hàm giả ở bờ hàm vùng khẩu cái quá dày thì sẽ gây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gây buồn nôn"
+        },
+        {
+          "label": "B",
+          "text": "Ảnh hưởng đến thẩm mỹ"
+        },
+        {
+          "label": "C",
+          "text": "Cản trở hoạt động của lưỡi"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Bờ sau nền hàm vùng khẩu cái quá dày gây vướng, kích thích buồn nôn; không liên quan thẩm mỹ nên D không hợp lý."
+    },
+    {
+      "number": 37,
+      "question": "Mài theo quy tắc Bull:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Múi ngoài dưới, trong trên"
+        },
+        {
+          "label": "B",
+          "text": "Múi gần xa, ngoài trong"
+        },
+        {
+          "label": "C",
+          "text": "Múi ngoài trên, trong dưới"
+        },
+        {
+          "label": "D",
+          "text": "Múi chịu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "BULL = Buccal of Upper, Lingual of Lower: mài múi ngoài hàm trên và múi trong hàm dưới."
+    },
+    {
+      "number": 38,
+      "question": "Cho các ý sau đây, hãy sắp xếp theo thứ tự điều chỉnh khớp cắn: (1) Tái lập khớp cắn trung tâm đúng, (2) Hoàn hảo cắn khớp làm việc và thăng bằng, (3) Tái lập kích thước dọc đúng, (4) Tái lập khớp cắn tới đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(4), (1), (3), (2)"
+        },
+        {
+          "label": "B",
+          "text": "(1), (2), (3), (4)"
+        },
+        {
+          "label": "C",
+          "text": "(3), (1), (2), (4)"
+        },
+        {
+          "label": "D",
+          "text": "(1), (3), (4), (2)"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 48): kích thước dọc → khớp cắn trung tâm → cắn khớp làm việc và thăng bằng → khớp cắn tới."
+    },
+    {
+      "number": 39,
+      "question": "Những điểm đau thường gặp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bờ nền hàm vùng trước đường hàm móng"
+        },
+        {
+          "label": "B",
+          "text": "Vùng đường hàm móng"
+        },
+        {
+          "label": "C",
+          "text": "Vùng phía má của sống hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Vùng phía lưỡi của sống hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Gờ hàm móng sắc, niêm mạc phủ mỏng nên là vị trí đau thường gặp dưới nền hàm dưới."
+    },
+    {
+      "number": 40,
+      "question": "Cách sử dụng và bảo quản hàm giả, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tháo lắp hàm theo đúng hướng dẫn của bác sĩ"
+        },
+        {
+          "label": "B",
+          "text": "Không nên tháo lắp hàm giả ra khỏi miệng quá lâu"
+        },
+        {
+          "label": "C",
+          "text": "Nên ăn những thức ăn mềm, dẻo"
+        },
+        {
+          "label": "D",
+          "text": "Thời gian đầu nên mang thường xuyên để tập quen dần"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Thức ăn dẻo, dính dễ làm sút hàm. B và D đúng theo đề RHM K45 (câu 50) và K40 (câu 24)."
+    },
+    {
+      "number": 41,
+      "question": "Chọn phát biểu đúng khi nói về hàm phục hình tháo lắp bán phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền hàm luôn được làm bằng nhựa tự cứng"
+        },
+        {
+          "label": "B",
+          "text": "Cấu tạo gồm có nền hàm và móc đúc"
+        },
+        {
+          "label": "C",
+          "text": "Lực nhai phân bố hoàn toàn lên mô niêm mạc xương"
+        },
+        {
+          "label": "D",
+          "text": "Khó thực hiện các sửa chữa hàm khi có mất thêm răng hoặc gãy móc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 21): hàm nền nhựa truyền lực nhai hoàn toàn lên mô niêm mạc – xương."
+    },
+    {
+      "number": 42,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng ngắn"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng xen kẽ với khoảng mất răng quá dài"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng gần toàn bộ và răng còn lại lung lay"
+        },
+        {
+          "label": "D",
+          "text": "Các răng trụ xoay nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 3) và K45 (câu 11)."
+    },
+    {
+      "number": 43,
+      "question": "Phục hình tháo lắp bán phần nền nhựa có ưu điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ thích nghi"
+        },
+        {
+          "label": "B",
+          "text": "Dễ sửa chữa"
+        },
+        {
+          "label": "C",
+          "text": "Truyền lực nhai qua răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Hạn chế tiêu xương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 1) và K45 (câu 14)."
+    },
+    {
+      "number": 44,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm so với phục hình cố định là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít tốn kém hơn phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Ăn nhai tốt"
+        },
+        {
+          "label": "C",
+          "text": "Ít gây sâu răng"
+        },
+        {
+          "label": "D",
+          "text": "Sức nhai tốt hơn phục hình cố định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 38)."
+    },
+    {
+      "number": 45,
+      "question": "Khuyết điểm của phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình tháo lắp tốn kém hơn phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình có tính xê dịch, tạo cảm giác bất ổn"
+        },
+        {
+          "label": "C",
+          "text": "Khó làm vệ sinh hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Sức nhai tốt hơn phục hình cố định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 32)."
+    },
+    {
+      "number": 46,
+      "question": "Sự dính của hàm bán phần nền nhựa chủ yếu nhờ vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền nhựa"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Độ lẹm các răng còn lại"
+        },
+        {
+          "label": "D",
+          "text": "Nền nhựa và móc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 4)."
+    },
+    {
+      "number": 47,
+      "question": "Thời gian sử dụng trung bình của phục hình tháo lắp bán phần nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 – 4 năm"
+        },
+        {
+          "label": "B",
+          "text": "3 – 5 năm"
+        },
+        {
+          "label": "C",
+          "text": "4 – 5 năm"
+        },
+        {
+          "label": "D",
+          "text": "3 – 6 năm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K43 (câu 37)."
+    },
+    {
+      "number": 48,
+      "question": "Nội dung của lần hẹn 2 trên lâm sàng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy dấu"
+        },
+        {
+          "label": "B",
+          "text": "Xác định khớp cắn trung tâm hoặc tương quan tâm"
+        },
+        {
+          "label": "C",
+          "text": "Thử răng"
+        },
+        {
+          "label": "D",
+          "text": "Lắp hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Quy trình 5–6 lần hẹn (đề RHM K43 câu 36, K45 câu 13): lần 1 khám và lấy dấu nghiên cứu; lần 2 lấy dấu sau cùng bằng khay cá nhân; lần 3 ghi tương quan; lần 4 thử răng; lần 5 lắp hàm; lần 6 tái khám."
+    },
+    {
+      "number": 49,
+      "question": "Ở phục hình tháo lắp bán phần, thông thường yếu tố thẩm mỹ được quyết định vào giai đoạn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn ghi tương quan hai hàm"
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn thử răng"
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn giao hàm"
+        },
+        {
+          "label": "D",
+          "text": "Giai đoạn chữa đau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K43 (câu 42)."
+    },
+    {
+      "number": 50,
+      "question": "Cấu trúc giải phẫu số 7 trong hình bên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhú khẩu cái"
+        },
+        {
+          "label": "B",
+          "text": "Torus"
+        },
+        {
+          "label": "C",
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Khẩu cái"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k46-c50.webp",
+        "page": 50,
+        "box": [
+          0.06,
+          0.222,
+          0.21,
+          0.318
+        ]
+      },
+      "correctIndex": null,
+      "explanation": "Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 51,
+      "question": "Cấu trúc giải phẫu số 8 trong hình bên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khẩu cái mềm"
+        },
+        {
+          "label": "B",
+          "text": "Lỗ khẩu cái sau"
+        },
+        {
+          "label": "C",
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Đường rung chữ \"a\""
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k46-c51.webp",
+        "page": 50,
+        "box": [
+          0.06,
+          0.392,
+          0.22,
+          0.492
+        ]
+      },
+      "correctIndex": null,
+      "explanation": "Hình trong bản scan quá mờ, không đọc được số chú thích nên câu này để trống đáp án.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 52,
+      "question": "Khi khám cử động hàm dưới, bình thường lúc bệnh nhân há miệng, khoảng cách giữa hai cung hàm trên dưới là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 – 40 mm"
+        },
+        {
+          "label": "B",
+          "text": "40 – 50 mm"
+        },
+        {
+          "label": "C",
+          "text": "50 – 60 mm"
+        },
+        {
+          "label": "D",
+          "text": ">60 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 9) và K41 (câu 44)."
+    },
+    {
+      "number": 53,
+      "question": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Độ overbite và độ overjet là 2 mm"
+        },
+        {
+          "label": "B",
+          "text": "Bờ cắn răng cửa trên hở với bờ cắn răng cửa dưới"
+        },
+        {
+          "label": "C",
+          "text": "Độ cắn sâu và độ cắn hở khoảng 2,5 mm"
+        },
+        {
+          "label": "D",
+          "text": "Độ cắn sâu và độ cắn hở khoảng 3 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 45)."
+    },
+    {
+      "number": 54,
+      "question": "Đối với bệnh nhân mất răng bán phần, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "label": "C",
+          "text": "Phục hình tháo lắp"
+        },
+        {
+          "label": "D",
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K41 (câu 46)."
+    },
+    {
+      "number": 55,
+      "question": "Khi khám cung hàm dưới, sống hàm tốt là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng"
+        },
+        {
+          "label": "B",
+          "text": "Có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương"
+        },
+        {
+          "label": "C",
+          "text": "Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng"
+        },
+        {
+          "label": "D",
+          "text": "Sống hàm cao còn cách lỗ cằm 1 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 11)."
+    },
+    {
+      "number": 56,
+      "question": "Torus hàm dưới thường gặp ở vị trí:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt trong vùng răng cửa"
+        },
+        {
+          "label": "B",
+          "text": "Mặt trong vùng răng nanh"
+        },
+        {
+          "label": "C",
+          "text": "Mặt trong vùng răng cối nhỏ"
+        },
+        {
+          "label": "D",
+          "text": "Mặt trong vùng răng cối lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K40 (câu 12) và K41 (câu 47)."
+    },
+    {
+      "number": 57,
+      "question": "Lồi cùng có giá trị kém, không thuận lợi cho việc thực hiện hàm giả khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hai triền phía hành lang và khẩu cái song song nhau"
+        },
+        {
+          "label": "B",
+          "text": "Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng"
+        },
+        {
+          "label": "C",
+          "text": "Không có một độ cao nào"
+        },
+        {
+          "label": "D",
+          "text": "Lồi cùng lẹm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Hai triền song song là lồi cùng tốt (đề RHM K45 câu 17), hơi thấp và nghiêng là trung bình, không còn độ cao là kém."
+    },
+    {
+      "number": 58,
+      "question": "Gối hậu nha có giá trị cho việc nâng đỡ và vững hàm khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần trước gối hậu nha săn chắc, có nhiều mô sợi"
+        },
+        {
+          "label": "B",
+          "text": "Gối hậu nha tạo một góc dưới 40 độ so với đường đỉnh sống hàm"
+        },
+        {
+          "label": "C",
+          "text": "Niêm mạc bên trên gối hậu nha bám vào xương lỏng lẻo"
+        },
+        {
+          "label": "D",
+          "text": "Gối hậu nha có kích thước trung bình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Phần trước gối hậu nha là mô sợi săn chắc nên chịu lực tốt; niêm mạc bám lỏng lẻo thì không nâng đỡ được."
+    },
+    {
+      "number": 59,
+      "question": "Trường hợp mất răng sau đây: x x x 5 4 3 2 1 | 1 2 3 4 x x x x — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "label": "C",
+          "text": "Phục hình tháo lắp bán phần nền nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 19, cùng sơ đồ) khoanh C. Về kỹ thuật, mất răng sau hai bên không còn răng giới hạn phía xa (Kennedy loại I) thì khung bộ cũng là lựa chọn kinh điển."
+    },
+    {
+      "number": 60,
+      "question": "Điền khuyết. Đường nối giữa xương hàm trên: nếu không có đường gờ, việc mang hàm giả .......... dưới tác động của lực ép. Nếu có đường gờ cần .......... trên nền hàm.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không bị đau / tạo sự giảm nén"
+        },
+        {
+          "label": "B",
+          "text": "Không bị đau / mài hở"
+        },
+        {
+          "label": "C",
+          "text": "Có thể bị đau / tạo sự giảm nén"
+        },
+        {
+          "label": "D",
+          "text": "Có thể bị đau / khoét chữ U"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo đề RHM K45 (câu 20, cùng câu hỏi)."
+    }
+  ]
+}

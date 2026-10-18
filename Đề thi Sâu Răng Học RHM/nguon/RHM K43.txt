@@ -1,0 +1,382 @@
+# RHM K43
+# Đề 100 · Lần 1 · Ngày thi 07/12/2020 · 60 câu · 50 phút
+# Nguồn: Đề Thi/a3bd87e4-83d6-4e95-99ad-b23642134572.pdf (trang 9–13)
+# Đáp án: theo các phương án được đánh dấu trong đề (gạch chéo + khoanh tròn sửa lại); không phải đáp án chính thức của bộ môn
+
+Câu 1. Chỉ số SMT ở lứa tuổi 12 của Việt Nam năm 2000 là 1,87 được đánh giá:
+A. Rất thấp
+*B. Thấp
+C. Trung bình
+D. Cao
+> Thang WHO cho tuổi 12: rất thấp < 1,2; thấp 1,2–2,6; trung bình 2,7–4,4; cao 4,5–6,5.
+
+Câu 2. Yếu tố nào sau đây làm tăng tính nhạy cảm của răng đối với sự khởi phát sâu răng:
+*A. Răng nhiễm tetracycline
+B. Răng đã mọc lâu trên cung hàm
+C. Răng nhiễm Fluor
+D. Răng có nhiều cao răng
+> Đề gạch A, có người khoanh thêm B. Răng MỚI mọc mới là răng nhạy cảm với sâu (đề RHM K45 câu 32 có phương án "Răng mới mọc trên cung hàm" và chọn ý đó); "răng đã mọc lâu" thì không hợp lý.
+
+Câu 3. Loại vi khuẩn nào sau đây làm pH giảm nhanh trong môi trường miệng:
+A. Streptococcus mutans
+*B. Lactobacillus acidophilus
+C. Actinomyces
+D. Streptococcus sanguis
+> Đề gạch A rồi khoanh lại B. Đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B.
+
+Câu 4. Nước bọt có khả năng tái khoáng hóa sang thương sâu răng sớm nhờ:
+A. Lysozyme, lactoferrin
+B. Làm sạch răng thường xuyên
+*C. Ca++
+D. Nước bọt tiết nhiều
+
+Câu 5. Theo White, yếu tố nào sau đây chi phối sâu răng đặc biệt nhất:
+A. Fluor
+B. Vi khuẩn
+C. Đường
+*D. Nước bọt
+> Đề gạch cả A lẫn D, D được khoanh lại.
+
+Câu 6. Triệu chứng đau trong sâu ngà có đặc điểm sau:
+A. Đau từng cơn
+*B. Đau ngừng khi hết kích thích
+C. Đau liên tục
+D. Đau kéo dài ít phút sau khi hết kích thích
+
+Câu 7. Tổn thương sâu men thường thấy ở:
+*A. Hố rãnh mặt nhai
+B. Mặt trong răng cửa giữa
+C. Mặt ngoài răng cối trên
+D. Mặt trong răng cối dưới
+
+Câu 8. Sâu ngà cần phải điều trị chủ yếu bằng cách:
+A. Vệ sinh răng miệng
+B. Súc miệng với Fluor
+C. Lấy tủy
+*D. Trám kín lỗ sâu
+
+Câu 9. Biến chứng nào xảy ra sớm nhất nếu không điều trị sâu ngà:
+A. Tủy chết
+B. Viêm tủy mãn
+*C. Viêm tủy cấp
+D. Tủy hoại tử
+
+Câu 10. Khám răng 16 thấy có mắc thám châm ở hố mặt trong, các mặt khác còn nguyên vẹn. Chẩn đoán:
+A. Xoang II kép
+*B. Xoang I
+C. Xoang I kép
+D. Xoang II
+
+Câu 11. Xoang sâu chân răng ở mức độ 4, tuỷ sống, răng khoẻ mạnh cần điều trị như sau:
+*A. Che tuỷ, trám răng
+B. Lấy tuỷ, trám răng
+C. Tạo xoang, trám răng
+D. Chỉ cần trám răng
+> Đề gạch A, có người khoanh B. Tủy còn sống nên ưu tiên bảo tồn tủy (che tủy rồi trám).
+
+Câu 12. Sâu chân răng thường gặp ở lứa tuổi nào, vì sao:
+A. Người trẻ vì chân răng chưa hình thành đủ
+*B. Người già vì bị các vấn đề về nha chu
+C. Thanh thiếu niên hay hút thuốc lá làm tụt nướu
+D. Phụ nữ tiền mãn kinh vì bệnh loãng xương
+
+Câu 13. Dụng cụ quan trọng cần có cho giai đoạn khám lâm sàng sâu răng ở cộng đồng là:
+A. Đèn chiếu sáng
+B. Thám châm phải có điểm nhọn
+C. Thám châm đầu tù
+*D. A và C đúng
+> Đề gạch B rồi khoanh lại D. Khám cộng đồng theo WHO dùng cây thăm dò đầu tù và nguồn sáng, không dùng thám châm nhọn.
+
+Câu 14. Tư thế cầm bút cải tiến khi dùng thám châm và tay khoan là:
+A. Sử dụng 3 ngón tay: ngón cái, ngón trỏ, ngón giữa
+*B. Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út
+C. Sử dụng tối đa lực cổ tay
+D. B và C đúng
+> Đề gạch A rồi khoanh lại B (ngón áp út làm điểm tựa).
+
+Câu 15. Quy trình "Nha khoa Bốn Tay" có ý nghĩa:
+A. Đảm bảo vô khuẩn trong nha khoa
+B. Giảm thiểu gánh nặng công việc cho nha sĩ
+C. Tiết kiệm thời gian thực hành
+*D. Cả 3 câu trên đều đúng
+
+Câu 16. Mô hình điều trị sâu răng trong hiện đại:
+A. Lưu cơ học
+*B. Dán hoá học
+C. Xâm lấn
+D. Nội nha
+
+Câu 17. Ranh giới cần cân nhắc khi lựa chọn kiểu thiết kế cho xoang trám:
+A. Giữa việc mở rộng để phòng ngừa hay xâm lấn tối thiểu
+B. Giữa việc sử dụng vật liệu dán hay vật liệu lưu cơ học
+C. Giữa việc phục hồi chức năng nhai hay phục hồi thẩm mỹ
+*D. Cả 3 ý trên
+
+Câu 18. pH tới hạn của hydroxyapatite (thành phần của men) là:
+A. 5.0
+*B. 5.5
+C. 3.5
+D. 4.5
+
+Câu 19. Acid sinh ra do quá trình chuyển hoá của vi khuẩn có vai trò quan trọng trong bệnh nguyên sâu răng:
+*A. Acid lactic
+B. Acid phosphoric
+C. Acid cloric
+D. Acid acetic
+
+Câu 20. Sang thương sâu răng lan từ mặt gần qua mặt nhai tới mặt xa răng cối lớn hàm dưới gọi là:
+A. Xoang MO
+*B. Xoang MOD
+C. Xoang DO
+D. Xoang II
+
+Câu 21. Nguyên tắc xoang II trám Composite là:
+A. Hình thang, đáy lớn phía bên
+B. Hình thang, đáy lớn phía nướu
+C. Hình dạng vách ngoài trong hội tụ mặt nhai
+*D. Hình dạng không nhất định tùy sang thương sâu răng
+
+Câu 22. Bước đầu tiên của tạo xoang là:
+A. Tạo hình thể thuận tiện
+B. Tạo hình thể kháng lực
+C. Tạo hình thể lưu
+*D. Tạo đường vào lấy sạch ngà sâu
+
+Câu 23. Xoang III ở răng cửa bên hàm trên nằm ở:
+A. Hố mặt trong
+B. Rìa cắn
+C. Cổ răng mặt ngoài
+*D. Gờ cingulum
+> Đề đánh dấu D. Ghi chú bên lề: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V — loại trừ còn D.
+
+Câu 24. Xoang IV ở răng cửa giữa hàm trên nằm ở:
+A. Hố mặt trong
+*B. Rìa cắn
+C. Cổ răng mặt ngoài
+D. Gờ cingulum
+
+Câu 25. Xoang V ở răng nanh hàm dưới nằm ở:
+A. Hố mặt trong
+B. Rìa cắn
+*C. Cổ răng mặt ngoài
+D. Gờ cingulum
+
+Câu 26. Triệu chứng cơ năng của sâu ngà:
+A. Đau tự phát
+*B. Ê buốt khi có kích thích
+C. Sang thương đốm trắng
+D. Không có triệu chứng
+
+Câu 27. CHỌN CÂU SAI: Khi tạo xoang trám composite ta cần vạt men ở bờ xoang nhằm để:
+*A. Giảm bớt diện tích men răng, tăng độ lưu
+B. Tăng diện tích vi lưu khi etching sau này
+C. Tạo sự chuyển tiếp màu miếng trám
+D. Tránh sự gãy, hở bờ miếng trám sau này
+> Đề gạch D rồi khoanh lại A. Vạt men làm TĂNG diện tích men để xoi mòn, nên A là câu sai.
+
+Câu 28. Theo nguyên tắc tạo xoang xâm lấn tối thiểu, khi làm sạch xoang sâu ta sẽ lấy sạch ngà sâu và dừng lại ở lớp:
+A. Ngà hoại tử
+B. Ngà thâm nhiễm
+*C. Ngà mất khoáng
+D. Ngà xơ hóa
+> Đề gạch B rồi khoanh lại C. Lấy hết ngà nhiễm khuẩn, giữ lại ngà mất khoáng (ngà bị ảnh hưởng) còn khả năng tái khoáng.
+
+Câu 29. Bệnh nhân có xoang sâu tại vị trí hố xa của răng cối lớn thứ nhất hàm trên, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt khi ăn nóng uống lạnh sau vài giây thì hết ê buốt, chẩn đoán nào sau đây phù hợp nhất:
+A. Sâu men hố xa
+*B. Sâu ngà hố xa
+C. Viêm tủy không hồi phục
+D. Viêm quanh chóp mãn
+
+Câu 30. Bệnh nhân có xoang sâu tại vị trí mặt nhai của răng cối lớn thứ ba hàm dưới, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt kéo dài khi ăn nóng uống lạnh, đau về đêm, chẩn đoán nào sau đây phù hợp nhất:
+A. Sâu men hố xa
+B. Sâu ngà hố xa
+*C. Viêm tủy không hồi phục
+D. Viêm quanh chóp mãn
+> Đề gạch B rồi khoanh lại C. Ê buốt kéo dài + đau về đêm là dấu hiệu viêm tủy không hồi phục.
+
+Câu 31. Men răng sữa:
+*A. Mềm hơn men răng vĩnh viễn
+B. Cứng bằng men răng vĩnh viễn
+C. Mềm hơn ngà răng
+D. Cứng hơn men răng vĩnh viễn
+
+Câu 32. Bệnh nhân có xoang sâu tại vị trí mặt nhai của răng cối lớn thứ ba hàm dưới, tiền sử bệnh nhân có đau về đêm, khám có lỗ dò ở mặt ngoài đáy hành lang, bước tiếp theo ta cần làm là:
+A. Nạo xoang thám sát
+B. Thử tủy bằng điện
+C. Thử tủy bằng nhiệt
+*D. Chụp phim quanh chóp
+
+Câu 33. Tính chất của men răng:
+A. Không thẩm thấu được
+B. Kháng lại mài mòn ít hơn ngà
+*C. Dễ bị bể khi không có ngà nâng đỡ
+D. Không bị bể khi không có ngà nâng đỡ
+
+Câu 34. Lớp men dày nhất ở:
+*A. Múi răng cối lớn
+B. Múi răng cối nhỏ
+C. Cạnh cắn răng cửa
+D. Mặt bên của răng
+
+Câu 35. Sâu cổ mặt ngoài răng cối lớn hàm dưới:
+A. Xoang VI
+B. Xoang I
+*C. Xoang V
+D. Xoang II
+
+Câu 36. Đặc điểm của sâu men:
+A. Không thể hoàn nguyên
+B. Cùng lúc giai đoạn sâu ngà
+C. Dễ phát hiện
+*D. Có thể hoàn nguyên
+
+Câu 37. Sâu răng dạng núi lửa:
+A. Sâu cấp tính
+B. Sâu hố rãnh
+C. Sâu lan nhanh
+*D. Sâu ẩn mình
+
+Câu 38. Khám răng thấy bóng mờ tối của ngà bên dưới, phân loại:
+A. ICDAS 3
+B. ICDAS 5
+C. ICDAS 6
+*D. ICDAS 4
+
+Câu 39. Sâu hố mặt ngoài răng cối lớn hàm dưới:
+A. Xoang VI
+B. Xoang V
+*C. Xoang I
+D. Xoang II
+
+Câu 40. Sâu mặt bên răng nanh:
+*A. Xoang III
+B. Xoang VI
+C. Xoang II
+D. Xoang I
+
+Câu 41. Đặc điểm của sâu răng:
+A. Răng trước thường bị sâu nhiều hơn răng sau
+B. Răng cối hàm trên thường dễ bị sâu hơn hàm dưới
+C. Xảy ra ngẫu nhiên, không đối xứng
+*D. Xảy ra ở các mặt răng kề nhau, đối xứng hai bên
+
+Câu 42. Sang thương sâu răng nằm sát miếng trám cũ:
+*A. Sâu răng thứ phát
+B. Sâu răng lan nhanh
+C. Sâu răng ẩn mình
+D. Sâu răng nguyên phát
+
+Câu 43. Loại sâu răng có thể là hậu quả của bệnh nha chu:
+A. Sâu mặt láng
+*B. Sâu chân răng
+C. Sâu cổ răng
+D. Sâu kẽ răng
+> Đề RHM K40 (câu 18) khoanh C (sâu cổ răng).
+
+Câu 44. Sâu men hố rãnh có dạng:
+A. Hình nón, đáy ở phía bên
+B. Hình nón, đáy có thể ở cả phía tuỷ và phía nhai
+*C. Hình nón, đáy ở phía tuỷ
+D. Hình nón, đáy ở phía nhai
+
+Câu 45. Loại sâu răng thường gặp ở trẻ nhỏ:
+A. Sâu răng tiến triển
+B. Sâu răng mới chớm
+C. Sâu răng lan nhanh
+*D. Sâu răng bú bình
+
+Câu 46. Ngà sơ cấp:
+*A. Được tạo ra trước khi răng mọc
+B. Được tạo ra sau ngà thứ cấp
+C. Được tạo ra sau khi răng mọc
+D. Được tạo ra khi răng mọc
+
+Câu 47. Để chẩn đoán đúng tình trạng sâu răng, khi thăm khám cần:
+A. Thổi khô bề mặt răng
+*B. Làm sạch bề mặt răng
+C. Làm ướt bề mặt răng
+D. Không làm gì cả
+> Đề gạch B, có người khoanh thêm A. Đề RHM K40 (câu 31) chọn B. Theo ICDAS cần làm sạch rồi thổi khô.
+
+Câu 48. Tỉ lệ chất vô cơ của ngà răng và men răng lần lượt là:
+A. 85% và 90%
+B. 75% và 80%
+*C. 70% và 95%
+D. 70% và 75%
+
+Câu 49. Bệnh sâu răng là bệnh:
+A. Bán cấp
+B. Cấp tính
+*C. Mãn tính
+D. Tất cả các trường hợp trên
+
+Câu 50. Ngà thứ cấp bệnh lý:
+A. Chỉ hình thành khi có sâu răng
+*B. Hình thành do sâu răng chiếm chủ yếu
+C. Chỉ hình thành khi có bệnh toàn thân đi kèm
+D. Do tuổi tác
+
+Câu 51. Miếng trám GIC:
+A. Kháng nước hoàn toàn
+B. Kị nước
+*C. Bôi vaseline, varnish giúp kháng nước
+D. Tan trong nước khi chưa đông cứng hoàn toàn
+> Đề gạch C, có người khoanh thêm D. Đề RHM K40 (câu 35) cũng chọn C.
+
+Câu 52. Răng vĩnh viễn với các triệu chứng: lớp men bị phá hủy hoàn toàn, lỗ sâu lan tới lớp ngà. Khi nạo xoang thấy có ngà mềm, ngà phản ứng và ngà xơ không kịp thành lập để bảo vệ tủy. Chẩn đoán tình trạng răng:
+A. Sâu răng lan nhanh
+B. Sâu ngà mãn tính
+*C. Sâu răng tiến triển
+D. Sâu ngà nông
+
+Câu 53. Răng cối nhỏ bị sâu mặt bên lan vào 1/3 lớp ngà:
+A. Xoang II, sâu ngà sâu
+B. Xoang II kép, sâu ngà nông
+C. Xoang II kép, sâu ngà sâu
+*D. Xoang II, sâu ngà nông
+> Đề gạch A rồi khoanh lại D. Lan vào 1/3 lớp ngà là sâu ngà nông (khác đề K40 hỏi 1/2 lớp ngà).
+
+Câu 54. Màu sắc mô răng không phụ thuộc vào:
+*A. Vệ sinh răng miệng định kì
+B. Độ khoáng hoá canxi
+C. Di truyền
+D. Tính thấm men ngà
+> Đề gạch D rồi khoanh lại A. Đề RHM K40 (câu 39) khoanh D.
+
+Câu 55. Sâu hố rãnh:
+A. Kích thước thật sự luôn nhỏ hơn kích thước nhìn thấy được
+B. Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự
+*C. Tổn thương có dạng chữ A
+D. Kích thước nhìn thấy được chính là kích thước thật sự
+> Đề gạch C, có người khoanh thêm B. Đề RHM K40 (câu 40) cũng chọn C.
+
+Câu 56. Sâu răng thường gặp ở trẻ em dưới 6 tuổi:
+A. Sâu răng ẩn mình, sâu răng bú bình
+B. Sâu răng nguyên phát, sâu răng mới chớm
+C. Sâu răng mới chớm, sâu men
+*D. Sâu răng lan nhanh, sâu răng bú bình
+
+Câu 57. Hệ thống ICDAS có mấy thang điểm:
+*A. 7
+B. 5
+C. 6
+D. 4
+
+Câu 58. Xoang II kép:
+A. Xoang chính ở mặt nhai, xoang phụ ở mặt bên
+*B. Xoang chính nằm ở mặt bên, xoang phụ ở mặt nhai
+C. A đúng, B sai
+D. A và B đúng
+
+Câu 59. Sâu ở hố mặt trong của các răng cửa hàm trên:
+A. Xoang III
+B. Xoang VI
+*C. Xoang I
+D. Xoang I kép
+
+Câu 60. Tuỷ thường thu hẹp lại ở:
+A. Răng người trẻ
+B. Răng người già
+C. Răng bệnh lý
+*D. B và C đúng
+> Đề gạch A rồi khoanh lại D. Đề RHM K40 (câu 46) khoanh B.

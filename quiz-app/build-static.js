@@ -29,9 +29,16 @@ const MAMMOTH_BROWSER = path.join(
   "mammoth",
   "mammoth.browser.min.js",
 );
+// De thi cac khoa chep tay tu ban scan: cau hoi doc tu <mon>/RHM Kxx.json
+// (sinh boi build-de-thi-rhm.py), hinh nam trong <mon>/hinh/.
+const EXAM_SUBJECTS = new Set([
+  "Đề thi Sâu Răng Học RHM",
+  "Đề thi Phục Hình Tháo Lắp RHM",
+]);
 const PUBLISHED_SUBJECTS = new Set([
   "TN Sâu Răng Học AI",
   "Sâu Răng Học Azota Thông Võ",
+  ...EXAM_SUBJECTS,
 ]);
 
 /* ------------------------------------------------------------------ */
@@ -214,6 +221,7 @@ async function build() {
 
   const libraryFiles = [];
   const questionsById = {};
+  const imageCopies = new Map(); // duong dan tren web -> file nguon
   let totalQuestions = 0;
   const failed = [];
 
@@ -223,7 +231,8 @@ async function build() {
     const bucket = [];
     const seen = new Set();
     const isAzota = file.subject === "Sâu Răng Học Azota Thông Võ";
-    if (!isAzota || file.name === "Bài 1") {
+    const isExam = EXAM_SUBJECTS.has(file.subject);
+    if (!isExam && (!isAzota || file.name === "Bài 1")) {
       const res = await ingestDocx(file.fullPath, file.name, bucket, seen);
       if (res.error || bucket.length === 0) {
         failed.push({ name: file.name, error: res.error || "khong doc duoc cau nao" });
@@ -279,6 +288,45 @@ async function build() {
       }
     }
 
+    if (isExam) {
+      const subjectDir = path.join(ROOT, file.subject);
+      const exam = JSON.parse(
+        fs.readFileSync(path.join(subjectDir, `${file.name}.json`), "utf8"),
+      );
+      // File Word va JSON sinh cung luc; lech nhau tuc la quen chay lai build-de-thi-rhm.py
+      const mammoth = require("mammoth");
+      const word = await mammoth.extractRawText({ path: file.fullPath });
+      const numbers = [...word.value.matchAll(/^Câu\s+(\d+)\./gm)].map((m) => Number(m[1]));
+      if (
+        numbers.length !== exam.questions.length ||
+        numbers.some((n, i) => n !== exam.questions[i].number)
+      ) {
+        throw new Error(`${file.id}: Word va JSON lech so cau — chay lai build-de-thi-rhm.py`);
+      }
+      for (const q of exam.questions) {
+        let image = null;
+        if (q.image) {
+          const published = `data/img/${path.basename(q.image.file)}`;
+          const from = path.join(subjectDir, q.image.file);
+          if (!fs.existsSync(from)) throw new Error(`${file.id}: thieu hinh ${q.image.file}`);
+          imageCopies.set(published, from);
+          image = published;
+        }
+        bucket.push({
+          question: q.question,
+          image,
+          options: q.options.map((o) => ({ label: o.label, text: o.text })),
+          correctIndex: q.correctIndex,
+          explanation: q.explanation,
+          ai: q.ai,
+          aiCheck: q.aiCheck,
+          aiNote: q.aiNote,
+          source: exam.source,
+          sourceNumber: q.number,
+        });
+      }
+    }
+
     libraryFiles.push({
       id: file.id,
       name: file.name,
@@ -314,6 +362,10 @@ async function build() {
     path.join(OUT, "data", "questions.json"),
     JSON.stringify(questionsById),
   );
+
+  for (const [published, from] of imageCopies) {
+    copyFile(from, path.join(OUT, published));
+  }
 
   mkDir(path.join(OUT, "vendor"));
   fs.writeFileSync(path.join(OUT, "vendor", "parser.js"), extractParserSource());

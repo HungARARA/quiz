@@ -1,0 +1,1728 @@
+{
+  "title": "RHM K47",
+  "subject": "Đề thi Phục Hình Tháo Lắp RHM",
+  "source": "Phục hình RHM K47",
+  "header": [
+    "Phục hình I · Đề 100 · Lần 1 · Tháng 12/2024 · 60 câu · 35 phút",
+    "Nguồn: Đề Thi/phục hình tháo lắp bán phần nền nhựa ( phục hình I ) - biên soạn Võ Viễn Thông.pdf (trang 52–57)",
+    "Đáp án: theo các phương án được khoanh trong đề (không phải đáp án chính thức của bộ môn)"
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Thời gian sử dụng của phục hình tháo lắp bán hàm nền nhựa là khoảng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 – 4 năm"
+        },
+        {
+          "label": "B",
+          "text": "3 – 5 năm"
+        },
+        {
+          "label": "C",
+          "text": "4 – 5 năm"
+        },
+        {
+          "label": "D",
+          "text": "3 – 6 năm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 2,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng ngắn"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng xen kẽ với khoảng mất răng dài"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng gần toàn bộ và răng còn lại lung lay"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng xen kẽ, các răng trụ cứng chắc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 3,
+      "question": "Phục hình tháo lắp bán hàm được chỉ định dựa trên các yếu tố nào sau đây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kỹ thuật, tâm lý, bác sĩ"
+        },
+        {
+          "label": "B",
+          "text": "Kỹ thuật, tâm lý, bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Kỹ thuật, tâm lý, kinh tế"
+        },
+        {
+          "label": "D",
+          "text": "Kỹ thuật, tâm lý, trang thiết bị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 4,
+      "question": "Ưu điểm của phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khó giữ vệ sinh răng miệng."
+        },
+        {
+          "label": "B",
+          "text": "Dễ dàng giữ vệ sinh răng miệng."
+        },
+        {
+          "label": "C",
+          "text": "Phục hình các răng trước không thẩm mỹ bằng phục hình cố định."
+        },
+        {
+          "label": "D",
+          "text": "Khó thực hiện các sửa chữa hàm khi cần."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 5,
+      "question": "Yếu tố tâm lý nào thường khiến bệnh nhân chọn làm phục hình tháo lắp bán hàm hơn là phục hình cố định, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân không muốn mài răng"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân muốn thuận lợi cho việc vệ sinh răng miệng"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân sợ đau"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân nghe tư vấn từ bác sĩ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 6,
+      "question": "Điền khuyết: Ở hàm phục hình tháo lắp bán phần nền nhựa, lực nhai được phân bố hoàn toàn lên .......... Trong khi ở hàm phục hình tháo lắp bán phần khung bộ, lực chức năng được phân bố lên ..........",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mô niêm mạc / mô nha chu"
+        },
+        {
+          "label": "B",
+          "text": "Mô xương / mô nha chu"
+        },
+        {
+          "label": "C",
+          "text": "Mô niêm mạc – xương / mô nha chu"
+        },
+        {
+          "label": "D",
+          "text": "Mô niêm mạc – xương / mô nha chu và mô xương – niêm mạc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 7,
+      "question": "Trường hợp mất răng sau đây: 8 7 x 5 4 3 x x | x x 3 4 5 6 7 8 — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình cố định."
+        },
+        {
+          "label": "B",
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "label": "C",
+          "text": "Phục hình tháo lắp bán phần nền nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 8,
+      "question": "Bệnh nhân Nguyễn Thị A, nữ, 63 tuổi, trên lâm sàng ghi nhận bằng mắt thường răng 46 lung lay khoảng 0,7mm, có thể kết luận R46 của bệnh nhân lung lay độ mấy:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Độ 1"
+        },
+        {
+          "label": "B",
+          "text": "Độ 2"
+        },
+        {
+          "label": "C",
+          "text": "Độ 3"
+        },
+        {
+          "label": "D",
+          "text": "Độ 4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Đề khoanh C nhưng có đánh dấu nghi vấn bên cạnh. Kết quả tuỳ thang phân độ: theo thang \"độ 1 < 1mm\" thì 0,7mm là độ 1; theo Miller (độ 2 ≤ 1mm) thì là độ 2 — nên đối chiếu lại giáo trình.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 9,
+      "question": "Răng có thể dùng làm trụ khi tỷ lệ chiều cao thân răng và chân răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhỏ hơn 1."
+        },
+        {
+          "label": "B",
+          "text": "Nhỏ hơn 2."
+        },
+        {
+          "label": "C",
+          "text": "Lớn hơn 1."
+        },
+        {
+          "label": "D",
+          "text": "Bằng 1."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 10,
+      "question": "Điều kiện nào sau đây là lý tưởng để giúp nền hàm có sự bám dính tốt:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sống hàm cao, rộng, triền má song song với triền phía lưỡi, không có u xương hay vùng lẹm"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân có một torus hàm trên kích thước 2x3cm"
+        },
+        {
+          "label": "C",
+          "text": "Lồi cùng không có một độ cao nào"
+        },
+        {
+          "label": "D",
+          "text": "Sống hàm có triền phía má và triền phía lưỡi hội tụ với nhau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 11,
+      "question": "Ở vòm miệng vùng nào có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gai cửa"
+        },
+        {
+          "label": "B",
+          "text": "Schroder"
+        },
+        {
+          "label": "C",
+          "text": "Vân khẩu cái"
+        },
+        {
+          "label": "D",
+          "text": "Đường nối giữa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 12,
+      "question": "Ở vòm miệng vùng nào có ít mô liên kết dưới niêm mạc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gai cửa"
+        },
+        {
+          "label": "B",
+          "text": "Schroder"
+        },
+        {
+          "label": "C",
+          "text": "Vân khẩu cái"
+        },
+        {
+          "label": "D",
+          "text": "Đường nối giữa"
+        }
+      ],
+      "image": null,
+      "correctIndex": null,
+      "explanation": "Đề khoanh C và gạch D. Theo giải phẫu, vùng đường nối giữa xương hàm trên có niêm mạc mỏng, gần như không có mô liên kết dưới niêm mạc (nên dễ đau, phải giảm nén — xem các câu điền khuyết về đường nối giữa); đáp án chưa chắc chắn nên để trống.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 13,
+      "question": "Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp"
+        },
+        {
+          "label": "B",
+          "text": "Khi độ dài của đoạn mất răng càng lớn, số lượng các răng trụ càng quan trọng"
+        },
+        {
+          "label": "C",
+          "text": "Sau khi lựa chọn kiểu phục hình, cần điều trị tiền phục hình nếu có"
+        },
+        {
+          "label": "D",
+          "text": "Ưu tiên lựa chọn dựa vào phục hình cũ bệnh nhân đang sử dụng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 14,
+      "question": "Những điểm thuận lợi của hàm trên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Núm sau răng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ \"a\""
+        },
+        {
+          "label": "B",
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ \"a\""
+        },
+        {
+          "label": "C",
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schroder"
+        },
+        {
+          "label": "D",
+          "text": "Núm sau răng cửa, sống hàm rộng và săn chắc và lồi cùng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 15,
+      "question": "Trong phục hình Răng hàm mặt, mặt phẳng Francfort là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm ở hai nắp tai và điểm ở khóe mắt"
+        },
+        {
+          "label": "B",
+          "text": "Là mặt phẳng đi qua cạnh cắn răng trước và mặt nhai răng sau"
+        },
+        {
+          "label": "C",
+          "text": "Là mặt phẳng nhai phục hình"
+        },
+        {
+          "label": "D",
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 16,
+      "question": "Trong phục hình Răng hàm mặt, mặt phẳng nhai phục hình là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt phẳng tưởng tượng trùng với mặt phẳng Camper"
+        },
+        {
+          "label": "B",
+          "text": "Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối"
+        },
+        {
+          "label": "C",
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm dưới hốc mắt"
+        },
+        {
+          "label": "D",
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm dưới cánh mũi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 17,
+      "question": "Trường hợp sau, thuộc loại mất răng nào: x x x x x x 1 | 1 x x x x x x",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại I Kennedy"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại V Kennedy"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại VI Kennedy"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại II Kennedy"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Đề khoanh C. Kennedy chỉ có 4 loại (I–IV); loại V, VI là của Applegate. Với sơ đồ chỉ còn 2 răng cửa giữa, hai bên mất răng tới cuối cung thì theo Kennedy là loại I (biến thể theo các vùng mất răng phụ). Nên đối chiếu thêm.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 18,
+      "question": "Sơ đồ răng ở hàm trên như sau, được phân loại theo Kennedy là: x x x x 3 x x 1 | 1 2 3 4 5 6 7 x",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại I, biến thể 1"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại II, biến thể 1"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại III, biến thể 1"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại IV, biến thể 2"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 19,
+      "question": "Mất răng như hình phân loại theo Kennedy là (xem hình):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại III, biến thể 2"
+        },
+        {
+          "label": "B",
+          "text": "Loại II, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Loại V"
+        },
+        {
+          "label": "D",
+          "text": "Loại VI"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k47-c19.webp",
+        "page": 53,
+        "box": [
+          0.49,
+          0.727,
+          0.655,
+          0.812
+        ]
+      },
+      "correctIndex": 1,
+      "explanation": "Cùng hình này, đề RHM K40 (câu 46) và K43 (câu 11) cũng chọn \"Loại II, biến thể 2\".",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 20,
+      "question": "Mất răng như hình phân loại theo Kennedy là (xem hình):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại IV, biến thể 1"
+        },
+        {
+          "label": "B",
+          "text": "Loại III, biến thể 1"
+        },
+        {
+          "label": "C",
+          "text": "Loại IV, biến thể 2"
+        },
+        {
+          "label": "D",
+          "text": "Loại III, biến thể 2"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k47-c20.webp",
+        "page": 54,
+        "box": [
+          0.08,
+          0.198,
+          0.215,
+          0.275
+        ]
+      },
+      "correctIndex": 1,
+      "explanation": "Đề gạch A, C và khoanh B. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn \"Loại III, biến thể 1\".",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 21,
+      "question": "Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại IV"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại IV, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại I, biến thể 1"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k47-c21.webp",
+        "page": 54,
+        "box": [
+          0.08,
+          0.383,
+          0.215,
+          0.465
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 22,
+      "question": "Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại III, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại IV"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại IV, biến thể 2"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k47-c22.webp",
+        "page": 54,
+        "box": [
+          0.08,
+          0.575,
+          0.22,
+          0.66
+        ]
+      },
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 23,
+      "question": "Khi lấy dấu bằng Alginate, khay lấy dấu cần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khay không quá cứng để dễ đưa vào miệng"
+        },
+        {
+          "label": "B",
+          "text": "Khay phải có cơ chế lưu chất lấy dấu"
+        },
+        {
+          "label": "C",
+          "text": "Khay vừa khít niêm mạc để không làm dư chất lấy dấu"
+        },
+        {
+          "label": "D",
+          "text": "Khay lấy dấu phải rộng để lấy dấu không bị thiếu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 24,
+      "question": "Tư thế bác sĩ khi lấy dấu răng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Bác sĩ đứng phía trước và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Bác sĩ đứng phía trước và bên trái bệnh nhân khi lấy dấu hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 25,
+      "question": "Khi trộn chất lấy dấu Alginate, câu nào sau đây là đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bột : nước theo tỷ lệ 1:2"
+        },
+        {
+          "label": "B",
+          "text": "Xoay nhẹ bay trộn để có chất lấy dấu mịn và đồng nhất"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ cần trộn cho bột thấm đều vào nước"
+        },
+        {
+          "label": "D",
+          "text": "Cần miết chất lấy dấu vào thành chén trộn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 26,
+      "question": "Những yêu cầu khi lấy dấu, đổ mẫu là, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vật liệu ghi dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt"
+        },
+        {
+          "label": "B",
+          "text": "Tránh tạo những bọt do không khí hay nước bọt"
+        },
+        {
+          "label": "C",
+          "text": "Tránh làm biến dạng dấu khi tháo khay ra trên lâm sàng và tránh biến dạng sau đó do thời gian"
+        },
+        {
+          "label": "D",
+          "text": "Khi lấy dấu xong có thể đổ mẫu lúc nào cũng được"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 27,
+      "question": "Tư thế bệnh nhân khi lấy dấu là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngồi ngã ra sau."
+        },
+        {
+          "label": "B",
+          "text": "Ngồi thẳng và thấp hơn tầm tay bác sĩ."
+        },
+        {
+          "label": "C",
+          "text": "Ngồi thẳng, đầu hơi cuối ra phía trước."
+        },
+        {
+          "label": "D",
+          "text": "Ngồi thẳng, miệng ngang tầm tay bác sĩ."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 28,
+      "question": "Trong phục hình tháo lắp bán phần, chất lấy dấu nào thường được sử dụng nhất hiện nay:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agar – agar"
+        },
+        {
+          "label": "B",
+          "text": "Alginate"
+        },
+        {
+          "label": "C",
+          "text": "Eugenate"
+        },
+        {
+          "label": "D",
+          "text": "Poly sulphides"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 29,
+      "question": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo .......... và tương quan theo ..........",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều dọc / chiều ngang"
+        },
+        {
+          "label": "B",
+          "text": "Chiều dọc / chiều đứng"
+        },
+        {
+          "label": "C",
+          "text": "Chiều cao / chiều đứng"
+        },
+        {
+          "label": "D",
+          "text": "Chiều cao / chiều ngang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 30,
+      "question": "Nền tạm cần đạt các yêu cầu sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phủ 2/3 lồi cùng và 2/3 gối hậu nha"
+        },
+        {
+          "label": "B",
+          "text": "Ôm sát cổ răng các răng cửa, răng cối nhỏ, răng cối lớn"
+        },
+        {
+          "label": "C",
+          "text": "Có chiều dày đồng nhất khoảng 2mm và được làm nhẵn, bóng"
+        },
+        {
+          "label": "D",
+          "text": "Càng rộng, càng dày càng tốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 31,
+      "question": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trên miệng"
+        },
+        {
+          "label": "B",
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "label": "C",
+          "text": "Trên hai mẫu hàm thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Trên giá khớp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 32,
+      "question": "Tương quan hai hàm được chuyển qua giá khớp thông qua:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ và trợ thủ"
+        },
+        {
+          "label": "B",
+          "text": "Nền tạm – gối sáp"
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Giá khớp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 33,
+      "question": "Tương quan hai hàm trường hợp mất kích thước dọc thì căn cứ vào đâu để xác định:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quan sát và nhận định của bác sĩ"
+        },
+        {
+          "label": "B",
+          "text": "Sự lựa chọn của bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Quan sát và nhận định của bác sĩ kết hợp với sự đồng ý của bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước dọc nghỉ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 34,
+      "question": "Câu nào sau đây là SAI khi nói về đặc điểm của nền tạm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Được làm bằng nhựa tự cứng, Shellac, sáp hồng"
+        },
+        {
+          "label": "B",
+          "text": "Có chiều dày đồng nhất khoảng 3 mm"
+        },
+        {
+          "label": "C",
+          "text": "Tránh thắng môi, má, lưỡi"
+        },
+        {
+          "label": "D",
+          "text": "Tương đối đối xứng qua đường giữa hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 35,
+      "question": "Đặc điểm của gối sáp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nằm ngay trên đỉnh sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Làm bằng hoặc cao hơn các răng còn lại 1 – 1,5 mm"
+        },
+        {
+          "label": "C",
+          "text": "Hai đầu gối sáp vừa chạm các răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 36,
+      "question": "Khi vô giá khớp cần đảm bảo:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sử dụng thạch cao mềm để vô giá khớp"
+        },
+        {
+          "label": "B",
+          "text": "Nền tạm, gối sáp hai hàm được liên kết với nhau bởi sáp hồng hoặc sáp nhôm"
+        },
+        {
+          "label": "C",
+          "text": "Đúng loại giá khớp phù hợp với những ca lâm sàng phức tạp"
+        },
+        {
+          "label": "D",
+          "text": "Mẫu hàm được liên kết chặt chẽ với giá khớp, tương quan hai hàm phù hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 37,
+      "question": "Khi ghi khớp cắn trung tâm, bác sĩ cần lưu ý:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại."
+        },
+        {
+          "label": "B",
+          "text": "Cần so màu răng"
+        },
+        {
+          "label": "C",
+          "text": "Không cần thử nền tạm – gối sáp"
+        },
+        {
+          "label": "D",
+          "text": "Luôn luôn làm khóa chữ H"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 38,
+      "question": "Trường hợp cần xác định tương quan tâm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng toàn hàm"
+        },
+        {
+          "label": "B",
+          "text": "Răng mòn quá nhiều"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng từng khoảng mà không còn điểm chạm giữa các răng còn lại"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 39,
+      "question": "Cách hướng dẫn bệnh nhân cắn đúng vị trí khớp cắn trung tâm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tập cho bệnh nhân nuốt"
+        },
+        {
+          "label": "B",
+          "text": "Tập cho bệnh nhân cười"
+        },
+        {
+          "label": "C",
+          "text": "Đưa hàm ra trước"
+        },
+        {
+          "label": "D",
+          "text": "Đưa hàm sang bên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 40,
+      "question": "Răng hàm trên được chọn theo cấu trúc xương hàm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa bên"
+        },
+        {
+          "label": "C",
+          "text": "Răng nanh"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Đề RHM K41 (câu 11) cũng chọn răng cửa giữa; đề RHM K40 (câu 27) khoanh răng cối lớn.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 41,
+      "question": "Răng hàm trên được chọn theo tính tình bệnh nhân là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa bên"
+        },
+        {
+          "label": "C",
+          "text": "Răng nanh"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 42,
+      "question": "Khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo, thoa vernis có tác dụng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không cho sáp dính vào thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Không cho thạch cao dính vào răng"
+        },
+        {
+          "label": "C",
+          "text": "Không cho thạch cao dính vào nhựa ép"
+        },
+        {
+          "label": "D",
+          "text": "Không cho nhựa dính vào răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 43,
+      "question": "Khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo, vernis được thoa lúc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khuôn còn đang nóng và đang bốc hơi nước"
+        },
+        {
+          "label": "B",
+          "text": "Khuôn còn đang nóng và bốc hết hơi nước"
+        },
+        {
+          "label": "C",
+          "text": "Ngay khi dội sạch sáp"
+        },
+        {
+          "label": "D",
+          "text": "Khi khuôn nguội hoàn toàn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 44,
+      "question": "Thời điểm cho nhựa vào khuôn ép khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngay sau khi bột nhựa được thấm đều với nước"
+        },
+        {
+          "label": "B",
+          "text": "Khi nhựa còn lỏng, dễ dàng chảy vào khuôn ép"
+        },
+        {
+          "label": "C",
+          "text": "Khi nhựa còn dẻo và còn dính được vào thành chén trộn"
+        },
+        {
+          "label": "D",
+          "text": "Khi nhựa kéo sợi, có thể nhồi bằng tay"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 45,
+      "question": "Thứ tự làm nguội khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mài bỏ nhựa thừa, mài nhẵn nền hàm, đánh giấy nhám, đánh bóng."
+        },
+        {
+          "label": "B",
+          "text": "Mài bỏ nhựa thừa, đánh giấy nhám làm nhẵn nền hàm, mài mịn hàm, đánh bóng."
+        },
+        {
+          "label": "C",
+          "text": "Đánh giấy nhám nền hàm, mài mịn hàm giả, làm sạch kẽ răng, đánh bóng bằng Tripoli."
+        },
+        {
+          "label": "D",
+          "text": "Mài nhẵn nền hàm, mài sạch kẽ răng, đánh giấy nhám, đánh bóng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 46,
+      "question": "Thứ tự thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm khay cá nhân, đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng."
+        },
+        {
+          "label": "B",
+          "text": "Làm khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa."
+        },
+        {
+          "label": "C",
+          "text": "Đổ mẫu nghiên cứu, làm khay cá nhân, lên răng, ép nhựa."
+        },
+        {
+          "label": "D",
+          "text": "Đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 47,
+      "question": "Trình tự dội sáp khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngâm khuôn vào nước sôi, tách 2 phần khuôn, dội sạch sáp, lấy lớp sáp dư."
+        },
+        {
+          "label": "B",
+          "text": "Ngâm khuôn vào nước sôi, tách 2 phần khuôn, lấy lớp sáp dư, dội sạch sáp."
+        },
+        {
+          "label": "C",
+          "text": "Tách 2 phần khuôn, ngâm khuôn vào nước sôi, dội sạch sáp, lấy lớp sáp dư."
+        },
+        {
+          "label": "D",
+          "text": "Tách 2 phần khuôn, ngâm khuôn vào nước sôi, lấy lớp sáp dư, dội sạch sáp."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 48,
+      "question": "Khi vào phần đáy khuôn, nếu không đổ thạch cao phủ móc thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả và móc nằm cùng 1 phần của khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Răng giả và móc nằm về 2 phần khác nhau của khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Móc và răng giả sẽ dính với nhau"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 49,
+      "question": "Nguyên tắc trộn nhựa khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra"
+        },
+        {
+          "label": "B",
+          "text": "Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn"
+        },
+        {
+          "label": "C",
+          "text": "Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 50,
+      "question": "Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cưa nhỏ mẫu hàm làm nhiều mảnh."
+        },
+        {
+          "label": "B",
+          "text": "Dùng búa nhỏ gõ cho mẫu hàm bể dần ra."
+        },
+        {
+          "label": "C",
+          "text": "Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 51,
+      "question": "Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên mang thường xuyên"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ mang hàm giả khi ăn"
+        },
+        {
+          "label": "C",
+          "text": "Nên giữ hàm giả thật khô và sạch"
+        },
+        {
+          "label": "D",
+          "text": "Nên nói chậm, ăn thức ăn mềm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 52,
+      "question": "Bệnh nhân than phiền hàm giả chỉ lỏng khi nhai thức ăn, nguyên nhân có thể là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bờ hàm dư quá nhiều."
+        },
+        {
+          "label": "B",
+          "text": "Hình dạng hàm giả không thích hợp với hệ thống mô chung quanh."
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm không khít sát, móc không nằm trong vùng lẹm."
+        },
+        {
+          "label": "D",
+          "text": "Thiếu thăng bằng khớp cắn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 53,
+      "question": "Hướng dẫn nào sau đây là SAI khi hướng dẫn về cách sử dụng và bảo quản hàm giả:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sau khi hàm giả đã được lắp vào đúng vị trí, bệnh nhân mới sử dụng hàm."
+        },
+        {
+          "label": "B",
+          "text": "Thời gian đầu không mang hàm giả thường xuyên vì dễ bị đau."
+        },
+        {
+          "label": "C",
+          "text": "Thực hiện chức năng từ dễ tới khó như ăn thức ăn mềm, nhai chậm."
+        },
+        {
+          "label": "D",
+          "text": "Không nên ăn thức ăn quá thô, cứng như khi chưa mất răng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 54,
+      "question": "Thứ tự điều chỉnh khớp cắn: (1) Tái lập kích thước dọc đúng; (2) Hoàn hảo cắn khớp làm việc và thăng bằng; (3) Tái lập kích thước ngang đúng; (4) Tái lập khớp cắn trung tâm đúng; (5) Tái lập khớp cắn tới đúng",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) → (3) → (4) → (2)"
+        },
+        {
+          "label": "B",
+          "text": "(1) → (4) → (2) → (5)"
+        },
+        {
+          "label": "C",
+          "text": "(3) → (1) → (4) → (2)"
+        },
+        {
+          "label": "D",
+          "text": "(1) → (3) → (4) → (5)"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 55,
+      "question": "Nếu không có vấn đề về hàm giả, thời gian tái khám mỗi lần là bao lâu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 tháng"
+        },
+        {
+          "label": "B",
+          "text": "6 tháng"
+        },
+        {
+          "label": "C",
+          "text": "9 tháng"
+        },
+        {
+          "label": "D",
+          "text": "12 tháng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Đề không khoanh rõ câu này; đáp án theo đề RHM K43 (câu 59, cùng câu hỏi)."
+    },
+    {
+      "number": 56,
+      "question": "Trong trường hợp bệnh nhân than ĐAU sau khi lắp hàm, thì bác sĩ cần làm gì đầu tiên:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tìm điểm đau"
+        },
+        {
+          "label": "B",
+          "text": "Tháo hàm giả một thời gian"
+        },
+        {
+          "label": "C",
+          "text": "Điều chỉnh khớp cắn"
+        },
+        {
+          "label": "D",
+          "text": "Chụp phim X quang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 57,
+      "question": "Nguyên nhân nào cần đòi hỏi mài chỉnh vùng có liên quan cho đến khi hết triệu chứng đau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dư bờ hàm"
+        },
+        {
+          "label": "B",
+          "text": "Có điểm chạm sớm ở khớp cắn"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân tháo, lắp hàm không đúng hướng"
+        },
+        {
+          "label": "D",
+          "text": "Móc không ôm vào răng trụ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 58,
+      "question": "Cách sử dụng và bảo quản hàm giả nào là đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên tháo hàm giả ra khỏi miệng quá lâu vì răng còn lại có thể bị di chuyển làm cho không lắp lại được."
+        },
+        {
+          "label": "B",
+          "text": "Thời gian đầu nên mang ít để giảm đau"
+        },
+        {
+          "label": "C",
+          "text": "Dù đã quen với hàm giả thì khi ngủ cũng phải mang hàm giả để tránh răng thật di chuyển về vị trí cũ."
+        },
+        {
+          "label": "D",
+          "text": "Không cần vệ sinh hàm giả vì không cần thiết."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 59,
+      "question": "Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dư bờ hàm"
+        },
+        {
+          "label": "B",
+          "text": "Nướu giả bị lẹm quá mức"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân tháo lắp hàm không đúng hướng"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 60,
+      "question": "Bệnh nhân không mang được hàm giả thường vì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "label": "B",
+          "text": "Tăng nhạy cảm ở vùng khẩu cái sau"
+        },
+        {
+          "label": "C",
+          "text": "Có vị kim loại trong miệng"
+        },
+        {
+          "label": "D",
+          "text": "Móc quá siết chặt gây đau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    }
+  ]
+}

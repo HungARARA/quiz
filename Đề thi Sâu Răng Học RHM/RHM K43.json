@@ -1,0 +1,1692 @@
+{
+  "title": "RHM K43",
+  "subject": "Đề thi Sâu Răng Học RHM",
+  "source": "Sâu răng RHM K43",
+  "header": [
+    "Đề 100 · Lần 1 · Ngày thi 07/12/2020 · 60 câu · 50 phút",
+    "Nguồn: Đề Thi/a3bd87e4-83d6-4e95-99ad-b23642134572.pdf (trang 9–13)",
+    "Đáp án: theo các phương án được đánh dấu trong đề (gạch chéo + khoanh tròn sửa lại); không phải đáp án chính thức của bộ môn"
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Chỉ số SMT ở lứa tuổi 12 của Việt Nam năm 2000 là 1,87 được đánh giá:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rất thấp"
+        },
+        {
+          "label": "B",
+          "text": "Thấp"
+        },
+        {
+          "label": "C",
+          "text": "Trung bình"
+        },
+        {
+          "label": "D",
+          "text": "Cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Thang WHO cho tuổi 12: rất thấp < 1,2; thấp 1,2–2,6; trung bình 2,7–4,4; cao 4,5–6,5.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 2,
+      "question": "Yếu tố nào sau đây làm tăng tính nhạy cảm của răng đối với sự khởi phát sâu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng nhiễm tetracycline"
+        },
+        {
+          "label": "B",
+          "text": "Răng đã mọc lâu trên cung hàm"
+        },
+        {
+          "label": "C",
+          "text": "Răng nhiễm Fluor"
+        },
+        {
+          "label": "D",
+          "text": "Răng có nhiều cao răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Đề gạch A, có người khoanh thêm B. Răng MỚI mọc mới là răng nhạy cảm với sâu (đề RHM K45 câu 32 có phương án \"Răng mới mọc trên cung hàm\" và chọn ý đó); \"răng đã mọc lâu\" thì không hợp lý.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 3,
+      "question": "Loại vi khuẩn nào sau đây làm pH giảm nhanh trong môi trường miệng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "B",
+          "text": "Lactobacillus acidophilus"
+        },
+        {
+          "label": "C",
+          "text": "Actinomyces"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus sanguis"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Đề gạch A rồi khoanh lại B. Đề RHM K45 (câu 33, cùng câu hỏi) cũng khoanh B.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 4,
+      "question": "Nước bọt có khả năng tái khoáng hóa sang thương sâu răng sớm nhờ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lysozyme, lactoferrin"
+        },
+        {
+          "label": "B",
+          "text": "Làm sạch răng thường xuyên"
+        },
+        {
+          "label": "C",
+          "text": "Ca++"
+        },
+        {
+          "label": "D",
+          "text": "Nước bọt tiết nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 5,
+      "question": "Theo White, yếu tố nào sau đây chi phối sâu răng đặc biệt nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluor"
+        },
+        {
+          "label": "B",
+          "text": "Vi khuẩn"
+        },
+        {
+          "label": "C",
+          "text": "Đường"
+        },
+        {
+          "label": "D",
+          "text": "Nước bọt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đề gạch cả A lẫn D, D được khoanh lại.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 6,
+      "question": "Triệu chứng đau trong sâu ngà có đặc điểm sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đau từng cơn"
+        },
+        {
+          "label": "B",
+          "text": "Đau ngừng khi hết kích thích"
+        },
+        {
+          "label": "C",
+          "text": "Đau liên tục"
+        },
+        {
+          "label": "D",
+          "text": "Đau kéo dài ít phút sau khi hết kích thích"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 7,
+      "question": "Tổn thương sâu men thường thấy ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố rãnh mặt nhai"
+        },
+        {
+          "label": "B",
+          "text": "Mặt trong răng cửa giữa"
+        },
+        {
+          "label": "C",
+          "text": "Mặt ngoài răng cối trên"
+        },
+        {
+          "label": "D",
+          "text": "Mặt trong răng cối dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 8,
+      "question": "Sâu ngà cần phải điều trị chủ yếu bằng cách:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vệ sinh răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Súc miệng với Fluor"
+        },
+        {
+          "label": "C",
+          "text": "Lấy tủy"
+        },
+        {
+          "label": "D",
+          "text": "Trám kín lỗ sâu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 9,
+      "question": "Biến chứng nào xảy ra sớm nhất nếu không điều trị sâu ngà:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tủy chết"
+        },
+        {
+          "label": "B",
+          "text": "Viêm tủy mãn"
+        },
+        {
+          "label": "C",
+          "text": "Viêm tủy cấp"
+        },
+        {
+          "label": "D",
+          "text": "Tủy hoại tử"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 10,
+      "question": "Khám răng 16 thấy có mắc thám châm ở hố mặt trong, các mặt khác còn nguyên vẹn. Chẩn đoán:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang II kép"
+        },
+        {
+          "label": "B",
+          "text": "Xoang I"
+        },
+        {
+          "label": "C",
+          "text": "Xoang I kép"
+        },
+        {
+          "label": "D",
+          "text": "Xoang II"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 11,
+      "question": "Xoang sâu chân răng ở mức độ 4, tuỷ sống, răng khoẻ mạnh cần điều trị như sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Che tuỷ, trám răng"
+        },
+        {
+          "label": "B",
+          "text": "Lấy tuỷ, trám răng"
+        },
+        {
+          "label": "C",
+          "text": "Tạo xoang, trám răng"
+        },
+        {
+          "label": "D",
+          "text": "Chỉ cần trám răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Đề gạch A, có người khoanh B. Tủy còn sống nên ưu tiên bảo tồn tủy (che tủy rồi trám).",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 12,
+      "question": "Sâu chân răng thường gặp ở lứa tuổi nào, vì sao:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Người trẻ vì chân răng chưa hình thành đủ"
+        },
+        {
+          "label": "B",
+          "text": "Người già vì bị các vấn đề về nha chu"
+        },
+        {
+          "label": "C",
+          "text": "Thanh thiếu niên hay hút thuốc lá làm tụt nướu"
+        },
+        {
+          "label": "D",
+          "text": "Phụ nữ tiền mãn kinh vì bệnh loãng xương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 13,
+      "question": "Dụng cụ quan trọng cần có cho giai đoạn khám lâm sàng sâu răng ở cộng đồng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đèn chiếu sáng"
+        },
+        {
+          "label": "B",
+          "text": "Thám châm phải có điểm nhọn"
+        },
+        {
+          "label": "C",
+          "text": "Thám châm đầu tù"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đề gạch B rồi khoanh lại D. Khám cộng đồng theo WHO dùng cây thăm dò đầu tù và nguồn sáng, không dùng thám châm nhọn.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 14,
+      "question": "Tư thế cầm bút cải tiến khi dùng thám châm và tay khoan là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sử dụng 3 ngón tay: ngón cái, ngón trỏ, ngón giữa"
+        },
+        {
+          "label": "B",
+          "text": "Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út"
+        },
+        {
+          "label": "C",
+          "text": "Sử dụng tối đa lực cổ tay"
+        },
+        {
+          "label": "D",
+          "text": "B và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Đề gạch A rồi khoanh lại B (ngón áp út làm điểm tựa).",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 15,
+      "question": "Quy trình \"Nha khoa Bốn Tay\" có ý nghĩa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đảm bảo vô khuẩn trong nha khoa"
+        },
+        {
+          "label": "B",
+          "text": "Giảm thiểu gánh nặng công việc cho nha sĩ"
+        },
+        {
+          "label": "C",
+          "text": "Tiết kiệm thời gian thực hành"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 câu trên đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 16,
+      "question": "Mô hình điều trị sâu răng trong hiện đại:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lưu cơ học"
+        },
+        {
+          "label": "B",
+          "text": "Dán hoá học"
+        },
+        {
+          "label": "C",
+          "text": "Xâm lấn"
+        },
+        {
+          "label": "D",
+          "text": "Nội nha"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 17,
+      "question": "Ranh giới cần cân nhắc khi lựa chọn kiểu thiết kế cho xoang trám:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giữa việc mở rộng để phòng ngừa hay xâm lấn tối thiểu"
+        },
+        {
+          "label": "B",
+          "text": "Giữa việc sử dụng vật liệu dán hay vật liệu lưu cơ học"
+        },
+        {
+          "label": "C",
+          "text": "Giữa việc phục hồi chức năng nhai hay phục hồi thẩm mỹ"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 18,
+      "question": "pH tới hạn của hydroxyapatite (thành phần của men) là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.0"
+        },
+        {
+          "label": "B",
+          "text": "5.5"
+        },
+        {
+          "label": "C",
+          "text": "3.5"
+        },
+        {
+          "label": "D",
+          "text": "4.5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 19,
+      "question": "Acid sinh ra do quá trình chuyển hoá của vi khuẩn có vai trò quan trọng trong bệnh nguyên sâu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acid lactic"
+        },
+        {
+          "label": "B",
+          "text": "Acid phosphoric"
+        },
+        {
+          "label": "C",
+          "text": "Acid cloric"
+        },
+        {
+          "label": "D",
+          "text": "Acid acetic"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 20,
+      "question": "Sang thương sâu răng lan từ mặt gần qua mặt nhai tới mặt xa răng cối lớn hàm dưới gọi là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang MO"
+        },
+        {
+          "label": "B",
+          "text": "Xoang MOD"
+        },
+        {
+          "label": "C",
+          "text": "Xoang DO"
+        },
+        {
+          "label": "D",
+          "text": "Xoang II"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 21,
+      "question": "Nguyên tắc xoang II trám Composite là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình thang, đáy lớn phía bên"
+        },
+        {
+          "label": "B",
+          "text": "Hình thang, đáy lớn phía nướu"
+        },
+        {
+          "label": "C",
+          "text": "Hình dạng vách ngoài trong hội tụ mặt nhai"
+        },
+        {
+          "label": "D",
+          "text": "Hình dạng không nhất định tùy sang thương sâu răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 22,
+      "question": "Bước đầu tiên của tạo xoang là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo hình thể thuận tiện"
+        },
+        {
+          "label": "B",
+          "text": "Tạo hình thể kháng lực"
+        },
+        {
+          "label": "C",
+          "text": "Tạo hình thể lưu"
+        },
+        {
+          "label": "D",
+          "text": "Tạo đường vào lấy sạch ngà sâu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 23,
+      "question": "Xoang III ở răng cửa bên hàm trên nằm ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố mặt trong"
+        },
+        {
+          "label": "B",
+          "text": "Rìa cắn"
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Gờ cingulum"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đề đánh dấu D. Ghi chú bên lề: hố mặt trong = xoang I, rìa cắn = xoang VI, cổ răng mặt ngoài = xoang V — loại trừ còn D.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 24,
+      "question": "Xoang IV ở răng cửa giữa hàm trên nằm ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố mặt trong"
+        },
+        {
+          "label": "B",
+          "text": "Rìa cắn"
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Gờ cingulum"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 25,
+      "question": "Xoang V ở răng nanh hàm dưới nằm ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố mặt trong"
+        },
+        {
+          "label": "B",
+          "text": "Rìa cắn"
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Gờ cingulum"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 26,
+      "question": "Triệu chứng cơ năng của sâu ngà:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đau tự phát"
+        },
+        {
+          "label": "B",
+          "text": "Ê buốt khi có kích thích"
+        },
+        {
+          "label": "C",
+          "text": "Sang thương đốm trắng"
+        },
+        {
+          "label": "D",
+          "text": "Không có triệu chứng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 27,
+      "question": "CHỌN CÂU SAI: Khi tạo xoang trám composite ta cần vạt men ở bờ xoang nhằm để:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm bớt diện tích men răng, tăng độ lưu"
+        },
+        {
+          "label": "B",
+          "text": "Tăng diện tích vi lưu khi etching sau này"
+        },
+        {
+          "label": "C",
+          "text": "Tạo sự chuyển tiếp màu miếng trám"
+        },
+        {
+          "label": "D",
+          "text": "Tránh sự gãy, hở bờ miếng trám sau này"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Đề gạch D rồi khoanh lại A. Vạt men làm TĂNG diện tích men để xoi mòn, nên A là câu sai.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 28,
+      "question": "Theo nguyên tắc tạo xoang xâm lấn tối thiểu, khi làm sạch xoang sâu ta sẽ lấy sạch ngà sâu và dừng lại ở lớp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngà hoại tử"
+        },
+        {
+          "label": "B",
+          "text": "Ngà thâm nhiễm"
+        },
+        {
+          "label": "C",
+          "text": "Ngà mất khoáng"
+        },
+        {
+          "label": "D",
+          "text": "Ngà xơ hóa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Đề gạch B rồi khoanh lại C. Lấy hết ngà nhiễm khuẩn, giữ lại ngà mất khoáng (ngà bị ảnh hưởng) còn khả năng tái khoáng.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 29,
+      "question": "Bệnh nhân có xoang sâu tại vị trí hố xa của răng cối lớn thứ nhất hàm trên, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt khi ăn nóng uống lạnh sau vài giây thì hết ê buốt, chẩn đoán nào sau đây phù hợp nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu men hố xa"
+        },
+        {
+          "label": "B",
+          "text": "Sâu ngà hố xa"
+        },
+        {
+          "label": "C",
+          "text": "Viêm tủy không hồi phục"
+        },
+        {
+          "label": "D",
+          "text": "Viêm quanh chóp mãn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 30,
+      "question": "Bệnh nhân có xoang sâu tại vị trí mặt nhai của răng cối lớn thứ ba hàm dưới, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt kéo dài khi ăn nóng uống lạnh, đau về đêm, chẩn đoán nào sau đây phù hợp nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu men hố xa"
+        },
+        {
+          "label": "B",
+          "text": "Sâu ngà hố xa"
+        },
+        {
+          "label": "C",
+          "text": "Viêm tủy không hồi phục"
+        },
+        {
+          "label": "D",
+          "text": "Viêm quanh chóp mãn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Đề gạch B rồi khoanh lại C. Ê buốt kéo dài + đau về đêm là dấu hiệu viêm tủy không hồi phục.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 31,
+      "question": "Men răng sữa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mềm hơn men răng vĩnh viễn"
+        },
+        {
+          "label": "B",
+          "text": "Cứng bằng men răng vĩnh viễn"
+        },
+        {
+          "label": "C",
+          "text": "Mềm hơn ngà răng"
+        },
+        {
+          "label": "D",
+          "text": "Cứng hơn men răng vĩnh viễn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 32,
+      "question": "Bệnh nhân có xoang sâu tại vị trí mặt nhai của răng cối lớn thứ ba hàm dưới, tiền sử bệnh nhân có đau về đêm, khám có lỗ dò ở mặt ngoài đáy hành lang, bước tiếp theo ta cần làm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nạo xoang thám sát"
+        },
+        {
+          "label": "B",
+          "text": "Thử tủy bằng điện"
+        },
+        {
+          "label": "C",
+          "text": "Thử tủy bằng nhiệt"
+        },
+        {
+          "label": "D",
+          "text": "Chụp phim quanh chóp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 33,
+      "question": "Tính chất của men răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không thẩm thấu được"
+        },
+        {
+          "label": "B",
+          "text": "Kháng lại mài mòn ít hơn ngà"
+        },
+        {
+          "label": "C",
+          "text": "Dễ bị bể khi không có ngà nâng đỡ"
+        },
+        {
+          "label": "D",
+          "text": "Không bị bể khi không có ngà nâng đỡ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 34,
+      "question": "Lớp men dày nhất ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Múi răng cối lớn"
+        },
+        {
+          "label": "B",
+          "text": "Múi răng cối nhỏ"
+        },
+        {
+          "label": "C",
+          "text": "Cạnh cắn răng cửa"
+        },
+        {
+          "label": "D",
+          "text": "Mặt bên của răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 35,
+      "question": "Sâu cổ mặt ngoài răng cối lớn hàm dưới:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang VI"
+        },
+        {
+          "label": "B",
+          "text": "Xoang I"
+        },
+        {
+          "label": "C",
+          "text": "Xoang V"
+        },
+        {
+          "label": "D",
+          "text": "Xoang II"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 36,
+      "question": "Đặc điểm của sâu men:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không thể hoàn nguyên"
+        },
+        {
+          "label": "B",
+          "text": "Cùng lúc giai đoạn sâu ngà"
+        },
+        {
+          "label": "C",
+          "text": "Dễ phát hiện"
+        },
+        {
+          "label": "D",
+          "text": "Có thể hoàn nguyên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 37,
+      "question": "Sâu răng dạng núi lửa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu cấp tính"
+        },
+        {
+          "label": "B",
+          "text": "Sâu hố rãnh"
+        },
+        {
+          "label": "C",
+          "text": "Sâu lan nhanh"
+        },
+        {
+          "label": "D",
+          "text": "Sâu ẩn mình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 38,
+      "question": "Khám răng thấy bóng mờ tối của ngà bên dưới, phân loại:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ICDAS 3"
+        },
+        {
+          "label": "B",
+          "text": "ICDAS 5"
+        },
+        {
+          "label": "C",
+          "text": "ICDAS 6"
+        },
+        {
+          "label": "D",
+          "text": "ICDAS 4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 39,
+      "question": "Sâu hố mặt ngoài răng cối lớn hàm dưới:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang VI"
+        },
+        {
+          "label": "B",
+          "text": "Xoang V"
+        },
+        {
+          "label": "C",
+          "text": "Xoang I"
+        },
+        {
+          "label": "D",
+          "text": "Xoang II"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 40,
+      "question": "Sâu mặt bên răng nanh:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang III"
+        },
+        {
+          "label": "B",
+          "text": "Xoang VI"
+        },
+        {
+          "label": "C",
+          "text": "Xoang II"
+        },
+        {
+          "label": "D",
+          "text": "Xoang I"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 41,
+      "question": "Đặc điểm của sâu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng trước thường bị sâu nhiều hơn răng sau"
+        },
+        {
+          "label": "B",
+          "text": "Răng cối hàm trên thường dễ bị sâu hơn hàm dưới"
+        },
+        {
+          "label": "C",
+          "text": "Xảy ra ngẫu nhiên, không đối xứng"
+        },
+        {
+          "label": "D",
+          "text": "Xảy ra ở các mặt răng kề nhau, đối xứng hai bên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 42,
+      "question": "Sang thương sâu răng nằm sát miếng trám cũ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng thứ phát"
+        },
+        {
+          "label": "B",
+          "text": "Sâu răng lan nhanh"
+        },
+        {
+          "label": "C",
+          "text": "Sâu răng ẩn mình"
+        },
+        {
+          "label": "D",
+          "text": "Sâu răng nguyên phát"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 43,
+      "question": "Loại sâu răng có thể là hậu quả của bệnh nha chu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu mặt láng"
+        },
+        {
+          "label": "B",
+          "text": "Sâu chân răng"
+        },
+        {
+          "label": "C",
+          "text": "Sâu cổ răng"
+        },
+        {
+          "label": "D",
+          "text": "Sâu kẽ răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Đề RHM K40 (câu 18) khoanh C (sâu cổ răng).",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 44,
+      "question": "Sâu men hố rãnh có dạng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình nón, đáy ở phía bên"
+        },
+        {
+          "label": "B",
+          "text": "Hình nón, đáy có thể ở cả phía tuỷ và phía nhai"
+        },
+        {
+          "label": "C",
+          "text": "Hình nón, đáy ở phía tuỷ"
+        },
+        {
+          "label": "D",
+          "text": "Hình nón, đáy ở phía nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 45,
+      "question": "Loại sâu răng thường gặp ở trẻ nhỏ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng tiến triển"
+        },
+        {
+          "label": "B",
+          "text": "Sâu răng mới chớm"
+        },
+        {
+          "label": "C",
+          "text": "Sâu răng lan nhanh"
+        },
+        {
+          "label": "D",
+          "text": "Sâu răng bú bình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 46,
+      "question": "Ngà sơ cấp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Được tạo ra trước khi răng mọc"
+        },
+        {
+          "label": "B",
+          "text": "Được tạo ra sau ngà thứ cấp"
+        },
+        {
+          "label": "C",
+          "text": "Được tạo ra sau khi răng mọc"
+        },
+        {
+          "label": "D",
+          "text": "Được tạo ra khi răng mọc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 47,
+      "question": "Để chẩn đoán đúng tình trạng sâu răng, khi thăm khám cần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thổi khô bề mặt răng"
+        },
+        {
+          "label": "B",
+          "text": "Làm sạch bề mặt răng"
+        },
+        {
+          "label": "C",
+          "text": "Làm ướt bề mặt răng"
+        },
+        {
+          "label": "D",
+          "text": "Không làm gì cả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Đề gạch B, có người khoanh thêm A. Đề RHM K40 (câu 31) chọn B. Theo ICDAS cần làm sạch rồi thổi khô.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 48,
+      "question": "Tỉ lệ chất vô cơ của ngà răng và men răng lần lượt là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "85% và 90%"
+        },
+        {
+          "label": "B",
+          "text": "75% và 80%"
+        },
+        {
+          "label": "C",
+          "text": "70% và 95%"
+        },
+        {
+          "label": "D",
+          "text": "70% và 75%"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 49,
+      "question": "Bệnh sâu răng là bệnh:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bán cấp"
+        },
+        {
+          "label": "B",
+          "text": "Cấp tính"
+        },
+        {
+          "label": "C",
+          "text": "Mãn tính"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các trường hợp trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 50,
+      "question": "Ngà thứ cấp bệnh lý:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chỉ hình thành khi có sâu răng"
+        },
+        {
+          "label": "B",
+          "text": "Hình thành do sâu răng chiếm chủ yếu"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ hình thành khi có bệnh toàn thân đi kèm"
+        },
+        {
+          "label": "D",
+          "text": "Do tuổi tác"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 51,
+      "question": "Miếng trám GIC:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kháng nước hoàn toàn"
+        },
+        {
+          "label": "B",
+          "text": "Kị nước"
+        },
+        {
+          "label": "C",
+          "text": "Bôi vaseline, varnish giúp kháng nước"
+        },
+        {
+          "label": "D",
+          "text": "Tan trong nước khi chưa đông cứng hoàn toàn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Đề gạch C, có người khoanh thêm D. Đề RHM K40 (câu 35) cũng chọn C.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 52,
+      "question": "Răng vĩnh viễn với các triệu chứng: lớp men bị phá hủy hoàn toàn, lỗ sâu lan tới lớp ngà. Khi nạo xoang thấy có ngà mềm, ngà phản ứng và ngà xơ không kịp thành lập để bảo vệ tủy. Chẩn đoán tình trạng răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng lan nhanh"
+        },
+        {
+          "label": "B",
+          "text": "Sâu ngà mãn tính"
+        },
+        {
+          "label": "C",
+          "text": "Sâu răng tiến triển"
+        },
+        {
+          "label": "D",
+          "text": "Sâu ngà nông"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 53,
+      "question": "Răng cối nhỏ bị sâu mặt bên lan vào 1/3 lớp ngà:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang II, sâu ngà sâu"
+        },
+        {
+          "label": "B",
+          "text": "Xoang II kép, sâu ngà nông"
+        },
+        {
+          "label": "C",
+          "text": "Xoang II kép, sâu ngà sâu"
+        },
+        {
+          "label": "D",
+          "text": "Xoang II, sâu ngà nông"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đề gạch A rồi khoanh lại D. Lan vào 1/3 lớp ngà là sâu ngà nông (khác đề K40 hỏi 1/2 lớp ngà).",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 54,
+      "question": "Màu sắc mô răng không phụ thuộc vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vệ sinh răng miệng định kì"
+        },
+        {
+          "label": "B",
+          "text": "Độ khoáng hoá canxi"
+        },
+        {
+          "label": "C",
+          "text": "Di truyền"
+        },
+        {
+          "label": "D",
+          "text": "Tính thấm men ngà"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Đề gạch D rồi khoanh lại A. Đề RHM K40 (câu 39) khoanh D.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 55,
+      "question": "Sâu hố rãnh:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kích thước thật sự luôn nhỏ hơn kích thước nhìn thấy được"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự"
+        },
+        {
+          "label": "C",
+          "text": "Tổn thương có dạng chữ A"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước nhìn thấy được chính là kích thước thật sự"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Đề gạch C, có người khoanh thêm B. Đề RHM K40 (câu 40) cũng chọn C.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 56,
+      "question": "Sâu răng thường gặp ở trẻ em dưới 6 tuổi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng ẩn mình, sâu răng bú bình"
+        },
+        {
+          "label": "B",
+          "text": "Sâu răng nguyên phát, sâu răng mới chớm"
+        },
+        {
+          "label": "C",
+          "text": "Sâu răng mới chớm, sâu men"
+        },
+        {
+          "label": "D",
+          "text": "Sâu răng lan nhanh, sâu răng bú bình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 57,
+      "question": "Hệ thống ICDAS có mấy thang điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 58,
+      "question": "Xoang II kép:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang chính ở mặt nhai, xoang phụ ở mặt bên"
+        },
+        {
+          "label": "B",
+          "text": "Xoang chính nằm ở mặt bên, xoang phụ ở mặt nhai"
+        },
+        {
+          "label": "C",
+          "text": "A đúng, B sai"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 59,
+      "question": "Sâu ở hố mặt trong của các răng cửa hàm trên:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang III"
+        },
+        {
+          "label": "B",
+          "text": "Xoang VI"
+        },
+        {
+          "label": "C",
+          "text": "Xoang I"
+        },
+        {
+          "label": "D",
+          "text": "Xoang I kép"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    },
+    {
+      "number": 60,
+      "question": "Tuỷ thường thu hẹp lại ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng người trẻ"
+        },
+        {
+          "label": "B",
+          "text": "Răng người già"
+        },
+        {
+          "label": "C",
+          "text": "Răng bệnh lý"
+        },
+        {
+          "label": "D",
+          "text": "B và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đề gạch A rồi khoanh lại D. Đề RHM K40 (câu 46) khoanh B.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null
+    }
+  ]
+}

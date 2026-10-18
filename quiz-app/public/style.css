@@ -1219,6 +1219,18 @@ body {
   color: var(--text-primary);
 }
 
+/* Hình đi kèm câu hỏi: nền trắng để sơ đồ scan vẫn đọc được ở giao diện tối */
+.question-image {
+  display: block;
+  max-width: min(100%, 320px);
+  height: auto;
+  margin: -6px 0 18px;
+  padding: 6px;
+  background: #fff;
+  border: 1px solid var(--border, rgba(0, 0, 0, 0.12));
+  border-radius: var(--radius-md);
+}
+
 /* ===== Explanation ===== */
 .explanation-box {
   margin-top: 18px;

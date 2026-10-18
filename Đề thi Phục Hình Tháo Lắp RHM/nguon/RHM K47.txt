@@ -1,0 +1,375 @@
+# RHM K47
+# Phục hình I · Đề 100 · Lần 1 · Tháng 12/2024 · 60 câu · 35 phút
+# Nguồn: Đề Thi/phục hình tháo lắp bán phần nền nhựa ( phục hình I ) - biên soạn Võ Viễn Thông.pdf (trang 52–57)
+# Đáp án: theo các phương án được khoanh trong đề (không phải đáp án chính thức của bộ môn)
+
+Câu 1. Thời gian sử dụng của phục hình tháo lắp bán hàm nền nhựa là khoảng:
+A. 2 – 4 năm
+*B. 3 – 5 năm
+C. 4 – 5 năm
+D. 3 – 6 năm
+
+Câu 2. Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:
+A. Mất răng xen kẽ với khoảng mất răng ngắn
+*B. Mất răng xen kẽ với khoảng mất răng dài
+C. Mất răng gần toàn bộ và răng còn lại lung lay
+D. Mất răng xen kẽ, các răng trụ cứng chắc
+
+Câu 3. Phục hình tháo lắp bán hàm được chỉ định dựa trên các yếu tố nào sau đây:
+A. Kỹ thuật, tâm lý, bác sĩ
+B. Kỹ thuật, tâm lý, bệnh nhân
+*C. Kỹ thuật, tâm lý, kinh tế
+D. Kỹ thuật, tâm lý, trang thiết bị
+
+Câu 4. Ưu điểm của phục hình tháo lắp bán phần:
+A. Khó giữ vệ sinh răng miệng.
+*B. Dễ dàng giữ vệ sinh răng miệng.
+C. Phục hình các răng trước không thẩm mỹ bằng phục hình cố định.
+D. Khó thực hiện các sửa chữa hàm khi cần.
+
+Câu 5. Yếu tố tâm lý nào thường khiến bệnh nhân chọn làm phục hình tháo lắp bán hàm hơn là phục hình cố định, CHỌN CÂU SAI:
+A. Bệnh nhân không muốn mài răng
+B. Bệnh nhân muốn thuận lợi cho việc vệ sinh răng miệng
+C. Bệnh nhân sợ đau
+*D. Bệnh nhân nghe tư vấn từ bác sĩ
+
+Câu 6. Điền khuyết: Ở hàm phục hình tháo lắp bán phần nền nhựa, lực nhai được phân bố hoàn toàn lên .......... Trong khi ở hàm phục hình tháo lắp bán phần khung bộ, lực chức năng được phân bố lên ..........
+A. Mô niêm mạc / mô nha chu
+B. Mô xương / mô nha chu
+C. Mô niêm mạc – xương / mô nha chu
+*D. Mô niêm mạc – xương / mô nha chu và mô xương – niêm mạc
+
+Câu 7. Trường hợp mất răng sau đây: 8 7 x 5 4 3 x x | x x 3 4 5 6 7 8 — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
+*A. Phục hình cố định.
+B. Phục hình khung bộ
+C. Phục hình tháo lắp bán phần nền nhựa
+D. Phục hình kết hợp
+
+Câu 8. Bệnh nhân Nguyễn Thị A, nữ, 63 tuổi, trên lâm sàng ghi nhận bằng mắt thường răng 46 lung lay khoảng 0,7mm, có thể kết luận R46 của bệnh nhân lung lay độ mấy:
+A. Độ 1
+B. Độ 2
+*C. Độ 3
+D. Độ 4
+> Đề khoanh C nhưng có đánh dấu nghi vấn bên cạnh. Kết quả tuỳ thang phân độ: theo thang "độ 1 < 1mm" thì 0,7mm là độ 1; theo Miller (độ 2 ≤ 1mm) thì là độ 2 — nên đối chiếu lại giáo trình.
+
+Câu 9. Răng có thể dùng làm trụ khi tỷ lệ chiều cao thân răng và chân răng:
+*A. Nhỏ hơn 1.
+B. Nhỏ hơn 2.
+C. Lớn hơn 1.
+D. Bằng 1.
+
+Câu 10. Điều kiện nào sau đây là lý tưởng để giúp nền hàm có sự bám dính tốt:
+*A. Sống hàm cao, rộng, triền má song song với triền phía lưỡi, không có u xương hay vùng lẹm
+B. Bệnh nhân có một torus hàm trên kích thước 2x3cm
+C. Lồi cùng không có một độ cao nào
+D. Sống hàm có triền phía má và triền phía lưỡi hội tụ với nhau
+
+Câu 11. Ở vòm miệng vùng nào có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc:
+A. Gai cửa
+*B. Schroder
+C. Vân khẩu cái
+D. Đường nối giữa
+
+Câu 12. Ở vòm miệng vùng nào có ít mô liên kết dưới niêm mạc:
+A. Gai cửa
+B. Schroder
+C. Vân khẩu cái
+D. Đường nối giữa
+> Đề khoanh C và gạch D. Theo giải phẫu, vùng đường nối giữa xương hàm trên có niêm mạc mỏng, gần như không có mô liên kết dưới niêm mạc (nên dễ đau, phải giảm nén — xem các câu điền khuyết về đường nối giữa); đáp án chưa chắc chắn nên để trống.
+
+Câu 13. Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình:
+A. Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp
+B. Khi độ dài của đoạn mất răng càng lớn, số lượng các răng trụ càng quan trọng
+C. Sau khi lựa chọn kiểu phục hình, cần điều trị tiền phục hình nếu có
+*D. Ưu tiên lựa chọn dựa vào phục hình cũ bệnh nhân đang sử dụng
+
+Câu 14. Những điểm thuận lợi của hàm trên là:
+A. Núm sau răng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ "a"
+*B. Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ "a"
+C. Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schroder
+D. Núm sau răng cửa, sống hàm rộng và săn chắc và lồi cùng
+
+Câu 15. Trong phục hình Răng hàm mặt, mặt phẳng Francfort là:
+A. Là mặt phẳng tưởng tượng đi qua hai điểm ở hai nắp tai và điểm ở khóe mắt
+B. Là mặt phẳng đi qua cạnh cắn răng trước và mặt nhai răng sau
+C. Là mặt phẳng nhai phục hình
+*D. Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt
+
+Câu 16. Trong phục hình Răng hàm mặt, mặt phẳng nhai phục hình là:
+A. Mặt phẳng tưởng tượng trùng với mặt phẳng Camper
+*B. Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối
+C. Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm dưới hốc mắt
+D. Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm dưới cánh mũi
+
+Câu 17. Trường hợp sau, thuộc loại mất răng nào: x x x x x x 1 | 1 x x x x x x
+A. Mất răng loại I Kennedy
+B. Mất răng loại V Kennedy
+*C. Mất răng loại VI Kennedy
+D. Mất răng loại II Kennedy
+> Đề khoanh C. Kennedy chỉ có 4 loại (I–IV); loại V, VI là của Applegate. Với sơ đồ chỉ còn 2 răng cửa giữa, hai bên mất răng tới cuối cung thì theo Kennedy là loại I (biến thể theo các vùng mất răng phụ). Nên đối chiếu thêm.
+
+Câu 18. Sơ đồ răng ở hàm trên như sau, được phân loại theo Kennedy là: x x x x 3 x x 1 | 1 2 3 4 5 6 7 x
+A. Mất răng loại I, biến thể 1
+*B. Mất răng loại II, biến thể 1
+C. Mất răng loại III, biến thể 1
+D. Mất răng loại IV, biến thể 2
+
+Câu 19. Mất răng như hình phân loại theo Kennedy là (xem hình):
+[hinh: 53 0.49 0.727 0.655 0.812]
+A. Loại III, biến thể 2
+*B. Loại II, biến thể 2
+C. Loại V
+D. Loại VI
+> Cùng hình này, đề RHM K40 (câu 46) và K43 (câu 11) cũng chọn "Loại II, biến thể 2".
+
+Câu 20. Mất răng như hình phân loại theo Kennedy là (xem hình):
+[hinh: 54 0.08 0.198 0.215 0.275]
+A. Loại IV, biến thể 1
+*B. Loại III, biến thể 1
+C. Loại IV, biến thể 2
+D. Loại III, biến thể 2
+> Đề gạch A, C và khoanh B. Đề RHM K40 (câu 47) và K43 (câu 13) có hình tương tự, chọn "Loại III, biến thể 1".
+
+Câu 21. Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):
+[hinh: 54 0.08 0.383 0.215 0.465]
+A. Mất răng loại IV
+B. Mất răng loại IV, biến thể 2
+C. Mất răng loại II, biến thể 2
+*D. Mất răng loại I, biến thể 1
+
+Câu 22. Phân loại mất răng theo Kennedy cho trường hợp mất răng sau là (xem hình):
+[hinh: 54 0.08 0.575 0.22 0.66]
+*A. Mất răng loại II, biến thể 2
+B. Mất răng loại III, biến thể 2
+C. Mất răng loại IV
+D. Mất răng loại IV, biến thể 2
+
+Câu 23. Khi lấy dấu bằng Alginate, khay lấy dấu cần:
+A. Khay không quá cứng để dễ đưa vào miệng
+*B. Khay phải có cơ chế lưu chất lấy dấu
+C. Khay vừa khít niêm mạc để không làm dư chất lấy dấu
+D. Khay lấy dấu phải rộng để lấy dấu không bị thiếu
+
+Câu 24. Tư thế bác sĩ khi lấy dấu răng là:
+*A. Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm trên
+B. Bác sĩ đứng phía trước và bên phải bệnh nhân khi lấy dấu hàm trên
+C. Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm dưới
+D. Bác sĩ đứng phía trước và bên trái bệnh nhân khi lấy dấu hàm trên
+
+Câu 25. Khi trộn chất lấy dấu Alginate, câu nào sau đây là đúng:
+A. Bột : nước theo tỷ lệ 1:2
+B. Xoay nhẹ bay trộn để có chất lấy dấu mịn và đồng nhất
+C. Chỉ cần trộn cho bột thấm đều vào nước
+*D. Cần miết chất lấy dấu vào thành chén trộn
+
+Câu 26. Những yêu cầu khi lấy dấu, đổ mẫu là, CHỌN CÂU SAI:
+A. Vật liệu ghi dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt
+B. Tránh tạo những bọt do không khí hay nước bọt
+C. Tránh làm biến dạng dấu khi tháo khay ra trên lâm sàng và tránh biến dạng sau đó do thời gian
+*D. Khi lấy dấu xong có thể đổ mẫu lúc nào cũng được
+
+Câu 27. Tư thế bệnh nhân khi lấy dấu là:
+A. Ngồi ngã ra sau.
+B. Ngồi thẳng và thấp hơn tầm tay bác sĩ.
+C. Ngồi thẳng, đầu hơi cuối ra phía trước.
+*D. Ngồi thẳng, miệng ngang tầm tay bác sĩ.
+
+Câu 28. Trong phục hình tháo lắp bán phần, chất lấy dấu nào thường được sử dụng nhất hiện nay:
+A. Agar – agar
+*B. Alginate
+C. Eugenate
+D. Poly sulphides
+
+Câu 29. Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo .......... và tương quan theo ..........
+*A. Chiều dọc / chiều ngang
+B. Chiều dọc / chiều đứng
+C. Chiều cao / chiều đứng
+D. Chiều cao / chiều ngang
+
+Câu 30. Nền tạm cần đạt các yêu cầu sau:
+A. Phủ 2/3 lồi cùng và 2/3 gối hậu nha
+B. Ôm sát cổ răng các răng cửa, răng cối nhỏ, răng cối lớn
+*C. Có chiều dày đồng nhất khoảng 2mm và được làm nhẵn, bóng
+D. Càng rộng, càng dày càng tốt
+
+Câu 31. Tương quan hai hàm được xác định:
+*A. Trên miệng
+B. Trên hai bản nền tạm – gối sáp
+C. Trên hai mẫu hàm thạch cao
+D. Trên giá khớp
+
+Câu 32. Tương quan hai hàm được chuyển qua giá khớp thông qua:
+A. Bác sĩ và trợ thủ
+*B. Nền tạm – gối sáp
+C. Mẫu hàm thạch cao
+D. Giá khớp
+
+Câu 33. Tương quan hai hàm trường hợp mất kích thước dọc thì căn cứ vào đâu để xác định:
+A. Quan sát và nhận định của bác sĩ
+B. Sự lựa chọn của bệnh nhân
+*C. Quan sát và nhận định của bác sĩ kết hợp với sự đồng ý của bệnh nhân
+D. Kích thước dọc nghỉ
+
+Câu 34. Câu nào sau đây là SAI khi nói về đặc điểm của nền tạm:
+A. Được làm bằng nhựa tự cứng, Shellac, sáp hồng
+*B. Có chiều dày đồng nhất khoảng 3 mm
+C. Tránh thắng môi, má, lưỡi
+D. Tương đối đối xứng qua đường giữa hàm
+
+Câu 35. Đặc điểm của gối sáp:
+A. Nằm ngay trên đỉnh sống hàm
+B. Làm bằng hoặc cao hơn các răng còn lại 1 – 1,5 mm
+C. Hai đầu gối sáp vừa chạm các răng thật
+*D. Tất cả các câu trên đều đúng
+
+Câu 36. Khi vô giá khớp cần đảm bảo:
+A. Sử dụng thạch cao mềm để vô giá khớp
+B. Nền tạm, gối sáp hai hàm được liên kết với nhau bởi sáp hồng hoặc sáp nhôm
+C. Đúng loại giá khớp phù hợp với những ca lâm sàng phức tạp
+*D. Mẫu hàm được liên kết chặt chẽ với giá khớp, tương quan hai hàm phù hợp
+
+Câu 37. Khi ghi khớp cắn trung tâm, bác sĩ cần lưu ý:
+*A. Ghi nhận vị trí và điểm chạm của các răng còn lại.
+B. Cần so màu răng
+C. Không cần thử nền tạm – gối sáp
+D. Luôn luôn làm khóa chữ H
+
+Câu 38. Trường hợp cần xác định tương quan tâm là:
+A. Mất răng toàn hàm
+B. Răng mòn quá nhiều
+C. Mất răng từng khoảng mà không còn điểm chạm giữa các răng còn lại
+*D. Tất cả các câu trên đều đúng
+
+Câu 39. Cách hướng dẫn bệnh nhân cắn đúng vị trí khớp cắn trung tâm:
+*A. Tập cho bệnh nhân nuốt
+B. Tập cho bệnh nhân cười
+C. Đưa hàm ra trước
+D. Đưa hàm sang bên
+
+Câu 40. Răng hàm trên được chọn theo cấu trúc xương hàm là:
+*A. Răng cửa giữa
+B. Răng cửa bên
+C. Răng nanh
+D. Răng cối lớn
+> Đề RHM K41 (câu 11) cũng chọn răng cửa giữa; đề RHM K40 (câu 27) khoanh răng cối lớn.
+
+Câu 41. Răng hàm trên được chọn theo tính tình bệnh nhân là:
+A. Răng cửa giữa
+*B. Răng cửa bên
+C. Răng nanh
+D. Răng cối lớn
+
+Câu 42. Khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo, thoa vernis có tác dụng là:
+A. Không cho sáp dính vào thạch cao
+B. Không cho thạch cao dính vào răng
+*C. Không cho thạch cao dính vào nhựa ép
+D. Không cho nhựa dính vào răng
+
+Câu 43. Khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo, vernis được thoa lúc:
+A. Khuôn còn đang nóng và đang bốc hơi nước
+*B. Khuôn còn đang nóng và bốc hết hơi nước
+C. Ngay khi dội sạch sáp
+D. Khi khuôn nguội hoàn toàn
+
+Câu 44. Thời điểm cho nhựa vào khuôn ép khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:
+A. Ngay sau khi bột nhựa được thấm đều với nước
+B. Khi nhựa còn lỏng, dễ dàng chảy vào khuôn ép
+C. Khi nhựa còn dẻo và còn dính được vào thành chén trộn
+*D. Khi nhựa kéo sợi, có thể nhồi bằng tay
+
+Câu 45. Thứ tự làm nguội khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:
+*A. Mài bỏ nhựa thừa, mài nhẵn nền hàm, đánh giấy nhám, đánh bóng.
+B. Mài bỏ nhựa thừa, đánh giấy nhám làm nhẵn nền hàm, mài mịn hàm, đánh bóng.
+C. Đánh giấy nhám nền hàm, mài mịn hàm giả, làm sạch kẽ răng, đánh bóng bằng Tripoli.
+D. Mài nhẵn nền hàm, mài sạch kẽ răng, đánh giấy nhám, đánh bóng.
+
+Câu 46. Thứ tự thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:
+A. Làm khay cá nhân, đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng.
+*B. Làm khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa.
+C. Đổ mẫu nghiên cứu, làm khay cá nhân, lên răng, ép nhựa.
+D. Đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa
+
+Câu 47. Trình tự dội sáp khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:
+A. Ngâm khuôn vào nước sôi, tách 2 phần khuôn, dội sạch sáp, lấy lớp sáp dư.
+*B. Ngâm khuôn vào nước sôi, tách 2 phần khuôn, lấy lớp sáp dư, dội sạch sáp.
+C. Tách 2 phần khuôn, ngâm khuôn vào nước sôi, dội sạch sáp, lấy lớp sáp dư.
+D. Tách 2 phần khuôn, ngâm khuôn vào nước sôi, lấy lớp sáp dư, dội sạch sáp.
+
+Câu 48. Khi vào phần đáy khuôn, nếu không đổ thạch cao phủ móc thì:
+*A. Răng giả và móc nằm cùng 1 phần của khuôn
+B. Răng giả và móc nằm về 2 phần khác nhau của khuôn
+C. Móc và răng giả sẽ dính với nhau
+D. A và C đúng
+
+Câu 49. Nguyên tắc trộn nhựa khi thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo là:
+A. Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra
+B. Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn
+C. Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài
+*D. A và B đúng
+
+Câu 50. Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm là:
+A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
+B. Dùng búa nhỏ gõ cho mẫu hàm bể dần ra.
+C. Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa.
+*D. Tất cả đều đúng
+
+Câu 51. Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn:
+A. Không nên mang thường xuyên
+B. Chỉ mang hàm giả khi ăn
+C. Nên giữ hàm giả thật khô và sạch
+*D. Nên nói chậm, ăn thức ăn mềm.
+
+Câu 52. Bệnh nhân than phiền hàm giả chỉ lỏng khi nhai thức ăn, nguyên nhân có thể là:
+A. Bờ hàm dư quá nhiều.
+B. Hình dạng hàm giả không thích hợp với hệ thống mô chung quanh.
+C. Nền hàm không khít sát, móc không nằm trong vùng lẹm.
+*D. Thiếu thăng bằng khớp cắn.
+
+Câu 53. Hướng dẫn nào sau đây là SAI khi hướng dẫn về cách sử dụng và bảo quản hàm giả:
+A. Sau khi hàm giả đã được lắp vào đúng vị trí, bệnh nhân mới sử dụng hàm.
+*B. Thời gian đầu không mang hàm giả thường xuyên vì dễ bị đau.
+C. Thực hiện chức năng từ dễ tới khó như ăn thức ăn mềm, nhai chậm.
+D. Không nên ăn thức ăn quá thô, cứng như khi chưa mất răng.
+
+Câu 54. Thứ tự điều chỉnh khớp cắn: (1) Tái lập kích thước dọc đúng; (2) Hoàn hảo cắn khớp làm việc và thăng bằng; (3) Tái lập kích thước ngang đúng; (4) Tái lập khớp cắn trung tâm đúng; (5) Tái lập khớp cắn tới đúng
+A. (1) → (3) → (4) → (2)
+*B. (1) → (4) → (2) → (5)
+C. (3) → (1) → (4) → (2)
+D. (1) → (3) → (4) → (5)
+
+Câu 55. Nếu không có vấn đề về hàm giả, thời gian tái khám mỗi lần là bao lâu:
+A. 3 tháng
+@B. 6 tháng
+C. 9 tháng
+D. 12 tháng
+> Đề không khoanh rõ câu này; đáp án theo đề RHM K43 (câu 59, cùng câu hỏi).
+
+Câu 56. Trong trường hợp bệnh nhân than ĐAU sau khi lắp hàm, thì bác sĩ cần làm gì đầu tiên:
+*A. Tìm điểm đau
+B. Tháo hàm giả một thời gian
+C. Điều chỉnh khớp cắn
+D. Chụp phim X quang
+
+Câu 57. Nguyên nhân nào cần đòi hỏi mài chỉnh vùng có liên quan cho đến khi hết triệu chứng đau:
+*A. Dư bờ hàm
+B. Có điểm chạm sớm ở khớp cắn
+C. Bệnh nhân tháo, lắp hàm không đúng hướng
+D. Móc không ôm vào răng trụ
+
+Câu 58. Cách sử dụng và bảo quản hàm giả nào là đúng:
+*A. Không nên tháo hàm giả ra khỏi miệng quá lâu vì răng còn lại có thể bị di chuyển làm cho không lắp lại được.
+B. Thời gian đầu nên mang ít để giảm đau
+C. Dù đã quen với hàm giả thì khi ngủ cũng phải mang hàm giả để tránh răng thật di chuyển về vị trí cũ.
+D. Không cần vệ sinh hàm giả vì không cần thiết.
+
+Câu 59. Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả là:
+*A. Dư bờ hàm
+B. Nướu giả bị lẹm quá mức
+C. Bệnh nhân tháo lắp hàm không đúng hướng
+D. Cả 3 đều đúng
+
+Câu 60. Bệnh nhân không mang được hàm giả thường vì:
+*A. Nước bọt tiết nhiều
+B. Tăng nhạy cảm ở vùng khẩu cái sau
+C. Có vị kim loại trong miệng
+D. Móc quá siết chặt gây đau

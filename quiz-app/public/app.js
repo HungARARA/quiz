@@ -778,6 +778,7 @@ function buildQuiz() {
 
     return {
       question: q.question,
+      image: q.image || null,
       explanation: q.explanation || null,
       source: q.source || null,
       // Đáp án do AI suy luận (ghi chú "( Câu này AI làm )" trong file Word)
@@ -788,6 +789,12 @@ function buildQuiz() {
       correctIndex,
     };
   });
+}
+
+/* Hình đi kèm câu hỏi (vd. sơ đồ mất răng Kennedy cắt từ đề scan) */
+function questionImageHtml(q) {
+  if (!q.image) return "";
+  return `<img class="question-image" src="${escapeHtml(q.image)}" alt="Hình của câu hỏi" loading="lazy">`;
 }
 
 function hasAnswerKey(q) {
@@ -1050,7 +1057,7 @@ function renderQuestion(index) {
       ? `<div class="explanation-box"><strong>💡 Giải thích:</strong> ${escapeHtml(q.explanation)}</div>`
       : "";
   const missingAnswerHtml = !hasAnswerKey(q)
-    ? '<div class="explanation-box">Azota chưa cung cấp đáp án cho câu này. Lựa chọn của bạn sẽ không được chấm đúng sai.</div>'
+    ? '<div class="explanation-box">Nguồn đề chưa có đáp án cho câu này. Lựa chọn của bạn sẽ không được chấm đúng sai.</div>'
     : "";
 
   // Nhãn AI hiện ngay khi đang làm bài; lý do của AI để dành lúc chấm xong
@@ -1084,6 +1091,7 @@ function renderQuestion(index) {
         <span class="question-meta-right">${flagBtnHtml}${sourceHtml}</span>
       </div>
       <div class="question-text">${escapeHtml(q.question)}</div>
+      ${questionImageHtml(q)}
       ${aiBadgeHtml(q)}
       <div class="options-list">${optionsHtml}</div>
       ${missingAnswerHtml}
@@ -1488,6 +1496,7 @@ function renderReviewList() {
             ${src}
           </div>
           <div class="review-question">${escapeHtml(q.question)}</div>
+          ${questionImageHtml(q)}
           ${aiBadgeHtml(q)}
           <div class="review-options">${opts}</div>
           ${exp}
@@ -1520,6 +1529,7 @@ function retryWrongOnly() {
 
   state.questions = wrongQuestions.map((q) => ({
     question: q.question,
+    image: q.image,
     options: q.options.map((o) => ({ label: o.label, text: o.text })),
     correctIndex: q.correctIndex,
     explanation: q.explanation,
