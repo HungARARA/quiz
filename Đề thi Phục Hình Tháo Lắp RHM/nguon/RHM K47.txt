@@ -309,11 +309,11 @@ C. Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài
 > Giáo trình PHTL (Bài 7, mục 2.4.1): tỷ lệ bột/nước nhựa theo chỉ dẫn nhà sản xuất; cho NƯỚC nhựa vào hũ trước rồi mới thêm bột — B làm ngược lại (cho nước vào hũ có sẵn bột) nên sai; C sai vì phải đậy nắp. Chỉ A đúng.
 
 Câu 50. Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm là:
-A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
+!A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
 B. Dùng búa nhỏ gõ cho mẫu hàm bể dần ra.
 C. Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa.
-*D. Tất cả đều đúng
-> Giáo trình PHTL (Bài 7, mục 2.5–2.7): cưa đế mẫu hàm làm nhiều miếng nhỏ, dùng dao tách dần hàm giả khỏi thạch cao, dùng búa gỗ gõ để tách khối thạch cao khỏi múp. Đề khoanh D (có dấu hỏi bên cạnh).
+?D. Tất cả đều đúng
+> Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên D "Tất cả đều đúng" không khớp giáo trình.
 
 Câu 51. Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn:
 A. Không nên mang thường xuyên

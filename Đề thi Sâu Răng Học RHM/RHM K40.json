@@ -1161,12 +1161,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
-      "explanation": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1): tổn thương sâu hố rãnh trong lớp men có dạng chữ V ngược (giống chữ A); \"kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật\" (B) cũng là câu nguyên văn giáo trình. Đề RHM K45, K46 (câu 25) đổi C thành \"chữ U\" và chọn B.",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: \"Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương\". Phương án C (dạng chữ A) chỉ gần với ý \"tổn thương trong lớp men có dạng chữ V ngược\". Đề RHM K45, K46 (câu 25) cũng chọn B.",
+      "aiOriginal": "C. Tổn thương có dạng chữ A"
     },
     {
       "number": 41,

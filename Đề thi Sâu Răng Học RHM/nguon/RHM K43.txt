@@ -345,10 +345,10 @@ D. Tính thấm men ngà
 
 Câu 55. Sâu hố rãnh:
 A. Kích thước thật sự luôn nhỏ hơn kích thước nhìn thấy được
-B. Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự
-*C. Tổn thương có dạng chữ A
+!B. Kích thước nhìn thấy được luôn nhỏ hơn kích thước thật sự
+?C. Tổn thương có dạng chữ A
 D. Kích thước nhìn thấy được chính là kích thước thật sự
-> Đề gạch C, có người khoanh thêm B. Giáo trình Sâu Răng Học (Bài 5): tổn thương hố rãnh trong men có dạng chữ V ngược (giống chữ A), và "kích thước nhìn thấy được luôn nhỏ hơn kích thước thật" (B) cũng là câu nguyên văn giáo trình. Đề RHM K45, K46 (câu 25) đổi C thành "chữ U" và chọn B.
+> Đề gạch C, có người khoanh thêm B. Giáo trình Sâu Răng Học (Bài 5, mục 1.1) ghi nguyên văn: "Kích thước nhìn thấy được của tổn thương luôn nhỏ hơn kích thước thật sự của tổn thương". Đề RHM K45, K46 (câu 25) cũng chọn B.
 
 Câu 56. Sâu răng thường gặp ở trẻ em dưới 6 tuổi:
 A. Sâu răng ẩn mình, sâu răng bú bình

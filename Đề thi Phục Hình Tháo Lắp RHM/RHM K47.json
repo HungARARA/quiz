@@ -1487,12 +1487,12 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
-      "explanation": "Giáo trình PHTL (Bài 7, mục 2.5–2.7): cưa đế mẫu hàm làm nhiều miếng nhỏ, dùng dao tách dần hàm giả khỏi thạch cao, dùng búa gỗ gõ để tách khối thạch cao khỏi múp. Đề khoanh D (có dấu hỏi bên cạnh).",
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình PHTL (Bài 7, mục 2.7): gỡ hàm nhựa ra khỏi mẫu hàm bằng cách cưa đế mẫu hàm làm nhiều miếng nhỏ, lấy từ từ thạch cao. Búa gỗ chỉ dùng để tách múp và gõ khối thạch cao ra khỏi múp (mục 2.5), không dùng gõ cho mẫu hàm bể — nên D \"Tất cả đều đúng\" không khớp giáo trình.",
+      "aiOriginal": "D. Tất cả đều đúng"
     },
     {
       "number": 51,
