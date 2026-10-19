@@ -1,14 +1,15 @@
 """Build the RHM past-exam sets (Sâu Răng Học, Phục Hình Tháo Lắp) for the website.
 
-Each exam was transcribed by hand from the scanned PDFs in "Đề Thi/" into
+Each exam was transcribed by hand from the scanned PDFs and photos in "Đề Thi/" into
 <subject>/nguon/RHM Kxx.txt. This script validates those files and writes, per exam:
   <subject>/RHM Kxx.json   - questions read by build-static.js
   <subject>/RHM Kxx.docx   - the same exam as a Word file
-  <subject>/hinh/*.webp    - figures cropped from the PDF (only when the PDF is present)
+  <subject>/hinh/*.webp    - figures cropped from the scan (only when the scan is present)
 
 Source format:
   Câu N. question text
   [hinh: page x0 y0 x1 y1]   optional figure, page of the PDF and its box as page fractions
+  [hinh: photo x0 y0 x1 y1]  the same, cropped from a photo under "Đề Thi/" (e.g. PHTL K48/a.jpg)
   *A. option   answer marked in the scanned exam
   @A. option   answer chosen by AI (exam unmarked; taken from another year or reasoned)
   ?A. / !B.    exam marked A but AI picked B (shown with a warning badge)
@@ -38,7 +39,7 @@ SUBJECTS = {
 }
 QUESTION_RE = re.compile(r"^Câu (\d+)\.\s+(.+)$")
 OPTION_RE = re.compile(r"^([*@?!]?)([A-F])\.\s+(.+)$")
-IMAGE_RE = re.compile(r"^\[hinh: (\d+) ([\d.]+) ([\d.]+) ([\d.]+) ([\d.]+)\]$")
+IMAGE_RE = re.compile(r"^\[hinh: (\d+|.+?\.(?:jpg|jpeg|png)) ([\d.]+) ([\d.]+) ([\d.]+) ([\d.]+)\]$")
 
 
 def fail(path, message):
@@ -74,7 +75,8 @@ def parse(path):
             if current["options"] or current["image"]:
                 fail(path, f"misplaced figure in question {current['number']}")
             page, *box = match.groups()
-            current["image"] = {"page": int(page), "box": [float(v) for v in box]}
+            where = {"page": int(page)} if page.isdigit() else {"photo": page}
+            current["image"] = {**where, "box": [float(v) for v in box]}
             continue
         match = OPTION_RE.match(line)
         if not match or current["notes"] or current["scan"]:
@@ -118,16 +120,23 @@ def resolve(path, item):
 
 
 def crop_figure(pdf, figure, target):
-    import pymupdf
-    from PIL import Image
+    from PIL import Image, ImageOps
 
-    page = pdf[figure["page"] - 1]
     x0, y0, x1, y1 = figure["box"]
-    rect = page.rect
-    clip = pymupdf.Rect(rect.width * x0, rect.height * y0, rect.width * x1, rect.height * y1)
-    zoom = 520 / clip.width
-    pixmap = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), clip=clip)
-    image = Image.open(io.BytesIO(pixmap.tobytes("png"))).convert("L")
+    if "photo" in figure:
+        photo = ImageOps.exif_transpose(Image.open(PDF_DIR / figure["photo"]))
+        width, height = photo.size
+        image = photo.crop((round(width * x0), round(height * y0), round(width * x1), round(height * y1)))
+        image = image.resize((520, round(520 * image.height / image.width)), Image.LANCZOS).convert("L")
+    else:
+        import pymupdf
+
+        page = pdf[figure["page"] - 1]
+        rect = page.rect
+        clip = pymupdf.Rect(rect.width * x0, rect.height * y0, rect.width * x1, rect.height * y1)
+        zoom = 520 / clip.width
+        pixmap = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), clip=clip)
+        image = Image.open(io.BytesIO(pixmap.tobytes("png"))).convert("L")
     target.parent.mkdir(parents=True, exist_ok=True)
     image.save(target, "WEBP", quality=82)
 
@@ -217,10 +226,11 @@ def build_subject(subject, info):
             if item["image"]:
                 name = f"{info['slug']}-{title.split()[-1].lower()}-c{item['number']:02d}.webp"
                 image = {"file": f"hinh/{name}", **item["image"]}
-                if pdf is not None:
+                photo = item["image"].get("photo")
+                if (PDF_DIR / photo).exists() if photo else pdf is not None:
                     crop_figure(pdf, item["image"], folder / image["file"])
                 elif not (folder / image["file"]).exists():
-                    fail(source, f"figure for question {item['number']} is missing and the PDF is not here")
+                    fail(source, f"figure for question {item['number']} is missing and its scan is not here")
             questions.append({
                 "number": item["number"],
                 "question": item["question"],

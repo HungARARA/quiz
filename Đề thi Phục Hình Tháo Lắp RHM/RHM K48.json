@@ -1,0 +1,1848 @@
+{
+  "title": "RHM K48",
+  "subject": "Đề thi Phục Hình Tháo Lắp RHM",
+  "source": "Phục hình RHM K48",
+  "header": [
+    "Phục hình I · Lần 1 · Ngày thi 15/04/2026 · 60 câu · 5 trạm, mỗi trạm 12 câu trong 7 phút",
+    "Nguồn: Đề Thi/PHTL K48 (10 ảnh chụp đề in): mã đề 283 ở ảnh 1–5, mã đề 190 ở ảnh 6–10 — cùng 60 câu, chỉ khác thứ tự; thứ tự câu ở đây theo mã đề 283; hai hình Kennedy cắt từ mã đề 190 vì in rõ hơn",
+    "Đáp án: đề không có đánh dấu; tất cả đáp án do AI chọn theo giáo trình PHTL"
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Độ overbite và độ overjet là 2 mm"
+        },
+        {
+          "label": "B",
+          "text": "Bờ cắn răng cửa trên hở với bờ cắn răng cửa dưới"
+        },
+        {
+          "label": "C",
+          "text": "Độ cắn sâu và độ cắn hở khoảng 2,5 mm"
+        },
+        {
+          "label": "D",
+          "text": "Độ cắn sâu và độ cắn hở khoảng 3 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khớp cắn bình thường khi ngậm miệng các răng cửa trên phủ các răng cửa dưới theo hai chiều: chiều dọc (overbite) khoảng 2 mm và chiều ngang (overjet) khoảng 2 mm. Overbite hơn 4 mm là cắn sâu, overjet hơn 4 mm là hô. (Giáo trình PHTL, Bài 2 – Khám bệnh nhân, mục 3.4.9)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 45) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 2,
+      "question": "Cách ghi tương quan hai hàm trong trường hợp mất răng Kenedy loại I trên cả hai cung hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cho 2 mẫu hàm khớp vào nhau mà không cần cách ghi nào khác"
+        },
+        {
+          "label": "B",
+          "text": "Khắc khóa trên gối sáp hàm dưới, gối sáp hàm trên nơi đối diện phủ 1 lớp sáp nhôm khoảng 1mm"
+        },
+        {
+          "label": "C",
+          "text": "Khắc khóa trên gối sáp hàm trên, gối sáp hàm dưới nơi đối diện phủ 1 lớp sáp lá khoảng 1mm"
+        },
+        {
+          "label": "D",
+          "text": "Khắc khóa trên gối sáp hàm trên, gối sáp hàm dưới nơi đối diện phủ 1 lớp sáp nhôm khoảng 1mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi mất răng Kennedy loại I, II trên cả hai cung hàm, không còn răng sau để chặn khớp. Gối sáp hàm trên được làm cao bằng mặt nhai các răng còn lại; khắc một dấu khóa chữ H sâu 1 mm trên gối sáp hàm trên; ở gối sáp hàm dưới, chỗ đối diện khóa chữ H được lấy bớt khoảng 1 mm sáp và thay bằng một lớp sáp nhôm. Làm mềm sáp nhôm rồi cho bệnh nhân cắn đúng vị trí, sáp nhôm sẽ ghi lại khóa. (Giáo trình PHTL, Bài 5, mục 7.2.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Phục hình tháo lắp bán phần nền nhựa có ưu điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ thích nghi"
+        },
+        {
+          "label": "B",
+          "text": "Dễ sửa chữa"
+        },
+        {
+          "label": "C",
+          "text": "Truyền lực nhai qua răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Hạn chế tiêu xương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa: rẻ tiền, tiết kiệm mô răng, dễ giữ vệ sinh, thời gian điều trị ngắn, và dễ sửa chữa — có thể thêm răng, thêm móc, đệm hàm khi bệnh nhân mất thêm răng hay gãy móc. (Giáo trình PHTL, Bài 1, mục 5.1; câu tự lượng giá 4)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 14) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 4,
+      "question": "Bệnh nhân mất răng sau hàm trên hai bên, lồi cùng bên phải có vùng lẹm rõ, vòm khẩu có torus giữa khá lớn, niêm mạc phủ mỏng. Kế hoạch tiền phục hình nào hợp lý nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phẫu thuật lồi cùng và giảm nén torus"
+        },
+        {
+          "label": "B",
+          "text": "Làm nền nhựa nhỏ, không phủ lồi cùng và torus"
+        },
+        {
+          "label": "C",
+          "text": "Tăng số móc lưu giữ, giảm nén lồi cùng và torus"
+        },
+        {
+          "label": "D",
+          "text": "Giảm nén vùng mô niêm mạc mỏng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình đánh giá lồi cùng tốt khi hai triền phía hành lang và khẩu cái song song nhau; những lồi cùng quá to hay có vùng lẹm thì cần phải phẫu thuật để điều chỉnh. Torus trên vòm khẩu là chỗ tăng xương ở giữa vòm khẩu, được phủ một lớp niêm mạc mỏng ít chịu được lực nén, nên phục hình tựa lên niêm mạc phải tạo sự giảm nén ở vùng này (chỉ khi torus quá lớn mới phải phẫu thuật). Vì vậy kế hoạch hợp lý là phẫu thuật chỉnh lồi cùng có vùng lẹm và giảm nén torus. (Giáo trình PHTL, Bài 2, mục 3.3.4 và 3.4.5; Bài 3, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Mã đề 283 in thiếu cụm “nào hợp lý nhất?” ở cuối câu hỏi; câu hỏi ở đây lấy theo mã đề 190."
+    },
+    {
+      "number": 5,
+      "question": "Điền khuyết. Đường nối giữa xương hàm trên: nếu không có đường gờ, việc mang hàm giả ………… dưới tác động của lực ép. Nếu có đường gờ cần ………… trên nền hàm.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không bị đau/ tạo sự giảm nén"
+        },
+        {
+          "label": "B",
+          "text": "Không bị đau/ mài hở"
+        },
+        {
+          "label": "C",
+          "text": "Có thể bị đau/ tạo sự giảm nén"
+        },
+        {
+          "label": "D",
+          "text": "Có thể bị đau/ khoét chữ U"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Lớp niêm mạc phủ đường nối giữa xương hàm trên rất mỏng. Nếu đường nối không có gờ thì hàm giả đè lên không gây đau dưới tác động của lực ép; nếu có đường gờ lồi lên thì phải tạo sự giảm nén trên nền hàm ở vùng này. (Giáo trình PHTL, Bài 2, mục 3.4.5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 20) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 6,
+      "question": "Bệnh nhân còn ít răng, nhiều răng lung lay độ 3–4, hàm giả cũ lỏng, khoảng mất răng quá lớn. Quyết định nào phù hợp nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thêm móc vào hàm cũ"
+        },
+        {
+          "label": "B",
+          "text": "Thay nền hàm mới"
+        },
+        {
+          "label": "C",
+          "text": "Bọc sứ các răng lung lay và đặt móc vào răng sứ"
+        },
+        {
+          "label": "D",
+          "text": "Nhổ răng lung lay và làm lại phục hình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình nêu: khi các răng trụ còn lại lung lay nhiều, không thể làm phục hình trên chân răng hay phục hình có mối nối chính xác, thì nếu còn nhiều răng trụ làm phục hình chuyển tiếp bằng hàm tháo lắp bán hàm nền nhựa; nếu còn ít răng trụ có thể nhổ hết và chỉ định phục hình toàn hàm. Hàm cũ không vững vì khoảng mất răng quá lớn cũng là lý do làm hàm mới. Bệnh nhân còn ít răng, nhiều răng lung lay độ 3–4 (lung lay hơn 1 mm hoặc theo chiều đứng) và hàm cũ đã lỏng → nhổ các răng lung lay và làm lại phục hình. (Giáo trình PHTL, Bài 2, mục 3.4.8 và 5)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 7,
+      "question": "Trên mẫu hàm nghiên cứu thấy răng 14 trồi nhiều, đường cong Spee bị rối loạn, khoảng liên hàm giảm và không đủ chỗ để sắp răng phục hình. Bước xử trí hợp lý nhất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng chiều dày nền hàm để bù thiếu khoảng"
+        },
+        {
+          "label": "B",
+          "text": "Điều chỉnh răng trồi và tăng khoảng liên hàm"
+        },
+        {
+          "label": "C",
+          "text": "Làm lõm đường cong spee vùng răng trồi"
+        },
+        {
+          "label": "D",
+          "text": "Chỉnh khớp răng trồi và điều chỉnh đường cong spee"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi phân tích mẫu hàm nghiên cứu, nếu mặt phẳng cắn khớp bị rối loạn và khoảng hở liên hàm quá hẹp, không đủ chỗ sắp răng, thì phải thiết lập lại mặt phẳng cắn khớp, có thể cắt bớt thân răng, mài hoặc lấy tủy và bọc mão răng trồi. Phần điều trị tiền phục hình về khớp cắn ghi: mài bỏ các điểm chạm sớm, nhổ hoặc bọc mão các răng bị trồi nhiều, mài điều chỉnh đường cong Spee. Hình 2.13 minh họa đúng trường hợp này: mài đỉnh múi ngoài răng 14, 15; răng 14 trồi hơn 2 mm thì chỉ định bọc mão. Chỉnh răng trồi và đưa đường cong Spee về bình thường cũng trả lại khoảng để sắp răng. (Giáo trình PHTL, Bài 2, mục 4 và 6.2, Hình 2.13)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Nội dung của lần hẹn ghi tương quan tâm trên lâm sàng bao gồm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy điều chỉnh đường cổ răng của các răng trước"
+        },
+        {
+          "label": "B",
+          "text": "Lấy khớp cắn"
+        },
+        {
+          "label": "C",
+          "text": "Thử răng răng trước"
+        },
+        {
+          "label": "D",
+          "text": "Thử răng sau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Một phục hình tháo lắp bán hàm nền nhựa thường gồm 5–6 lần hẹn. Lần 1: khám, chẩn đoán và lấy dấu hai hàm. Lần 2: lấy dấu sau cùng (nếu cần) và ghi tương quan hai hàm — xác định khớp cắn trung tâm hoặc tương quan tâm trên nền tạm – gối sáp, tức là lấy khớp cắn — để labo vô giá khớp và sắp răng. Thử răng thuộc lần hẹn sau, khi đã có hàm sáp. (Giáo trình PHTL, Bài 1, mục 7)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Ở phục hình tháo lắp bán phần, thông thường việc kiểm tra phát âm ở giai đoạn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn ghi tương quan hai hàm"
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn thử răng sau"
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn thử răng trước"
+        },
+        {
+          "label": "D",
+          "text": "Giai đoạn lấy kích thước dọc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Thử răng trên miệng là kiểm tra thẩm mỹ và chức năng (khớp cắn, phát âm, nuốt) của hàm sáp. Về phát âm, vị trí tốt nhất của các răng cửa trên được kiểm tra khi bệnh nhân phát âm chữ “F” và “V”, nên việc kiểm tra phát âm gắn với giai đoạn thử răng trước. Giáo trình lưu ý: với hàm nền nhựa, hàm sáp lúc thử thường không đủ lưu giữ để kiểm tra phát âm; với hàm khung bộ thì kiểm tra được. (Giáo trình PHTL, Bài 6, mục 7.2.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "Trường hợp mất răng sau đây: x x x 5 4 3 2 1 | 1 2 3 4 x x x x — khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "label": "C",
+          "text": "Phục hình tháo lắp bán phần nền nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sơ đồ là mất răng sau hai bên, không còn răng giới hạn phía xa (Kennedy loại I) nên không làm cầu răng được. Giáo trình xếp trường hợp “mất răng phía sau và không còn răng giới hạn phía xa (loại I, II Kennedy)” vào chỉ định của phục hình tháo lắp bán hàm nền nhựa. (Giáo trình PHTL, Bài 1, mục 3.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 19) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 11,
+      "question": "Khi lấy dấu alginate cho bệnh nhân mất răng bán phần, bác sĩ trộn đúng tỷ lệ nhưng khi đặt khay vào miệng lại thấy nhiều bọt và chi tiết hành lang không rõ. Nguyên nhân là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không làm khô các răng"
+        },
+        {
+          "label": "B",
+          "text": "Không cho bệnh nhân súc miệng sạch nước bọt"
+        },
+        {
+          "label": "C",
+          "text": "Vật liệu không được tạo áp lực đủ và đồng đều trên bề mặt ghi dấu"
+        },
+        {
+          "label": "D",
+          "text": "Lấy thiếu vật liệu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình nêu yêu cầu khi lấy dấu sơ khởi: vật liệu ghi dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt, tránh tạo bọt do không khí hay nước bọt. Kỹ thuật: lấp đầy alginate đến bờ khay, đặt khay đúng vị trí, ấn khay từ sau ra trước cho alginate tràn ra khỏi khay và lấp đầy đáy hành lang, rồi giữ khay yên, không thay đổi áp lực cho tới khi alginate đông cứng. Đã trộn đúng tỷ lệ mà dấu vẫn nhiều bọt và hành lang không rõ là do alginate không được ép với áp lực đủ và đồng đều lên bề mặt ghi dấu. (Giáo trình PHTL, Bài 4, mục 2.1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Khi khám cử động hàm dưới, bình thường lúc bệnh nhân há miệng, khoảng cách giữa hai cung hàm trên dưới là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 – 40 mm"
+        },
+        {
+          "label": "B",
+          "text": "40 – 50 mm"
+        },
+        {
+          "label": "C",
+          "text": "50 – 60 mm"
+        },
+        {
+          "label": "D",
+          "text": ">60 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi khám khớp thái dương hàm, biên độ há miệng bình thường là 40–50 mm. Nhỏ hơn 40 mm là há miệng hạn chế (cần tìm nguyên nhân ở khớp, cơ hay khớp cắn); lớn hơn 50 mm có thể do giãn dây chằng khớp quá mức. (Giáo trình PHTL, Bài 2, mục 3.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 44) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 13,
+      "question": "Chọn phát biểu đúng khi nói về hàm phục hình tháo lắp bán phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền hàm luôn được làm bằng nhựa tự cứng"
+        },
+        {
+          "label": "B",
+          "text": "Cấu tạo gồm có nền hàm và móc đúc"
+        },
+        {
+          "label": "C",
+          "text": "Lực nhai phân bố chủ yếu lên mô niêm mạc xương"
+        },
+        {
+          "label": "D",
+          "text": "Khó thực hiện các sửa chữa hàm khi có mất thêm răng hoặc gãy móc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Phục hình tháo lắp bán hàm nền nhựa gồm nền nhựa acrylic mang răng giả và hệ thống móc dây tròn; phần lớn hàm tựa lên mô xương – niêm mạc, nên lực nhai được truyền từ nền hàm qua niêm mạc xuống xương. Đây cũng là lý do hàm dễ bị lún, sức nhai kém và gây tiêu xương. (Giáo trình PHTL, Bài 1, mục 1 và 5.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Đối với bệnh nhân mất răng bán phần, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "label": "C",
+          "text": "Phục hình tháo lắp"
+        },
+        {
+          "label": "D",
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi lựa chọn kiểu phục hình cho bệnh nhân mất răng bán phần, nếu khoảng mất răng ngắn, có răng trụ ở hai đầu và chi phí không là trở ngại thì phục hình cố định luôn được ưu tiên; khi đoạn mất răng càng dài thì số lượng răng trụ càng quan trọng. (Giáo trình PHTL, Bài 2, mục 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 46) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 15,
+      "question": "Khi khám cung hàm dưới, sống hàm tốt là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng"
+        },
+        {
+          "label": "B",
+          "text": "Có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương"
+        },
+        {
+          "label": "C",
+          "text": "Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng"
+        },
+        {
+          "label": "D",
+          "text": "Sống hàm cao còn cách lỗ cằm 1 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sống hàm dưới tốt là sống hàm có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương. Sống hàm như vậy giúp nền hàm vững ổn theo chiều ngang và giữ dính tốt. (Giáo trình PHTL, Bài 2, mục 3.3.3; câu tự lượng giá 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 11) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 16,
+      "question": "Cấu trúc giải phẫu số 8 trong hình bên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khẩu cái mềm"
+        },
+        {
+          "label": "B",
+          "text": "Lỗ khẩu cái sau"
+        },
+        {
+          "label": "C",
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Đường rung chữ “a”"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k48-c16.webp",
+        "photo": "PHTL K48/daee9615900d1053491c2.jpg",
+        "box": [
+          0.135,
+          0.483,
+          0.315,
+          0.5795
+        ]
+      },
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trong hình các mốc giải phẫu hàm trên của giáo trình (Hình 2.1), số 8 là lỗ khẩu cái sau, nằm ở hai bên vòm khẩu vùng răng cối lớn. Niêm mạc ở đây mỏng, có nhiều mạch máu và thần kinh nên không chịu được lực nén. (Giáo trình PHTL, Bài 2, mục 1; Bài 19, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Số 8 ở cạnh dưới hình bị một vết mực in che một phần; cách đánh số giống Hình 2.1 của giáo trình (7 là đường giữa xương hàm trên, 8 là lỗ khẩu cái sau)."
+    },
+    {
+      "number": 17,
+      "question": "Sau khi lấy được một dấu sơ khởi tốt, bác sĩ để dấu trên bàn khá lâu rồi mới gửi đổ mẫu. Mẫu sẽ bị ảnh hưởng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mẫu hàm bị mất nước"
+        },
+        {
+          "label": "B",
+          "text": "Mẫu hàm bị biến dạng thu nhỏ"
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm sẽ bị biến dạng phình lớn"
+        },
+        {
+          "label": "D",
+          "text": "Mẫu hàm bị biến dạng xoắn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Chất lấy dấu không ổn định kích thước, nên giáo trình yêu cầu tránh biến dạng dấu do thời gian và đổ mẫu ngay — với alginate tối đa 15 phút sau khi lấy dấu. Theo tính chất của alginate (giáo trình không ghi chi tiết này), dấu để ngoài không khí sẽ mất nước và co lại, nên mẫu đổ từ dấu đó bị biến dạng thu nhỏ, không còn khớp với cung hàm thật. (Giáo trình PHTL, Bài 4, mục 2.1; Bài 24, mục 1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Khi dấu sơ khởi alginate bị bọt ít. Giải pháp khắc phục",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đệm toàn bộ dấu"
+        },
+        {
+          "label": "B",
+          "text": "Đệm chỗ bị bọt"
+        },
+        {
+          "label": "C",
+          "text": "Đệm chỗ bị bọt và các cấu trúc lân cận"
+        },
+        {
+          "label": "D",
+          "text": "Lấy dấu lại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sau khi lấy dấu, phải xem xét dấu cẩn thận: dấu phải không bị bọt, không bong khỏi khay, không bị rách, bờ khay không lộ ra khỏi chất lấy dấu, và phản ánh đủ các chi tiết của cung hàm, bề mặt tựa của hàm giả, nhất là các răng trụ. Giáo trình ghi rõ: nếu có những sai sót thì phải lấy dấu lại cho đến khi có kết quả thật tốt. (Giáo trình PHTL, Bài 4, mục 2.1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Cấu trúc giải phẫu số 7 trong hình bên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhú khẩu cái"
+        },
+        {
+          "label": "B",
+          "text": "Torus"
+        },
+        {
+          "label": "C",
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Khẩu cái"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k48-c19.webp",
+        "photo": "PHTL K48/daee9615900d1053491c2.jpg",
+        "box": [
+          0.135,
+          0.483,
+          0.315,
+          0.5795
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trong hình các mốc giải phẫu hàm trên của giáo trình (Hình 2.1), số 7 là đường nối giữa hai xương hàm trên, chạy dọc giữa vòm khẩu cái. Niêm mạc phủ trên đường này rất mỏng nên không chịu được lực nén mạnh; nếu có đường gờ thì phải tạo sự giảm nén trên nền hàm. (Giáo trình PHTL, Bài 2, mục 1; Bài 3, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Khuyết điểm của phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình tháo lắp tốn kém hơn phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình có tính xê dịch, tạo cảm giác bất ổn"
+        },
+        {
+          "label": "C",
+          "text": "Khó làm vệ sinh hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Sức nhai tốt hơn phục hình cố định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Nhược điểm của phục hình tháo lắp bán hàm nền nhựa: là vật lạ cồng kềnh, khó chịu khi mang; phục hình có tính xê dịch, tạo cảm giác bất ổn; tựa phần lớn lên mô xương – niêm mạc nên dễ lún, sức nhai kém, gây tiêu xương; dễ gây sâu răng, viêm nướu dọc vùng nướu giả. (Giáo trình PHTL, Bài 1, mục 5.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 2) và K41 (câu 32) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 21,
+      "question": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo ………… và tương quan theo …………",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều dọc/ chiều ngang"
+        },
+        {
+          "label": "B",
+          "text": "Chiều dọc/ chiều đứng"
+        },
+        {
+          "label": "C",
+          "text": "Chiều cao/ chiều đứng"
+        },
+        {
+          "label": "D",
+          "text": "Chiều cao/ chiều ngang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, gồm tương quan theo chiều dọc (kích thước dọc) và tương quan theo chiều ngang (khớp cắn trung tâm hoặc tương quan tâm). (Giáo trình PHTL, Bài 5 – Tương quan khớp cắn, mục 3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K47 (câu 29) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 22,
+      "question": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "label": "B",
+          "text": "Trên miệng bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Trên hai mẫu hàm thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Trên giá khớp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Tương quan hai hàm được xác định trên miệng bệnh nhân. Sau đó tương quan này được ghi lại nhờ nền tạm và gối sáp, chuyển qua hai mẫu hàm để chúng có mối tương quan giống như trên miệng, rồi vô giá khớp. (Giáo trình PHTL, Bài 5, mục 3; câu tự lượng giá 5)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Nền tạm cần đạt các yêu cầu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phủ 2/3 lồi cùng và 2/3 gối hậu nha"
+        },
+        {
+          "label": "B",
+          "text": "Ôm sát cổ răng các răng cửa, răng cối nhỏ, răng cối lớn"
+        },
+        {
+          "label": "C",
+          "text": "Có chiều dày đồng nhất khoảng 2mm và được làm nhẵn, bóng"
+        },
+        {
+          "label": "D",
+          "text": "Càng rộng, càng dày càng tốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Nền tạm là nền hàm tạm thời dùng suốt giai đoạn làm hàm, sau này được thay bằng nền nhựa. Yêu cầu: phủ và ôm sát sống hàm, vòm khẩu; ôm sát cổ răng trước và đường vòng lớn nhất của răng sau; tránh các thắng; bờ và góc tròn nhẵn; tương đối đối xứng; chiều dày đồng nhất khoảng 2 mm, nhẵn, bóng. (Giáo trình PHTL, Bài 5, mục 4.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K47 (câu 30) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 24,
+      "question": "Khi ghi khớp cắn trung tâm, bác sĩ cần phải:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại"
+        },
+        {
+          "label": "B",
+          "text": "Cần so màu răng"
+        },
+        {
+          "label": "C",
+          "text": "Không cần thử nền tạm – gối sáp"
+        },
+        {
+          "label": "D",
+          "text": "Luôn luôn làm khóa chữ H"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi ghi khớp cắn trung tâm, bệnh nhân được hướng dẫn cắn đúng vị trí (uốn lưỡi lên chạm khẩu cái phía sau rồi ngậm lại, hoặc nuốt nước bọt). Bác sĩ phải ghi nhận vị trí và điểm chạm của các răng còn lại trên cung hàm, cùng đường giữa hai cung răng, để chuyển chính xác lên mẫu hàm. (Giáo trình PHTL, Bài 5, mục 7.2.1; câu tự lượng giá 3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K47 (câu 37) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 25,
+      "question": "Khi lấy dấu hàm dưới, vị trí đứng của Bác sĩ như sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng phía sau, về phía bên phải bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Đứng phía sau, về phía bên trái bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Đứng phía trước, về phía bên phải bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Đứng phía trước, về phía bên trái bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi lấy dấu hàm dưới, bác sĩ đứng phía trước và về bên phải bệnh nhân (vị trí 9 giờ 30) để quan sát và thao tác trong miệng dễ dàng; khi lấy dấu hàm trên thì đứng phía sau, bên phải (vị trí 11 giờ 30). (Giáo trình PHTL, Bài 4, mục 1.3.1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 58), K43 (câu 21) và K45 (câu 10) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 26,
+      "question": "Khi nền hàm giả ở bờ hàm vùng khẩu cái quá dày thì sẽ gây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gây buồn nôn"
+        },
+        {
+          "label": "B",
+          "text": "Ảnh hưởng đến thẩm mỹ"
+        },
+        {
+          "label": "C",
+          "text": "Cản trở hoạt động của lưỡi"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi lắp hàm, phần nền hàm quá dày phải được mài điều chỉnh. Giáo trình nêu hậu quả theo từng vị trí: dày ở phía răng trước thì ảnh hưởng thẩm mỹ; nền dày nói chung cản trở hoạt động của lưỡi, hạn chế phát âm; còn dày ở phía sau răng cửa và bờ hàm vùng khẩu cái thì gây buồn nôn. Câu hỏi nói về bờ hàm vùng khẩu cái nên hậu quả là gây buồn nôn; bệnh nhân hết buồn nôn khi phần dư được mài bỏ. (Giáo trình PHTL, Bài 8, mục 1.2.2 và 2.1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Kích thước dọc cắn khớp là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng cách từ điểm nhô nhất ở mũi đến điểm nhô nhất ở cằm"
+        },
+        {
+          "label": "B",
+          "text": "Khoảng cách từ điểm nhô nhất ở mũi đến điểm nhô nhất ở cằm trừ đi 2mm (hoặc 4 mm)"
+        },
+        {
+          "label": "C",
+          "text": "Được xác định khi hàm dưới ở tư thế nghỉ"
+        },
+        {
+          "label": "D",
+          "text": "Không liên quan đến kích thước dọc nghỉ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Cách đo kích thước dọc: bệnh nhân ngồi thẳng, thư giãn, môi tiếp xúc nhẹ; đánh dấu một điểm nhô nhất ở mũi và một điểm nhô nhất ở cằm, khoảng cách giữa hai điểm là kích thước dọc nghỉ. Kích thước dọc cắn khớp bằng kích thước dọc nghỉ trừ đi khoảng nghỉ sinh lý 2–4 mm. (Giáo trình PHTL, Bài 5, mục 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K43 (câu 38) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 28,
+      "question": "Bệnh nhân mất răng bán phần, bản nền tạm đặt trong miệng bị rơi nhưng bác sĩ vẫn muốn ghi tương quan trung tâm. Giải pháp là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thêm móc"
+        },
+        {
+          "label": "B",
+          "text": "Gia cố sự khít sát của nền tạm"
+        },
+        {
+          "label": "C",
+          "text": "Thay nền"
+        },
+        {
+          "label": "D",
+          "text": "Dùng keo dán hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trước khi ghi tương quan hai hàm cho hàm nền nhựa phải thử nền tạm – gối sáp: nền tạm phải thật khít sát với sống hàm và vòm khẩu. Yêu cầu của nền tạm là phủ và ôm sát sống hàm, vòm khẩu cái, ôm sát cổ răng cửa và răng nanh, ôm sát ngang đường vòng lớn nhất của răng cối nhỏ và cối lớn. Nền tạm bị rơi là do chưa khít sát, nên phải gia cố sự khít sát của nền tạm để nó đứng vững rồi mới ghi tương quan trung tâm. (Giáo trình PHTL, Bài 5, mục 4.1 và 7.2.1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Khoảng cách giữa 2 cánh mũi bằng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kích thước 2 răng cửa giữa hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước 4 răng cửa hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Khoảng cách 2 đỉnh răng nanh hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước 6 răng cửa hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Theo Lee, khoảng cách giữa hai cánh mũi bằng khoảng cách giữa hai đỉnh nhọn của răng nanh hàm trên. Vì vậy khi lên răng trước, có thể kẻ đường thẳng từ cánh mũi xuống để định vị trí đỉnh răng nanh. (Giáo trình PHTL, Bài 30, mục 1.2.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Cho các ý sau đây, hãy sắp xếp theo thứ tự điều chỉnh khớp cắn: (1) Tái lập khớp cắn trung tâm đúng, (2) Hoàn hảo cắn khớp làm việc và thăng bằng, (3) Tái lập kích thước dọc đúng, (4) Tái lập khớp cắn tới đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(4), (1), (3), (2)"
+        },
+        {
+          "label": "B",
+          "text": "(1), (2), (3), (4)"
+        },
+        {
+          "label": "C",
+          "text": "(3), (1), (2), (4)"
+        },
+        {
+          "label": "D",
+          "text": "(1), (3), (4), (2)"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Thứ tự điều chỉnh khớp cắn khi lắp hàm: tái lập kích thước dọc đúng → tái lập khớp cắn trung tâm đúng → hoàn hảo cắn khớp bên làm việc và bên thăng bằng → tái lập khớp cắn tới đúng. Theo cách đánh số của câu hỏi, đó là (3), (1), (2), (4). (Giáo trình PHTL, Bài 8, mục 1.2.5)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Theo mặt phẳng dọc, góc độ nghiêng của răng cửa bên hàm trên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0°"
+        },
+        {
+          "label": "B",
+          "text": "3°"
+        },
+        {
+          "label": "C",
+          "text": "5°"
+        },
+        {
+          "label": "D",
+          "text": "10°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi sắp răng trước hàm trên theo mặt phẳng dọc giữa: răng cửa giữa có cổ răng hơi nghiêng vào trong khoảng 5°; răng cửa bên có cổ răng nghiêng trong nhiều hơn, khoảng 10°, mặt ngoài hơi lùi vào phía lưỡi hơn răng cửa giữa; răng nanh nghiêng khoảng 0–5°. (Giáo trình PHTL, Bài 6, mục 3.2.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Trong lúc hướng dẫn bệnh nhân đưa hàm dưới về vị trí tương quan trung tâm, bác sĩ cho bệnh nhân đưa hàm ra trước khoảng 45–60 giây rồi thả lỏng trước khi cắn lại. Mục đích chính của thao tác này là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kích thích cơ cắn co mạnh hơn và giữ hàm ở vị trí cắn"
+        },
+        {
+          "label": "B",
+          "text": "Giúp tăng kích thước dọc tạm thời trước khi cố định hai gối cắn"
+        },
+        {
+          "label": "C",
+          "text": "Làm mỏi cơ chân bướm ngoài để hàm dưới dễ trở về vị trí lùi sau"
+        },
+        {
+          "label": "D",
+          "text": "Tăng lực cắn để dấu khớp cắn rõ hơn trên gối sáp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình nêu các phương pháp giúp hàm dưới về vị trí tương quan trung tâm. Phương pháp đầu tiên là làm mỏi cơ chân bướm ngoài: cho bệnh nhân đưa hàm ra trước khoảng 45–60 giây; khi hàm trở về, cơ chân bướm ngoài (cơ kéo hàm dưới ra trước) được thư giãn nên hàm dưới dễ lùi về vị trí tương quan trung tâm. Các cách khác là định hướng lưỡi ra sau, cho bệnh nhân nuốt, tạo sự thư giãn và bác sĩ hướng dẫn hàm lùi ra sau. (Giáo trình PHTL, Bài 29, mục 3.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Trong trường hợp khoảng cách giữa 2 sống hàm ít, nên chọn răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sứ"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Răng sứ hàm trên, răng nhựa hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Răng nhựa hàm trên, răng sứ hàm dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Răng sứ lưu giữ kém trong nền nhựa acrylic: cần khoảng cách với hàm đối diện đủ cao thì phần tiếp xúc của răng (phần nằm trong nền) mới được nhựa giữ chắc; răng sứ cũng quá cứng nên khó mài khi sắp răng, chỉnh khớp. Răng nhựa thì lưu giữ tốt trong nền nhựa và dễ mài cho vừa khoảng trống, nên giáo trình chỉ định răng nhựa khi khoảng cách giữa hai hàm nhỏ. (Giáo trình PHTL, Bài 6 – mục 1.1; Bài 31 – mục 1.3)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K41 (câu 15) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 34,
+      "question": "Những điểm thuận lợi của hàm trên là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Núm sau răng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ “a”"
+        },
+        {
+          "label": "B",
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ “a”"
+        },
+        {
+          "label": "C",
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schorder"
+        },
+        {
+          "label": "D",
+          "text": "Núm sau răng cửa, sống hàm rộng và săn chắc và lồi cùng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Các phần tử thuận lợi của hàm trên gồm: vùng sau răng cửa và triền sống hàm phía khẩu cái (niêm mạc sợi săn chắc, chịu được lực), sống hàm rộng và săn chắc, lồi cùng (giữ hàm yên vị theo chiều ngang lẫn chiều đứng) và giới hạn giữa khẩu cái cứng – mềm, tức vùng đường rung chữ “a”. (Giáo trình PHTL, Bài 3, mục 1.1.1; câu tự lượng giá 1)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 1) và K47 (câu 14) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 35,
+      "question": "Mặt phẳng nào sau đây là mặt phẳng camper:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt phẳng tưởng tượng nối 2 điểm tragus và phía dưới cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "Mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "label": "C",
+          "text": "Mặt phẳng tưởng tượng đi qua bờ cắn của răng cửa và mặt nhai các răng cối"
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Mặt phẳng Camper là mặt phẳng tưởng tượng đi qua hai điểm tragus (bình tai) và điểm phía dưới cánh mũi. Mặt phẳng nhai phục hình được dựng song song với mặt phẳng này. (Giáo trình PHTL, Bài 3, mục 2; câu tự lượng giá 2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 2) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 36,
+      "question": "Vùng nào sau đây chịu nén:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lỗ khẩu cái sau"
+        },
+        {
+          "label": "B",
+          "text": "Lồi rắn"
+        },
+        {
+          "label": "C",
+          "text": "Vùng khẩu cái sau"
+        },
+        {
+          "label": "D",
+          "text": "Vòm khẩu cái"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Vòm khẩu cái cứng có niêm mạc dày, dính chặt vào xương nên chịu được lực nén và có vai trò rất quan trọng trong việc lưu giữ, nâng đỡ hàm giả trên. (Giáo trình PHTL, Bài 2, mục 3.4.5; Bài 3, câu tự lượng giá 4)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 3) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 37,
+      "question": "Một bệnh nhân lo lắng, ngồi không thoải mái, cơ nhai căng và liên tục đưa hàm ra trước khi thử ghi tương quan trung tâm. Bước xử trí phù hợp nhất là gì",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đưa bệnh nhân về trạng thái thư giãn, giảm co cứng"
+        },
+        {
+          "label": "B",
+          "text": "Hướng dẫn hàm dưới ra sau"
+        },
+        {
+          "label": "C",
+          "text": "Cho bệnh nhân súc miệng và nuốt nước bọt"
+        },
+        {
+          "label": "D",
+          "text": "Dùng tay đẩy lùi hàm dưới ra sau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Điều kiện lý tưởng để xác định tương quan trung tâm: bệnh nhân ngồi ở tư thế thoải mái, đầu thẳng, hai chân hơi dang ra, hai tay thả lỏng, và có tình trạng tâm lý thuận lợi để tạo sự thư giãn cơ. Trong các phương pháp đưa hàm dưới về tương quan trung tâm, giáo trình cũng có “tạo sự thư giãn tự nhiên hay nhân tạo”. Bệnh nhân lo lắng, cơ nhai căng và liên tục đưa hàm ra trước thì trước hết phải đưa bệnh nhân về trạng thái thư giãn, giảm co cứng cơ, rồi mới hướng dẫn hàm lùi về. (Giáo trình PHTL, Bài 29, mục 3.2–3.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "Núm sau răng cửa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là điểm bất lợi khi làm phục hình vì có thần kinh và mạch máu đi ra"
+        },
+        {
+          "label": "B",
+          "text": "Là điểm bất lợi khi làm phục hình vì nhiều mô mỡ"
+        },
+        {
+          "label": "C",
+          "text": "Là điểm thuận lợi khi làm phục hình vì được che chở bởi lớp niêm mạc sợi săn chắc, chịu được lực"
+        },
+        {
+          "label": "D",
+          "text": "Là điểm thuận lợi khi làm vì có nhiều phần mô mỡ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Núm sau răng cửa nằm ngay sau hai răng cửa giữa trên, là nơi dây thần kinh và mạch máu đi ra từ lỗ khẩu cái trước. Nếu nền hàm đè nén lên vùng này, bệnh nhân sẽ đau, tê, nóng rát, nên đây là điểm bất lợi khi làm phục hình và cần tránh đè nén. (Giáo trình PHTL, Bài 3, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 7) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 39,
+      "question": "Trong giai đoạn vào phần trên khuôn, thoa vaseline vào đáy khuôn có tác dụng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly răng giả và thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Cách ly thạch cao đáy khuôn và thạch cao khuôn phía trên"
+        },
+        {
+          "label": "C",
+          "text": "Cách ly móc và răng giả"
+        },
+        {
+          "label": "D",
+          "text": "Cách ly móc và răng thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sau khi thạch cao phần đáy khuôn đã cứng, thoa một lớp vaseline mỏng lên mặt thạch cao này rồi mới đặt phần trên khuôn và đổ thạch cao. Lớp vaseline cách ly thạch cao đáy khuôn với thạch cao phần trên, nhờ đó hai nửa khuôn tách ra được khi dội sáp. (Giáo trình PHTL, Bài 7, mục 2.1.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Những điểm đau thường gặp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bờ nền hàm vùng trước đường hàm móng"
+        },
+        {
+          "label": "B",
+          "text": "Vùng đường hàm móng"
+        },
+        {
+          "label": "C",
+          "text": "Vùng phía má của sống hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Vùng phía lưỡi của sống hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Những điểm chạm sớm, điểm chịu áp lực thường gây đau dưới nền hàm gồm: sống hàm dưới phía lưỡi vùng răng cối nhỏ, vùng đường hàm móng, bờ nền hàm vùng sau đường hàm móng, vùng phía má sống hàm trên, vùng lồi cùng, bờ nền hàm vùng gò má và vùng khuyết chân bướm hàm. Vùng đường hàm móng là gờ xương phủ niêm mạc mỏng nên rất hay bị đau. (Giáo trình PHTL, Bài 8, mục 1.2.6)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Yêu cầu của khay lấy dấu làm sẵn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mềm dẻo để không gây đau cho bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Bờ khay càng sát đáy hành lang càng tốt"
+        },
+        {
+          "label": "C",
+          "text": "Cứng rắn để không biến dạng khi lấy dấu"
+        },
+        {
+          "label": "D",
+          "text": "Trơn láng để không dính chất lấy dấu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khay lấy dấu làm sẵn (bằng kim loại hoặc nhựa, nhiều kích cỡ) phải cứng rắn để không biến dạng khi lấy dấu, có cơ chế lưu chất lấy dấu (gờ, lỗ lưu), và bờ, vách khay cách đều mô niêm mạc ít nhất 3 mm để chất lấy dấu đủ dày, đàn hồi tốt. (Giáo trình PHTL, Bài 4, mục 1.1.1; câu tự lượng giá 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 50), K41 (câu 56), K43 (câu 19) và K45 (câu 8) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 42,
+      "question": "Khi lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Bác sĩ đứng phía trước và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân ngồi thẳng tựa đầu vào ghế nha khoa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi lấy dấu hàm trên, bác sĩ đứng phía sau và về bên phải bệnh nhân (vị trí 11 giờ 30); khi lấy dấu hàm dưới, bác sĩ đứng phía trước và về bên phải (vị trí 9 giờ 30). Bệnh nhân ngồi thẳng, miệng ngang tầm tay bác sĩ. (Giáo trình PHTL, Bài 4, mục 1.3.1–1.3.2; câu tự lượng giá 6)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K45 (câu 9) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 43,
+      "question": "Trường hợp cần phải xác định lại kích thước dọc trước khi ghi tương quan hai hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi cung hàm còn răng thật và có tình trạng khớp cắn bình thường"
+        },
+        {
+          "label": "B",
+          "text": "Trường hợp mất răng loại I và loại II Kennedy trên 1 cung hàm"
+        },
+        {
+          "label": "C",
+          "text": "Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm"
+        },
+        {
+          "label": "D",
+          "text": "Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Kích thước dọc cắn khớp bình thường được giữ bởi sự tiếp xúc của các răng đối kháng còn lại. Khi không còn sự tiếp xúc răng — mất răng toàn hàm, hoặc mất răng xen kẽ mà các răng còn lại không còn điểm chạm — thì phải xác định lại kích thước dọc rồi mới ghi tương quan hai hàm. (Giáo trình PHTL, Bài 5, mục 5)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 15) có cùng câu hỏi và chọn đáp án này."
+    },
+    {
+      "number": 44,
+      "question": "Trong mài chỉnh khớp cắn thì tránh mài sửa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Múi chịu"
+        },
+        {
+          "label": "B",
+          "text": "Múi ngoài hàm trên và hàm dưới"
+        },
+        {
+          "label": "C",
+          "text": "Múi trong hàm trên và hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Rãnh, trũng giữa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Các múi chịu (múi trong răng trên, múi ngoài răng dưới) dùng để nghiền nát thức ăn và duy trì kích thước dọc cắn khớp, khớp cắn trung tâm và khớp cắn thăng bằng. Vì vậy khi mài chỉnh khớp phải tránh mài sửa các múi này. (Giáo trình PHTL, Bài 8, mục 1.2.4)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 45,
+      "question": "Tổng thời gian nấu chậm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "9 giờ"
+        },
+        {
+          "label": "B",
+          "text": "9 giờ 30 phút"
+        },
+        {
+          "label": "C",
+          "text": "10 giờ"
+        },
+        {
+          "label": "D",
+          "text": "10 giờ 30 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Cách nấu chậm: cho khuôn vào nước lạnh, đưa nhiệt độ lên khoảng 74°C và giữ 9 giờ, sau đó tăng lên khoảng 100°C và giữ 30 phút. Cộng lại tổng thời gian nấu chậm là 9 giờ 30 phút. (Giáo trình PHTL, Bài 7, mục 2.4.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 46,
+      "question": "Bệnh nhân mất răng trước hàm trên, yêu cầu thẩm mỹ cao, đồng thời có khớp cắn sâu rõ. Khi làm phục hình tháo lắp bán hàm nền nhựa, yếu tố nào làm tiên lượng kém thuận lợi nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chi phí và thời gian điều trị"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhựa kém thẩm mỹ"
+        },
+        {
+          "label": "C",
+          "text": "Dễ gãy nền hàm vùng răng thẩm mỹ"
+        },
+        {
+          "label": "D",
+          "text": "Khó tìm răng thay thế khi cần thêm răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trong các nhược điểm của phục hình tháo lắp bán hàm nền nhựa, giáo trình ghi: khó làm nhóm răng cửa trên nếu bệnh nhân có khớp cắn sâu. Với khớp cắn sâu, răng cửa dưới cắn sát vào vùng nền hàm phía sau răng cửa trên, nên phần nhựa ở đây rất mỏng mà lại chịu lực trực tiếp, dễ gãy nền hàm ở vùng răng trước — đây là yếu tố làm tiên lượng kém thuận lợi nhất. (Giáo trình PHTL, Bài 1, mục 5.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 47,
+      "question": "Mài theo quy tắc Bull:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Múi ngoài dưới, trong trên"
+        },
+        {
+          "label": "B",
+          "text": "Múi gần xa, ngoài trong"
+        },
+        {
+          "label": "C",
+          "text": "Múi ngoài trên, trong dưới"
+        },
+        {
+          "label": "D",
+          "text": "Múi chịu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Quy tắc Bull (Buccal of Upper, Lingual of Lower) dùng khi tái lập kích thước dọc hoặc chỉnh chạm sớm: mài múi ngoài của răng trên và múi trong của răng dưới — tức các múi không chịu — để giữ lại các múi chịu duy trì kích thước dọc. (Giáo trình PHTL, Bài 8, mục 1.2.5)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 48,
+      "question": "Sau khi khuôn đã được vô khuôn hoàn chỉnh và thạch cao cứng hoàn toàn, kỹ thuật viên đem dội sáp. Trình tự nào phù hợp nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chỉ cần ngâm khuôn thật lâu trong nước nóng, không cần tách sáp thủ công từng phần"
+        },
+        {
+          "label": "B",
+          "text": "Tách khuôn ngay khi còn nguội, rồi mới ngâm nước sôi để làm mềm sáp còn lại"
+        },
+        {
+          "label": "C",
+          "text": "Ngâm khuôn trong nước sôi 5–10 phút, tách khuôn nhẹ nhàng, lấy sáp mềm và dội sạch phần sáp còn lại"
+        },
+        {
+          "label": "D",
+          "text": "Thoa varnish trước, sau đó ngâm khuôn trong nước sôi để tránh dính nhựa vào thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình mô tả bước dội sáp: sau khi vô khuôn và thạch cao đã cứng hoàn toàn, đặt khuôn vào một cái giá và ngâm vào nước đang sôi từ 5 đến 10 phút; lấy khuôn ra, lách lưỡi dao vào khe giữa hai phần khuôn và tách khuôn nhẹ nhàng; lấy miếng sáp đã mềm nửa chừng ra; sau đó dùng nước sôi dội sạch sáp còn lại trên mẫu hàm và trên răng giả. Varnish chỉ thoa sau khi đã dội sạch sáp. (Giáo trình PHTL, Bài 7, mục 2.2–2.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 49,
+      "question": "Phân loại mất răng theo Kennedy:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại IV"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại IV, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại I, biến thể 1"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k48-c49.webp",
+        "photo": "PHTL K48/4d1d85e783ff03a15aee9.jpg",
+        "box": [
+          0.165,
+          0.237,
+          0.36,
+          0.345
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trong hình chỉ còn hai răng nanh; cả hai bên đều mất răng sau tới cuối cung (không còn răng giới hạn phía xa) → Kennedy loại I. Vùng răng cửa giữa hai răng nanh cũng mất, là một khoảng phụ → biến thể 1. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 48) và K45 (câu 5) dùng cùng hình và chọn đáp án này."
+    },
+    {
+      "number": 50,
+      "question": "Sau khi ép nhựa xong, kỹ thuật viên thấy khớp cắn bị cao nhẹ và muốn mài chỉnh trực tiếp trên hàm nhựa ngoài giá khớp để tiết kiệm thời gian. Cách xử trí nào hợp lý nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không cần chỉnh vì khi bệnh nhân tái khám khớp cắn, bác sĩ sẽ điều chỉnh"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ cần mài bớt nền hàm là có thể đưa khớp cắn về vị trí trung tâm"
+        },
+        {
+          "label": "C",
+          "text": "Gắn mẫu trở lại đúng giá khớp cũ, dùng giấy cắn tìm điểm chạm sớm rồi mài chỉnh"
+        },
+        {
+          "label": "D",
+          "text": "Mài trực tiếp ngoài miệng mẫu vì sai lệch sau ép nhựa thường rất nhỏ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sau khi ép nhựa xong, khớp cắn thường bị cao. Giáo trình hướng dẫn: đặt mẫu hàm trở lại trên giá khớp đã dùng trước khi ép nhựa, dùng giấy cắn đặt giữa hai mẫu hàm và chập hai càng giá khớp lại, tìm và mài những điểm chạm sớm cho đến khi hai hàm chạm đều và có lại vị trí khớp cắn trung tâm giống như lúc sắp răng. (Giáo trình PHTL, Bài 7, mục 2.6)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 51,
+      "question": "Vùng Schroder là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Từ răng cửa giữa đến đường A"
+        },
+        {
+          "label": "B",
+          "text": "Từ răng nanh đến đường A"
+        },
+        {
+          "label": "C",
+          "text": "Từ răng cối nhỏ đến đường A"
+        },
+        {
+          "label": "D",
+          "text": "Từ răng cối lớn đến đường A"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Vùng Schroder là hai vùng lõm ở hai bên khẩu cái, tính từ vị trí răng cối nhỏ trở vào trong (về phía sau). Niêm mạc ở đây có nhiều mô mỡ và mô tuyến, không chịu được lực nén mạnh nên là phần tử bất lợi của hàm trên. (Giáo trình PHTL, Bài 3, mục 1.1.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 52,
+      "question": "Khi vô khuôn 3 lớp, kỹ thuật viên đổ thạch cao cứng ở phần trên khuôn đến ngang mặt nhai các răng rồi mới tiếp tục đổ đầy khuôn. Mục đích chính của thao tác này là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng độ bóng bề mặt nền nhựa sau khi ép khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Giúp khuôn chính xác hơn và hạn chế răng giả bị xê dịch khi dội sáp"
+        },
+        {
+          "label": "C",
+          "text": "Tạo khoảng trống để sau đó bơm thêm nhựa lỏng dễ dàng hơn"
+        },
+        {
+          "label": "D",
+          "text": "Giảm thời gian đông cứng của khối thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình mô tả vào phần trên khuôn: khi thạch cao đáy khuôn đã cứng, thoa vaseline; trộn thạch cao cứng đổ vào khuôn đến vị trí mặt nhai các răng, vét để lộ mặt nhai; đợi khô, thoa vaseline lên mặt thạch cao, rồi đổ thạch cao từ từ cho đến đầy khuôn. Lớp thạch cao cứng bao quanh và giữ chặt các răng giả, nên khuôn ghi lại chính xác hình dạng hàm sáp và răng không bị xê dịch khi dội sáp, ép nhựa. (Giáo trình PHTL, Bài 7, mục 2.1.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 53,
+      "question": "Trước khi biến đổi hàm sáp thành hàm nhựa phải thực hiện giai đoạn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vô giá khớp"
+        },
+        {
+          "label": "B",
+          "text": "Thử răng"
+        },
+        {
+          "label": "C",
+          "text": "Ghi tương quan"
+        },
+        {
+          "label": "D",
+          "text": "Lấy khớp cắn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sau khi lên răng trên hàm sáp, phải thử răng trên miệng bệnh nhân để kiểm tra thẩm mỹ (hình dạng, màu, vị trí răng, đường giữa) và chức năng (khớp cắn, phát âm, nuốt). Chỉ khi hàm sáp đạt yêu cầu mới đem vô khuôn, ép nhựa và hoàn thiện. (Giáo trình PHTL, Bài 1, mục 7; Bài 6, mục 7)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 54,
+      "question": "Trong giai đoạn sửa soạn trước khi vô khuôn, kỹ thuật viên không dán sát mép nền sáp vào mẫu thạch cao. Sai sót này dễ dẫn đến hậu quả nào nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả sẽ đổi màu trong quá trình nấu nhựa"
+        },
+        {
+          "label": "B",
+          "text": "Tôn trọng hình dạng ngách hành lang"
+        },
+        {
+          "label": "C",
+          "text": "Thạch cao có thể chui xuống dưới lớp sáp và làm sai mẫu"
+        },
+        {
+          "label": "D",
+          "text": "Trách sự dịch chuyển trong quá trình vào khuôn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trước khi vô khuôn, mép nền sáp phải được dán chặt vào mẫu thạch cao để thạch cao vô khuôn không chui xuống dưới lớp sáp (lọt vào giữa nền sáp và mẫu hàm). Nếu không dán sát, thạch cao lọt vào khe này làm sai mẫu hàm và mặt trong nền hàm, hàm nhựa sau khi ép sẽ không còn khít với mô. (Giáo trình PHTL, Bài 7, mục 2.1.1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 55,
+      "question": "Trong giai đoạn sửa soạn vào khuôn. Vaseline có tác dụng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly thạch cao với khuôn ép"
+        },
+        {
+          "label": "B",
+          "text": "Cách ly mẫu hàm và khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Cách ly răng với thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Cách ly sáp với thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Ở giai đoạn sửa soạn vô khuôn, mẫu hàm được ngâm nước cho ướt, thử cho vừa với khuôn (cách đều thành khuôn khoảng 5 mm), rồi thoa một lớp vaseline lên bề mặt mẫu hàm và mặt trong của khuôn. Lớp vaseline giúp khối thạch cao không dính vào khuôn ép kim loại, để sau khi nấu có thể gỡ thạch cao ra khỏi khuôn. (Giáo trình PHTL, Bài 7, mục 2.1.1)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 56,
+      "question": "Khi đặt mẫu hàm vào khuôn ép cần chú ý:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt nhai các răng song song khuôn ép"
+        },
+        {
+          "label": "B",
+          "text": "Mẫu hàm cách đáy khuôn 5-6 mm"
+        },
+        {
+          "label": "C",
+          "text": "Làm láng bề mặt thạch cao cố định mẫu hàm và không được tạo vùng lẹm"
+        },
+        {
+          "label": "D",
+          "text": "Mặt nhai các răng cách thành khuôn 3 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi vào phần đáy khuôn, mẫu hàm được đặt vào thạch cao sao cho cách đều thành khuôn, mặt nhai các răng cách bờ khuôn 5–6 mm. Bề mặt thạch cao cố định mẫu hàm phải được làm láng và tuyệt đối không tạo vùng lẹm, để sau này tách được hai nửa khuôn mà không làm vỡ thạch cao. (Giáo trình PHTL, Bài 7, mục 2.1.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 57,
+      "question": "Khi đổ thạch cao phủ móc và các răng thạch cao của mẫu hàm thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc và răng giả ở hai phần khuôn khác nhau"
+        },
+        {
+          "label": "B",
+          "text": "Móc và răng giả ở cùng 1 phần khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Răng giả và răng thạch cao nằm ở cùng khuôn"
+        },
+        {
+          "label": "D",
+          "text": "Răng giả, móc và răng thạch cao ở cùng khuôn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Có hai cách vào phần đáy khuôn với hàm bán phần nền nhựa. Nếu đổ thạch cao phủ cả móc và các răng thạch cao của mẫu hàm thì móc nằm ở phần đáy khuôn, còn răng giả nằm ở phần trên khuôn — khi gỡ khuôn, răng giả và móc ở hai phần khuôn khác nhau. (Giáo trình PHTL, Bài 7, mục 2.1.2)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 58,
+      "question": "Phân loại mất răng theo Kennedy:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng loại III, biến thể 2"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng loại IV"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng loại IV, biến thể 2"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-k48-c58.webp",
+        "photo": "PHTL K48/4d1d85e783ff03a15aee9.jpg",
+        "box": [
+          0.16,
+          0.435,
+          0.34,
+          0.535
+        ]
+      },
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Trong hình, một bên mất răng sau tới cuối cung → Kennedy loại II. Ngoài vùng đó còn hai khoảng mất răng phụ: vùng răng cửa giữa hai răng nanh và vùng giữa răng nanh với răng cối ở bên còn răng → biến thể 2. (Giáo trình PHTL, Bài 3, mục 4.1–4.2)",
+      "aiOriginal": null,
+      "scanNote": "Đề RHM K40 (câu 49) và K45 (câu 6) dùng cùng hình và chọn đáp án này."
+    },
+    {
+      "number": 59,
+      "question": "Thoa Varnish khi nào là tốt nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi vừa dội sáp xong"
+        },
+        {
+          "label": "B",
+          "text": "Khi mẫu hàm còn ấm"
+        },
+        {
+          "label": "C",
+          "text": "Khi mẫu hàm đã nguội hoàn toàn"
+        },
+        {
+          "label": "D",
+          "text": "Khi mẫu hàm còn bốc hơi nước"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sau khi dội sạch sáp, varnish được thoa lên mặt thạch cao khi khuôn còn nóng (ấm) nhưng đã hết bốc hơi nước: nhiệt độ giúp varnish khô nhanh thành lớp mỏng, còn nếu đang bốc hơi thì varnish không bám tốt. (Giáo trình PHTL, Bài 7, mục 2.3)",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 60,
+      "question": "Bước cuối cùng khi giao hàm là kiểm tra:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sự khít sát"
+        },
+        {
+          "label": "B",
+          "text": "Kiểm tra kích thước dọc và điều chỉnh khớp cắn"
+        },
+        {
+          "label": "C",
+          "text": "Kiểm tra thẩm mỹ"
+        },
+        {
+          "label": "D",
+          "text": "Kiểm tra nền hàm, sự lưu giữ và vững ổn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Khi lắp hàm, bác sĩ lần lượt kiểm tra sự khít sát, nền hàm, sự lưu giữ và vững ổn, thẩm mỹ; bước cuối cùng khi giao hàm cho bệnh nhân là kiểm tra kích thước dọc và điều chỉnh khớp cắn, sao cho răng thật và răng giả tiếp xúc đồng đều ở đúng kích thước dọc cắn khớp. (Giáo trình PHTL, Bài 8, mục 1.2.4)",
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}
