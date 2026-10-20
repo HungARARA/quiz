@@ -232,6 +232,7 @@ async function build() {
     const seen = new Set();
     const isAzota = file.subject === "Sâu Răng Học Azota Thông Võ";
     const isExam = EXAM_SUBJECTS.has(file.subject);
+    let note = null; // canh bao hien truoc ten de: { note, noteLabel }
     if (!isExam && (!isAzota || file.name === "Bài 1")) {
       const res = await ingestDocx(file.fullPath, file.name, bucket, seen);
       if (res.error || bucket.length === 0) {
@@ -303,6 +304,7 @@ async function build() {
       ) {
         throw new Error(`${file.id}: Word va JSON lech so cau — chay lai build-de-thi-rhm.py`);
       }
+      note = exam.note ? { note: exam.note, noteLabel: exam.noteLabel } : null;
       for (const q of exam.questions) {
         let image = null;
         if (q.image) {
@@ -336,6 +338,7 @@ async function build() {
       size: file.size,
       mtime: file.mtime,
       count: bucket.length,
+      ...(note || {}),
     });
     questionsById[file.id] = bucket;
     totalQuestions += bucket.length;

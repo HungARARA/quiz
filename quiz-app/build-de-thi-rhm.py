@@ -7,9 +7,13 @@ Each exam was transcribed by hand from the scanned PDFs and photos in "Đề Thi
   <subject>/hinh/*.webp    - figures cropped from the scan (only when the scan is present)
 
 Source format:
+  # RHM Kxx                    first header line, the exam title
+  # Ghi chú (nhãn): text     optional warning: the short label shows before the exam name on the site
+                             and in the quiz title, the full text on hover and atop the Word file
   Câu N. question text
   [hinh: page x0 y0 x1 y1]   optional figure, page of the PDF and its box as page fractions
   [hinh: photo x0 y0 x1 y1]  the same, cropped from a photo under "Đề Thi/" (e.g. PHTL K48/a.jpg)
+                             or from a page of another PDF there (e.g. PHTL K44/RHM K44.pdf#3)
   *A. option   answer marked in the scanned exam
   @A. option   answer chosen by AI (exam unmarked; taken from another year or reasoned)
   ?A. / !B.    exam marked A but AI picked B (shown with a warning badge)
@@ -25,7 +29,7 @@ import sys
 from pathlib import Path
 
 from docx import Document
-from docx.shared import Inches, Pt
+from docx.shared import Inches, Pt, RGBColor
 
 ROOT = Path(__file__).resolve().parent.parent
 PDF_DIR = ROOT / "Đề Thi"
@@ -39,7 +43,8 @@ SUBJECTS = {
 }
 QUESTION_RE = re.compile(r"^Câu (\d+)\.\s+(.+)$")
 OPTION_RE = re.compile(r"^([*@?!]?)([A-F])\.\s+(.+)$")
-IMAGE_RE = re.compile(r"^\[hinh: (\d+|.+?\.(?:jpg|jpeg|png)) ([\d.]+) ([\d.]+) ([\d.]+) ([\d.]+)\]$")
+NOTE_RE = re.compile(r"^Ghi chú \((.+?)\):\s*(.+)$")
+IMAGE_RE = re.compile(r"^\[hinh: (\d+|.+?\.(?:jpg|jpeg|png)|.+?\.pdf#\d+) ([\d.]+) ([\d.]+) ([\d.]+) ([\d.]+)\]$")
 
 
 def fail(path, message):
@@ -123,15 +128,21 @@ def crop_figure(pdf, figure, target):
     from PIL import Image, ImageOps
 
     x0, y0, x1, y1 = figure["box"]
-    if "photo" in figure:
-        photo = ImageOps.exif_transpose(Image.open(PDF_DIR / figure["photo"]))
+    source, page_number = figure.get("photo"), figure.get("page")
+    if source and "#" in source:  # a page of a separate PDF, "folder/file.pdf#3"
+        import pymupdf
+
+        source, number = source.rsplit("#", 1)
+        pdf, page_number, source = pymupdf.open(PDF_DIR / source), int(number), None
+    if source:
+        photo = ImageOps.exif_transpose(Image.open(PDF_DIR / source))
         width, height = photo.size
         image = photo.crop((round(width * x0), round(height * y0), round(width * x1), round(height * y1)))
         image = image.resize((520, round(520 * image.height / image.width)), Image.LANCZOS).convert("L")
     else:
         import pymupdf
 
-        page = pdf[figure["page"] - 1]
+        page = pdf[page_number - 1]
         rect = page.rect
         clip = pymupdf.Rect(rect.width * x0, rect.height * y0, rect.width * x1, rect.height * y1)
         zoom = 520 / clip.width
@@ -141,7 +152,7 @@ def crop_figure(pdf, figure, target):
     image.save(target, "WEBP", quality=82)
 
 
-def create_docx(title, header, questions, folder, target):
+def create_docx(title, header, note, questions, folder, target):
     doc = Document()
     section = doc.sections[0]
     section.page_width, section.page_height = Inches(8.5), Inches(11)
@@ -152,6 +163,10 @@ def create_docx(title, header, questions, folder, target):
     normal.font.size = Pt(10.5)
     normal.paragraph_format.space_after = Pt(1.5)
 
+    if note:
+        run = doc.add_paragraph().add_run(f"⚠️ {note}")
+        run.bold = True
+        run.font.color.rgb = RGBColor(0xB4, 0x3C, 0x00)
     heading = doc.add_paragraph()
     run = heading.add_run(title)
     run.bold = True
@@ -209,6 +224,13 @@ def build_subject(subject, info):
         header, items = parse(source)
         if not header or header[0] != title:
             fail(source, "first header line must be the exam title")
+        notes = [NOTE_RE.match(line) for line in header[1:] if NOTE_RE.match(line)]
+        header = [line for line in header if not NOTE_RE.match(line)]
+        if len(notes) > 1:
+            fail(source, "only one 'Ghi chú' header line is allowed")
+        note_label, note = (notes[0].group(1), notes[0].group(2).strip()) if notes else (None, None)
+        if note and not note_label:
+            fail(source, "the 'Ghi chú' header needs a short label: '# Ghi chú (nhãn): …'")
         numbers = [q["number"] for q in items]
         if numbers != sorted(set(numbers)):
             fail(source, "question numbers are repeated or out of order")
@@ -227,7 +249,7 @@ def build_subject(subject, info):
                 name = f"{info['slug']}-{title.split()[-1].lower()}-c{item['number']:02d}.webp"
                 image = {"file": f"hinh/{name}", **item["image"]}
                 photo = item["image"].get("photo")
-                if (PDF_DIR / photo).exists() if photo else pdf is not None:
+                if (PDF_DIR / photo.split("#")[0]).exists() if photo else pdf is not None:
                     crop_figure(pdf, item["image"], folder / image["file"])
                 elif not (folder / image["file"]).exists():
                     fail(source, f"figure for question {item['number']} is missing and its scan is not here")
@@ -244,9 +266,11 @@ def build_subject(subject, info):
             "subject": subject,
             "source": f"{info['short']} {title}",
             "header": header[1:],
+            "note": note,
+            "noteLabel": note_label,
             "questions": questions,
         }, ensure_ascii=False, indent=2), encoding="utf-8")
-        create_docx(title, header, questions, folder, folder / f"{title}.docx")
+        create_docx(title, header, note and f"{note_label}. {note}", questions, folder, folder / f"{title}.docx")
         report.append(
             f"  {subject} / {title}: {len(questions)} câu, "
             f"{sum(q['correctIndex'] is not None and not q['ai'] for q in questions)} theo đề, "

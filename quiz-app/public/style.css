@@ -775,6 +775,22 @@ body {
   white-space: nowrap;
 }
 
+/* De co canh bao (vd. dung lai tu ban scan hong): dong nho nam tren ten de */
+.lib-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.lib-note {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #a86200;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 /* ===== Settings Panel ===== */
 .settings-panel {
   background: var(--bg-card);

@@ -3,10 +3,12 @@
   "subject": "Đề thi Phục Hình Tháo Lắp RHM",
   "source": "Phục hình RHM K43",
   "header": [
-    "Phục hình I · Đề 100 · Lần 1 · Ngày thi 31/12/2020 · 60 câu (bỏ câu 51, 52 vì bản scan nhòe) · 35 phút",
+    "Phục hình I · Đề 100 · Lần 1 · Ngày thi 31/12/2020 · 60 câu (bỏ câu 51 vì bản scan nhòe; câu 52 dựng lại từ phần còn đọc được) · 35 phút",
     "Nguồn: Đề Thi/phục hình tháo lắp bán phần nền nhựa ( phục hình I ) - biên soạn Võ Viễn Thông.pdf (trang 24–29)",
     "Đáp án: theo các phương án được gạch chéo trong đề (không phải đáp án chính thức của bộ môn)"
   ],
+  "note": null,
+  "noteLabel": null,
   "questions": [
     {
       "number": 1,
@@ -1570,6 +1572,36 @@
       "aiNote": null,
       "aiOriginal": null,
       "scanNote": null
+    },
+    {
+      "number": 52,
+      "question": "Trường hợp mất hết các răng sau, gối sáp được vát bao nhiêu độ tại vùng răng 7 để tránh vướng khi cắn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 độ"
+        },
+        {
+          "label": "B",
+          "text": "45 độ"
+        },
+        {
+          "label": "C",
+          "text": "60 độ"
+        },
+        {
+          "label": "D",
+          "text": "90 độ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Theo giáo trình, gối sáp là khối sáp gắn liền vào nền tạm ở vị trí khoảng mất răng, hoặc gắn vào khung sườn ở phần yên kim loại. Gối sáp dùng để ghi tương quan hai hàm và là nơi sắp các răng giả thay cho các răng đã mất. Đặc điểm của gối sáp: đặt ngay trên đỉnh sống hàm; cao hơn các răng còn lại khoảng 1–1,5 mm; rộng hơn các răng còn lại 1–1,5 mm (khoảng 6 mm ở vùng răng trước và 8 mm ở vùng răng sau); chiều dài vừa chạm răng thật ở đầu khoảng mất răng. Riêng trường hợp mất hết các răng sau, gối sáp chỉ làm đến vùng răng cối lớn thứ nhất (răng 6) và được vát một góc 45° tại vùng răng cối lớn thứ hai (răng 7) để tránh vướng khi cắn. Gối sáp cũng không được nằm trên lồi cùng và gối hậu nha. Vì vậy góc vát tại vùng răng 7 là “45 độ”. (Giáo trình PHTL, Bài 5, mục 4.2 Gối sáp, tr. 57)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": "Vùng câu này trên bản scan bị nhòe: cụm “sau, gối sáp” cuối dòng đầu không đọc được, được điền theo giáo trình và đề RHM K45 (câu 34); số “7” và bốn phương án vẫn đọc được. Đề gốc gạch chéo phương án “45 độ”. Đề RHM K45 (câu 34) có cùng câu hỏi và chọn đáp án này."
     },
     {
       "number": 53,

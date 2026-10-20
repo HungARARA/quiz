@@ -443,6 +443,12 @@ function groupLibraryBySubject() {
  * danh sách đề của môn đó. Nhờ vậy thêm bao nhiêu môn trang vẫn ngắn.
  * Đề của môn đang đóng thì KHÔNG dựng ra DOM cho nhẹ máy.
  */
+// De co ghi chu (vd. dung lai tu ban scan hong): nhan ngan hien truoc ten de,
+// ghi chu day du nam o title cua the de.
+function noteLabel(f) {
+  return f.noteLabel || "Có ghi chú";
+}
+
 function renderLibraryGrid() {
   const groups = groupLibraryBySubject();
   const q = foldVietnamese(librarySearch.trim());
@@ -469,7 +475,14 @@ function renderLibraryGrid() {
             <button class="lib-card${librarySelected.has(f.id) ? " selected" : ""}"
                     type="button" data-id="${escapeHtml(f.id)}">
               <span class="lib-check">${librarySelected.has(f.id) ? "✓" : ""}</span>
-              <span class="lib-name">${escapeHtml(f.name)}</span>
+              ${
+                f.note
+                  ? `<span class="lib-text" title="${escapeHtml(f.note)}">
+                <span class="lib-note">⚠️ ${escapeHtml(noteLabel(f))}</span>
+                <span class="lib-name">${escapeHtml(f.name)}</span>
+              </span>`
+                  : `<span class="lib-name">${escapeHtml(f.name)}</span>`
+              }
             </button>`,
           )
           .join("")}</div>`
@@ -574,10 +587,10 @@ btnLoadLibrary.addEventListener("click", async () => {
   const ids = Array.from(librarySelected);
   if (ids.length === 0) return;
 
-  const label =
-    ids.length === 1
-      ? (libraryFiles.find((f) => f.id === ids[0]) || {}).name || "Bài kiểm tra"
-      : `Tổng hợp ${ids.length} đề`;
+  const one = ids.length === 1 ? libraryFiles.find((f) => f.id === ids[0]) || {} : null;
+  const label = one
+    ? `${one.note ? `⚠️ ${noteLabel(one)} · ` : ""}${one.name || "Bài kiểm tra"}`
+    : `Tổng hợp ${ids.length} đề`;
 
   await requestQuestions(() => apiLoadLibrary(ids), label);
 });
