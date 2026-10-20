@@ -1,0 +1,539 @@
+# RHM K44
+# Ghi chú (Dựng lại từ bản scan nát): Bản scan K44 duy nhất bị làm nét quá tay, chữ dính và méo. Đề được dựng lại bằng cách đọc nét chữ còn sót, đối chiếu với đề các khóa khác và giáo trình, rồi một người khác soát lại độc lập. Nhiều chữ chỉ đọc gần đúng (xem ghi chú bản scan ở từng câu); câu 59 bị bỏ vì hai phương án không đọc được. Đề không có đáp án khoanh, toàn bộ đáp án do AI chọn theo giáo trình Sâu Răng Học.
+# Đề 100 · Lần 1 · Ngày thi 05/…/2021 (số tháng nhòe) · 70 câu (bỏ câu 59) · 50 phút
+# Nguồn: Đề Thi/a3bd87e4-83d6-4e95-99ad-b23642134572.pdf (trang 15–20, bản scan bị làm nét quá tay)
+# Đáp án: đề không có đánh dấu; tất cả đáp án do AI chọn theo giáo trình Sâu Răng Học
+
+Câu 1. Giai đoạn sâu răng mới chớm tương ứng với thang điểm mấy của hệ thống phân loại ICDAS?
+A. Điểm 0
+B. Điểm 1
+C. Điểm 2
+@D. Điểm 1 và Điểm 2
+> Giáo trình phân loại sâu răng theo mức độ tiến triển dựa trên Hệ thống đánh giá, phát hiện sâu răng (ICDAS) và Hiệp hội Nha khoa Hoa Kỳ (ADA), gồm ba giai đoạn: sâu răng mới chớm, sâu răng được hình thành và sâu răng tiến triển. Sâu răng mới chớm là sang thương màu trắng đục hoặc nâu, chỉ giới hạn ở lớp men và chưa tạo thành lỗ sâu; vùng mất khoáng chỉ phát hiện được sau khi thổi khô bề mặt răng. Bảng 5.2 xếp nhóm sâu răng mới chớm gồm ICDAS 1 và ICDAS 2, khớp với mô tả ở Bảng 5.3: điểm 1 là thay đổi đầu tiên thấy được trên men (chỉ thấy khi thổi khô lâu) hoặc chỉ khu trú trong hố rãnh, còn điểm 2 là biến đổi dễ thấy trên men. Vì vậy giai đoạn sâu răng mới chớm ứng với “Điểm 1 và Điểm 2”. (Giáo trình Sâu Răng Học, Bài 5, mục 3, Bảng 5.2–5.3)
+
+Câu 2. Giai đoạn sâu răng lan rộng tương ứng với thang điểm mấy của hệ thống phân loại ICDAS?
+A. Điểm 4
+B. Điểm 5
+C. Điểm 4 và điểm 5
+@D. Điểm 5 và Điểm 6
+> Bảng 5.2 chia các thang điểm ICDAS thành ba nhóm: sâu răng mới chớm (ICDAS 1, 2), sâu răng hình thành (ICDAS 3, 4) và sâu răng tiến triển (ICDAS 5, 6). Giai đoạn đề gọi là “lan rộng” chính là nhóm cuối, mà giáo trình gọi là sâu răng tiến triển. Ở giai đoạn này, lỗ sâu đã lan tới lớp ngà, lớp men bị phá hủy hoàn toàn và lớp ngà bị khử khoáng trầm trọng; khi nạo xoang thấy có ngà mềm, còn ngà phản ứng và ngà xơ không kịp thành lập để bảo vệ tủy. Bảng 5.3 mô tả hai thang điểm của nhóm này: điểm 5 là có lỗ sâu và lộ ngà; điểm 6 là lỗ sâu lớn, dễ nhận thấy và thấy rõ ngà (thường chiếm hơn một nửa bề mặt). Vậy giai đoạn sâu răng lan rộng ứng với “Điểm 5 và Điểm 6”. (Giáo trình Sâu Răng Học, Bài 5, mục 3, Bảng 5.2–5.3)
+>> Phương án “Điểm 5” (đứng riêng) bị nhòe nặng, đọc là 5 theo dáng chữ số giống số 5 ở các phương án khác, ít khả năng là “Điểm 3”.
+
+Câu 3. Nguyên lý Tảng băng trôi cho rằng:
+A. Giai đoạn sâu răng mới chớm thuộc phần nổi của tảng băng
+@B. Giai đoạn sâu răng lan rộng thuộc phần nổi của tảng băng
+C. Giai đoạn sâu răng khởi phát thuộc phần nổi của tảng băng
+D. Giai đoạn sâu răng không hoạt động thuộc phần nổi của tảng băng
+> Mô hình “tảng băng trôi” của Pitts (1997) mô tả các dạng tiến triển của sâu răng và phương pháp phát hiện, chẩn đoán phù hợp với từng dạng. Theo Hình 5.13, các tầng từ dưới lên gồm: tổn thương chỉ phát hiện được bằng phương tiện chẩn đoán hiện đại hoặc trong tương lai; tổn thương chỉ phát hiện được nhờ phương tiện chẩn đoán hỗ trợ (phim bitewing); D1 (tổn thương men phát hiện được trên lâm sàng, bề mặt còn nguyên vẹn); và D2 (lỗ sâu giới hạn ở men). Đường mặt nước, cũng là ngưỡng giữa bệnh tật và sức khỏe, nằm giữa D2 và D3. Phần nổi phía trên gồm D3 (tổn thương ngà phát hiện được trên lâm sàng, lỗ sâu mở hoặc đóng) và D4 (tổn thương đến tủy); đây là phần cần tạo xoang trám kèm điều trị dự phòng tích cực. Giai đoạn sâu răng lan rộng (giáo trình gọi là sâu răng tiến triển: lỗ sâu lan tới lớp ngà, men bị phá hủy hoàn toàn) chính là các tổn thương D3–D4, nên thuộc phần nổi của tảng băng. Phần lớn tiến trình sâu răng thì vẫn nằm chìm dưới mặt nước. (Giáo trình Sâu Răng Học, Bài 5, mục 3, Hình 5.13 và Bảng 5.2)
+>> Ở phương án “Giai đoạn sâu răng mới chớm thuộc phần nổi của tảng băng”, chữ “nổi” bị nhòe, đọc theo dáng chữ (không giống “chìm”).
+
+Câu 4. Các mặt răng bị sâu của xoang I kép bao gồm:
+@A. Mặt nhai nối liền mặt trong
+B. Mặt nhai nối liền mặt xa
+C. Mặt nhai nối liền mặt gần
+D. Mặt nhai nối liền cạnh cắn
+> Theo phân loại G.V. Black, xoang loại I gồm sâu ở hố, rãnh mặt nhai của răng cối nhỏ và cối lớn; hố mặt trong hoặc hố mặt ngoài của răng cối lớn; và hố mặt trong của răng cửa hàm trên (Hình 5.5). Giáo trình không định nghĩa riêng “xoang I kép” (chỉ nhắc tên ở phần GIC). Theo chuyên môn, xoang I kép là xoang loại I gồm hai mặt: sang thương ở hố rãnh mặt nhai lan ra và nối liền với rãnh, hố ở mặt trong. Trường hợp điển hình là răng cối lớn hàm trên, nơi rãnh mặt trong (rãnh khẩu cái) nối với hố rãnh mặt nhai; ở răng cối lớn hàm dưới, kiểu tương tự là mặt nhai nối với hố mặt ngoài. Như vậy các mặt răng bị sâu của xoang I kép là “Mặt nhai nối liền mặt trong”. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.5; giáo trình không định nghĩa xoang I kép)
+>> Đề RHM K40 (câu 53) hỏi xoang I kép ở răng cối lớn hàm trên và khoanh “Hố rãnh mặt nhai và hố mặt trong”, cùng nội dung với đáp án này.
+
+Câu 5. Các mặt răng bị sâu của xoang II kép bao gồm:
+A. Mặt nhai nối liền mặt trong
+@B. Mặt nhai nối liền mặt bên
+C. Mặt nhai nối liền mặt lưỡi
+D. Mặt nhai nối liền cạnh cắn
+> Theo phân loại G.V. Black, xoang loại II là sâu ở mặt bên (mặt gần hoặc mặt xa) của răng cối nhỏ và cối lớn, bao gồm 2 hoặc nhiều hơn 2 mặt (Hình 5.6). Mặt bên của răng sau tiếp xúc với răng kế cận nên thường không tiếp cận trực tiếp được. Vì vậy xoang II kép là xoang loại II gồm hai mặt: xoang chính nằm ở mặt bên, xoang phụ nằm ở mặt nhai, và hai phần nối liền nhau qua eo xoang. Do đó các mặt răng bị sâu của xoang II kép là “Mặt nhai nối liền mặt bên”. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.6)
+>> Đề RHM K40 (câu 44), K43 (câu 58), K45 (câu 28) và K46 (câu 28) có câu “Xoang II kép” và đều khoanh “Xoang chính nằm ở mặt bên, xoang phụ ở mặt nhai”, cùng nội dung với đáp án này.
+
+Câu 6. Trám răng có thể được chỉ định trong trường hợp:
+A. Sâu ngà răng
+B. Kẽ hở răng cửa trên
+C. Răng hình chêm
+@D. Tất cả đều đúng
+> Trám răng là phục hồi phần mô cứng bị mất hoặc bị khiếm khuyết. Giáo trình nêu các tình huống cần trám như sau. Thứ nhất, sâu đã vào ngà: trong mô hình Pitts, từ D3 (tổn thương ngà) trở lên cần tạo xoang trám kèm điều trị dự phòng tích cực. Thứ hai, mòn răng: tổn thương hình chêm ở cổ răng, thường do chải răng sai cách (mài mòn), khi mất chất tiến triển nặng, khó kiểm soát hoặc còn ê buốt thì cần trám phục hồi vùng mất chất để bảo tồn cấu trúc răng và đáp ứng thẩm mỹ; GIC loại trám cổ răng (Fuji II LC) được dùng cho xoang V và sâu chân răng. Thứ ba, composite trực tiếp cùng hệ thống keo dán đã mở rộng đáng kể chỉ định lâm sàng: đáp ứng nhu cầu thẩm mỹ cao và phục hồi bảo tồn các khiếm khuyết nhỏ. Kẽ hở giữa các răng cửa trên có thể được đóng bằng composite theo chỉ định thẩm mỹ này; giáo trình không ghi đích danh “kẽ hở răng cửa”. Vì vậy cả ba trường hợp đều có thể được chỉ định trám. (Giáo trình Sâu Răng Học, Bài 5, mục 3, Hình 5.13; Bài 7, mục 2.2; Bài 8, mục 6.1; Bài 10, mục 5.2.2)
+
+Câu 7. Nha khoa bốn tay bao gồm:
+A. Hai tay nha sĩ, Tay khoan tốc độ cao, Tay khoan tốc độ chậm
+B. Hai tay nha sĩ, Tay hơi, Tay nước
+@C. Hai tay nha sĩ, Hai tay trợ thủ
+D. Tay khoan tốc độ cao, Tay khoan tốc độ chậm, Tay hơi, Tay nước
+> Giáo trình Sâu Răng Học không trình bày về nha khoa bốn tay. Theo chuyên môn, “nha khoa bốn tay” là cách làm việc trong đó nha sĩ và trợ thủ cùng ngồi làm việc trên bệnh nhân theo một quy trình phối hợp. Hai tay nha sĩ tập trung vào thao tác điều trị. Hai tay trợ thủ chuyền và nhận dụng cụ, trộn vật liệu, hút nước bọt, thổi khô, banh môi má và chỉnh đèn. “Bốn tay” chính là hai tay nha sĩ cộng hai tay trợ thủ. Cách phối hợp này giúp bảo đảm vô khuẩn, giảm gánh nặng công việc cho nha sĩ và tiết kiệm thời gian điều trị. (Suy luận chuyên môn; giáo trình không đề cập)
+
+Câu 8. Vị trí của đầu bệnh nhân trong Nha khoa bốn tay là lúc:
+@A. 12 giờ
+B. 9 giờ
+C. 6 giờ
+D. 3 giờ
+> Giáo trình Sâu Răng Học không đề cập nội dung này. Theo chuyên môn, nha khoa bốn tay mô tả vị trí làm việc bằng một mặt đồng hồ tưởng tượng đặt quanh bệnh nhân đang nằm trên ghế, nhìn từ trên xuống. Mặt bệnh nhân là tâm đồng hồ và đỉnh đầu bệnh nhân hướng về vị trí 12 giờ. Từ mốc này chia ra các vùng (với nha sĩ thuận tay phải): vùng làm việc của nha sĩ từ 7 đến 12 giờ, vùng tĩnh (đặt xe dụng cụ) từ 12 đến 2 giờ, vùng trợ thủ từ 2 đến 4 giờ, và vùng trao chuyền dụng cụ từ 4 đến 7 giờ, ngang ngực bệnh nhân. (Suy luận chuyên môn; giáo trình không đề cập)
+
+Câu 9. Dự phòng sâu răng ở giai đoạn chưa sâu là sử dụng:
+A. Chlor
+B. Bạc hà
+@C. Fluor
+D. Dầu mù u
+> Giai đoạn chưa sâu (chưa tạo lỗ sâu) là lúc men mới mất khoáng và vẫn còn khả năng tái khoáng. Giáo trình nêu: nếu ion fluor có mặt ở bề mặt trụ men với nồng độ thích hợp trước hoặc trong giai đoạn mất khoáng, ion này hấp thu vào bề mặt tinh thể và ức chế đáng kể quá trình mất khoáng do acid. Fluor còn thu hút ion calcium rồi đến phosphate, thúc đẩy tái khoáng tạo lớp khoáng mới giống fluorapatite, ít bị hòa tan hơn. Đây là cơ chế sửa chữa tự nhiên cho những sang thương sâu răng chưa tạo thành xoang. Ở phần phòng ngừa, fluoride (nước uống cộng đồng khoảng 1 ppm, kem đánh răng, nước súc miệng, bôi fluor tại chỗ như APF) làm tăng tích hợp fluorapatite vào men, giúp men kháng acid tốt hơn. Fluoride cũng có hoạt tính kháng khuẩn: ức chế enzyme glucosyltransferase và ức chế sự phát triển của S. mutans. Trong mô hình Pitts, các tổn thương nằm dưới ngưỡng D3 chỉ cần điều trị dự phòng tích cực. Vì vậy dự phòng sâu răng ở giai đoạn chưa sâu là sử dụng “Fluor”. (Giáo trình Sâu Răng Học, Bài 4, mục 2–3 và 5.2, Hình 4.2–4.4; Bài 5, mục 3, Hình 5.13)
+>> Thân câu đọc chưa chắc, cụm “chưa sâu” là đoán. Phương án “Bạc hà” là đoán, còn “Dầu mù u” cũng có thể là “Dầu cù là”. Có một chấm rất nhỏ cạnh phương án “Chlor”, nhiều khả năng là vết bẩn, không phải dấu chọn.
+
+Câu 10. Hệ thống đánh giá và phát hiện sâu răng quốc tế có tên:
+A. ADA CCS
+@B. ICDAS
+C. Pitts
+D. G.V. Black
+> Giáo trình gọi ICDAS (International Caries Detection and Assessment System) là “Hệ thống đánh giá, phát hiện sâu răng”. Cùng với Hiệp hội Nha khoa Hoa Kỳ (ADA), hệ thống này phân loại sâu răng theo mức độ tiến triển: sâu răng mới chớm (ICDAS 1–2), sâu răng hình thành (ICDAS 3–4) và sâu răng tiến triển (ICDAS 5–6). ICDAS dùng thang điểm từ 0 đến 6. Tổn thương được đánh giá sau khi làm sạch, thổi khô bề mặt răng và dùng dụng cụ thăm khám đầu tròn để phát hiện lỗ sâu. (Giáo trình Sâu Răng Học, Bài 5, mục 3, Bảng 5.2–5.3)
+>> Phương án “ADA CCS” bị nhòe, cũng có thể là “ADA OCS”.
+
+Câu 11. Răng cối lớn có lỗ sâu và lộ ngà. Theo phân loại ICDAS II, ở thang điểm:
+A. 3
+B. 4
+@C. 5
+D. 6
+> Bảng 5.3 của giáo trình mô tả tiêu chuẩn từng thang điểm ICDAS. Thang điểm 5 là “Có lỗ sâu và lộ ngà”, trùng với mô tả răng cối lớn có lỗ sâu và lộ ngà trong câu hỏi. Bảng 5.2 xếp ICDAS 5 và 6 vào nhóm “sâu răng tiến triển”: lỗ sâu đã lan tới lớp ngà, lớp men bị phá hủy hoàn toàn, lớp ngà bị khử khoáng trầm trọng, khi nạo xoang thấy ngà mềm, còn ngà phản ứng và ngà xơ không kịp thành lập để bảo vệ tủy. Để chấm đúng thang điểm, giáo trình yêu cầu làm sạch, thổi khô bề mặt răng và dùng dụng cụ thăm khám đầu tròn để phát hiện lỗ sâu. (Giáo trình Sâu Răng Học, Bài 5, mục 3, Bảng 5.2–5.3)
+
+Câu 12. Thang điểm 2 trong ICDAS II có đặc điểm:
+A. Thay đổi thấy được khi thổi khô kéo dài
+@B. Tạo thành biến đổi dễ thấy trên bề mặt men
+C. Mất chất hình thành lỗ sâu ở ngà
+D. Lỗ sâu vô tới tủy răng
+> Theo Bảng 5.3 của giáo trình, thang điểm 2 của ICDAS là “Biến đổi dễ thấy trên men”. Bảng 5.2 xếp ICDAS 1 và 2 vào nhóm “sâu răng mới chớm”: sang thương màu trắng đục hoặc nâu, chỉ giới hạn ở lớp men, chưa tạo thành lỗ sâu. Mục 2 của Bài 5 giải thích: lúc đầu điểm đổi màu trắng đục hoặc vàng nâu phải thổi khô mới thấy, còn khi mất khoáng tiến triển thêm thì tổn thương thành đốm trắng thấy rõ mà không cần thổi khô. Đó chính là mức biến đổi dễ thấy trên bề mặt men của thang điểm 2. (Giáo trình Sâu Răng Học, Bài 5, mục 2–3, Bảng 5.2–5.3)
+
+Câu 13. Khám lâm sàng răng cửa giữa hàm trên bên trái thấy có ánh mờ đen ở tiếp điểm với răng cửa bên, lan rộng 1/3 chiều gần xa của răng. Cách ghi chú chẩn đoán vào bệnh án:
+A. R12: Sâu ngà sâu, Xoang III, Phía Gần
+B. R12: Sâu ngà sâu, Xoang III, Phía Xa
+@C. R21: Sâu ngà sâu, Xoang III, Phía Xa
+D. R21: Sâu ngà sâu, Xoang III, Phía Gần
+> Giáo trình dùng ký hiệu răng kiểu R36 nhưng không giải thích cách đánh số răng và cách gọi mặt răng. Phần này dựa vào kiến thức giải phẫu: theo hệ thống FDI, răng cửa giữa hàm trên bên trái là R21 (chữ số 2 chỉ phần tư hàm trên bên trái, chữ số 1 chỉ răng cửa giữa). Mặt gần của răng cửa giữa hướng về đường giữa và tiếp xúc với răng cửa giữa bên kia, nên mặt tiếp xúc với răng cửa bên là mặt xa. Theo phân loại G.V. Black trong giáo trình, loại III là sâu ở mặt bên các răng cửa và răng nanh, chưa ảnh hưởng đến góc cắn. Ánh mờ đen ở vùng tiếp điểm là sang thương mặt bên của răng cửa, nhìn thấy qua lớp men và chưa phá góc cắn, nên ghi là xoang III, phía xa. Giáo trình cũng mô tả sang thương bóng mờ ở răng cửa dễ thấy trực tiếp hoặc khi phản chiếu ánh sáng (Hình 3.4), và bóng mờ tối của ngà bên dưới là dấu hiệu sâu đã vào ngà (ICDAS 4). (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.7 và Bảng 5.3; Bài 3, Hình 3.4)
+>> Đề RHM K46 (câu 48) có cùng câu hỏi và chọn đáp án này.
+
+Câu 14. Tiên lượng xoang sâu khó trám khi lỗ sâu ở các vùng:
+A. Cổ răng trên nướu, Mặt bên trên tiếp điểm, Chân răng lộ do nha chu
+B. Cạnh cắn, cổ răng dưới nướu, Trũng rãnh
+C. Đỉnh múi chịu, Mặt bên trên tiếp điểm, Chân răng lộ do nha chu
+@D. Mặt bên dưới tiếp điểm, đỉnh múi chịu, Cổ răng dưới nướu
+> Giáo trình không có đoạn nào liệt kê riêng các vùng có tiên lượng khó trám. Đáp án được suy ra từ đặc điểm giáo trình nêu cho từng vùng. Ở cổ răng dưới nướu, xoang thường có thành nướu nằm dưới nướu và không có men răng, nên dễ bị ướt nước bọt và máu, khó cô lập (Bài 7, mục 5.3). Hướng trụ men ở vùng cổ răng lại rất thay đổi nên phải chú ý thành nướu khi tạo xoang (Bài 6, mục 4). Giáo trình cũng ghi phần lớn sâu răng thứ phát xảy ra ở vùng cổ răng, nơi men mỏng và khó tiếp cận khi phục hồi (Bài 8). Mặt bên dưới tiếp điểm là vùng tiếp giáp với răng kế cận, khó nhìn và khó đưa dụng cụ vào. Giáo trình xếp vùng tiếp giáp lân cận (xoang II, III hay xoang dưới nướu ở mặt bên) và quan hệ với răng kế cận vào các yếu tố quyết định hình thể và độ sâu xoang (Bài 6, mục 3.1). Khi trám vùng này phải dùng đai ép vào thành bên (Bài 7). Đỉnh múi chịu nhận trực tiếp lực nhai: khi tạo xoang phải bảo vệ múi răng (Bài 6, mục 4), và miếng trám vĩnh viễn phải bền dưới lực nhai sinh lý (Bài 3, mục 6). Cả ba vùng đều khó tạo xoang, khó cô lập hoặc khó giữ miếng trám bền lâu, nên có tiên lượng khó trám. (Giáo trình Sâu Răng Học, Bài 3, mục 6; Bài 6, mục 3.1 và 4; Bài 7, mục 5.2–5.3; Bài 8)
+>> Đề RHM K46 (câu 14) có cùng câu hỏi và chọn đáp án này (K46 ghi “Cổ răng vùng dưới nướu”).
+
+Câu 15. Sâu mặt xa răng cối lớn hàm dưới, trũng rãnh mặt nhai có vết đen, khi thăm khám thấy mắc thám châm, cách tạo xoang để phòng ngừa:
+@A. Lấy hết mô sâu ở trũng rãnh + Lấy đi mô sâu ở mặt xa
+B. Lấy mô sâu không quá một nửa trũng rãnh ở mặt nhai + Lấy đi mô sâu ở mặt xa
+C. Chỉ cần lấy đi mô sâu ở mặt xa vì thâm đen ở trũng rãnh chỉ là vết dính
+D. Chỉ cần lấy đi mô sâu ở mặt xa để không làm yếu cấu trúc răng
+> Giáo trình định nghĩa tạo xoang trám là sửa soạn cơ học nhằm lấy đi hết mô răng nhiễm khuẩn, mất khoáng, mục nát. Bất cứ phần mô nhiễm khuẩn nào còn sót lại cũng sẽ dẫn đến sâu tái phát. Vì vậy nguyên tắc tạo xoang gồm lấy đi toàn bộ sang thương sâu răng và mở rộng xoang đến những vùng có thể làm sạch để tránh sâu tái phát. Giáo trình nêu rõ: trong quá trình tạo xoang, bờ viền miếng trám không chỉ mở rộng vào mô lành, mà trũng rãnh kế cận cũng phải được sửa soạn. Đó là quan niệm “mở rộng phòng ngừa” của G.V. Black. Trũng rãnh mặt nhai có vết đen và mắc thám châm là dấu hiệu sâu hố rãnh (Bài 3, mục 5.2). Vì vậy, ngoài việc lấy mô sâu ở mặt xa, phải lấy hết mô sâu ở trũng rãnh mặt nhai. (Giáo trình Sâu Răng Học, Bài 6, mục 2.1–2.2 và 3.1)
+>> Ở phương án “Lấy mô sâu không quá một nửa trũng rãnh ở mặt nhai + Lấy đi mô sâu ở mặt xa”, cụm “một nửa” đọc chưa chắc. Ở lề trái có một nét xám mảnh chỉ vào phương án “Lấy hết mô sâu ở trũng rãnh + Lấy đi mô sâu ở mặt xa” (trùng đáp án đã chọn), có thể là dấu của người làm bài hoặc chỉ là vệt scan.
+
+Câu 16. Hạn chế của phân loại theo G.V. Black:
+A. Không tính đến kích thước của một xoang
+B. Bỏ sót các xoang sâu dưới lớp men nguyên vẹn
+@C. A và B đúng
+D. A đúng, B sai
+> Giáo trình không có đoạn nào nêu riêng hạn chế của phân loại G.V. Black, nên đáp án được suy ra từ nội dung giáo trình. G.V. Black lập cách phân loại xoang bằng cách liên hệ sang thương sâu răng với vị trí của nó. Mỗi loại chỉ được định nghĩa theo vị trí trên răng (hố rãnh, mặt bên răng sau, mặt bên răng trước có hay không ảnh hưởng góc cắn, 1/3 cổ răng, cạnh cắn – đỉnh múi). Kích thước và độ sâu của xoang phải dùng những cách phân loại khác: theo độ sâu (sâu men, sâu ngà nông, sâu ngà sâu, sâu tủy) và theo mức độ tiến triển (Pitts, ICDAS). Mặt khác, giáo trình mô tả sâu trũng rãnh lan rộng trong ngà trong khi lớp men bên trên gần như nguyên vẹn, kích thước nhìn thấy luôn nhỏ hơn kích thước thật. Giáo trình cũng mô tả sâu răng ẩn mình (dạng núi lửa): lỗ sâu khổng lồ ngay dưới lớp men có vẻ không bị ảnh hưởng, dễ bỏ sót khi quan sát. Phân loại theo vị trí xoang của Black không nhận diện được những sang thương này. Vì vậy cả hai nhận định đều đúng. (Giáo trình Sâu Răng Học, Bài 5, mục 1.1–1.2, 2 và 3)
+
+Câu 17. Xoang VI theo G.V. Black đã cải tiến:
+A. Sâu múi chịu
+B. Sâu múi hướng dẫn
+@C. Sâu múi răng
+D. Sâu góc cắn
+> Phân loại G.V. Black cổ điển gồm 5 loại. Hệ thống G.V. Black cải tiến bổ sung thêm loại VI, là sâu ở cạnh cắn các răng trước và đỉnh múi các răng sau. Hình 5.10 minh họa xoang loại VI là các lỗ sâu nằm ở đỉnh múi của răng sau. Như vậy xoang VI ở răng sau chính là sâu múi răng (đỉnh múi). (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Bảng 5.1 và Hình 5.10)
+>> Đề RHM K46 (câu 60) có cùng câu hỏi và chọn đáp án này (K46 ghi “Sâu đỉnh múi răng”).
+
+Câu 18. Khám răng 36 thấy có mắc thám châm ở hố mặt ngoài lan vào mặt nhai. Chẩn đoán:
+A. Xoang II kép
+B. Xoang I
+@C. Xoang I kép
+D. Xoang II
+> Theo phân loại G.V. Black trong giáo trình, loại I gồm: hố, rãnh mặt nhai của các răng cối nhỏ và cối lớn; hố mặt trong hoặc hố mặt ngoài của các răng cối lớn; hố mặt trong của các răng cửa hàm trên. Loại II là sâu ở mặt bên (mặt gần, mặt xa) của răng cối nhỏ và cối lớn. Răng 36 là răng cối lớn thứ nhất hàm dưới. Sang thương mắc thám châm ở hố mặt ngoài rồi lan vào mặt nhai nằm trọn trong các vị trí của loại I và không liên quan mặt bên, nhưng trải trên hai mặt răng (mặt ngoài và mặt nhai). Xoang như vậy được gọi là xoang I kép. Giáo trình có dùng thuật ngữ “xoang II kép” khi nói về chỉ định GIC nhưng không định nghĩa xoang kép. Cách gọi “kép” cho xoang trải trên hai mặt răng là suy luận theo thuật ngữ chuyên môn thông dụng. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.5–5.6)
+>> Số răng đọc là 36, vẫn có thể là 46; không ảnh hưởng đáp án. Đề RHM K46 (câu 11) có cùng câu hỏi (ghi răng 46) và chọn đáp án này.
+
+Câu 19. Sâu chân răng thường gặp ở lứa tuổi nào, vì sao:
+A. Người trẻ vì chân răng chưa hình thành đủ
+@B. Người già vì bị các vấn đề về nha chu
+C. Thanh thiếu niên hay hút thuốc lá làm tụt nướu
+D. Phụ nữ tiền mãn kinh vì bệnh loãng xương
+> Giáo trình ghi lỗ sâu chân răng thường gặp ở người già do bệnh nha chu làm chân răng bị lộ. Bề mặt lỗ sâu có thể đổi màu. Đáy cứng là biểu hiện của tái khoáng hóa và lỗ sâu ngừng tiến triển, còn lỗ sâu đang hoạt động thì đáy mềm và ít đổi màu. Tổn thương bắt đầu ở xê măng khi chân răng tiếp xúc với môi trường miệng, thường là hậu quả của bệnh nha chu. Vi khuẩn chính là Actinomyces, ngoài ra có S. mutans và Lactobacillus. Bài 5 cũng ghi khi tụt nướu làm lộ xê măng và ngà chân răng thì có thể bị sâu chân răng. Đáp án câu lượng giá 8 của Bài 5 (nguyên nhân của sâu chân răng) là “Viêm nha chu”. (Giáo trình Sâu Răng Học, Bài 3, mục 3.3 và 5.2; Bài 5, mục 1.1)
+>> Đề RHM K43 (câu 12) có cùng câu hỏi và chọn đáp án này. Đề RHM K45 và K46 (câu 42) có câu tương tự (ghi “Người lớn tuổi vì bị các vấn đề về nha chu”) và cũng chọn đáp án này.
+
+Câu 20. Dụng cụ quan trọng cần có cho giai đoạn khám lâm sàng sâu răng ở cộng đồng là:
+A. Đèn chiếu sáng
+B. Thám châm phải có điểm nhọn
+C. Thám châm đầu tù
+@D. A và C đúng
+> Khám sâu răng ở cộng đồng cần nguồn sáng tốt, gương và cây thăm khám đầu tù (đầu tròn). Giáo trình nhấn mạnh sang thương mới chớm màu trắng, dạng phấn rất dễ bị bỏ qua nếu không đủ ánh sáng và không thăm khám cẩn thận. Đầu thám trâm nhọn dễ vướng vào hố rãnh lành làm chẩn đoán sai, và có thể làm tổn hại bề mặt mô răng, mở đường cho sâu răng (Bài 4, mục 4.3). Khi tổn thương còn giới hạn trong men thì không được dùng đầu nhọn của dụng cụ rà vào tổn thương (Bài 5, mục 2). Hệ thống ICDAS đánh giá tổn thương bằng cách làm sạch, thổi khô và dùng dụng cụ thăm khám đầu tròn (Bài 5, mục 3). Vì vậy cần cả đèn chiếu sáng và thám châm đầu tù. (Giáo trình Sâu Răng Học, Bài 4, mục 4.3; Bài 5, mục 2–3, Bảng 5.3)
+>> Đề RHM K43 (câu 13) có cùng câu hỏi và chọn đáp án này. Đề RHM K45 (câu 43) có câu tương tự và cũng chọn đáp án này.
+
+Câu 21. Tư thế cầm bút cải tiến …:
+A. Sử dụng 3 ngón tay: ngón cái, ngón trỏ, ngón áp út
+B. Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út
+C. Sử dụng đúng mức lực cổ tay
+@D. B và C đúng
+> Giáo trình không mô tả tư thế cầm bút cải tiến, nên đáp án dựa vào kiến thức chuyên môn. Tư thế cầm bút cải tiến dùng 4 ngón tay: ngón cái, ngón trỏ và ngón giữa cầm dụng cụ, còn ngón áp út tựa lên răng hoặc mô cứng gần vùng làm việc làm điểm tựa. Điểm tựa giúp kiểm soát dụng cụ chính xác và tránh trượt gây tổn thương mô mềm. Lực tác động do các ngón tay điều khiển, kết hợp với cử động cổ tay – cẳng tay ở mức vừa đủ, có kiểm soát, không dùng lực quá mức. Điều này phù hợp với lưu ý của giáo trình khi tạo xoang: dùng mũi khoan phải luôn có điểm tựa trên mô cứng (răng bên cạnh hoặc răng đối diện), không tựa trên môi má, để hạn chế áp lực và rung lên mô răng. Không kiểm soát được dụng cụ đang quay sẽ gây tổn thương nhiều cho răng. (Giáo trình Sâu Răng Học, Bài 6, mục 3.2)
+>> Ở phương án “Sử dụng đúng mức lực cổ tay”, cụm “đúng mức” đọc theo dáng chữ; nếu thật ra là “tối đa” thì phương án này sai và đáp án sẽ là “Sử dụng 4 ngón tay: ngón cái, ngón trỏ, ngón giữa, ngón áp út”. Hai chữ cuối thân câu không đọc được, không ảnh hưởng đáp án.
+
+Câu 22. Quy trình "Nha khoa Bốn Tay" có ý nghĩa:
+@A. Đảm bảo vô khuẩn trong nha khoa
+B. Tăng khối lượng công việc cho trợ thủ
+C. Một nha sĩ có thể thực hiện được nhiều ca bệnh cùng một lúc
+D. Cả 3 câu trên đều đúng
+> Giáo trình Sâu Răng Học không có phần nói về quy trình “Nha khoa Bốn Tay”, nên đáp án dựa trên nguyên tắc chung của thực hành nha khoa. Nha khoa bốn tay là cách tổ chức công việc trong đó nha sĩ và trợ thủ cùng làm việc trên một bệnh nhân. Hai người ngồi ở vị trí cố định quanh ghế theo các vùng làm việc và phối hợp theo trình tự chuẩn. Trợ thủ chuẩn bị, chuyển và nhận dụng cụ, trộn vật liệu, hút nước bọt, giữ trường làm việc khô và sạch; nha sĩ chỉ tập trung thao tác trong miệng bệnh nhân. Nhờ phân công rõ ràng, nha sĩ không phải rời tay khỏi vùng điều trị để lấy dụng cụ hay chạm vào các bề mặt ngoài vùng vô khuẩn. Dụng cụ sạch và dụng cụ đã dùng được trợ thủ quản lý theo đúng đường đi, nên quy trình giúp bảo đảm vô khuẩn và hạn chế lây nhiễm chéo. Điều này phù hợp với yêu cầu “bảo đảm vô trùng khi điều trị” và kiểm soát nhiễm khuẩn mà giáo trình nhấn mạnh trong các thủ thuật như che tủy. Ngoài ra, quy trình còn rút ngắn thời gian làm việc và giảm mệt mỏi cho nha sĩ. (Giáo trình Sâu Răng Học không đề cập quy trình này; suy luận theo nguyên tắc nha khoa bốn tay, tham chiếu Bài 9, mục 1.4 và 3.5 về bảo đảm vô trùng)
+>> Ở phương án “Tăng khối lượng công việc cho trợ thủ”, chữ “Tăng” đọc theo dáng chữ, ít khả năng là “Giảm”. Đề RHM K46 (câu 45) có cùng câu hỏi (các phương án diễn đạt khác) và chọn đáp án này.
+
+Câu 23. Che tuỷ răng bằng canxi hydroxit, việc hẹn bệnh nhân tái khám như thế nào?
+A. Không cần hẹn
+@B. Hẹn tái khám sau 3 tháng và không cần tháo miếng trám
+C. Hẹn tái khám sau 3 tháng và tháo đi lớp cement để đánh giá
+D. Hẹn tái khám sau 3 tháng, không tháo lớp cement mà chỉ tháo đi lớp vật liệu phục hồi phía trên
+> Theo giáo trình, khi che tủy bằng Ca(OH)2, một lớp mỏng Ca(OH)2 (như Dycal, Pulpdent) được đặt lên vùng tủy lộ. Sau đó đặt tiếp một lớp cement ionomer phía trên, rồi trám amalgam cho răng sau hoặc composite cho răng trước ngay trong lần hẹn. Lớp phục hồi kín này giúp bảo vệ tủy khỏi vi khuẩn. Tất cả các răng che tủy phải được theo dõi, kiểm tra định kỳ tình trạng tủy và vùng quanh chóp. Lần 1 sau 1 tuần. Lần 2 sau 4 tuần, chụp phim có thể quan sát thấy cầu ngà. Lần 3 sau 3 tháng, làm các thử nghiệm độ sống của tủy; đáp ứng tủy phải giống các răng lân cận, và trong che tủy trực tiếp các thử nghiệm này có thể tin tưởng được. Các lần sau tái khám đều đặn mỗi 6 tháng trong 2–4 năm để phát hiện kịp thời vôi hóa hay nội tiêu. Phần nguyên tắc cũng ghi việc đánh giá kết quả dựa vào hỏi triệu chứng bất thường, khám lâm sàng, thử nghiệm sự sống tủy và phim tia X. Như vậy bệnh nhân được hẹn tái khám sau 3 tháng, đánh giá bằng lâm sàng, thử nghiệm sống tủy và X quang. Miếng trám kín vẫn được giữ nguyên để không phá vỡ sự khít kín và không làm tủy nhiễm khuẩn lại. (Giáo trình Sâu Răng Học, Bài 9, mục 1.4, mục 3.4 bước e–h)
+>> Ở phương án đáp án, chữ “cần” (sau “không”) bị nhòe.
+
+Câu 24. Sự thành công của che tuỷ răng phụ thuộc vào:
+A. Kích thước buồng tuỷ của răng
+@B. Kích thước phần tuỷ bị lộ
+C. Sử dụng loại vật liệu đắt tiền
+D. Cảm giác của bệnh nhân đau nhức
+> Giáo trình nêu các yếu tố ảnh hưởng đến tiên lượng của che tủy. Một yếu tố là kích thước và màu sắc của vết tủy lộ cùng lượng máu chảy ra, giúp chẩn đoán mức lan rộng của quá trình viêm; nếu chảy máu nhiều nơi tủy lộ thì nên nghĩ tới viêm lan rộng, cần điều trị nội nha hoặc nhổ răng. Trong các yếu tố ảnh hưởng đến thành công của che tủy trực tiếp, giáo trình ghi: tủy lộ càng rộng, độ tổn thương càng lớn thì nên lấy một phần tủy hoặc lấy tủy buồng. Chỉ định che tủy vì vậy gắn với kích thước lộ tủy. Ở răng vĩnh viễn, che tủy được chỉ định khi tủy còn sống, không triệu chứng và kích thước lộ tủy rất nhỏ. Với lộ tủy do thao tác điều trị, chỉ định chỉ đặt ra khi vùng lộ rất nhỏ. Với chấn thương, lộ tủy phải nhỏ hơn 2 mm. Tủy lộ thường đáp ứng bằng cách tăng sinh, với viêm lan rộng không quá 2 mm. Do đó sự thành công của che tủy phụ thuộc vào kích thước phần tủy bị lộ. (Giáo trình Sâu Răng Học, Bài 9, mục 1.3, 1.5, 3, 3.2 và 3.5)
+>> Hai phương án đọc chưa chắc: “Sử dụng loại vật liệu đắt tiền” (cụm cuối có thể là “dễ mua”) và “Cảm giác của bệnh nhân đau nhức” (chữ cuối có thể là “nhiều”). Phương án đáp án đọc rõ.
+
+Câu 25. Yếu tố quan trọng để tạo nên thành công của che tuỷ răng:
+@A. Cầm máu, vô khuẩn, trám kín
+B. Tuổi bệnh nhân cao, bệnh lý toàn thân đang ổn, vật liệu tốt
+C. Kích thước chóp chân răng, thời gian bệnh nhân đến sớm sau khi tuỷ lộ
+D. Độ dày lớp ngà, độ già của răng, khả năng nuôi dưỡng của mô tuỷ
+> Ngoài các yếu tố thuộc về răng và bệnh nhân, giáo trình nhấn mạnh rằng thao tác và kỹ thuật của nha sĩ góp phần quyết định sự hồi phục tủy. Về cô lập răng, yếu tố ảnh hưởng nhiều đến thành công là mức độ nhiễm khuẩn: vi khuẩn luôn hiện diện nơi ngà sâu và từ nước bọt, và đặt đê là cách an toàn nhất để tránh nhiễm khuẩn từ môi trường miệng. Vật liệu che tủy phải không độc. Phục hồi phải kín để bảo vệ tủy khỏi vi khuẩn. Về sự chảy máu, giáo trình ghi nếu chảy máu nhiều thì khả năng thành công không cao. Trong kỹ thuật, máu tại chỗ lộ phải được thấm khô bằng gòn vô trùng ấn nhẹ; nếu máu không cầm sau 2–3 lần ấn gòn thì không nên tiếp tục che tủy. Cục máu đông lớn sẽ ngăn cách tủy với vật liệu che tủy và là nơi chứa vi khuẩn, là nguyên nhân đưa đến thất bại. Giáo trình cũng nêu sự lành thương của tủy chủ yếu dựa vào mối dán sinh học bền vững của vật liệu che tủy và lớp trám cuối cùng, ngăn vi khuẩn xâm nhập qua vi kẽ. Nguyên tắc che tủy gồm bảo đảm vô trùng khi điều trị, và yêu cầu trám kết thúc thật kín. Ba yếu tố then chốt vì vậy là cầm máu, vô khuẩn và trám kín. (Giáo trình Sâu Răng Học, Bài 9, mục 1.4, 2.5, 3.4, 3.5, 4.1 và 4.3)
+>> Ở phương án đáp án, chữ “trám” mờ, đọc theo dáng chữ. Phương án “Độ dày lớp ngà, độ già của răng, khả năng nuôi dưỡng của mô tuỷ” gần như là đoán, chỉ “của mô tuỷ” đọc được.
+
+Câu 26. Dấu hiệu chống chỉ định che tuỷ:
+A. Đau khi uống nước đá
+B. Răng có lỗ sâu to
+@C. Đau tự phát về đêm
+D. Sâu xoang II
+> Giáo trình ghi chống chỉ định che tủy gián tiếp là răng có dấu hiệu bệnh lý tủy và quanh chóp như đau tự phát, đặc biệt là đau nhiều về đêm, có lỗ dò, có thấu quang quanh chóp trên phim tia X, hoặc răng lung lay. Chống chỉ định che tủy trực tiếp cũng gồm răng có biểu hiện lâm sàng như đau tự phát hoặc đau về đêm, hay chảy máu không kiểm soát được tại vị trí lộ tủy. Đau tự phát về đêm cho thấy tủy đã viêm không hồi phục, không còn khả năng tự điều chỉnh và lành thương dưới lớp che tủy, nên phải điều trị nội nha. Câu hỏi lượng giá Bài 9 (câu 2, chống chỉ định che tủy gián tiếp) cũng có đáp án là “Đau tự phát”. (Giáo trình Sâu Răng Học, Bài 9, mục 2.3 và 3.3; đáp án câu hỏi lượng giá trang 198)
+>> Chữ “xoang” trong phương án “Sâu xoang II” đọc theo dáng chữ.
+
+Câu 27. Tỷ lệ thành công của che tuỷ trực tiếp ở người trưởng thành khi so sánh với che tuỷ gián tiếp
+A. Cao hơn
+@B. Thấp hơn
+C. Tương đương
+D. Không xác định được
+> Giáo trình không so sánh trực tiếp tỷ lệ thành công của hai kỹ thuật, nên đáp án được suy ra từ cơ sở sinh học mà giáo trình trình bày. Che tủy gián tiếp nhằm tránh làm lộ tủy. Kỹ thuật này lấy bỏ vùng ngà hoại tử và nhiễm trùng, để lại lớp ngà cận tủy bị ảnh hưởng, nơi khuôn hữu cơ còn nguyên vẹn. Lớp ngà này được che phủ bằng Ca(OH)2 nên số vi khuẩn còn lại giảm đáng kể, và nguyên bào ngà tạo ngà điều chỉnh, tái khoáng. Giáo trình gọi đây là một điều trị bảo tồn rất tốt cho sang thương sâu răng sâu và cho biết ở răng vĩnh viễn kỹ thuật này được dùng nhiều hơn. Che tủy trực tiếp thì đặt vật liệu lên mô tủy đã lộ. Thành công của nó phụ thuộc nhiều yếu tố: tình trạng tủy, kích thước lộ, mức chảy máu, vị trí lộ, thời gian lộ và tuổi. Giáo trình nhấn mạnh càng trẻ thành công càng cao. Khi răng thêm tuổi, số tế bào tủy ít đi, tủy giảm lượng tế bào di chuyển ra thay thế nguyên bào ngà bị phá hủy nơi lộ tủy, và tuần hoàn giảm làm giảm khả năng đối phó với kích thích. Giáo trình ghi che tủy trực tiếp đạt trên 80%. Vì vậy ở người trưởng thành, tỷ lệ thành công của che tủy trực tiếp thấp hơn che tủy gián tiếp, phù hợp với nhận định chung trong y văn. (Giáo trình Sâu Răng Học, Bài 9, mục 2.1, 2.2, 3.5 và phần theo dõi bệnh nhân; giáo trình không so sánh trực tiếp)
+
+Câu 28. Loại ngà nào sinh ra ngay dưới lớp vật liệu che tuỷ.
+A. Ngà ảnh hưởng
+B. Ngà nhiễm khuẩn
+@C. Ngà sửa chữa
+D. Nguyên bào ngà
+> Giáo trình ghi mục đích của che tủy gián tiếp là giữ tủy sống để có thể hình thành ngà sửa chữa và giảm lượng vi khuẩn. Dưới lớp vật liệu che tủy, những nguyên bào ngà tạo lớp ngà điều chỉnh. Lớp ngà phản ứng được bồi đắp nhiều nhất trong tháng đầu sau che tủy gián tiếp. Ở che tủy trực tiếp, khoảng 4 tuần sau sẽ hình thành cầu ngà (cầu khoáng hóa), đóng kín chỗ lộ của buồng tủy; Hình 9.2 và 9.4 cho thấy lớp cầu ngà ngay dưới lớp MTA. Ca(OH)2 tạo phản ứng sinh học kích thích quá trình lành thương và hình thành mô ngà thứ cấp. Bài 6 gọi lớp ngà này là ngà thứ cấp bệnh lý (ngà phản ứng): lớp ngà được thành lập ở bề mặt ngà hướng về phía tủy, tại vùng bị kích thích, nhằm bảo vệ tủy. Đó chính là ngà sửa chữa sinh ra ngay dưới lớp vật liệu che tủy. (Giáo trình Sâu Răng Học, Bài 9, mục 2.1, 2.2, 2.4, 3.1 và 4.2; Bài 6, mục 1.2)
+
+Câu 29. Các phương pháp điều trị tuỷ sống, ngoại trừ
+A. Lấy tuỷ buồng
+B. Che tuỷ gián tiếp
+C. Che tuỷ trực tiếp
+@D. Lấy tuỷ chân
+> Điều trị tủy sống là các phương pháp nhằm duy trì sự sống của tủy răng. Giáo trình ghi ở răng sữa, nhất là răng chưa hoàn thành chân, nên ưu tiên các phương pháp có tiên lượng tốt trong việc duy trì sự sống của tủy và giúp chân răng tiếp tục phát triển, chẳng hạn như che tủy hoặc lấy tủy buồng. Chỉ khi không thể bảo tồn tủy, điều trị nội nha mới được xem là giải pháp thay thế. Che tủy gián tiếp giữ tủy sống để hình thành ngà sửa chữa. Che tủy trực tiếp thúc đẩy thành lập cầu ngà và duy trì sự sống của mô tủy bên dưới. Khi tủy lộ rộng, có thể lấy một phần tủy hoặc lấy tủy buồng, phần tủy chân còn lại vẫn được giữ sống. Lấy tủy chân thì lấy bỏ toàn bộ mô tủy trong ống tủy, là điều trị nội nha, không còn mô tủy sống để bảo tồn, nên không thuộc nhóm điều trị tủy sống. (Giáo trình Sâu Răng Học, Bài 9, mục 1.3, 2.2, 3 và 3.5)
+>> Chữ “sống” trong thân câu bị nhòe, đọc theo ngữ cảnh.
+
+Câu 30. Răng có chỉ định che tuỷ gián tiếp khi không có dấu hiệu của bệnh lý tuỷ và:
+A. Không có lỗ sâu
+B. Có sâu ngà nông
+@C. Có sâu ngà sâu
+D. Có sâu tuỷ
+> Giáo trình định nghĩa che tủy gián tiếp là kỹ thuật nhằm tránh làm lộ tủy khi điều trị những sang thương sâu răng sâu, nhưng không có dấu chứng lâm sàng của sự thoái hóa tủy hoặc bệnh lý nha chu. Trong kỹ thuật này, chất che tủy nằm cách tủy qua một lớp ngà mỏng còn lại, mà nếu lấy đi thì tủy sẽ lộ. Chỉ định là răng tủy sống (chưa hoặc đã đóng chóp, răng sữa hoặc răng vĩnh viễn) có sang thương sâu răng không triệu chứng, mà nếu cố nạo sạch ngà mềm sẽ làm lộ tủy. Ở răng vĩnh viễn, che tủy được chỉ định cho răng có sâu ngà sâu, và đây là một điều trị bảo tồn rất tốt đối với những sang thương sâu răng sâu, nhất là ở bệnh nhân trẻ. (Giáo trình Sâu Răng Học, Bài 9, mục 1.2, 1.3, 2 và 2.2)
+
+Câu 31. Bệnh lý tuỷ nào có thể điều trị bằng phương pháp che tuỷ gián tiếp
+A. Viêm tuỷ cấp
+B. Hoại tử tuỷ
+C. Nội tiêu
+@D. Viêm tuỷ có hồi phục
+> Ở răng vĩnh viễn, giáo trình chỉ định che tủy cho trường hợp tủy còn sống, không triệu chứng. Chỉ định này gồm cả những răng được chẩn đoán là viêm tủy có hồi phục: cơn đau tự nhiên ngắn hoặc đau sau khi kích thích, cơn đau kéo dài vài phút, khoảng cách giữa các cơn đau xa nhau, tổn thương sâu nhỏ chưa vào buồng tủy. Che tủy gián tiếp được chỉ định cho răng tủy sống có sang thương sâu răng sâu, với mục đích giữ tủy sống để hình thành ngà sửa chữa và giảm lượng vi khuẩn. Ở viêm tủy có hồi phục, tủy vẫn còn khả năng tự điều chỉnh, nên khi lấy bỏ ngà nhiễm khuẩn và che phủ lớp ngà cận tủy, tủy có thể lành thương. Câu hỏi lượng giá Bài 9 (câu 1) cũng xác định che tủy thành công cao ở răng có tủy viêm có hồi phục. (Giáo trình Sâu Răng Học, Bài 9, mục 1.3, 2 và 2.2; đáp án câu hỏi lượng giá trang 198)
+
+Câu 32. Khi tạo xoang trám: chọn câu sai
+A. Thành xoang phải song song với hướng của trụ men
+@B. Xoang phải được thổi thật khô trước khi trám
+C. Các thành men phải có ngà nâng đỡ
+D. Không được xoi mòn men răng quá mức
+> Giáo trình liệt kê những điều cần tuân thủ khi tạo xoang, xuất phát từ đặc điểm sinh học của mô răng. Thành xoang phải song song với hướng của trụ men để men được ngà bên dưới nâng đỡ, và men ở bờ xoang phải có ngà nâng đỡ. Hướng trụ men ở vùng cổ răng rất thay đổi nên cần chú ý thành nướu, và phải bảo vệ múi răng. Giáo trình cũng ghi rõ: “Không được thổi khô xoang quá mức, vì sẽ làm cho phản ứng lành thương bị trì hoãn”, và không được xoi mòn men răng quá mức trong kỹ thuật trám composite. Theo thuyết thủy động học, khi ngà bị lộ mà thổi khô xoang quá mức, dịch ngà di chuyển trong ống ngà, lôi kéo các đuôi nguyên sinh chất và kích thích thần kinh trong tủy, gây đau cho bệnh nhân. Vì vậy câu “Xoang phải được thổi thật khô trước khi trám” trái với giáo trình. Đây là câu sai cần chọn, theo cùng dạng câu hỏi lượng giá Bài 6 câu 2 “Khi tạo xoang trám: Chọn câu sai”. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2 và mục 4)
+>> Chữ cuối thân câu rất nhòe, đọc theo dáng chữ hợp với “sai” hơn “đúng”, nên câu được hiểu là “chọn câu sai”. Nếu thật ra là “chọn câu đúng” thì có tới ba phương án đúng theo giáo trình.
+
+Câu 33. Đặc điểm của men răng là:
+A. Chất hữu cơ chiếm 95–97%, chủ yếu là tinh thể canxi hydroxyapatite
+B. Độ dày của men răng đạt được tối đa ở người già.
+C. Men răng cứng và không xốp do không có những lỗ nhỏ chứa nước, khí
+@D. Có tính thẩm thấu chọn lọc nhưng giảm theo thời gian do ngấm nhiều ion vô cơ
+> Giáo trình mô tả men răng là mô cứng nhất trong cơ thể, chủ yếu gồm tinh thể canxi hydroxyapatite, với cấu trúc gồm trụ men, màng bao trụ và chất gian trụ. Men răng cứng nhưng xốp, do có những lỗ nhỏ chứa nước, khí và chất hữu cơ. Nhờ đó men có tác dụng như một màng thẩm thấu chọn lọc, giúp các ion ngấm thêm và hòa tan. Tính thấm này giảm theo thời gian, vì men răng ngày càng trở nên cứng hơn do ngấm nhiều ion vô cơ. Đặc điểm đúng của men răng vì vậy là tính thấm chọn lọc, giảm dần theo thời gian do ngấm ion vô cơ. (Giáo trình Sâu Răng Học, Bài 6, mục 1.1)
+>> Phương án đáp án nằm ở đầu trang sau, đọc khá chắc. Ở phương án về tỷ lệ thành phần, con số có thể là “93–97%” hoặc “95–97%”.
+
+Câu 34. Ngà răng có đặc điểm là:
+A. Là mô khoáng hóa giống như men nhưng mềm hơn do ít chất hữu cơ.
+@B. Cấu trúc gồm ống ngà, ngà quanh ống và ngà gian ống.
+C. Các ống ngà cong hình chữ Z đi từ đường nối men ngà đến tủy răng.
+D. Càng về phía tủy thì mật độ ống ngà càng giảm do ngấm nhiều ion vô cơ.
+> Giáo trình mô tả ngà răng là mô khoáng hóa giống như men nhưng mềm hơn do ít chất vô cơ. Thành phần gồm 70% chất vô cơ, 18–22% chất hữu cơ và 7–12% nước. Cấu trúc ngà răng gồm ống ngà, ngà quanh ống và ngà giữa các ống ngà (tức ngà gian ống). Các ống ngà cong hình chữ S, đi từ đường nối men ngà đến tủy răng và chứa dịch ngà có tác dụng thẩm thấu cho ngà. Càng về phía tủy thì mật độ ống ngà càng nhiều. Nội dung khớp đúng với giáo trình là “Cấu trúc gồm ống ngà, ngà quanh ống và ngà gian ống”. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2)
+>> Ở phương án “Các ống ngà cong hình chữ Z đi từ đường nối men ngà đến tủy răng.”, chữ “Z” vẫn có thể là “S” bị biến dạng; nếu là “S” thì phương án đó cũng đúng theo giáo trình.
+
+Câu 35. Lớp ngà được hình thành sau khi răng mọc và thực hiện chức năng ăn nhai bình thường là:
+A. Ngà sơ cấp
+@B. Ngà thứ cấp sinh lý
+C. Ngà thứ cấp bệnh lý
+D. Ngà phản ứng
+> Giáo trình phân loại ngà răng theo thời điểm và hoàn cảnh hình thành. Ngà sơ cấp là lớp ngà được tạo ra từ khi răng được hình thành cho đến khi răng mọc. Ngà thứ cấp sinh lý là lớp ngà được hình thành sau khi răng mọc và thực hiện chức năng ăn nhai bình thường. Lớp này hình thành ở mọi phía của răng, làm buồng tủy ngày càng hẹp lại, nên càng lớn tuổi buồng tủy càng thu hẹp. Ngà thứ cấp bệnh lý (ngà phản ứng) được thành lập ở bề mặt ngà hướng về phía tủy, tại vùng bị kích thích như sâu răng hay chấn thương, để bảo vệ tủy. Thân câu chính là định nghĩa nguyên văn của ngà thứ cấp sinh lý. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2 và 1.3)
+>> Ở lề trái có một gạch đứng mảnh trước “Ngà thứ cấp bệnh lý” và một gạch ngang ngắn trước “Ngà phản ứng”, có thể chỉ là nét bút, không rõ có phải dấu chọn. Đề RHM K40 (câu 65) có câu cùng ý về ngà thứ cấp và khoanh “Hình thành sau khi răng mọc”.
+
+Câu 36. Lớp ngà được tạo ra từ khi răng được hình thành cho đến khi răng mọc là.
+@A. Ngà sơ cấp
+B. Ngà thứ cấp sinh lý
+C. Ngà thứ cấp bệnh lý
+D. Ngà phản ứng
+> Giáo trình định nghĩa ngà sơ cấp là lớp ngà được tạo ra từ khi răng được hình thành cho đến khi răng mọc, tức là được tạo ra trước khi răng mọc. Sau khi răng mọc và ăn nhai bình thường thì hình thành ngà thứ cấp sinh lý ở mọi phía của răng. Khi có kích thích như sâu răng hay chấn thương thì tạo ngà thứ cấp bệnh lý (ngà phản ứng) để bảo vệ tủy. Thân câu là nguyên văn định nghĩa ngà sơ cấp. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2)
+>> Đề RHM K40 (câu 26), K43 (câu 46), K45 và K46 (câu 16) có câu cùng ý về ngà sơ cấp và khoanh “Được tạo ra trước khi răng mọc”.
+
+Câu 37. Cơ chế nhạy cảm ngà hiện nay được giải thích bởi thuyết:
+@A. thủy động học
+B. thủy cơ học
+C. thủy hóa học
+D. thủy sinh học
+> Giáo trình ghi nguyên văn rằng cơ chế nhạy cảm ngà hiện nay được giải thích bởi thuyết thủy động học. Ngà bị lộ do sâu răng hoặc mòn răng. Khi có kích thích như cơ, nhiệt, hoặc thổi khô xoang quá mức, dịch ngà trong ống ngà di chuyển theo mọi chiều, lôi kéo các đuôi nguyên sinh chất và gây kích thích thần kinh trong tủy. Vì vậy bệnh nhân có cảm giác đau. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2)
+>> Phương án “thủy hóa học” cũng có thể là “thủy lực học”; chữ “sinh” trong “thủy sinh học” đọc theo dáng chữ. Không ảnh hưởng đáp án.
+
+Câu 38. Khi có kích thích như cơ, nhiệt, hoặc thổi khô xoang quá mức thì bệnh nhân đau là do sự di chuyển của các dịch trong:
+@A. ống ngà
+B. ngà gian ống
+C. ngà quanh ống
+D. ngà giữa các ống ngà
+> Theo thuyết thủy động học trong giáo trình, khi ngà bị lộ do sâu răng hoặc mòn răng và có kích thích như cơ, nhiệt, hoặc thổi khô xoang quá mức, bệnh nhân đau là do dịch ngà trong ống ngà di chuyển theo mọi chiều. Sự di chuyển này lôi kéo các đuôi nguyên sinh chất, gây kích thích thần kinh trong tủy và tạo cảm giác đau. Giáo trình cũng mô tả ống ngà là cấu trúc chứa dịch ngà, có tác dụng thẩm thấu cho ngà. Như vậy dịch di chuyển là dịch trong “ống ngà”. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2)
+>> Đề RHM K40 (câu 27) có câu cùng ý và khoanh “Do chất lỏng trong các ống ngà bị ảnh hưởng bởi các kích thích”. Đề RHM K48 (câu 6) có câu cùng ý và khoanh “Thay đổi áp suất dịch trong ống ngà”.
+
+Câu 39. Việc tạo xoang phải lấy đi hết những mô nào sau đây:
+A. Chỉ lấy cấu trúc răng bị nhiễm khuẩn
+@B. Cấu trúc răng không còn mô nâng đỡ
+C. Cấu trúc răng lành mạnh đủ để đưa dụng cụ vào
+D. Tất cả ý trên
+> Giáo trình định nghĩa tạo xoang trám (sửa soạn xoang trám) là sự sửa soạn cơ học nhằm lấy đi hết những mô răng nhiễm khuẩn, mất khoáng, mục nát, để có thể tiếp nhận vật liệu phục hồi, tái tạo lại cấu trúc giải phẫu, chức năng và thẩm mỹ của răng. Giáo trình nhấn mạnh rằng việc tạo xoang phải lấy đi hết những cấu trúc răng nhiễm khuẩn hay không còn mô nâng đỡ. Bất cứ phần mô răng nhiễm khuẩn hay mục nát nào còn sót lại sẽ dẫn đến sâu tái phát, tăng nhạy cảm, đau hoặc nứt gãy mô răng và miếng trám. Trong nguyên tắc tạo xoang trám, giáo trình cũng ghi “Lấy hết những phần men răng không được nâng đỡ”, vì men không còn ngà nâng đỡ bên dưới sẽ dễ vỡ. Vì vậy chọn “Cấu trúc răng không còn mô nâng đỡ”. (Giáo trình Sâu Răng Học, Bài 6, mục 2.1 và 2.2)
+>> Đáp án dựa vào chữ “Chỉ” ở đầu phương án “Chỉ lấy cấu trúc răng bị nhiễm khuẩn”; nếu chữ này đọc sai thì đáp án nên là “Tất cả ý trên”. Dưới chữ “khuẩn” cuối phương án đó có một gạch ngang, có thể là gạch chân bằng bút, không chắc là dấu chọn.
+
+Câu 40. Để phòng ngừa tác động có thể gây hại cho phức hợp ngà tủy, chúng ta cần phải chú ý:
+@A. sử dụng mũi khoan sắc đi nhanh để ít tạo nhiệt lên răng
+B. sử dụng mũi khoan cùn đi nhanh để ít tạo chấn động rung lên răng
+C. không sử dụng nước phun sương từ tay khoan vì gây kích thích
+D. thời gian tạo xoang càng lâu thì kích thích răng càng ít
+> Giáo trình nêu rằng tạo xoang là tạo một kích thích lên mô răng có thể gây hại cho phức hợp ngà tủy, nên cần chú ý các điểm sau. Về tốc độ và độ rung: ở phần nông có thể dùng tốc độ nhanh, ở phần sâu phải dùng tốc độ chậm, và mũi khoan phải luôn có điểm tựa trên mô cứng. Về chọn mũi khoan: mũi khoan phải mới, bén, có hình dạng và kích thước phù hợp với xoang. Về sức nóng: nhiệt sinh ra do tay khoan không có nước hoặc do tỳ mạnh lên răng, vì vậy tay khoan bắt buộc phải có nước làm mát dạng phun sương. Ngoài ra, thời gian tạo xoang càng lâu thì kích thích răng càng nhiều, và xoang càng sâu thì càng dễ bị kích thích. Dùng mũi khoan sắc, đi nhanh, không tỳ đè lâu giúp cắt mô hiệu quả và ít sinh nhiệt lên răng, đúng với các lưu ý này. (Giáo trình Sâu Răng Học, Bài 6, mục 3.2)
+>> Ở phương án đáp án, chữ “đi” có thể là “tỳ” hoặc “đè”, chữ “sắc” có thể là “bén”.
+
+Câu 41. Nhược điểm của canxi hydroxit khi che tủy
+@A. Tiêu đi dần bởi dịch ngà
+B. Thấu quang
+C. Thời gian làm việc kéo dài
+D. Dính quá chặt vào mô ngà
+> Giáo trình nêu calcium hydroxide (Ca(OH)2) được xem như chuẩn vàng của vật liệu che tủy trực tiếp trong vài thập kỷ. Nhờ tính kiềm mạnh (pH 11,8–12,4), vật liệu này gây đông vón vùng mô hoại tử bên ngoài và kích thích quá trình lành thương, hình thành mô ngà thứ cấp. Tuy nhiên giáo trình ghi nhược điểm của calcium hydroxide là tính hòa tan cao và có thể tạo thành những khuyết hổng trong cầu ngà. Ngoài ra, khả năng gây nội tiêu ở răng sữa vẫn đang được tranh cãi. Do tính hòa tan cao, lớp Ca(OH)2 bị tiêu đi dần theo thời gian khi tiếp xúc với dịch ngà, đúng với nội dung “Tiêu đi dần bởi dịch ngà”. (Giáo trình Sâu Răng Học, Bài 9, mục 4.2)
+>> Cuối dòng “Thời gian làm việc kéo dài” có gạch ngắn và chấm mảnh, gần đó có vệt cung xám mờ (watermark hoặc mực thấm); không chắc đây là dấu chọn.
+
+Câu 42. Vạt men răng:
+@A. Giúp tạo thẩm mỹ
+B. Tăng khả năng chịu lực
+C. Tạo lưu hóa học
+D. Áp dụng cho tất cả trường hợp trám Composite
+> Giáo trình nêu một yếu tố thẩm mỹ quan trọng là sự chuyển tiếp dần về màu sắc và độ trong mờ giữa phục hình và răng thật. Việc tạo vát men giúp hòa trộn sự khác biệt màu sắc ở vùng đường hoàn tất trong phạm vi khoảng 0,5–1 mm, tùy kích thước xoang và yêu cầu về chiều rộng vát, thay vì tạo ra sự thay đổi đột ngột. Kỹ thuật này đặc biệt hữu ích đối với phục hình vùng răng trước. Vát men đồng thời cung cấp thêm diện tích bề mặt cho liên kết rìa và giảm nguy cơ rò rỉ. Ở phần lưu ý khi trám composite, giáo trình ghi nguyên tắc sửa soạn xoang là bảo tồn tối đa mô răng nhưng vẫn cần thực hiện vát men thích hợp để đảm bảo tính thẩm mỹ và độ bám dính. Vì vậy vạt men răng “Giúp tạo thẩm mỹ”. (Giáo trình Sâu Răng Học, Bài 8, mục 5 và 6.2)
+
+Câu 43. Đường vạt men loại ngắn:
+A. Tạo góc 10 độ với bề mặt men răng
+B. Độ rộng 2,5 mm
+@C. Đi hết chiều dày men răng
+D. Sử dụng trám xoang V
+> Giáo trình không ghi cách phân loại hay số đo vạt men ngắn và vạt men dài, nên đáp án dựa trên kiến thức nha khoa phục hồi. Theo cách phân loại đường vát bờ xoang thường dùng (Sturdevant), vát men ngắn là đường vát lấy hết chiều dày thành men nhưng không lan vào ngà. Vát men dài thì lan hết lớp men và vào tới khoảng nửa thành ngà. Trong trám composite, vạt men ngắn thường là đường vát hẹp, khoảng 0,5–1 mm, nghiêng khoảng 45° so với bề mặt men. Như vậy đặc điểm của đường vạt men loại ngắn là “Đi hết chiều dày men răng”. Giáo trình chỉ nêu tác dụng chung của vát men: hòa trộn màu ở đường hoàn tất trong khoảng 0,5–1 mm và tăng diện tích liên kết rìa. (Giáo trình Sâu Răng Học không ghi; tham khảo Bài 8, mục 5 và 6.2)
+>> Phương án “Độ rộng 2,5 mm” cũng có thể là “1,5 mm”. Số đo góc ở phương án “Tạo góc 10 độ với bề mặt men răng” đọc là “10”, ít khả năng là “30”.
+
+Câu 44. Đường vạt men loại dài:
+A. Tạo góc 45 độ với bề mặt men răng
+@B. Độ rộng 1,5 mm
+C. Đi nửa chiều dày men răng
+D. Sử dụng trong trám xoang III
+> Giáo trình không ghi cách phân loại hay số đo vạt men ngắn và vạt men dài, nên đáp án dựa trên kiến thức nha khoa phục hồi. Vạt men dài là đường vát rộng và thoải. Đường vát nghiêng ít hơn so với bề mặt men (khoảng 30°, theo đáp án chính thức đề RHM K48 câu 54 cho sửa soạn xoang IV). Vì vậy bề rộng đường vát lớn hơn hẳn vạt men ngắn, khoảng 1,5–2 mm so với 0,5–1 mm. Đường vát này đi hết lớp men. Vạt men dài thường dùng cho xoang IV và mặt ngoài răng trước, nơi cần chuyển tiếp màu kín đáo và tăng diện tích dán. Như vậy đặc điểm phù hợp là “Độ rộng 1,5 mm”. Giáo trình chỉ nêu tác dụng chung của vát men: hòa trộn khác biệt màu sắc ở vùng đường hoàn tất và cung cấp thêm diện tích bề mặt cho liên kết rìa. (Giáo trình Sâu Răng Học không ghi; tham khảo Bài 8, mục 5 và 6.2)
+>> Số đo góc ở phương án “Tạo góc 45 độ với bề mặt men răng” bị dính nét, có thể là “43” hoặc “65”.
+
+Câu 45. Chi tiết nào quan trọng nhất cần phục hồi khi trám xoang III:
+@A. Điểm tiếp xúc
+B. Hõm lưỡi
+C. Gờ bên
+D. Không chi tiết nào bên trên
+> Giáo trình không ghi trực tiếp chi tiết nào quan trọng nhất khi trám xoang III, nên đáp án dựa trên suy luận chuyên môn. Theo phân loại G.V. Black trong giáo trình, xoang III là sâu ở mặt bên các răng cửa và răng nanh, chưa ảnh hưởng đến góc cắn. Tổn thương nằm ở mặt tiếp cận, ngay vùng tiếp xúc với răng kế cận. Giáo trình cũng nêu vùng tiếp xúc mặt bên là nơi lưu giữ mảng bám, làm tăng khả năng sâu răng. Vì vậy khi trám xoang III, chi tiết cần phục hồi quan trọng nhất là điểm tiếp xúc với răng bên cạnh. Điểm tiếp xúc đúng giúp ngăn thức ăn nhồi nhét vào kẽ, bảo vệ gai nướu, hạn chế lưu giữ mảng bám gây sâu tái phát và giữ ổn định vị trí răng trên cung hàm. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2; Bài 1, mục 1.2.3)
+
+Câu 46. Triệu chứng ê buốt sau khi phục hồi răng bằng Composite là do:
+A. Etching men > 15 giây
+@B. Etching ngà > 15 giây
+C. Vạt men quá mức phạm vào ngà
+D. Sâu ngà sâu
+> Giáo trình nêu mục đích của việc xử lý men – ngà bằng acid là tạo vi nhám trên bề mặt men và loại bỏ lớp mùn ngà. Lớp mùn ngà hình thành khi tạo xoang, gồm 65–75% thành phần vô cơ. Dán trực tiếp lên lớp mùn này thì lực dính chỉ đạt khoảng 5–6 MPa. Acid dùng với nồng độ và thời gian thích hợp sẽ loại bỏ thành phần vô cơ và để lại khung collagen, nhờ đó lực bám dính có thể vượt 12 MPa. Quá trình này lấy đi lớp mùn trên bề mặt nhưng vẫn để lại các nút mùn trong lòng ống ngà. Các nút mùn là hàng rào sinh học, hạn chế dịch lưu thông trong ống ngà nên giúp giảm ê buốt sau phục hồi. Theo giáo trình, ngà chỉ cần xử lý bằng acid phosphoric 35–37% trong 10–20 giây, và xoi mòn ngà không được làm ngà khử khoáng quá mức. Nếu xoi mòn ngà quá lâu, acid lấy mất cả các nút mùn, mở rộng miệng ống ngà và khử khoáng ngà sâu hơn chỗ chất dán thấm tới. Phần ngà khử khoáng đó không được lớp lai bít kín, nên khi có kích thích nóng, lạnh hay lực nhai, dịch trong ống ngà dịch chuyển và gây ê buốt sau trám. Giáo trình chỉ ghi khoảng 10–20 giây, không nêu mốc 15 giây; mốc này là khuyến cáo lâm sàng thường dùng (xoi mòn ngà không quá 15 giây). (Giáo trình Sâu Răng Học, Bài 8, mục 2.1 và 6.3.1)
+>> Ở phương án đáp án “Etching ngà > 15 giây”, dấu so sánh bị nhòe, tạm đọc là “>” cho giống phương án “Etching men > 15 giây”; số “15” cũng có thể là “13”.
+
+Câu 47. Những yếu tố làm tăng sự lưu giữ của miếng trám Composite, ngoại trừ:
+A. Răng hàm trên
+@B. Thổi khô quá mức sau etching
+C. Lớp keo dán mỏng
+D. Kiểm soát nước bọt tốt
+> Giáo trình nhấn mạnh rằng muốn hệ thống dán tạo được lớp lai hiệu quả thì ngà răng phải được giữ ngậm nước. Làm khô ngà sau khi sửa soạn hoặc sau các bước xoi mòn khiến ngà mất nước. Ngà đã xoi mòn không còn tinh thể hydroxyapatite nằm giữa các sợi collagen, nên khi mất nước (dù vô tình hay cố ý), mạng collagen còn lại bị xẹp và tiêu hủy. Các phân tử collagen dính lại thành một lớp, chặn các monomer cần cho sự hình thành lớp lai. Nếu ngà không đủ ẩm, lớp lai không hình thành và hệ thống liên kết không che phủ được bề mặt, nên lực dán và sự lưu giữ của miếng trám giảm. Vì vậy, sau xoi mòn chỉ rửa nước 30–60 giây rồi làm khô vừa phải (chỉ lau, không thổi, hoặc thổi tương đối khô). Ngà phải được giữ ẩm, hoặc bù nước bằng bông ẩm hay đầu bôi thuốc trong khoảng 10 giây. Thổi khô quá mức sau etching là yếu tố làm giảm, không phải tăng, sự lưu giữ của miếng trám composite. (Giáo trình Sâu Răng Học, Bài 8, mục 2.1 và 6.3.1)
+>> Đề RHM K48 (câu 53) hỏi cùng ý: đáp án chính thức là thổi ngà quá khô sau khi rửa acid làm sụp mạng collagen, dẫn đến giảm lực dán.
+
+Câu 48. Kỹ thuật Total Etch:
+A. Giữ lại lớp mùn ngà bít kín ống ngà
+B. Bệnh nhân ít ê buốt sau trám
+@C. Tốt … cả men và ngà
+D. Tốt hơn khi sử dụng chọn lọc trên men răng
+> Theo giáo trình, xoi mòn toàn thể (total etch) là quy trình xoi mòn men và xử lý ngà cùng một lúc bằng acid phosphoric 35–37%, trong khoảng 10–20 giây. Sau đó rửa nước 30–60 giây và làm khô vừa phải. Trên men, acid hòa tan chọn lọc trụ men hoặc chất gian trụ, tạo ra vô số vi lưu và mấu men nhỏ. Nhựa dán thấm vào đó rồi trùng hợp thành đuôi resin, tạo liên kết vi cơ học men – nhựa, giúp kín bờ và giảm hở bờ. Trên ngà, acid loại bỏ lớp mùn ngà và thành phần vô cơ, để lại khung collagen cho primer và chất dán thấm vào, hình thành lớp lai. Hình 8.15 minh họa đúng trình tự của kỹ thuật total etch trên ngà: xoi acid, rửa sạch, bôi chất lót/chất dán, rồi đắp composite. Như vậy kỹ thuật total etch xử lý và tạo liên kết trên cả men lẫn ngà trong cùng một bước. (Giáo trình Sâu Răng Học, Bài 8, mục 6.3.1–6.3.2, Hình 8.15)
+>> Hai chữ đầu của phương án đáp án “Tốt … cả men và ngà” đọc không chắc: chữ đầu có thể là “Tốt”, “Tối” hoặc “Tác”, chữ thứ hai có thể là “ơn”, “cơ” hoặc “ưu” (nếu là “Tối ưu”). Phần “cả men và ngà” đọc chắc.
+
+Câu 49. Kỹ thuật Self Etch:
+@A. Giữ lại lớp mùn ngà trong ống ngà
+B. Lấy bỏ lớp mùn ngà
+C. Khả năng ê buốt sau trám nhiều hơn Total Etch
+D. Giảm sự lưu giữ hơn kỹ thuật Total Etch
+> Giáo trình không mô tả riêng kỹ thuật tự xoi mòn (self etch). Giáo trình chỉ nêu rằng trong quá trình dán cần loại bỏ hoặc xuyên qua lớp mùn, cách thường dùng là hòa tan một phần hoặc toàn bộ lớp mùn, và việc loại bỏ lớp mùn ngà hay không vẫn còn là vấn đề bàn cãi. Theo kiến thức chuyên môn, hệ thống self etch dùng primer chứa monomer có tính acid, bôi lên ngà rồi thổi nhẹ, không rửa. Acid yếu này chỉ hòa tan một phần và biến đổi lớp mùn ngà, đưa lớp mùn vào lớp lai, còn các nút mùn trong lòng ống ngà được giữ lại và bít miệng ống. Giáo trình mô tả các nút mùn trong lòng ống ngà là hàng rào sinh học, hạn chế dịch lưu thông trong ống ngà và giúp giảm ê buốt sau phục hồi. Chính vì giữ lại lớp mùn ngà trong ống ngà nên kỹ thuật self etch ít gây ê buốt sau trám. (Giáo trình Sâu Răng Học, Bài 6; Bài 8, mục 2.1 và 6.3.1)
+>> Ở phương án “Giảm sự lưu giữ hơn kỹ thuật Total Etch”, chữ “Giảm” đọc theo dáng chữ, không phải “Tăng”.
+
+Câu 50. Đặc điểm của mòn răng:
+A. Cấp tính
+@B. Không hoàn nguyên
+C. Đáy mềm mủn
+D. Dễ lây nhiễm
+> Giáo trình định nghĩa mòn răng là sự mất mô cứng của răng (men, ngà, cement) do tác động cơ học (sinh lý hoặc bất thường) hoặc do yếu tố hóa học, không liên quan đến vi khuẩn. Mô cứng đã mất không tự tái tạo lại. Mòn sinh lý tiến triển chậm, liên tục suốt thời gian răng tồn tại trên cung hàm, càng lớn tuổi mòn càng rõ. Mài mòn và xoi mòn thường tiến triển nhanh, làm lộ ngà gây ê buốt; nặng có thể lộ tủy, gãy một phần hay toàn bộ thân răng. Vì vậy điều trị phải gồm hai việc: loại bỏ nguyên nhân để ngăn mòn tiếp, và trám phục hồi vùng mất chất. Giáo trình kết luận mòn răng để lại những hậu quả và rất khó điều trị, tức là một tổn thương không hoàn nguyên. (Giáo trình Sâu Răng Học, Bài 10, mục 1, 5.1 và 5.2)
+
+Câu 51. Mòn răng có thể xảy ra ở các vị trí:
+A. Cổ răng
+B. Đỉnh múi răng
+C. Mặt ngoài răng cửa
+@D. Tất cả đều đúng
+> Giáo trình mô tả vị trí của từng kiểu mòn răng. Cọ mòn xuất hiện chủ yếu ở mặt nhai và bờ cắn, rõ nhất ở răng cửa và răng nanh hàm trên. Cọ mòn khởi đầu bằng các diện mòn bóng láng ở đỉnh múi, triền múi hoặc gờ bên, rồi có thể lan rộng cả mặt nhai. Mài mòn thường thấy ở 1/3 cổ răng mặt ngoài (đặc biệt răng trước và răng cối nhỏ), bờ cắn răng trước trên và dưới, và mặt nhai các răng sau. Ở cổ răng, mài mòn có dạng lõm cạn, rãnh sâu hay hình chữ V. Xoi mòn gặp ở mặt môi má hay mặt tiếp cận của răng, thành sang thương nông, rộng, bóng láng gần đường tiếp giáp men – cement. Như vậy cổ răng, đỉnh múi răng và mặt ngoài răng cửa đều là những vị trí có thể bị mòn. (Giáo trình Sâu Răng Học, Bài 10, mục 3.1–3.3)
+
+Câu 52. Bệnh nhân đến khám do bị mòn cạnh cắn 12 răng trước. Khám trong miệng thấy có tình trạng mất nhiều răng sau trên và dưới. Nguyên nhân của việc mòn răng ở bệnh nhân nghĩ đến nhiều nhất là:
+A. Chải răng không đúng cách
+B. Thói quen Cắn hạt
+@C. Mất kích thước dọc làm Khớp cắn không ổn định
+D. Tuổi tác
+> Theo giáo trình, cọ mòn xuất hiện chủ yếu ở mặt nhai và bờ cắn, rõ nhất ở răng cửa và răng nanh vùng trước hàm trên. Các mặt răng khác thường ít bị ảnh hưởng, trừ khi có yếu tố bất thường như thói quen nhai một bên, hoặc sai lệch khớp cắn (răng trồi, răng nghiêng, răng không được phục hình) làm lực cọ xát dồn bất thường lên bề mặt răng. Bệnh nhân này mất nhiều răng sau ở cả hai hàm mà không phục hình, nên mất các điểm chặn khớp cắn phía sau. Kích thước dọc giảm, khớp cắn mất ổn định, và toàn bộ lực nhai, lực cọ xát dồn lên nhóm răng trước. Kết quả là cạnh cắn cả 12 răng trước trên và dưới bị mòn. Giáo trình cũng nêu cọ mòn kéo dài làm giảm chiều cao thân răng và giảm đáng kể kích thước thân răng ở bờ cắn (Hình 10.4: nhai mòn cạnh cắn các răng trước). (Giáo trình Sâu Răng Học, Bài 10, mục 3.1, Hình 10.4)
+
+Câu 53. Bệnh nhân có triệu chứng mòn răng. Khám trong miệng thấy răng trước mòn nhiều hơn răng sau, vị trí mòn nằm ở mặt lưỡi. Nguyên nhân của việc mòn răng ở bệnh nhân nghĩ đến nhiều nhất là:
+@A. Trào ngược dạ dày - thực quản
+B. Nghiến răng
+C. Chải răng không đúng cách
+D. Thói quen uống nước ngọt có ga
+> Giáo trình định nghĩa xoi mòn là mòn răng do tác nhân hóa học, không liên quan đến vi khuẩn. Acid gây xoi mòn có nguồn ngoại sinh hoặc từ dịch vị. Nguồn nội sinh chủ yếu đến từ dạ dày, thường trong hội chứng trào ngược dạ dày – thực quản. Loại xoi mòn này rất khó kiểm soát vì acid trào ngược ngoài ý muốn, nên cần bác sĩ Y khoa can thiệp. Giáo trình còn lưu ý rằng mức độ tiến triển và độ sâu của vùng mất khoáng gợi ý mòn răng kéo dài, mà nguyên nhân hay gặp là trào ngược acid từ dạ dày. Hình 10.1B minh họa xoi mòn toàn bộ răng do nguyên nhân nội sinh. Giáo trình không ghi riêng vị trí mặt lưỡi. Theo lâm sàng, acid từ dạ dày trào lên miệng tiếp xúc trước hết và lâu nhất với mặt trong (mặt khẩu cái, mặt lưỡi) của các răng trước hàm trên. Vì vậy mòn khu trú ở mặt lưỡi, răng trước mòn nhiều hơn răng sau, là kiểu xoi mòn nội sinh do trào ngược dạ dày – thực quản. (Giáo trình Sâu Răng Học, Bài 10, mục 2.3 và 3.3, Hình 10.1)
+>> Đề RHM K48 (câu 65) hỏi cùng ý (mòn chủ yếu mặt trong răng cửa hàm trên); đáp án chính thức là trào ngược dạ dày – thực quản.
+
+Câu 54. Mòn răng hoá học có thể đến từ các nguyên nhân:
+A. Sử dụng nước ngọt có ga
+B. Nghiện rượu
+C. Trào ngược dạ dày
+@D. Tất cả các nguyên nhân trên
+> Giáo trình gọi mòn răng hóa học là xoi mòn: do acid mạnh hay tác nhân phá hủy mô tiếp xúc với men răng lâu dài, từng đợt hay liên tục, làm mất mô cứng của răng. Các acid này có thể đến từ thực phẩm (cam, chanh, soda, bưởi…), từ thuốc, hoặc do nôn mửa. Nguồn ngoại sinh gồm dùng nhiều thực phẩm nhiều acid, nhiều thức uống có gas như Coca, champagne, hoặc thuốc dùng thường xuyên như vitamin C. Nguồn nội sinh chủ yếu từ dạ dày, thường trong hội chứng trào ngược dạ dày – thực quản. Tình trạng mất nước và thiếu sự bảo vệ của nước bọt là yếu tố nguy cơ. Giáo trình không nêu đích danh nghiện rượu. Tuy nhiên, người nghiện rượu uống nhiều đồ uống có cồn chứa acid (giáo trình có nêu champagne), hay nôn mửa, trào ngược và bị mất nước, khô miệng, nên cũng là nguồn acid gây xoi mòn. Như vậy cả nước ngọt có ga, nghiện rượu và trào ngược dạ dày đều có thể gây mòn răng hóa học. (Giáo trình Sâu Răng Học, Bài 10, mục 2.3 và 3.3)
+>> Cuối thân câu có hai vạch ngang (gạch dưới hoặc vệt scan), nhưng không thấy chữ “ngoại trừ” trong thân câu.
+
+Câu 55. Hàm giả có thể gây mòn răng đối diện do:
+A. Ăn mòn hoá học
+@B. Cọ sát
+C. Lực kéo
+D. Câu B và C đúng
+> Giáo trình không đề cập riêng đến hàm giả. Giáo trình chia mòn răng do cơ học thành hai loại. Cọ mòn là mất mô cứng do răng tiếp xúc với răng khi ăn nhai, phát âm, hoặc do cọ sát khi khép hàm. Mài mòn là mất mô cứng do bất hài hòa cơ học giữa mặt răng với vật thể lạ. Giáo trình cũng nêu sai lệch khớp cắn, như răng không được phục hình, làm lực cọ xát dồn bất thường lên bề mặt răng. Hàm giả là một vật thể lạ có bề mặt cứng (sứ, kim loại, nhựa), tiếp xúc trực tiếp với răng thật đối diện mỗi lần cắn khớp và nhai. Mỗi lần trượt khớp, bề mặt hàm giả cọ sát lên men răng đối diện. Bề mặt càng thô ráp, không được đánh bóng, hoặc khớp cắn có điểm chạm sớm thì mô răng đối diện càng mất nhanh. Vì vậy cơ chế hàm giả gây mòn răng đối diện là cọ sát. (Giáo trình Sâu Răng Học, Bài 10, mục 2.1, 2.2 và 3.1)
+>> Phương án “Lực kéo” đọc theo dáng chữ, không phải “Lực lớn”.
+
+Câu 56. Vị trí ưa chuộng của sâu răng:
+@A. Mặt bên
+B. Đỉnh múi
+C. Mặt ngoài
+D. Cạnh cắn
+> Ở cuối phần phân loại theo vị trí, giáo trình nêu đặc điểm phân bố của sâu răng. Sâu răng thường xảy ra ở các mặt răng kề nhau và đối xứng hai bên; răng sau bị ảnh hưởng nhiều hơn răng trước; răng cối hàm dưới dễ bị hơn hàm trên. Mặt bên (mặt tiếp cận) là vùng tiếp xúc giữa hai răng kề nhau. Vùng này khó làm sạch, mảng bám dễ tích tụ, nên là vị trí sâu răng ưa chuộng. Giáo trình cũng xếp vùng tiếp xúc rộng vào nhóm hình thái làm tăng tính nhạy cảm của răng với sâu răng. Hình 5.4 nêu sâu mặt bên là một trong các vị trí sâu răng điển hình, bên cạnh sâu trũng rãnh và sâu chân răng. (Giáo trình Sâu Răng Học, Bài 5, mục 1.1–1.2, Hình 5.4; Bài 1, mục 1.2.3)
+>> Phương án đáp án đọc là “Mặt bên” theo dáng chữ, không phải “Mặt nhai”.
+
+Câu 57. Răng cối lớn thứ nhất hàm trên có các vị trí sâu răng như sau: sâu mặt nhai phía gần lan vào mặt ngoài, sâu mặt nhai phía xa lan vào mặt trong, gờ chéo của răng còn nguyên vẹn. Chẩn đoán tình trạng răng này:
+A. Sâu 1 Xoang loại I kép
+@B. Sâu 2 Xoang loại I kép
+C. Sâu 1 Xoang loại II kép
+D. Sâu 2 Xoang loại I đơn
+> Giáo trình xếp vào xoang loại I theo G.V. Black: hố, rãnh mặt nhai của răng cối nhỏ và cối lớn; hố mặt trong hoặc hố mặt ngoài của răng cối lớn; hố mặt trong của răng cửa hàm trên. Giáo trình không mô tả xoang I kép và gờ chéo. Theo giải phẫu và nguyên tắc tạo xoang, ở răng cối lớn thứ nhất hàm trên, gờ chéo nối múi gần trong với múi xa ngoài và chia mặt nhai thành hai vùng: hố giữa ở phía gần và hố xa ở phía xa. Rãnh ngoài đi từ hố giữa ra mặt ngoài; rãnh xa trong đi từ hố xa ra mặt trong. Sang thương mặt nhai phía gần lan theo rãnh ngoài xuống mặt ngoài là một xoang loại I gồm hai mặt (nhai – ngoài), tức xoang I kép. Sang thương mặt nhai phía xa lan theo rãnh xa trong xuống mặt trong cũng là một xoang I kép (nhai – trong). Gờ chéo còn nguyên vẹn nên được bảo tồn, không mở thông hai sang thương với nhau. Vì vậy răng này có 2 xoang loại I kép riêng biệt. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.5)
+>> Chữ số sau “Sâu” đọc theo dáng chữ: ở phương án đáp án là “2”, ở “Sâu 1 Xoang loại I kép” và “Sâu 1 Xoang loại II kép” là “1”. Đề RHM K40 (câu 53) có câu liên quan, đề khoanh: xoang I kép ở răng cối lớn hàm trên gồm hố rãnh mặt nhai và hố mặt trong.
+
+Câu 58. Xoang MOD là loại xoang:
+@A. Sâu Gần Nhai Xa
+B. Sâu Gần Nhai Má
+C. Sâu Gần Nhai Ngoài
+D. Sâu Gần Nhai Trong
+> Giáo trình định nghĩa xoang loại II theo G.V. Black là sâu ở mặt bên các răng cối nhỏ và cối lớn, gồm 2 mặt hoặc nhiều hơn 2 mặt (Hình 5.6). Giáo trình không giải thích các ký hiệu viết tắt tên xoang. Theo quy ước chung, xoang được gọi bằng chữ cái đầu tên tiếng Anh của các mặt răng mà sang thương lan tới: M (Mesial) là mặt gần, O (Occlusal) là mặt nhai, D (Distal) là mặt xa. Vì vậy xoang MOD là xoang loại II gồm ba mặt: sang thương đi từ mặt gần, qua mặt nhai, tới mặt xa của răng sau. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2, Hình 5.6)
+>> Có một nét cong viết tay bắt đầu sát phương án “Sâu Gần Nhai Trong”, vòng quanh số câu 59 rồi đè lên đầu câu 59; không rõ nét này đánh dấu phương án nào. Đề RHM K43 (câu 20) và K45 (câu 50) hỏi theo chiều ngược lại và đều khoanh: sang thương lan từ mặt gần qua mặt nhai tới mặt xa răng cối lớn hàm dưới gọi là xoang MOD.
+
+Câu 60. Hình dạng tạo xoang I ở răng cối nhỏ hàm dưới có thể có là:
+A. Hình mũi tên
+B. Hình chữ Y
+C. Hình cánh bướm
+@D. Tất cả các trường hợp trên
+> Giáo trình chỉ phân loại xoang loại I theo G.V. Black (sâu ở hố rãnh) và nêu nguyên tắc tạo xoang: lấy đi toàn bộ sang thương sâu răng, mở rộng xoang đến những vùng có thể làm sạch để tránh sâu tái phát. Giáo trình không mô tả hình dạng xoang I của từng răng, nên đáp án này dựa trên suy luận chuyên môn từ giải phẫu mặt nhai. Xoang I đi theo hệ thống hố rãnh bị sâu, vì vậy hình dạng xoang phụ thuộc vào hình thể rãnh mặt nhai của từng răng. Mặt nhai răng cối nhỏ hàm dưới rất thay đổi. Ở răng cối nhỏ thứ nhất, múi ngoài lớn và múi trong nhỏ nối nhau bằng gờ ngang, chia mặt nhai thành hố gần và hố xa; xoang I thường có hai thùy nối nhau qua một eo hẹp (hình cánh bướm). Ở răng cối nhỏ thứ hai loại ba múi, hệ thống rãnh có hình chữ Y nên xoang có hình chữ Y. Ở loại hai múi, rãnh giữa thẳng hoặc cong, hai đầu tận cùng ở hố gần và hố xa, nên xoang có thể mang những dạng khác như hình mũi tên, chữ H hay chữ U. Do đó xoang I ở răng cối nhỏ hàm dưới có thể có tất cả các dạng được nêu. (Suy luận chuyên môn, giáo trình không ghi; tham khảo Giáo trình Sâu Răng Học, Bài 5, mục 1.2 và Bài 6, mục 2.2)
+>> Phương án “Hình mũi tên” đọc chưa chắc (có thể là “Hình mắt …”). Đáp án vẫn giữ nguyên.
+
+Câu 61. Sự khác biệt giữa ngà sửa chữa và ngà phản ứng là:
+A. Ngà sửa chữa có khoảng cách xa với vùng sâu răng
+@B. Ngà phản ứng có khoảng cách xa với vùng sâu răng
+C. Ngà sửa chữa có tính chất đồng nhất hơn ngà phản ứng do thời gian hình thành lâu
+D. Ngà phản ứng có tính chất không đồng nhất như ngà sửa chữa do thời gian hình thành nhanh
+> Giáo trình không phân biệt ngà sửa chữa với ngà phản ứng. Bài 6 chỉ nêu ngà thứ cấp bệnh lý (ngà phản ứng) là lớp ngà thành lập ở bề mặt ngà hướng về tủy, tại vùng bị kích thích như sâu răng hay chấn thương, để bảo vệ tủy. Ở người trẻ, ngà phản ứng thành lập nhanh và nhiều hơn; răng chết tủy thì không có ngà phản ứng. Bài 9 chỉ nhắc mục đích của che tủy gián tiếp là giữ tủy sống để có thể hình thành ngà sửa chữa. Vì vậy phần phân biệt dựa trên mô học nội nha. Ngà phản ứng do chính các nguyên bào ngà nguyên thủy còn sống tiết ra khi kích thích nhẹ và kéo dài, tức là khi sang thương sâu răng tiến triển chậm và còn cách xa tủy; ống ngà của lớp này liên tục với ngà cũ. Ngà sửa chữa chỉ hình thành khi kích thích mạnh (sâu sát tủy, lộ tủy) làm chết nguyên bào ngà ban đầu. Khi đó tế bào gốc của tủy biệt hóa thành tế bào giống nguyên bào ngà và tạo lớp ngà ngay dưới vùng tổn thương. Như vậy, điểm khác biệt là ngà phản ứng hình thành khi vùng sâu răng còn ở khoảng cách xa. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2; Bài 9, mục 2.2; phần phân biệt hai loại ngà là suy luận chuyên môn, giáo trình không ghi)
+>> Chữ sau “khoảng cách” ở cả hai phương án “Ngà sửa chữa có khoảng cách xa với vùng sâu răng” và “Ngà phản ứng có khoảng cách xa với vùng sâu răng” đều đọc là “xa” theo dáng chữ, không phải “gần”.
+
+Câu 62. Quá trình mất khoáng men răng có sự tham gia của các ion:
+A. Canxi
+B. Phosphat
+C. Fluor
+@D. Tất cả các câu trên đều đúng
+> Giáo trình giải thích rằng men răng chủ yếu là tinh thể hydroxyapatite (HA). Khi một đơn vị HA hòa tan, nó phóng thích 5 ion calcium, 3 ion phosphate hóa trị 3 và 1 ion hydroxyl: Ca5(PO4)3OH → 5Ca2+ + 3PO4 3− + OH−. Khi pH của dịch miệng, nước bọt và dịch mảng bám xuống dưới pH tới hạn, dịch mảng bám dưới mức bão hòa đối với HA nhưng vẫn quá bão hòa đối với fluorapatite (FA), vì FA ít bị hòa tan hơn. Lúc đó HA trên bề mặt bị hòa tan, còn FA được hình thành trên bề mặt men và giữ vai trò duy trì sự toàn vẹn của lớp bề mặt; vì thế nồng độ fluor cao ở lớp bề mặt sang thương. Như vậy quá trình mất khoáng men răng có sự tham gia của cả ion calcium, phosphate và fluor. (Giáo trình Sâu Răng Học, Bài 2, mục 2 và 8, Hình 2.6–2.7)
+>> Chữ “mất” trong thân câu đọc theo dáng chữ, không phải “tái”; nếu là “tái khoáng” thì đáp án vẫn như vậy.
+
+Câu 63. Nguyên nhân làm mất mô răng bao gồm:
+A. Sâu răng
+B. Mòn răng
+C. Nứt răng
+@D. Tất cả các câu trên đều đúng
+> Giáo trình định nghĩa mòn răng là sự mất mô cứng của răng (men, ngà, cement) do tác động cơ học (sinh lý hoặc bất thường) hoặc do các yếu tố hóa học, không liên quan đến vi khuẩn. Sâu răng là bệnh nhiễm khuẩn của tổ chức canxi hóa, đặc trưng bởi sự hủy khoáng thành phần vô cơ và sự phá hủy thành phần hữu cơ của mô cứng, dẫn tới hình thành lỗ sâu. Giáo trình không có mục riêng về nứt răng. Giáo trình chỉ nhắc vi nứt ở mô khoáng hóa vùng cổ răng (do nghiến răng nặng, xoi mòn, chải răng) góp phần gây mòn, và nứt gãy mô răng là hậu quả khi còn sót mô răng nhiễm khuẩn sau tạo xoang. Về chuyên môn, đường nứt làm vỡ, mẻ mô cứng nên cũng là một nguyên nhân gây mất mô răng. Vì vậy sâu răng, mòn răng và nứt răng đều làm mất mô răng. (Giáo trình Sâu Răng Học, Bài 3 phần mở đầu; Bài 6, mục 2.1; Bài 10, mục 1 và 3.2; phần nứt răng là suy luận chuyên môn, giáo trình không ghi riêng)
+>> Phương án “Nứt răng” đọc theo dáng chữ; chữ đầu hơi giống “Mất” nhưng hợp với “Nứt” hơn.
+
+Câu 64. Trám răng được chỉ định trong trường hợp:
+A. Sâu răng mất 4 thành răng
+B. Sâu men mới chớm ở đỉnh múi
+@C. Sâu tái phát ở rìa miếng trám xoang I
+D. Tiêu răng
+> Giáo trình phân loại sâu răng thứ phát hoặc tái phát là tổn thương gần hoặc ngay sát một phục hồi, xảy ra ở răng đã trám do trám không đúng hoặc do mô răng sâu còn sót lại. Đây là một sang thương sâu răng thực sự ở rìa miếng trám. Bất cứ phần mô răng nhiễm khuẩn hay mục nát nào còn sót lại cũng dẫn đến sâu tái phát, tăng nhạy cảm, đau hoặc nứt gãy mô răng và miếng trám. Vì vậy cần lấy bỏ miếng trám cũ và toàn bộ mô sâu, tạo lại xoang và trám phục hồi theo nguyên tắc trám vĩnh viễn: lấy toàn bộ tổn thương ngà nhiễm khuẩn, chất trám bám dính và lưu giữ tốt với mô răng còn lại, phòng sâu răng tái phát và bền dưới lực nhai sinh lý. (Giáo trình Sâu Răng Học, Bài 5, mục 4.1; Bài 3, mục 6; Bài 6, mục 2.1–2.2)
+>> Phương án “Tiêu răng” là đoán: chữ “răng” rõ, chữ đầu không phải “Tất” hay “Tủy”.
+
+Câu 65. Điều trị mòn răng thành công cần dựa vào yếu tố:
+A. Mức độ mất mô răng
+B. Khớp cắn
+C. Thói quen của bệnh nhân
+@D. Tất cả các câu trên đều đúng
+> Giáo trình nêu điều trị mòn răng gồm các bước sau. Trước hết là phát hiện sớm, xác định loại mòn và nguyên nhân, dựa vào dạng mòn, vùng mòn, bệnh sử, thói quen sống, tật nghiến răng, thói quen ăn uống, tình trạng tiết nước bọt và thuốc đang dùng. Tiếp theo là đánh giá mức độ mòn: xác định mức độ tổn thương cấu trúc răng rồi mới đưa ra kế hoạch điều trị. Sau đó là loại bỏ nguyên nhân và phục hồi vùng mất chất. Khớp cắn là một yếu tố quan trọng: sai lệch khớp cắn (răng trồi, răng nghiêng, răng mất không được phục hình) và thói quen nhai một bên làm lực cọ xát tập trung bất thường trên bề mặt răng; tật nghiến răng cần điều trị bằng máng nhai ban đêm. Thói quen của bệnh nhân cũng phải được thay đổi và kiểm soát, như chải răng sai cách, cắn chỉ, ngậm đinh hay chế độ ăn uống nhiều acid. Vì vậy điều trị mòn răng thành công cần dựa vào cả mức độ mất mô răng, khớp cắn và thói quen của bệnh nhân. (Giáo trình Sâu Răng Học, Bài 10, mục 3.1, 4.1, 4.2 và 5.2)
+
+Câu 66. Trộn cement để che tủy răng ta cần trộn dạng:
+A. Đặc
+B. Lỏng
+@C. Kem
+D. Nhão
+> Theo giáo trình, calcium hydroxide (vật liệu che tủy phổ biến nhất) có thể dùng dưới dạng đơn thuần, phối hợp với methyl cellulose, hoặc trộn với nước cất để có một dạng kem. Hiện nay calcium hydroxide còn được dùng dưới dạng cement như Dycal, Pulpdent: lấy hai lượng bằng nhau của tuýp chất nền và tuýp chất xúc tác, trộn rồi dùng cây đặt thuốc đặt nhẹ một lớp mỏng lên vùng tủy lộ hoặc sắp lộ. Cement che tủy cần ở dạng kem để có thể đặt thành một lớp mỏng, áp sát lên vùng tủy mà không phải nén ép, tránh gây thêm kích thích cho tủy. (Giáo trình Sâu Răng Học, Bài 9, mục 2.4.1, 3.4 và 4.3)
+>> Câu này đọc ở mức đoán: chữ “cement” trong thân câu có thể là “canxi”; phương án “Đặc” có thể là “Bạc”, “Kem” có thể là “Kẽm”. Nếu đúng là “Kẽm” thì câu này cần xem lại.
+
+Câu 67. Vật liệu thế hệ mới nhất hiện nay để che tủy răng:
+A. Canxi hydroxide
+B. MTA màu xám
+C. GIC
+@D. Biodentine
+> Giáo trình chỉ trình bày các vật liệu che tủy ZOE, Glass Ionomer, calcium hydroxide (chuẩn vàng trong vài thập kỷ) và MTA, không nhắc đến Biodentine, nên đáp án dựa trên suy luận chuyên môn. Biodentine (Septodont, giới thiệu khoảng năm 2009–2010) là vật liệu nền tricalcium silicate ra đời sau MTA và được gọi là “chất thay thế ngà”. Vật liệu này có tính tương hợp sinh học và cơ chế giải phóng calcium hydroxide giống MTA, nên kích thích hình thành cầu ngà. Ngoài ra, Biodentine đông cứng nhanh (khoảng 12 phút) nên có thể che tủy và trám trong một lần hẹn; vật liệu cũng dễ thao tác, có cơ tính gần với ngà và ít làm đổi màu răng. Nhờ vậy nó khắc phục những nhược điểm mà giáo trình nêu cho MTA (thời gian đông cứng kéo dài phải che tủy 2 lần hẹn, dạng màu xám làm đổi màu răng). Vì thế Biodentine được xem là vật liệu che tủy thế hệ mới nhất hiện nay. (Suy luận chuyên môn, giáo trình không ghi về Biodentine; tham khảo Giáo trình Sâu Răng Học, Bài 9, mục 4.2)
+>> Phương án “MTA màu xám” đọc theo dáng chữ, không phải “MTA màu trắng”.
+
+Câu 68. Che tủy bằng canxi hydroxide sau một thời gian cần tháo ra trám lại là do:
+@A. Canxi hydroxide ngấm dịch mạnh bị tiêu đi nên không còn tác dụng
+B. Canxi hydroxide có tính độc không nên để lâu
+C. Canxi hydroxide làm vôi hóa buồng tủy phía dưới
+D. Canxi hydroxide làm tiêu vùng chóp
+> Giáo trình nêu calcium hydroxide được xem là chuẩn vàng của vật liệu che tủy nhờ tính kiềm mạnh (pH 11,8–12,4): trung hòa acid sẵn có trong môi trường, tham gia vào quá trình khoáng hóa, kháng khuẩn mạnh và kích thích hình thành cầu ngà. Tuy nhiên, nhược điểm của calcium hydroxide là có tính hòa tan cao và có thể tạo thành những khuyết hổng trong cầu ngà. Do dễ hòa tan khi tiếp xúc với dịch, lớp calcium hydroxide dưới miếng trám dần bị tiêu đi, để lại khoảng trống và không còn tác dụng bảo vệ tủy hay kích thích tạo ngà. Vì vậy sau một thời gian theo dõi cần tháo ra, làm sạch và trám lại, như trong kỹ thuật che tủy nhiều lần hẹn: sau 6–12 tháng mở lỗ trám lại, lấy hết ngà mềm rồi trám kết thúc bằng composite hoặc amalgam. (Giáo trình Sâu Răng Học, Bài 9, mục 2.4.2 và 4.2)
+>> Ở phương án đáp án, cụm “bị tiêu đi” đọc ở mức đoán (“đi” có thể là “hết”).
+
+Câu 69. Bệnh nhân bị mòn đến vùng ngà cổ răng, nha sĩ cần điều trị như thế nào
+A. Hướng dẫn lại cách chải răng đúng và không làm gì thêm
+@B. Trám vùng cổ răng và hướng dẫn lại cách chải răng đúng
+C. Kê toa thuốc điều trị trào ngược dạ dày - thực quản
+D. Lấy tủy răng và bọc mão sứ
+> Giáo trình xếp tổn thương mòn ngót cổ răng do thói quen chải răng sai cách, dùng lực quá mạnh hoặc kem đánh răng chứa chất mài mòn vào nhóm mài mòn. Tổn thương thường ở 1/3 cổ răng mặt ngoài, có dạng lõm cạn, rãnh sâu hoặc hình chữ V, bề mặt bóng láng; khi tiến triển, tổn thương làm lộ ngà, gây ê buốt và nhạy cảm ngà. Điều trị mòn răng phải chú ý 2 yếu tố. Thứ nhất là loại bỏ nguyên nhân: với mài mòn, đó là thay đổi phương pháp chải răng và kiểm soát các thói quen xấu. Thứ hai là phục hồi vùng mất chất: trám phục hồi giúp bảo tồn cấu trúc răng và giảm tối đa nguy cơ tổn thương thêm. Nếu nhạy cảm ngà ở vùng cổ răng vẫn còn thì nguyên nhân gây mòn chưa được loại bỏ hoàn toàn. Vì vậy khi mòn đã tới ngà cổ răng, nha sĩ cần trám vùng cổ răng đồng thời hướng dẫn lại cách chải răng đúng. (Giáo trình Sâu Răng Học, Bài 10, mục 2.2, 3.2, 5.1 và 5.2)
+
+Câu 70. Mòn răng do chải răng không đúng cách là do cơ chế:
+A. Xoi mòn
+B. Nhai mòn
+@C. Cọ mòn
+D. Xâm thực
+> Giáo trình mô tả tổn thương mòn ngót cổ răng do thói quen chải răng sai cách, dùng lực quá mạnh hoặc kem đánh răng chứa chất mài mòn là mòn do lực cơ học bất thường, tức sự cọ xát của bàn chải và kem đánh răng lên bề mặt răng (Hình 10.5). Tổn thương thường ở 1/3 cổ răng mặt ngoài, dạng lõm cạn hoặc hình chữ V, bề mặt bóng láng. Giáo trình gọi kiểu mòn này là “mài mòn” và dùng tên “cọ mòn/nhai mòn” cho mòn sinh lý do tiếp xúc răng với răng. Đề không có phương án “mài mòn” và dùng cách gọi thông dụng trong nhiều tài liệu tiếng Việt: nhai mòn (attrition), cọ mòn (abrasion), xoi mòn hay xâm thực (erosion). Theo cách gọi đó, mòn do ma sát của bàn chải và kem đánh răng (abrasion) là cọ mòn, nên chọn “Cọ mòn” là phương án đúng với cơ chế này. (Giáo trình Sâu Răng Học, Bài 10, mục 2.2 và 3.2; tên gọi là suy luận vì thuật ngữ của đề khác với giáo trình)
+>> Phương án “Nhai mòn” đọc theo dáng chữ đầu là N; nếu thật ra là “Mài mòn” thì theo giáo trình (Bài 10, mục 2.2) đáp án sẽ là “Mài mòn”.
