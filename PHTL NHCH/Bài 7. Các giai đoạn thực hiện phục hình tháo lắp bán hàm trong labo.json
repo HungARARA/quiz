@@ -1,0 +1,3370 @@
+{
+  "title": "Bài 7. Các giai đoạn thực hiện phục hình tháo lắp bán hàm trong labo",
+  "subject": "PHTL NHCH",
+  "source": "PHTL NHCH Bài 7",
+  "header": [],
+  "note": null,
+  "noteLabel": null,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Khi vô khuôn phục hình tháo lắp bán hàm nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nếu để hở móc thì răng trụ phải giữ nguyên."
+        },
+        {
+          "label": "B",
+          "text": "Cần phải dán mép nền sáp chặt vào mẫu hàm để thạch cao vô khuôn không chui xuống dưới lớp sáp."
+        },
+        {
+          "label": "C",
+          "text": "Cần ngâm nước mẫu hàm trước khi vô khuôn."
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 2,
+      "question": "Muốn vô khuôn 3 lớp, phần trên của khuôn được đổ thạch cao cứng đến mặt nhai các răng, sau đó mới đổ đầy khuôn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để lúc đội sáp không bị bể thạch cao."
+        },
+        {
+          "label": "B",
+          "text": "Để gỡ múp dễ dàng lấy được nguyên vẹn mẫu hàm."
+        },
+        {
+          "label": "C",
+          "text": "Để khuôn được chính xác và răng giả không bị rơi ra trong khi dội sáp."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Khi dội sáp, ta cần ngâm khuôn vào nước sôi trong:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 - 10 phút."
+        },
+        {
+          "label": "B",
+          "text": "10 - 20 phút."
+        },
+        {
+          "label": "C",
+          "text": "30 phút."
+        },
+        {
+          "label": "D",
+          "text": "2 phút."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 4,
+      "question": "Sau khi dội sáp, vernis được thoa lúc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khuôn còn đang nóng."
+        },
+        {
+          "label": "B",
+          "text": "Sau khi dội sáp 5 phút."
+        },
+        {
+          "label": "C",
+          "text": "Sau khi dội sáp 10phút."
+        },
+        {
+          "label": "D",
+          "text": "Sau khi dội sáp 7 phút."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 5,
+      "question": "Cách nấu nhựa theo phương pháp nấu chậm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cho khuôn vào nước lạnh, đưa nhiệt độ nước lên từ nhiệt độ phòng đến 74 độ C và giữ nhiệt độ này trong 9 giờ."
+        },
+        {
+          "label": "B",
+          "text": "Đặt khuôn vào nưóc lạnh đưa nhiệt độ lên 212°F và giữ nhiệt độ nay trong 11 giờ."
+        },
+        {
+          "label": "C",
+          "text": "Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165°F và giữ trong 1 giờ 30 phút."
+        },
+        {
+          "label": "D",
+          "text": "Đặt khuôn vào nước lạnh, và đưa nhiệt độ lên từ từ 100°c, và giữ ởnhiệt độ này trong 2 giờ."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 6,
+      "question": "Đúc xuyên đế mẫu hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ưu điểm hơn đúc từ phía trên mẫu hàm."
+        },
+        {
+          "label": "B",
+          "text": "Bất lợi hơn đúc từ phía trên mẫu hàm."
+        },
+        {
+          "label": "C",
+          "text": "Kim đúc ngắn hơn."
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 7,
+      "question": "Khi làm cứng mẫu hàm bột bao, nếu nhiệt độ sấy là 150°C- 200°C trong 15 phút, Khi sấy đúng mẫu hàm sẽ có màu",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mẫu hàm màu đen."
+        },
+        {
+          "label": "B",
+          "text": "Mẫu hàm màu nâu sáng."
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm màu vàng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Khung đúc ra không chính xác khi",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kim đúc ngắn."
+        },
+        {
+          "label": "B",
+          "text": "Kim đúc dài."
+        },
+        {
+          "label": "C",
+          "text": "Kim đi theo đường vòng cung nhẹ."
+        },
+        {
+          "label": "D",
+          "text": "Câu B và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Đắp sáp dưới yên phục hình",
+      "options": [
+        {
+          "label": "A",
+          "text": "Theo đường vẽ yên trên mẫu hàm làm việc."
+        },
+        {
+          "label": "B",
+          "text": "Theo đường vẽ yên trên mẫu hàm bột bao"
+        },
+        {
+          "label": "C",
+          "text": "Lớp sáp dày 2 mm."
+        },
+        {
+          "label": "D",
+          "text": "a và c đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "Đắp sáp dưới thanh lưỡi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để thanh lưỡi không ép lên niêm mạc bên dưới gây đau."
+        },
+        {
+          "label": "B",
+          "text": "Để loại bỏ vùng vướng."
+        },
+        {
+          "label": "C",
+          "text": "Độ dày sáp đắp là 0,25 mm khi triền sống hàm phía lưỡi không quá dốc."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 11,
+      "question": "Để thạch cao không chui xuống dưới lớp sáp khi vô khuôn",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngâm mẫu hàm cho ướt"
+        },
+        {
+          "label": "B",
+          "text": "Dán mép nền sáp vào mẫu thạch cao."
+        },
+        {
+          "label": "C",
+          "text": "Cách ly bằng vaselin"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Khi vô khuôn ta thoa vaselin lên bề mặt thạch cao có tác dụng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly thạch cao với thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Cách ly răng và thạch cao"
+        },
+        {
+          "label": "C",
+          "text": "Cách ly thạch cao với khuôn."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 13,
+      "question": "Thời gian và nhiệt độ của nấu nhựa theo cách chậm",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nấu từ nước nguội đến 74° trong 9 giờ"
+        },
+        {
+          "label": "B",
+          "text": "Nấu ở 100° trong 30 phút"
+        },
+        {
+          "label": "C",
+          "text": "Cả 2 câu đều đúng."
+        },
+        {
+          "label": "D",
+          "text": "Cả 2 câu đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Thoa vernis có tác dụng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không cho sáp dính vào thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Không cho thạch cao dính vào răng"
+        },
+        {
+          "label": "C",
+          "text": "Không cho thạch cao dính vào nhựa ép."
+        },
+        {
+          "label": "D",
+          "text": "Không cho nhựa dính vào răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 15,
+      "question": "Tripolo có tác dụng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại bỏ thạch cao dính trên hàm nhựa"
+        },
+        {
+          "label": "B",
+          "text": "Làm nhẵn mịn hàm nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Đánh bóng hàm nhựa."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 16,
+      "question": "Sau khi dội sáp, vernis được thoa lúc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khuôn còn đang nóng và đang bốc hơi nước"
+        },
+        {
+          "label": "B",
+          "text": "Khuôn còn đang nóng và bốc hết hơi nước."
+        },
+        {
+          "label": "C",
+          "text": "Ngay khi dội sạch sáp"
+        },
+        {
+          "label": "D",
+          "text": "Khi khuôn nguội hoàn toàn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 17,
+      "question": "Tổng thời gian cần thiết để nấu nhựa theo phương pháp nấu nhanh:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 giờ"
+        },
+        {
+          "label": "B",
+          "text": "1giờ 30 phút"
+        },
+        {
+          "label": "C",
+          "text": "2 giờ."
+        },
+        {
+          "label": "D",
+          "text": "9 giờ 30 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Thứ tự làm nguội hàm nhựa :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mài bỏ nhựa thừa, mài nhẵn nền hàm, đánh giấy nhám, đánh bóng."
+        },
+        {
+          "label": "B",
+          "text": "Mài bỏ nhựa thừa, đánh giấy nhám làm nhẵn nền hàm, mài mịn hàm, đánh bóng."
+        },
+        {
+          "label": "C",
+          "text": "Đánh giấy nhám nền hàm, mài mịn hàm giả, làm sạch kẽ răng, đánh bóng bằng Tripoli."
+        },
+        {
+          "label": "D",
+          "text": "Mài nhẵn nền hàm, mài sạch kẽ răng, đánh giấy nhám, đánh bóng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Bước nào sau đây không thực hiện trong Labo",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đổ mẫu tham khảo"
+        },
+        {
+          "label": "B",
+          "text": "Lấy dấu sau cùng."
+        },
+        {
+          "label": "C",
+          "text": "Làm khay cá nhân"
+        },
+        {
+          "label": "D",
+          "text": "Làm nền tạm gối sáp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Yêu cầu khi cho mẫu hàm vào khuôn ép:CHỌN CÂU ĐÚNG",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bôi vernis lên mẫu hàm và lên khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Giữ cho mẫu hàm được khô ráo khi vào khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Mặt nhai các răng cách đều bờ khuôn 5-6 mm."
+        },
+        {
+          "label": "D",
+          "text": "Dùng sáp đắp lẹm các răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 21,
+      "question": "Thời điểm điểm cho nhựa vào khuôn ép",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngay sau khi bộ nhựa được thấm đều với nước"
+        },
+        {
+          "label": "B",
+          "text": "Khi nhựa còn lỏng, dễ dàng chảy vào khuôn ép"
+        },
+        {
+          "label": "C",
+          "text": "Khi nhựa còn dẻo và còn dính được vào thành chén trộn"
+        },
+        {
+          "label": "D",
+          "text": "Khi sợi kéo sợi, có thể nhồi bằng tay."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 22,
+      "question": "Thời điểm gỡ khuôn ép tốt nhất là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngay khi khuôn còn nóng"
+        },
+        {
+          "label": "B",
+          "text": "Khi khuôn còn ấm"
+        },
+        {
+          "label": "C",
+          "text": "Khi khuôn đã nguội hoàn toàn."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Thứ tự thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm khay cá nhân, đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng."
+        },
+        {
+          "label": "B",
+          "text": "Làm khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa."
+        },
+        {
+          "label": "C",
+          "text": "Đổ mẫu nghiên cứu, làm khay cá nhân, lên răng, ép nhựa."
+        },
+        {
+          "label": "D",
+          "text": "Đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 24,
+      "question": "Thông thường khuôn ép bán hàm nền nhựa gồm",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 phần."
+        },
+        {
+          "label": "B",
+          "text": "3 phần."
+        },
+        {
+          "label": "C",
+          "text": "4 phần."
+        },
+        {
+          "label": "D",
+          "text": "5 phần."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 25,
+      "question": "Khuôn ép gồm các thành phần",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần đáy khuôn, phần trên khuôn, nắp khuôn."
+        },
+        {
+          "label": "B",
+          "text": "Phần đáy khuôn, phần giữa khuôn, phần trên khuôn."
+        },
+        {
+          "label": "C",
+          "text": "Phần đáy khuôn, phần thân khuôn, nắp khuôn."
+        },
+        {
+          "label": "D",
+          "text": "Phần thân khuôn, phần giữa khuôn, nắp khuôn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 26,
+      "question": "Khi vào khuôn, mẫu hàm cần cách bờ khuônkhoảng",
+      "options": [
+        {
+          "label": "A",
+          "text": "0,5 cm."
+        },
+        {
+          "label": "B",
+          "text": "1 cm"
+        },
+        {
+          "label": "C",
+          "text": "1,5 cm"
+        },
+        {
+          "label": "D",
+          "text": "2 cm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Khi vào phần trên khuôn, lớp Vaseline bôi vào bề mặt thạch cao có tác dụng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly thạch cao với thạch cao."
+        },
+        {
+          "label": "B",
+          "text": "Cách ly răng và thạch cao"
+        },
+        {
+          "label": "C",
+          "text": "Cách ly thạch cao với khuôn"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 28,
+      "question": "Khi vào phần đáy khuôn, nếu thạch cao được đổ phủ móc thì khi gỡ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả và móc nằm cùng 1 phần của khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Răng giả và móc nằm về 2 phần khác nhau của khuôn."
+        },
+        {
+          "label": "C",
+          "text": "Móc và răng giả sẽ dính với nhau"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Khi vào phần đáy khuôn, nếu không đổ thạch cao phủ móc thì",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả và móc nằm cùng 1 phần của khuôn."
+        },
+        {
+          "label": "B",
+          "text": "Răng giả và móc nằm về 2 phần khác nhau của khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Móc và răng giả sẽ dính với nhau"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Trình tự dội sáp",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngâm khuôn vào nước sôi, tách 2 phần khuôn, dội sạch sáp, lấy lớp sáp dư."
+        },
+        {
+          "label": "B",
+          "text": "Ngâm khuôn vào nước sôi, tách 2 phần khuôn, lấy lớp sáp dư, dội sạch sáp."
+        },
+        {
+          "label": "C",
+          "text": "Tách 2 phần khuôn, ngâm khuôn vào nước sôi, dội sạch sáp, lấy lớp sáp dư."
+        },
+        {
+          "label": "D",
+          "text": "Tách 2 phần khuôn, ngâm khuôn vào nước sôi, lấy lớp sáp dư, dội sạch sáp."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Cách thoa vernis",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bôi lên phần thạch cao quanh răng 2 -3 lớp."
+        },
+        {
+          "label": "B",
+          "text": "Bôi lên răng phía mặt nhai."
+        },
+        {
+          "label": "C",
+          "text": "Bôi 1 lớp mỏng lên thạch cao và răng."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Tác dụng Vernis",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không cho thạch cao dính vào nhựa."
+        },
+        {
+          "label": "B",
+          "text": "Giúp bề mặt nhựa ép trơn láng."
+        },
+        {
+          "label": "C",
+          "text": "Giúp cách ly răng và nhựa ép."
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Điều kiện quan trọng trước khi tiến hành ép nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thực hiện ép nhựa khi khuôn còn nóng và bốc hết hơi nước."
+        },
+        {
+          "label": "B",
+          "text": "Thực hiện ép nhựa khi khuôn còn ấm và còn hơi nước trên bề mặt."
+        },
+        {
+          "label": "C",
+          "text": "Thực hiện ép nhựa khi khuôn còn ấm và bốc hết hơi nước."
+        },
+        {
+          "label": "D",
+          "text": "Thực hiện ép nhựa khi khuôn đã nguội hoàn toàn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 34,
+      "question": "Nguyên tắc trộn nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra."
+        },
+        {
+          "label": "B",
+          "text": "Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn"
+        },
+        {
+          "label": "C",
+          "text": "Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 35,
+      "question": "Thời điểm nhựa nấu đã sẵn sàng để ép",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi nhựa ép vừa được trộn xong"
+        },
+        {
+          "label": "B",
+          "text": "Khi nhựa còn dẻo và còn bám dính được trên thành hũ"
+        },
+        {
+          "label": "C",
+          "text": "Khi nhựa còn dẻo và không còn dính trên thành hũ."
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 36,
+      "question": "Cách thao tác nhựa nấu",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trộn nhựa bằng tay có mang găng tay vô khuẩn"
+        },
+        {
+          "label": "B",
+          "text": "Trộn nhựa bằng tay có lót giấy kính."
+        },
+        {
+          "label": "C",
+          "text": "Đặt nhựa vào khuôn và phủ 1 lớp giấy"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 37,
+      "question": "Thao tác càng ép nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ép 2 phần của khuôn đúng khớp và dứt khoát tránh bọt khí"
+        },
+        {
+          "label": "B",
+          "text": "Ép từ từ 2 phần của khuôn cho ăn khớp"
+        },
+        {
+          "label": "C",
+          "text": "Khuôn được ép lại 1 lần nữa thật chặt trước khi đem đi nấu nhựa"
+        },
+        {
+          "label": "D",
+          "text": "B và C đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "Khi đặt nhựa ép vào cả 2 phần của khuôn cần chú ý",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xiết càng ép thật nhanh và chặt để tránh bọt khí."
+        },
+        {
+          "label": "B",
+          "text": "Thoa nước nhựa lên cả 2 bề mặt trước khi đóng khuôn."
+        },
+        {
+          "label": "C",
+          "text": "Cho lượng nhựa ép nhiều hơn, sao cho tràn ra ngoài khuôn ép."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 39,
+      "question": "Thời gian cho phép từ lúc ép nhựa đến lúc nấu không được quá",
+      "options": [
+        {
+          "label": "A",
+          "text": "15 phút"
+        },
+        {
+          "label": "B",
+          "text": "30 phút."
+        },
+        {
+          "label": "C",
+          "text": "45 phút"
+        },
+        {
+          "label": "D",
+          "text": "60 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Cách nấu giữ nhiệt độ 165 độ F trong 1 giờ 30 phút là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn đầu của cách nấu chậm"
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn sau của cách nấu chậm"
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn đầu của cách nấu nhanh."
+        },
+        {
+          "label": "D",
+          "text": "Giai đoạn sau của cách nấu nhanh"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Cách nấu giữ nhiệt độ 74 độ C trong 9 giờ là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn đầu của cách nấu chậm."
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn sau của cách nấu chậm"
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn đầu của cách nấu nhanh"
+        },
+        {
+          "label": "D",
+          "text": "Giai đoạn sau của cách nấu nhanh"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 42,
+      "question": "Cách nấu giữ nhiệt độ 100 độ C trong 30 phút là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn đầu của cách nấu chậm"
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn sau của cách nấu chậm."
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn đầu của cách nấu nhanh"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 43,
+      "question": "Các gỡ mẫu hàm còn nguyên vẹn ra khỏi khuôn ép",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đợi khuôn nguội hoàn toàn"
+        },
+        {
+          "label": "B",
+          "text": "Dùng cưa cắt khối thạch cao theo chiều dày khối thạch cao ở 4 góc khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Lấy từng phần thạch cao xung quanh mẫu hàm"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 44,
+      "question": "Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cưa nhỏ mẫu hàm làm nhiều mảnh."
+        },
+        {
+          "label": "B",
+          "text": "Dùng búa nhỏ gõ cho mẫu hàm bể dần ra."
+        },
+        {
+          "label": "C",
+          "text": "Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 45,
+      "question": "Vùng lẹm nào gây khó khăn khi gỡ mẫu hàm khỏi chất sao mẫu",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vùng lẹm kẽ răng."
+        },
+        {
+          "label": "B",
+          "text": "Vùng lẹm bên dưới thanh nối phụ."
+        },
+        {
+          "label": "C",
+          "text": "Vùng sống hàm nhô ra phía trước."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 46,
+      "question": "Sáp dưới yên được đắp tại vị trí",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tại những nơi yên phục hình kết hợp nhựa với kim loại."
+        },
+        {
+          "label": "B",
+          "text": "Tại những nơi đặt móc."
+        },
+        {
+          "label": "C",
+          "text": "Tại vùng cổ các răng."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Sáp đệm dưới yên được đắp ở vùng yên mà nhựa bám vào khung kim loại (lưới yên), để chừa chỗ cho nhựa phủ dưới phần kim loại. Giáo trình 2021 không nêu riêng bước này.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 47,
+      "question": "Đắp sáp dưới thanh lưỡi có tác dụng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo lực nén tốt lên niêm mạc."
+        },
+        {
+          "label": "B",
+          "text": "Tạo được lớp nhựa dưới thanh lưỡi sau khi ép nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Tạo được khoảng cách giữa thanh lưỡi và niêm mạc."
+        },
+        {
+          "label": "D",
+          "text": "Câu B và C đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 48,
+      "question": "Khi hàm giả chịu lực nén, thanh lưỡi sẽ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm loét niêm mạc dưới thanh lưỡi"
+        },
+        {
+          "label": "B",
+          "text": "Tạo áp lực gây tổn thương niêm mạc"
+        },
+        {
+          "label": "C",
+          "text": "Không tác động lực lên niêm mạc."
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 49,
+      "question": "Để tránh tổn thương niêm mạc do thanh lưỡi gây ra ta phải",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thiết kế bản lưỡi"
+        },
+        {
+          "label": "B",
+          "text": "Đắp sáp dưới thanh lưỡi."
+        },
+        {
+          "label": "C",
+          "text": "Ép một lớp nhựa dưới thanh lưỡi"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 50,
+      "question": "Yêu cầu gắn phiễu đúc đối với hàm trên",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phiễu nằm ngoài khẩu cái sau."
+        },
+        {
+          "label": "B",
+          "text": "Không được quá sát bờ nền phục hình."
+        },
+        {
+          "label": "C",
+          "text": "Ấn mạnh khi gắn."
+        },
+        {
+          "label": "D",
+          "text": "A và B đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 51,
+      "question": "Yêu cầu gắn phiễu đúc đối với hàm trên",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phiễu không được nằm ngoài khẩu cái sau"
+        },
+        {
+          "label": "B",
+          "text": "Không được quá sát bờ nền phục hình"
+        },
+        {
+          "label": "C",
+          "text": "Ấn mạnh khi gắn"
+        },
+        {
+          "label": "D",
+          "text": "A và B đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 52,
+      "question": "Yêu cầu gắn phiễu đúc đối với hàm trên",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phiễu không được nằm ngoài khẩu cái sau."
+        },
+        {
+          "label": "B",
+          "text": "Nằm ngay bờ nền phục hình"
+        },
+        {
+          "label": "C",
+          "text": "Ấn mạnh khi gắn"
+        },
+        {
+          "label": "D",
+          "text": "A và B đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 53,
+      "question": "Yêu cầu gắn phiễu đúc đối với hàm dưới",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phiễu đúc được đặt ngay đỉnh sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Phiễu đúc được đặt tại chính giữa cung răng"
+        },
+        {
+          "label": "C",
+          "text": "Phiễu đúc được đặt ngay giữa mẫu hàm."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 54,
+      "question": "Mẫu hàm bột bao ẩm quá sẽ ảnh hưởng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm bề mặt mẫu hàm không chính xác."
+        },
+        {
+          "label": "B",
+          "text": "Bị bọt khí khi đúc"
+        },
+        {
+          "label": "C",
+          "text": "Biến dạng khung đúc"
+        },
+        {
+          "label": "D",
+          "text": "A và B đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 55,
+      "question": "Khung đúc ra thiếu chính xác có thể do",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mẫu hàm bột bao không đủ cứng."
+        },
+        {
+          "label": "B",
+          "text": "Phác hoạ khung sườn không phù hợp"
+        },
+        {
+          "label": "C",
+          "text": "A và B đúng"
+        },
+        {
+          "label": "D",
+          "text": "A và B sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 56,
+      "question": "Mẫu hàm bột bao sẽ có màu nâu hoặc nâu sáng khi",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mẫu hàm được nung ở 100 độ C trong 15 phút"
+        },
+        {
+          "label": "B",
+          "text": "Mẫu hàm được nung ở 100 độ C trong 30 phút"
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm được nung ở 200 độ C trong 15 phút."
+        },
+        {
+          "label": "D",
+          "text": "Mẫu hàm được nung ở 200 độ C trong 30 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 57,
+      "question": "Để làm cứng mẫu hàm bột bao, chất làm cứng phải được nấu ở nhiệt độ",
+      "options": [
+        {
+          "label": "A",
+          "text": "100 độ C"
+        },
+        {
+          "label": "B",
+          "text": "150 độ C."
+        },
+        {
+          "label": "C",
+          "text": "175 độ C"
+        },
+        {
+          "label": "D",
+          "text": "200 độ C"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 58,
+      "question": "Chất làm cứng được đun trong bao lâu",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 phút"
+        },
+        {
+          "label": "B",
+          "text": "15 Phút."
+        },
+        {
+          "label": "C",
+          "text": "30 phút"
+        },
+        {
+          "label": "D",
+          "text": "60 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 59,
+      "question": "Yêu cầu về nhiệt độ khi nhúng mẫu hàm vào chất làm cứng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhiệt độ mẫu hàm phải cao hơn nhiệt độ chất làm cứng."
+        },
+        {
+          "label": "B",
+          "text": "Nhiệt độ mẫu hàm phải bằng nhiệt độ chất làm cứng"
+        },
+        {
+          "label": "C",
+          "text": "Nhiệt độ mẫu hàm phải thấp hơn nhiệt độ chất làm cứng"
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 60,
+      "question": "Yêu cầu về nhiệt độ khi nhúng mẫu hàm vào chất làm cứng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhiệt độ mẫu hàm phải cao hơn nhiệt độ chất làm cứng 50 độ C."
+        },
+        {
+          "label": "B",
+          "text": "Nhiệt độ mẫu hàm phải bằng nhiệt độ chất làm cứng"
+        },
+        {
+          "label": "C",
+          "text": "Nhiệt độ mẫu hàm phải thấp hơn nhiệt độ chất làm cứng 50 độ C"
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 61,
+      "question": "Dấu hiệu nhận biết mẫu hàm bột bao KHÔNG được sấy khô hoàn toàn",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mẫu hàm có màu nâu sáng."
+        },
+        {
+          "label": "B",
+          "text": "Hơi nước bốc trên bề mặt."
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm có bề mặt trơn láng"
+        },
+        {
+          "label": "D",
+          "text": "B và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 62,
+      "question": "Điêu khắc sáp trên mẫu hàm bột bao",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vẽ lại khung theo phác hoạ trên mẫu làm việc"
+        },
+        {
+          "label": "B",
+          "text": "Ổ tựa mặt nhai được điêu khắc bằng sáp Inlay và nối với phần ôm"
+        },
+        {
+          "label": "C",
+          "text": "Dán và nối các thành phần của hàm khung theo hình vẽ"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 63,
+      "question": "Khung đúc ra không sạch hoặc bị thiếu có thể do",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thiết kế không phù hợp"
+        },
+        {
+          "label": "B",
+          "text": "Kim đúc gấp khúc."
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm bột bao bị ẩm"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 64,
+      "question": "Yêu cầu cần thiết đối với kim đúc",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo dòng chảy ngắn"
+        },
+        {
+          "label": "B",
+          "text": "Giúp dòng chảy tới vật đúc dễ dàng"
+        },
+        {
+          "label": "C",
+          "text": "Vị trí và kích thước kim đúc phù hợp"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 65,
+      "question": "Kim đúc được gắn với vật đúc sau cho",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hợp kim chảy từ phần dày đến phần mỏng."
+        },
+        {
+          "label": "B",
+          "text": "Hợp kim chảy từ phần mỏng đến phần dày"
+        },
+        {
+          "label": "C",
+          "text": "Hợp kim chảy với lực ma sát lớn ở vách của kim đúc"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 66,
+      "question": "Các cách đặt phiễu đúc",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phiễu đặt từ phía trên mẫu hàm"
+        },
+        {
+          "label": "B",
+          "text": "Phiễu đặt từ dưới đế mẫu hàm"
+        },
+        {
+          "label": "C",
+          "text": "Phiễu đặt ở tâm mẫu hàm"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 67,
+      "question": "Phễu đặt dưới đế mẫu hàm có ưu điểm",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo con đường thẳng và dài nhất đến vật đúc"
+        },
+        {
+          "label": "B",
+          "text": "Kim đúc tạo được lực ma sát lớn lên vách kim đúc"
+        },
+        {
+          "label": "C",
+          "text": "Kim đúc không bị gãy khi vô ống đúc."
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 68,
+      "question": "Phiễu đúc được tạo hình trong đến mẫu hàm thường gặp trong",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phễu đúc đặt trên mẫu hàm"
+        },
+        {
+          "label": "B",
+          "text": "Phễu đúc đặt dưới mẫu hàm."
+        },
+        {
+          "label": "C",
+          "text": "Phiễu đúc đặt ở tâm mẫu hàm"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 69,
+      "question": "Đúc xuyên đế mẫu hàm sẽ thuận lợi hơn đối với",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Hàm dưới."
+        },
+        {
+          "label": "C",
+          "text": "Cả 2 hàm như nhau"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 70,
+      "question": "Những nơi có khối lượng lớn nhất của phục hình thì hình dạng của kim đúc cần",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thẳng"
+        },
+        {
+          "label": "B",
+          "text": "Gập góc"
+        },
+        {
+          "label": "C",
+          "text": "Cong nhẹ."
+        },
+        {
+          "label": "D",
+          "text": "Cong nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 71,
+      "question": "Muốn vô khuôn 3 lớp, phần trên của khuôn được đổ thạch cao cứng đến mặt nhai các răng, saụ đó mói đổ đầy khuôn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để lúc đội sáp không bị bể thạch cao."
+        },
+        {
+          "label": "B",
+          "text": "Để gỡ múp dễ dàng lấy được nguyên vẹn mẫu hàm."
+        },
+        {
+          "label": "C",
+          "text": "Để khuôn được chính xác và răng giả không bị rơi ra trong khi dội sáp."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 72,
+      "question": "Khi dội sáp, ta cần ngâm khuôn vào nước sôi trong:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 - 10 phút."
+        },
+        {
+          "label": "B",
+          "text": "10 - 20 phút"
+        },
+        {
+          "label": "C",
+          "text": "20- 30 phút."
+        },
+        {
+          "label": "D",
+          "text": "30- 40 phút."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 73,
+      "question": "Sau khi dội sáp, vernis được thoa lúc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khuôn còn đang nóng."
+        },
+        {
+          "label": "B",
+          "text": "Sau khi dội sáp 5 phút."
+        },
+        {
+          "label": "C",
+          "text": "Sau khi dội sáp 10 phút."
+        },
+        {
+          "label": "D",
+          "text": "Sau khi dội sáp 15 phút."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 74,
+      "question": "Đợi khuôn nguội hẳn",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách nấu nhựa theo phương pháp nấu chậm là cho khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đẽn 165°F giữ nhiệt độ này trong 9 giờ."
+        },
+        {
+          "label": "B",
+          "text": "Đặt khuôn vào nưóc lạnh đưa nhiệt độ lên 212°F và giữ nhiệt độ nay trong 11 giờ."
+        },
+        {
+          "label": "C",
+          "text": "Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165°F và giữ trong 1 giò 30 phút."
+        },
+        {
+          "label": "D",
+          "text": "Đặt khuôn vào nước lạnh, và đưa nhiệt độ lên từ từ 100°c, và giữ ở nhiệt độ này trong 2 giờ."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 75,
+      "question": "Khi làm cứng mẫu hàm bột bao, nếu nhiệt độ sấy là chất làm cứng nấu tới 150°C- 200°C",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mẫu hàm màu nâu đen."
+        },
+        {
+          "label": "B",
+          "text": "Mẫu hàm màu nâu sáng."
+        },
+        {
+          "label": "C",
+          "text": "Mẫu hàm sẽ đọng chất làm cứng."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 76,
+      "question": "Đắp sáp dưới yên phục hình:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Theo đường vẽ yên trên mẫu hàm làm việc."
+        },
+        {
+          "label": "B",
+          "text": "Theo đường vẽ yên trên mẫu hàm bột bao"
+        },
+        {
+          "label": "C",
+          "text": "Lớp sáp dày 2 mm."
+        },
+        {
+          "label": "D",
+          "text": "Lớp sáp dày 2 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 77,
+      "question": "Đắp sáp dưới thanh lưỡi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để thanh lưõi không ép lên niêm mạc bên dưới gây đau."
+        },
+        {
+          "label": "B",
+          "text": "Để loại bỏ vùng vướng."
+        },
+        {
+          "label": "C",
+          "text": "Độ dày sáp đắp là 0,25 mm khi triền sống hàm phía lưỡi không quá dốc."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 78,
+      "question": "Khi vô khuôn phục hình tháo lắp bán phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nếu để hở móc thì răng trụ phải giữ nguyên"
+        },
+        {
+          "label": "B",
+          "text": "Cần phải dán mép nền sáp chặt vào mẫu hàm để thạch cao vô khuôn không chui xuống dưới lớp sáp."
+        },
+        {
+          "label": "C",
+          "text": "Không cần ngâm nước mẫu hàm trước khi vô khuôn"
+        },
+        {
+          "label": "D",
+          "text": "Sử dụng thạch cao cứng để vô khuôn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 79,
+      "question": "Cách nấu nhựa theo phương pháp nấu chậm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165° F và giữ trong 1 giờ 30 phút"
+        },
+        {
+          "label": "B",
+          "text": "Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165° F giữ nhiệt độ này trong 9 giờ."
+        },
+        {
+          "label": "C",
+          "text": "Đặt khuôn vào nước lạnh, đưa nhiệt độ lên 212° F và giữ nhiệt độ này trong 1 giờ 30 phút"
+        },
+        {
+          "label": "D",
+          "text": "Đặt khuôn vào nước lạnh, đưa nhiệt độ lên 212° F và giữ nhiệt độ này trong giờ 9 giờ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 80,
+      "question": "Tổng thời gian cần thiết để nấu nhựa theo phương pháp nấu nhanh là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 phút"
+        },
+        {
+          "label": "B",
+          "text": "60 phút"
+        },
+        {
+          "label": "C",
+          "text": "90 phút"
+        },
+        {
+          "label": "D",
+          "text": "120 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: nấu nhanh giữ 165°F trong 1 giờ 30 phút rồi 212°F thêm 30 phút, tổng 2 giờ (120 phút).",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 81,
+      "question": "Cấu tạo khuôn hay “mouffle”:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đáy khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Trên khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Nắp khuôn"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: khuôn (mouffle) gồm 3 phần: phần đáy khuôn, phần trên khuôn và nắp khuôn.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 82,
+      "question": "Thoa vernis",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách li thạch cao với thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Cách li thạch cao với nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Cách li nhựa với nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Giúp dễ làm hơn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: thoa varnish để nhựa không dính vào thạch cao, mặt nhựa láng, dễ đánh bóng. Cách ly thạch cao với thạch cao thì thoa vaseline.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 83,
+      "question": "Trong giai đoạn vô khuôn của biến đổi phần sáp của phục hình tháo lắp bán hàm thành nhựa, khi vào phần đáy khuôn, nếu thạch cao được đổ phủ móc và các răng thạch cao của mẫu hàm thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi gỡ khuôn, răng giả và móc sẽ ở hai phần khuôn khác nhau"
+        },
+        {
+          "label": "B",
+          "text": "Khi gỡ khuôn, răng giả và móc sẽ nằm chung trong một phần của khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Cả hai trường hợp a và b đều có thể xảy ra"
+        },
+        {
+          "label": "D",
+          "text": "Cách vào phần đáy khuôn này sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình, cách thứ nhất: thạch cao phủ móc và các răng thạch cao, khi gỡ khuôn răng giả và móc ở hai phần khuôn khác nhau.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 84,
+      "question": "Trong giai đoạn vô khuôn của biến đổi phần sáp của phục hình tháo lắp bán hàm thành nhựa, khi vào phần đáy khuôn, nếu thạch cao được đổ sao cho không phủ lên móc, chỉ phủ các răng thạch cao của mẫu hàm thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi gỡ khuôn, răng giả và móc sẽ ở hai phần khuôn khác nhau"
+        },
+        {
+          "label": "B",
+          "text": "Khi gỡ khuôn, răng giả và móc sẽ nằm chung trong một phần của khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Cả hai trường hợp a và b đều có thể xảy ra"
+        },
+        {
+          "label": "D",
+          "text": "Cách vào phần đáy khuôn này sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình, cách thứ hai: không phủ móc, chỉ phủ răng thạch cao (răng mang móc cắt vát 45°), khi gỡ khuôn móc và răng giả nằm chung một phần khuôn.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 85,
+      "question": "có bao nhiêu giai đoạn biến đổi phần sáp của PHỤC HÌNH THÁO LẮP BH thành nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "9"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình 2021 chia việc biến đổi phần sáp thành nhựa thành 9 mục: vô khuôn, dội sáp, thoa varnish, ép nhựa (gồm nấu nhựa), gỡ múp, chỉnh khớp cắn trên giá khớp, gỡ hàm nhựa khỏi mẫu, mài – đánh bóng, kiểm tra hàm giả sau gia công.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 86,
+      "question": "Để cách ly thạch cao và nhựa trong PHỤC HÌNH THÁO LẮP BH nền nhựa thì ta dùng cách gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoa Vaseline"
+        },
+        {
+          "label": "B",
+          "text": "Thoa vernis"
+        },
+        {
+          "label": "C",
+          "text": "Ngâm nước"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: thoa varnish lên mặt thạch cao để nhựa không dính vào thạch cao.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 87,
+      "question": "Thoa vernis để làm gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cho nhựa không dính vào thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Cho sáp không dính vào thạch cao"
+        },
+        {
+          "label": "C",
+          "text": "Cho thạch cao không dính vào khuôn"
+        },
+        {
+          "label": "D",
+          "text": "Cho các lớp thạch cao không dính vào nhau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 88,
+      "question": "Cách nấu nhựa nhanh là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 165°F và giữ nhiệt độ này trong 1 giờ 30 phút"
+        },
+        {
+          "label": "B",
+          "text": "Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 212°F và giữ nhiệt độ này trong 1 giờ 30 phút"
+        },
+        {
+          "label": "C",
+          "text": "Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 165°F và giữ nhiệt độ này trong 30 phút"
+        },
+        {
+          "label": "D",
+          "text": "Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 212°F và giữ nhiệt độ này trong 30 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 89,
+      "question": "Mục đích thoa vernis lên mẫu hàm nhằm mục đích , câu nào sau đây đúng nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để cách li thạch cao- thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Để cách li thạch cao – răng"
+        },
+        {
+          "label": "C",
+          "text": "Để mặt nhựa sau này sẽ láng, dễ đánh bóng"
+        },
+        {
+          "label": "D",
+          "text": "Để nhựa không dính vào vào thạch cao và mặt nhựa sau này sẽ láng, dễ đánh bóng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 90,
+      "question": "Khi biến đổi phần sáp của PHỤC HÌNH THÁO LẮP BH thành nhựa, CHỌN CÂU ĐÚNG",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muoffle gồm 2 phần: đáy khuôn và phần trên khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Có 3 các vào phần đáy khuôn"
+        },
+        {
+          "label": "C",
+          "text": "Có thể thay thế vaselin bằng vernis và ngược lại khi cần cách ly."
+        },
+        {
+          "label": "D",
+          "text": "Vernis dùng để cách ly thạch cao và nhựa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: mouffle gồm 3 phần (A sai), có 2 cách vào phần đáy khuôn (B sai); vaseline cách ly thạch cao với thạch cao, varnish cách ly thạch cao với nhựa nên không thay cho nhau (C sai).",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 91,
+      "question": "Trước khi dội sáp, nên ngâm múp vào nước sôi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-5 phút"
+        },
+        {
+          "label": "B",
+          "text": "5-10 phút"
+        },
+        {
+          "label": "C",
+          "text": "10-15 phút"
+        },
+        {
+          "label": "D",
+          "text": "15-20 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: đặt khuôn vào giá và ngâm vào nước đang sôi từ 5 đến 10 phút rồi tách khuôn.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 92,
+      "question": "Khi đánh bóng hàm giả cần lưu ý:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhúng nước để tránh biến dạng"
+        },
+        {
+          "label": "B",
+          "text": "Tránh các đầu tay móc"
+        },
+        {
+          "label": "C",
+          "text": "Bề mặt phải đánh bóng theo trục của răng tránh xoá đi các chi tiết"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: khi đánh bóng, hàm giả luôn nhúng ướt để tránh biến dạng, đánh bóng theo trục răng để không xóa chi tiết, tránh các đầu tay móc.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 93,
+      "question": "Thời điểm gỡ múp thích hợp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gỡ khi múp nguội"
+        },
+        {
+          "label": "B",
+          "text": "Gỡ khi còn nóng ấm"
+        },
+        {
+          "label": "C",
+          "text": "Vớt múp khỏi nồi luộc rồi gỡ ngay"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: múp để nguội hoàn toàn mới được gỡ.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 94,
+      "question": "Đường kính móc đặt cho nhóm răng cửa: - 7",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.6mm"
+        },
+        {
+          "label": "B",
+          "text": "0.7mm"
+        },
+        {
+          "label": "C",
+          "text": "0.8mm"
+        },
+        {
+          "label": "D",
+          "text": "0.9mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 95,
+      "question": "Thoa vernis có tác dụng: - 7",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngăn sáp dính vào thạch cao"
+        },
+        {
+          "label": "B",
+          "text": "Ngăn thạch cao dính vào răng"
+        },
+        {
+          "label": "C",
+          "text": "Ngăn thạch cao dính thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Ngăn nhựa ép dính vào thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 96,
+      "question": "trong khi vô khuôn 3 lớp, phần trên của khuôn được đổ thạch cao đến mặt nhai các răng, sau đó mới đổ đầy khuôn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để dội sáp không bị bể thạch cao."
+        },
+        {
+          "label": "B",
+          "text": "Bảo vệ mẫu hàm nguyên vẹn khi gỡ múp."
+        },
+        {
+          "label": "C",
+          "text": "Để răng giả không rơi ra khi dội sáp."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 97,
+      "question": "Chọn câu sai khi nói về các giai đoạn biến đổi sáp của PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoa một lớp vaselin lên bề mặt mẫu hàm và mặt trong khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Sau khi khuôn nguội hẳn mới thực hiện việc ép nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Sau khi loại bỏ sáp, thoa vaselin trên mặt thạch cao trong khi khuôn còn nóng"
+        },
+        {
+          "label": "D",
+          "text": "Khi dội sáp ta cần ngâm khuôn trong nước sôi 5-10 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 98,
+      "question": "Yêu cần của móc và nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ôm 1/3 chu vi thân răng trụ"
+        },
+        {
+          "label": "B",
+          "text": "Ôm > 1/3 chu vi thân răng trụ"
+        },
+        {
+          "label": "C",
+          "text": "Ôm 2/3 chu vi thân răng trụ"
+        },
+        {
+          "label": "D",
+          "text": "Ôm > 2/3 chu vi thân răng trụ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 99,
+      "question": "Việc cần làm đầu tiên khi uốn móc là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mài tròn đầu tay móc"
+        },
+        {
+          "label": "B",
+          "text": "Xác định hướng lắp hàm"
+        },
+        {
+          "label": "C",
+          "text": "Vẽ vị trí của móc trên mẫu thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Vẽ đường vòng lớn nhất lâm sàng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình 2021 không mô tả các bước uốn móc. Theo trình tự thiết kế hàm, phải xác định hướng lắp hàm trước, từ đó mới vẽ đường vòng lớn nhất, vẽ vị trí móc rồi uốn móc.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 100,
+      "question": "Việc đầu tiên khi làm nền hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bôi vaseline lên mẫu hoặc làm ẩm mẫu"
+        },
+        {
+          "label": "B",
+          "text": "Hơ mêm lá sáp, đặt lá sáp lên mẫu rồi ấn nhẹ cho lá sáp sát khít vào mẫu"
+        },
+        {
+          "label": "C",
+          "text": "Hơ nóng dao sáp, cắt loại bỏ sáp thừa theo đường biên giới đã vẽ."
+        },
+        {
+          "label": "D",
+          "text": "Vẽ biên giới nền hàm trên mẫu thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình (làm nền sáp): bước đầu là vẽ giới hạn nền hàm trên mẫu hàm thạch cao, sau đó bôi vaseline, hơ mềm sáp lá đặt lên mẫu, cắt sáp dư.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 101,
+      "question": "Phải tìm chiều cao tầng mặt dưới ở tư thế nghỉ sinh lý khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không còn điểm chạm"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ còn 1 điểm chạm"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ còn 2 điểm chạm"
+        },
+        {
+          "label": "D",
+          "text": "Chỉ còn 3 điểm chạm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình Bài 5: khi không còn tiếp xúc răng (không còn điểm chạm) phải xác định lại kích thước dọc, dựa vào chiều cao tầng mặt dưới ở tư thế nghỉ sinh lý trừ khoảng nghỉ sinh lý.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 102,
+      "question": "Khi chưa thật thành thạo, thứ tự vào càng cắn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vào cành trên trước"
+        },
+        {
+          "label": "B",
+          "text": "Vào cành dưới trước"
+        },
+        {
+          "label": "C",
+          "text": "Vào 2 càng 1 lượt"
+        },
+        {
+          "label": "D",
+          "text": "Vào càng nào trước cũng được"
+        }
+      ],
+      "image": null,
+      "correctIndex": null,
+      "explanation": "Ngân hàng không đánh đáp án và giáo trình 2021 không nói về thứ tự vào càng cắn, nên câu này để trống đáp án.",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 103,
+      "question": "Trước khi dội sáp, nên ngâm múp vào nước sôi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-5p"
+        },
+        {
+          "label": "B",
+          "text": "5-10p"
+        },
+        {
+          "label": "C",
+          "text": "10-15p"
+        },
+        {
+          "label": "D",
+          "text": "15-20p"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 104,
+      "question": "Nhựa trùng hợp qua",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 giai đoạn"
+        },
+        {
+          "label": "B",
+          "text": "2 giai đoạn"
+        },
+        {
+          "label": "C",
+          "text": "3 giai đoạn"
+        },
+        {
+          "label": "D",
+          "text": "4 giai đoạn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 105,
+      "question": "Khi lắp hàm cần kiểm tra:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Lợi giả"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả câu trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 106,
+      "question": "Sự dính của hàm bán phần nền nhựa chủ yếu nhờ: 7-dễ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền nhựa."
+        },
+        {
+          "label": "B",
+          "text": "Móc."
+        },
+        {
+          "label": "C",
+          "text": "Độ lẹm các răng còn lại."
+        },
+        {
+          "label": "D",
+          "text": "Nền nhựa và móc."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 107,
+      "question": "Tại sao sao khi trộn nhựa, phải đợi đúng thời gian chỉ dẫn rồi mới lấy nhựa ra ép?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để bột nhựa tan hoàn toàn"
+        },
+        {
+          "label": "B",
+          "text": "Ép sớm thì thành phẩm không đẹp"
+        },
+        {
+          "label": "C",
+          "text": "Ép sớm thì hàm sẽ bị bọt"
+        },
+        {
+          "label": "D",
+          "text": "Ép sớm thì nhựa khó ép"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 108,
+      "question": "Khi đúc khung sườn, để nung chảy hợp kim đúc có mấy phương pháp :",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 109,
+      "question": "Khuôn hay “mouffle” gồm các thành phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nắp khuôn"
+        },
+        {
+          "label": "B",
+          "text": "Phần đáy"
+        },
+        {
+          "label": "C",
+          "text": "Phần trên"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 110,
+      "question": "Khi vào đáy khuôn, mặt nhai của các răng nên cách bờ khuôn khoảng bao nhiêu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2-3mm"
+        },
+        {
+          "label": "B",
+          "text": "3-4mm"
+        },
+        {
+          "label": "C",
+          "text": "4-5mm"
+        },
+        {
+          "label": "D",
+          "text": "5-6mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 111,
+      "question": "Người ta thường trộn bột nhựa và nước nhựa theo tỉ lệ của nhà sản xuất là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 bột nhựa+ 1 nước nhựa"
+        },
+        {
+          "label": "B",
+          "text": "3 bột nhựa+ 1 nước nhựa"
+        },
+        {
+          "label": "C",
+          "text": "3 bột nhựa+ 2 nước nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 112,
+      "question": "Mục đích của việc thoa vegnis",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách ly thạch cao với răng."
+        },
+        {
+          "label": "B",
+          "text": "Cách ly thạch cao với thạch cao."
+        },
+        {
+          "label": "C",
+          "text": "Cách ly nhựa với thạch cao."
+        },
+        {
+          "label": "D",
+          "text": "Cách ly sáp với thạch cao."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}

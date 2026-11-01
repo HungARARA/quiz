@@ -1,0 +1,950 @@
+# Bài 1. Đại cương về phục hình răng tháo lắp bán hàm nền nhựa
+
+Câu 1. Phát biểu nào sau đây là sai khi nói về phục hình tháo lắp bán phần nền nhựa:
+A. Là loại phục hình thay thế cho hàm mất răng bán phần
+B. Cấu tạo gồm có nền hàm và móc
+*C. Nền hàm luôn được làm bằng nhựa tự cứng, mang các răng giả
+D. Móc được thiết kế ôm quanh răng trụ để lưu giữ phục hình
+
+Câu 2. Phát biểu nào sau đây là đúng khi nói về hàm phục hình tháo lắp bán phần nền nhựa:
+A. Nền hàm luôn được làm bằng nhựa tự cứng
+B. Cấu tạo gồm có nền hàm và móc đúc
+*C. Lực nhai được phân bố hoàn toàn lên mô niêm mạc - xương
+D. Khó thực hiện các sữa chữa hàm khi có mất thêm răng hoặc gãy móc
+
+Câu 3. Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:
+A. Mất răng xen kẽ với khoảng mất răng ngắn
+*B. Mất răng xen kẽ với khoảng mất răng quá dài
+C. Mất răng gần toàn bộ và răng còn lại lung lay
+D. Các răng trụ xoay nhiều
+
+Câu 4. Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:
+A. Mất răng xen kẽ với khoảng mất răng quá dài
+B. Mất răng phía sau và không còn răng giới hạn phía xa
+C. Phục hình kết hợp (tháo lắp kết hợp với cố định)
+*D. Tất cả đúng
+
+Câu 5. Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:
+A. Mất răng xen kẽ với khoảng mất răng dài.
+B. Mất răng phía sau và không còn răng giới hạn phía xa (loại I, II Kennedy)
+C. Làm hàm giả tức thì ngay sau khi nhổ răng.
+*D. Tất cả đúng.
+
+Câu 6. Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:
+A. Làm hàm giả tức thì ngay sau khi nhổ răng.
+B. Làm hàm chuyển tiếp.
+C. Mất gần hết răng
+*D. Tất cả đúng
+
+Câu 7. Yếu tố tâm lý nào khiến bệnh nhân chọn làm PHỤC HÌNH THÁO LẮP bán hàm hơn là PHCĐ?
+A. Bệnh nhân không muốn mài răng
+B. Bệnh nhân muốn thuận lợi cho việc vệ sinh răng miệng
+C. Bệnh nhân sợ đau trong một số công việc khi làm PHCĐ như lấy tủy, khoan ống chân răng
+*D. Tất cả đúng
+
+Câu 8. Phục hình tháo lắp bán hàm được chỉ định dựa trên các yếu tố nào sau đây?
+A. Kỹ thuật
+B. Tâm lý
+C. Kinh tế
+*D. Tất cả các yếu tố trên
+
+Câu 9. Phục hình tháo lắp bán hàm được chỉ định dựa trên các yếu tố nào sau đây?
+A. Kỹ thuật, tâm lý, sở thích của bác sĩ
+B. Kỹ thuật, tâm lý, yêu cầu của bệnh nhân
+*C. Kỹ thuật, tâm lý, kinh tế
+D. Kỹ thuật, tâm lý, trang thiết bị
+
+Câu 10. Ưu điểm của phục hình tháo lắp bán phần:
+A. Khó giữ vệ sinh răng miệng.
+*B. Dễ dàng giữ vệ sinh răng miệng.
+C. Phục hình các răng trước không thẩm mỹ bằng phục hình cố định.
+D. Khó thực hiện các sửa chữa hàm khi cần.
+
+Câu 11. Phục hình tháo lắp bán phần nền nhựa có ưu điểm:
+A. Dễ thích nghi
+*B. Dễ sửa chữa
+C. Truyền lực nhai qua răng thật
+D. Hạn chế tiêu xương
+
+Câu 12. Ưu điểm của phục hình tháo lắp bán hàm so với phục hình cố định là:
+*A. Dễ dàng giữ vệ sinh cho răng thật lẫn răng giả
+B. Ăn nhai tốt
+C. Ít gây sâu răng
+D. Tất cả đúng
+
+Câu 13. Ưu điểm của phục hình tháo lắp bán hàm so với phục hình cố định là:
+*A. Ít tốn kém hơn phục hình cố định
+B. Ăn nhai tốt
+C. Ít gây sâu răng
+D. Sức nhai tốt hơn phục hình cố định.
+
+Câu 14. Khuyết điểm của phục hình tháo lắp bán phần:
+A. Phục hình tháo lắp tốn kém hơn phục hình cố định.
+*B. Phục hình có tính xê dịch, tạo cảm giác bất ổn.
+C. Khó làm vệ sinh hàm giả.
+D. Sức nhai tốt hơn phục hình cố định.
+
+Câu 15. Một trong những nguyên nhân thất bại của phục hình tháo lắp bán phần (chọn câu sai):
+A. Chẩn đoán sai và lập kế hoạch điều trị thiếu sót.
+B. Sử dụng song song kế chưa đúng.
+C. Thiếu sự hợp tác của bệnh nhân.
+*D. Bệnh nhân rất khó thích nghi vì hàm phục hình tháo lắp bán phần cồng kềnh gây khó chịu.
+
+Câu 16. Sự dính của hàm bán phần nền nhựa chủ yếu nhờ vào:
+A. Nền nhựa.
+B. Móc.
+C. Độ lẹm các răng còn lại.
+*D. Nền nhựa và móc.
+
+Câu 17. Phần giữ của móc:
+A. Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần khác và được chôn trong nền nhựa.
+B. Phần giữ của móc nằm ngay đường vòng lớn nhất.
+*C. Phần giữ có tác dụng giữ dính hàm, không cho hàm di chuyển theo chiều đứng.
+D. Phần giữ có tác dụng giữ dính và chống lún hàm.
+
+Câu 18. Móc tay đơn:
+*A. Chỉ có một tay móc ở phía má
+B. Có 2 tay móc phía má lưỡi
+C. Chỉ cần 1 móc là đủ để hàm vững ổn
+D. Có thiết diện bán nguyệt.
+
+Câu 19. Móc dây:
+A. Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi.
+B. Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ
+*C. Tay móc phải ôm khít khao thân răng trụ.
+D. Khi hàm giả không hoạt động chức năng, móc vẫn tác dụng lực lên răng trụ.
+
+Câu 20. Thứ tự thực hiện móc dây:1. Dùng song song kế xác định hướng lắp; 2. Vẽ đường vòng lớn nhất; 3. Vẽ hình dạng móc; 4. Mài tròn đầu tay móc; 5. Dùng kềm bẻ móc theo hình đã vẽ
+A. 1,2,3,4,5
+*B. 1,2,3,5,4
+C. 2,1,3,4,5
+D. 2,1,3,5,4
+
+Câu 21. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
+A. Móc đúc
+B. Móc bản
+*C. Móc dây tròn
+D. Móc Aker
+
+Câu 22. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
+A. Móc đúc
+B. Móc bản
+*C. Móc dây tròn
+D. Móc thanh
+
+Câu 23. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
+A. Móc đúc
+B. Móc bản
+*C. Móc dây tròn
+D. Móc vòng
+
+Câu 24. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
+A. Móc đúc
+B. Móc bản
+*C. Móc dây tròn
+D. Móc T
+
+Câu 25. Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:
+A. Móc đúc
+B. Móc bản
+*C. Móc dây tròn
+D. Móc chữ Y
+
+Câu 26. Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:
+A. Răng giả
+B. Móc
+C. Nền hàm
+*D. Thanh gót răng
+
+Câu 27. Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:
+A. Răng giả
+B. Móc
+C. Nền hàm
+*D. Thanh lưỡi
+
+# (bỏ câu gốc 28: trùng câu 26)
+Câu 28. Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:
+A. Răng giả
+B. Móc
+C. Nền hàm
+*D. Tấm bản lưỡi
+
+Câu 29. Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:
+A. Răng giả
+B. Móc
+C. Nền hàm
+*D. Thanh khẩu đơn
+
+Câu 30. Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:
+A. Răng giả
+B. Móc
+C. Nền hàm
+*D. Thanh khẩu kép
+
+Câu 31. Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:
+A. Răng giả
+B. Móc
+C. Nền hàm
+*D. Thanh hình móng ngựa
+
+Câu 32. Các ví dụ của bộ phận giả là:
+A. Các khí cụ chỉnh hình và bộ giữ khoảng
+*B. Hàm giả, hàm giả cố định hoặc mão răng
+C. Giá khớp hoặc cung mặt
+D. Tất cả sai
+
+Câu 33. Các ví dụ của bộ phận giả là:
+A. Các khí cụ chỉnh hình
+*B. Hàm giả
+C. Giá khớp
+D. Cung mặt
+
+Câu 34. Các ví dụ của bộ phận giả là:
+A. Các khí cụ chỉnh hình
+B. Bộ giữ khoảng
+*C. Hàm giả, hàm giả cố định hoặc mão răng
+D. Giá khớp
+
+Câu 35. Các ví dụ của bộ phận giả là:
+A. Bộ giữ khoảng
+*B. Hàm giả
+C. Giá khớp hoặc cung mặt
+D. Thước Fox
+
+Câu 36. Hàm giả bán phần được nâng đỡ bởi:
+A. Một/ nhiều răng trụ và sống hàm (residual ridge)
+B. Mô mềm và niêm mạc
+C. Mô mềm và răng
+*D. Tất cả các câu trên
+
+Câu 37. Hàm tạm (interim denture) là một:
+A. Hàm giả được sử dụng chỉ trong một thời gian ngắn vì mục đích thẩm mỹ.
+B. Hàm giả chỉ dùng trong một thời gian ngắn cho tình huống bệnh nhân chấp nhận một thay thế nhân tạo cho những răng tự nhiên bị mất.
+C. Hàm giả được sử dụng trong một giai đoạn ngắn vì lí do ăn nhai và phát âm
+*D. Tất cả các câu trên
+
+Câu 38. Cấu trúc của một phục hình tháo lắp bán hàm nền nhựa:
+A. Nền hàm
+B. Răng giả
+C. Móc
+*D. Tất cả đều đúng
+
+Câu 39. Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm nền nhựa:
+A. Khung
+*B. Răng giả
+C. Móc
+D. Tất cả đều đúng
+
+Câu 40. Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm nền nhựa:
+*A. Nền hàm
+B. Khung
+C. Móc
+D. Tất cả đều đúng
+
+Câu 41. Cấu trúc của một phục hình tháo lắp bán hàm nền nhựa:
+A. Gồm 2 thành phần là nền nhựa và các răng giả
+B. Quan trọng là nền nhựa, móc là thành phần phụ không quan trọng
+*C. Móc có thể có hoặc không tùy trường hợp
+D. A và C đúng
+
+Câu 42. Chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Chỉ định về kỹ thuật
+B. Chỉ định về kinh tế
+C. Chỉ định về tâm lý
+*D. Tất cả đều đúng
+
+Câu 43. Chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+*A. Khoảng mất răng dài
+B. Khoảng mất răng ngắn
+C. Mất răng xen kẻ
+D. Mất răng gần như toàn bộ nhưng bệnh nhân không muốn mang hàm giả
+
+Câu 44. Chọn câu sai: Chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Làm hàm giả tức thì ngay sau khi nhổ răng
+*B. Khoảng mất răng dài, bệnh nhân mong muốn làm phục hình cố định
+C. Mất răng đơn lẻ nhưng bệnh nhân mong muốn làm phục hình tháo lắp
+D. Mất răng gần hết hàm
+
+Câu 45. Chọn câu sai: Chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Mất răng phía sau
+B. Mất răng xen kẽ với khoảng mất răng dài không thể làm phục hình cố định được
+*C. Mất răng đơn lẻ
+D. Bệnh nhân không có điều kinh kinh tế cao
+
+Câu 46. Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+B. Các răng còn lại có bệnh nha chu, điều trị chưa ổn định
+C. Bệnh nhân có rối loạn tâm thần
+*D. Tất cả đều đúng
+
+Câu 47. Chọn câu sai: Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Bệnh nhân mất răng đơn lẻ, bệnh nhân kinh tế thấp, muốn làm phục hình cố định
+B. Mất răng sau 2 bên hàm dưới, bệnh nhân muốn làm phục hình cố định
+*C. Mất răng sau 2 bên, bệnh nhân có vấn đề về khớp gối khó di chuyển
+D. Bệnh nhân mất răng đơn lẻ, bệnh nhân kinh tế cao, muốn làm phục hình cố định
+
+Câu 48. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa:
+A. Rẻ tiền
+B. Dễ sửa chữa hàm giả: thêm răng, thêm móc, đệm hàm…
+C. Thực hiện dễ dàng
+*D. Tất cả đều đúng
+
+Câu 49. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa:
+A. Dễ thích nghi
+B. Dễ vệ sinh nên hạn chế sâu răng
+*C. Tiết kiệm mô răng
+D. Tất cả đều đúng
+
+Câu 50. Nhược điểm của phục hình tháo lắp bán hàm nền nhựa:
+*A. Khó thích nghi
+B. Khó vệ sinh
+C. Tiết kiệm mô răng
+D. Tất cả đều sai
+
+Câu 51. Nhược điểm của phục hình tháo lắp bán hàm nền nhựa:
+A. Thẫm mỹ khó chấp nhận được so với cầu răng nhất là trong trường hợp tiêu xương nhiều
+*B. Phần lớn hàm giả tựa lên mô xương – niêm mạc nên hàm bị lún, sức nhai kém và gây ra tiêu xương
+C. Thời gian điều trị dài hơn làm hàm khung
+D. Tất cả đều sai
+
+Câu 52. Chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Làm hàm phẩu thuật.
+B. Làm hàm chuyển tiếp.
+C. Mất gần hết răng.
+*D. Tất cả đều đúng.
+
+Câu 53. Chỉ định của phục hình tháo lắp bán hàm nền nhựa về tâm lý
+A. Bệnh nhân không muốn mài răng.
+B. Bệnh nhân sợ đau.
+C. Bệnh nhân muốn làm PHỤC HÌNH THÁO LẮP để dễ vệ sinh.
+*D. Tất cả đều đúng.
+
+Câu 54. Thực hiện một phục hình tháo lắp bán hàm nền nhựa trong lần hẹn 2 là:
+A. Có thể lấy dấu sau cùng
+B. Ghi tương quan 2 hàm.
+C. Trong labo, hai mẫu hàm sẽ được lên giá khớp và sắp các răng giả.
+*D. Tất cả đều đúng
+
+Câu 55. Nhược điểm của phục hình tháo lắp bán hàm nền nhựa:
+A. Là một vật lạ.
+B. Cồng kềnh.
+C. Rất khó chịu khi mang trong miệng
+*D. Tất cả đều đúng
+
+Câu 56. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa:
+A. Thực hiện dễ dàng
+B. Không đòi hỏi nhiều về kỹ thuật, vật liệu, máy móc ở phòng mạch và labo phục hình.
+*C. A và B đúng
+D. A và B sai
+
+Câu 57. Chọn câu sai: Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+B. Bệnh nhân không hợp tác khi điều trị.
+*C. Mất gần hết răng
+D. A và B
+
+Câu 58. Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm nền nhựa:
+*A. Nền nhựa
+B. Răng sứ
+C. Răng nhựa
+D. Sườn kim loại
+
+Câu 59. Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm:
+A. Răng trụ
+*B. Răng giả
+C. Móc Aker
+D. Khung kim loại
+
+Câu 60. Phục hình tháo lắp bán hàm nền nhựa:
+A. Chuyển lực chức năng thành lực cận chức năng
+B. Thay thế răng mất với chức năng hoàn hảo
+*C. Gồm nền nhựa và các móc
+D. Có thể có khung kim loại nhất là đối với hàm dưới
+
+Câu 61. Phục hình tháo lắp bán hàm nền nhựa:
+A. Chuyển lực chức năng xuống nền tựa
+B. Thay thế răng mất bán phần
+C. Gồm nền nhựa và các móc
+*D. Tất cả đều đúng
+
+Câu 62. Phục hình tháo lắp bán hàm nền nhựa:
+A. Phục hồi khả năng ăn nhai tốt, tránh được tình trạng tiêu xương
+*B. Các móc đôi khi không cần thiết
+C. Các móc ôm sát răng thật giúp cố định răng cứng chắc
+D. Răng giả có số lượng thay đổi từ 1-16 cái trên 1 hàm
+
+Câu 63. Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:
+A. Trong suốt hoặc có màu hồng nhạt
+*B. Làm bằng nhựa acrylic mang các răng giả thay thế các răng mất
+C. Chức năng chính giúp lưu giữ phục hình
+D. Postdam thực hiện chính xác giúp giữ vững nền hàm
+
+Câu 64. Nền hàm trong phục hình tháo lắp bán hàm nền nhựa cấu tạo từ:
+A. Nhựa tự cứng
+B. Nhựa nấu
+C. Nhựa dẻo
+*D. Tất cả đều đúng
+
+Câu 65. Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:
+*A. Tựa trực tiếp lên mô xương, niêm mạc và một phần lên các răng thật còn lại
+B. Phải cứng chắc, không biến dạng
+C. Màu sắc tự nhiên
+D. Vành khít là cấu trúc quan trọng
+
+Câu 66. Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:
+A. Đề kháng tốt với vi sinh vật trong môi trường miệng
+B. Cấu tạo từ nhựa nên gọn nhẹ, dễ dàng thích nghi
+*C. Chứa răng giả giúp cải thiện chức năng nhai
+D. Tất cả đều đúng
+
+Câu 67. Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:
+A. Hạn sử dụng lâu dài do có khả năng tương hợp sinh học tốt với mô niêm mạc miệng, đề kháng vi khuẩn
+*B. Lưu giữ trên miệng bằng lực mao dẫn và các móc
+C. Có màu sắc gần giống nướu răng nên đảm bảo tính thẫm mỹđối với đa số trường hợp mất răng
+D. Tất cả đều sai
+
+Câu 68. Thời gian sử dụng của PHỤC HÌNH THÁO LẮP BH nền nhựa là bao nhiêu?
+A. 2-4 năm
+*B. 3-5 năm
+C. 4-5 năm
+D. 3-6 năm
+
+Câu 69. Ưu điểm của PHỤC HÌNH THÁO LẮP BH khung bộ so với nền nhựa, ngoại trừ:
+*A. Thích hợp với bệnh nhân lớn tuổi, thời gian sử dụng PH ngắn.
+B. Sức nhai tốt hơn.
+C. Thời gian thích nghi ngắn.
+D. Tuổi thọ cao hơn.
+
+Câu 70. Tuổi thọ trung bình của PHKB:
+*A. 7-8 năm.
+B. 3-5 năm.
+C. 1-2 năm.
+D. Dưới 1 năm.
+
+Câu 71. Ý nào sau đây KHÔNG đúng về ưu điểm về hàm tháo lắp?
+A. Vệ sinh dễ dàng
+*B. Hàm có tính chất xê dịch, thuận tiện trong ăn nha
+C. Thẩm mỹ đảm bảo ở những trường hợp tiêu xương nhiều
+D. Dễ sửa chữa do có thể tháo ra được
+
+Câu 72. Nội dung của lần hẹn 2 trên lâm sàng:
+A. Lấy dấu.
+*B. Xác định khớp cắn trung tâm hoặc tưởng quan tâm.
+C. Thử răng.
+D. Lắp hàm.
+
+Câu 73. Chống chỉ định của PHỤC HÌNH THÁO LẮP BH:
+A. Mất răng xen kẻ, khoảng mất răng dài
+B. Mất răng phiá sau, không giới hạn phía xa
+C. Răng trụ không xoay nhiều
+*D. Bệnh lí nha chu, chưa được điều trị ổn định
+
+Câu 74. Thực hiện một PHỤC HÌNH THÁO LẮP BH nền nhựa cần bao nhiêu lần hẹn trên lâm sàng:
+A. 3 - 4 lần
+*B. 5 - 6 lần
+C. 7 - 8 lần
+D. Khác
+
+Câu 75. Nhược điểm của phục hình tháo lắp bán hàm nền nhựa
+A. Rẻ tiền
+*B. Phục hình có tính xê dịch cao tạo cảm giác bất ổn
+C. Thời gian điều trị ngắn hơn làm hàm khkhung
+D. Khó vệ sinh cho hàm giả
+
+Câu 76. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa so với phục hình cố định
+A. Ăn nhai tốt
+B. Thẩm mỹ cao
+*C. Dễ sửa chữa hàm giả
+D. Ít gây sâu răng viêm nướu
+
+Câu 77. Trong các giai đoạn thực hiện một phục hình tháo lắp bán hàm nền nhựa thì sau khi ghi tương quan 2 hàm thì sẽ
+A. Lên răng
+*B. Trong labo 2 mẫu hàm sẽ được lên giá khớp và sắp các răng giả
+C. Lấy dấu sau cùng
+D. Ép nhựa và hoàn thiện hàm (tại labo)
+
+Câu 78. Nướu giả có nhiệm vụ gì? DỄ
+A. Tái tạo lại thẩm mỹ
+B. Tái tạo khả năng phát âm
+C. Bù trừ phần xương mất sau nhổ răng
+*D. Tất cả ý trên đều đúng
+
+Câu 79. Điểm lưu ý khi lắp hàm? DỄ
+A. Nướu giả
+B. Răng giả
+C. Móc
+*D. Tất cả các ý trên
+
+Câu 80. Nói về phục hình tháo lắp bán hàm nền nhựa:
+| (1) Lực nhai được truyền từ nền hàm qua niêm mạc xuống xương
+| (2) Cấu trúc gồm 2 phần là nền hàm và răng giả
+| (3) Nền hàm được làm bằng nhựa PE
+A. (1) (2) (3) đúng
+B. (1) (2) đúng, (3) sai
+C. (1) (3) đúng , (2) sai
+*D. (1) đúng, (2) (3) sai
+
+Câu 81. Chọn câu SAI. Phục hình tháo lắp bán hàm nền nhựa:
+A. Được chỉ định cho trường hợp mất gần hết răng
+*B. Với cùng một số răng mất như nhau, sẽ tốn kém hơn phục hình tháo lắp bán hàm khung bộ
+C. Chống chỉ định với bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+D. Khi mất thêm răng, việc thêm răng giả vào phục hình tháo lắp sẽ dễ dàng hơn phục hình cố định
+
+Câu 82. Chọn câu SAI. Về ưu, nhược điểm của phục hình tháo lắp bán hàm nền nhựa:
+A. Dễ sửa chữa các răng thật còn lại do hàm giả tháo ra được
+B. Khó làm nhóm răng cửa trên nếu bệnh nhân có khớp cắn sâu
+*C. Đòi hỏi nhiều về kỹ thuật và thiết bị
+D. Giữ vệ sinh cho hàm giả
+
+Câu 83. Câu nào sau đây SAI khi nói về PHỤC HÌNH THÁO LẮP BH nền nhựa:
+*A. Thời gian điều trị dài hơn làm hàm khung
+B. Với cùng số răng mất như nhau, làm PHỤC HÌNH THÁO LẮP sẽ ít tốn kém hơn PHCĐ
+C. Khi mất thêm răng, việc thêm răng giả vào PHỤC HÌNH THÁO LẮP sẽ dễ dàng và ít tốn kém hơn PHCĐ
+D. PHỤC HÌNH THÁO LẮP BH nền nhựa rẻ hơn PHỤC HÌNH THÁO LẮP BH khung bộ khi làm với cùng số răng mất như nhau
+
+Câu 84. Câu nào sau đây SAI khi nói về ưu điểm của PHỤC HÌNH THÁO LẮP BH nền nhựa:
+A. Rẻ tiền
+*B. Tốn nhiều mô răng hơn
+C. Dễ sửa chữa hàm giả: thêm răng, thêm móc, đệm hàm…
+D. Dễ chữa các răng thật còn lại do hàm giả có thể tháo ra được
+
+Câu 85. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa
+A. Ít gây tiêu xương
+B. Sức nhai tốt
+C. Tạo cảm giác vững ổn
+*D. Dễ sữa chữa
+
+Câu 86. Ưu điểm của PHỤC HÌNH THÁO LẮP BH, ngoại trừ:
+A. Phục hồi được phần xương ổ bị mất đi
+B. Dễ thực hiện các thao tác sửa hàm khi cần: thêm răng, thêm móc, đệm hàm,…
+*C. Ít cồng kềnh, tạo sự thoải mái cho bệnh nhân nên thời gian thích nghi ngắn
+D. Thời gian sử dụng có thể từ 3-5 năm
+
+Câu 87. Sau khi thử răng trên bệnh nhân thì lần hẹn tiếp theo trên lâm sàng ta làm gì:
+A. Lấy dấu
+B. Xác định khớp cắn trung tâm hoặc tương quan tâm
+*C. Lắp hàm
+D. Chữa đau
+
+Câu 88. Thành phần của phục hình tháo lắp bán hàm nền nhựa gồm:
+A. Nền tạm, gối sáp, móc
+B. Nền hàm, gối sáp, móc
+@C. Nền hàm, móc
+D. Nền hàm, gối sáp
+> Giáo trình Bài 1: phục hình tháo lắp bán hàm nền nhựa gồm nền hàm (mang răng giả) và móc. Nền tạm, gối sáp chỉ dùng tạm khi ghi tương quan và thử răng. Câu "Phục hình tháo lắp bán hàm nền nhựa gồm" cuối bài cũng chọn "Nền nhựa và móc".
+
+Câu 89. Số lần hẹn trên lâm sàng khi thực hiện phục hình tháo lắp bán hàm nền nhựa là:
+A. 4-5 lần
+*B. 5-6 lần
+C. 6-7 lần
+D. 7-8 lần
+
+Câu 90. Ở lần hẹn 1 trong khi thực hiện phục hình tháo lắp bán hàm nền nhựa:
+A. Thử răng
+B. Lấy dấu sau cùng
+*C. Lấy dấu sơ khởi
+D. Chữa đau
+
+Câu 91. Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+B. Bệnh nhân có rối loạn tâm thần
+C. Các răng còn lại có bệnh nha chu, điều trị chưa ổn định
+*D. Tất cả đúng
+
+Câu 92. CHỌN CÂU SAI. Chống chỉ định của hàm giả tháo lắp nền nhựa là:
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng.
+B. Các răng còn lại đang có bệnh nha chu, điều trị chưa ổn định.
+C. Bệnh nhân có rối loạn tâm thần.
+*D. Bệnh nhân mất gần hết răng.
+
+Câu 93. Trong các giai đoạn thực hiện một phục hình tháo lắp bán hàm nền nhựa, giai đoạn đầu không thể có bước nào sau đây:
+A. Khám
+B. Chẩn đoán
+C. Lấy dấu 2 hàm
+*D. Thử răng
+
+Câu 94. Đâu không phải là chống chỉ định của phục hình tháo lắp bán hàm?
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+B. Các răng còn lại có bệnh nha chu
+*C. Các răng còn lại có buồng tuỷ lớn, sát mặt nhai
+D. Bệnh nhân có rối loạn tâm thần
+
+Câu 95. Chống chỉ định của PHỤC HÌNH THÁO LẮP BH, CHỌN CÂU SAI.
+A. Bệnh nhân có bệnh lý nha chu chưa điều trị ổn định
+B. Bệnh nhân có rối loạn tâm thần
+*C. Bệnh nhân mất ít răng trên nhiều đoạn khác nhau
+D. Bệnh nhân không hợp tác điều trị
+
+Câu 96. Trong phục hình tháo lắp bán hàm nền hàm được làm bằng
+*A. Nhựa acrylic
+B. Cao su non
+C. Nhựa PET
+D. Tất cả đều đúng
+
+Câu 97. Nền hàm của PHỤC HÌNH THÁO LẮP BH thường làm bằng chất liệu gì?
+*A. Nhựa acrylic
+B. Nhựa pvc
+C. Nhựa pet
+D. Nhựa hdp
+
+Câu 98. Móc thường dùng là móc hợp kim có đường kính?
+*A. 0,7- 1 mm
+B. 0,5- 1 mm
+C. 0,6- 2 mm
+D. 0,5- 1,5 mm
+
+Câu 99. Thông thường yếu tố thẩm mỹ được quyết định vào giai đoạn nào ?
+A. Giai đoạn lắp hàm
+*B. Giai đoạn thử răng
+C. Giai đoạn chữa đau
+D. Giai đoạn ghi tương quan hai hàm.
+
+Câu 100. Nhược điểm của PHỤC HÌNH THÁO LẮP BH?
+A. Có tính xê dịch, tạo cảm giác bất ổn.
+B. Là một vật lạ, cồng kềnh, rất khó chịu khi mang trong miệng.
+C. Một số trường hợp mất răng trước, nếu phải dùng móc hay nướu giả sẽ mất thẩm mỹ.
+*D. Tất cả đều đúng.
+
+Câu 101. Đường kính của móc thường dùng trong PHỤC HÌNH THÁO LẮP BH
+*A. 0,7- 1 mm
+B. 0,5- 1 mm
+C. 0,6- 2 mm
+D. 0,5- 1,5 mm
+
+Câu 102. PHỤC HÌNH THÁO LẮP BH có thể không được chỉ định với trường hợp nào sau đây
+A. Mất răng xen kẽ với khoảng mất răng dài
+B. Mất gần hết răng
+C. Điều kiện kinh tế bệnh nhân kém
+*D. Mất răng phía sau và còn răng giới hạn phía xa
+
+Câu 103. Khớp cắn khi làm hàm giả cho bệnh nhân toàn bán hàm khác với toàn hàm:
+A. Khi đưa hàm sang bên, bên làm việc có thể hướng dẫn nhóm hoặc hướng dẫn răng nanh
+*B. Khi đưa hàm sang bên, bên làm việc chỉ hướng dẫn nhóm
+C. Khi đưa hàm sang bên, bên không làm việc nhả khớp hoàn toàn
+D. Khi đưa hàm sang bên, bên không làm việc phải chỉ có duy nhất 1 điểm chạm.
+
+Câu 104. Điểm nào sau đây là đặc điểm PHỤC HÌNH THÁO LẮP BH nền nhựa:
+A. Ít gây tiêu xương vì lực truyền qua răng trụ
+B. Tiêu xương nhiều vì lực truyền qua răng trụ
+C. Ít gây tiêu xương vì lực truyền qua xương
+*D. Tiêu xương nhiều vì lực truyền qua xương
+
+Câu 105. Ghi tương quan hai hàm nằm trong lần hẹn thứ mấy
+A. Thứ nhất
+*B. Thứ hai
+C. Thứ ba
+D. Thứ tư
+
+Câu 106. Khi làm hàm giả tháo lắp bán hàm nền nhựa luôn luôn cần móc
+A. Đúng
+*B. Sai
+
+Câu 107. Số lần hẹn bệnh nhân để thực hiện một phục hình tháo lắp bán hàm nền nhựa là:
+A. 2-3 lần
+B. 3-4 lần
+C. 4-5 lần
+*D. 5-6 lần
+
+Câu 108. Mất răng phía sau cần làm phục hình vì:
+A. Ảnh hưởng đến vấn đề thẩm mỹ
+*B. Ảnh hưởng đến chức năng nhai
+C. Các răng khác bị di lệch
+D. Ảnh hưởng toàn thân
+
+Câu 109. Móc của phục hình tháo lắp bán hàm có đường kính là:
+A. 0.4-0.8 mm
+B. 0.5-0.8 mm
+C. 0.6-1 mm
+*D. 0.7-1 mm
+
+Câu 110. Đặc điểm của phần giữ móc dây tròn trong PHỤC HÌNH THÁO LẮP BH là:
+A. Phần tận cùng.
+B. Đàn hồi nhất.
+C. Nằm trong vùng lẹm của răng trụ.
+*D. Tất cả đều đúng.
+
+Câu 111. Trong thành phần của PHỤC HÌNH THÁO LẮP BH nền nhựa, móc được thiết kế:
+A. Ôm gọn theo sống hàm
+B. Ôm gọn quanh trục răng
+*C. Ôm quanh răng trụ
+D. Ôm vào các răng cối nhỏ và lớn
+
+# (bỏ câu gốc 114: trùng câu 83)
+# (bỏ câu gốc 115: trùng câu 84)
+Câu 112. Phục hình tháo lắp bán hàm không được chỉ định trong trường hợp nào sau đây:
+A. Mất răng 16,17,18
+B. Mất răng 34,35, 36, 37, 45, 46, 47, 48
+C. Bệnh nhân không muốn mài răng và sợ đau
+*D. Các răng làm trụ bị tiêu xương hơn 2/3 chân răng
+
+Câu 113. Nền hàm của phục hình tháo lắp bán hàm thường làm bằng chất liệu gì?
+*A. Nhựa acrylic
+B. Nhựa pvc
+C. Nhựa pet
+D. Nhựa hdp
+
+Câu 114. Chống chỉ định của PHỤC HÌNH THÁO LẮP BH, chọn câu sai:
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+B. Các răng c̣òn lại có bệnh nha chu, điều trị chưa ổn định
+C. Bệnh nhân có rối loạn tâm thần
+*D. Bệnh nhân hợp tác khi điều trị
+
+Câu 115. Đâu là các phần của một móc trong phục hình tháo lắp bán phần:
+A. Phần giữ
+B. Phần ôm
+C. Phần treo
+*D. A và B đúng
+
+Câu 116. Đường kính của dây thép bẻ móc phục hình tháo lắp có kích thước khoảng:
+A. 0,1 – 0,5 mm
+B. 0,5 – 0,8 mm
+*C. 0,7 – 1 mm
+D. 1 – 2mm
+
+Câu 117. “Ghi tương quan hai hàm” là nội dung trong lần hẹn thứ bao nhiêu trong các giai đoạn thực hiện PHỤC HÌNH THÁO LẮP BH nền nhựa:
+A. Lần 1
+*B. Lần 2
+C. Lần 3
+D. Lần 4
+
+Câu 118. Bệnh nhân nào sau đây có thể thực hiện PHỤC HÌNH THÁO LẮP BH nền nhựa:
+*A. Bệnh nhân mất răng phía sau và không còn răng giới hạn phía xa
+B. Bệnh nhân có rối loạn tâm thần
+C. Bệnh nhân không hợp tác khi điều trị
+D. Tất cả trường hợp trên đều không thể thực hiện PHỤC HÌNH THÁO LẮP BH
+
+Câu 119. Chỉ định của hàm phục hình tháo lắp bán hàm nền nhựa:
+A. Mất răng xen kẽ với khoảng mất răng ngắn
+B. Mất gần như toàn bộ răng và các răng còn lại lung lay
+*C. Mất răng phía sau và không còn răng giới hạn phía xa
+D. Răng trụ xoay nhiều
+
+Câu 120. Phục hình tháo lắp bán hàm nền nhựa có ưu điểm
+A. Truyền lực nhai qua răng thật
+B. Hạn chế tiêu xương
+C. Dễ thích nghi
+*D. Tiết kiệm mô răng
+
+Câu 121. Nhược điểm của phục hành tháo lắp bán hàm nền nhựa:
+*A. Phục hình có tính xê dịch, tạo cảm giác bất ổn
+B. Khó làm vệ sinh hàm giả
+C. Tốn kém hơn phục hình cố định
+D. Ít cồng kềnh
+
+Câu 122. Chọn câu đúng về phục hình tháo lắp bán hàm nền nhựa
+A. Phân bố lực chức năng mô nha chu và mô xương- niêm mạc
+*B. Lực nhai được phân bố hoàn toàn lên mô niêm mạc-xương
+C. Có phần chính là khung sườn
+D. Toàn bộ cấu trúc bằng hợp kim của khung được đúc chung một lần, cùng một khối
+
+Câu 123. Chỉ định của phục hình tháo lắp bán hàm nền nhựa, ngoại trừ:
+*A. Bệnh nhân có các răng trụ xoay nhiều
+B. Mất răng phía sau và không còn răng giới hạn phía xa
+C. Mất răng xen kẽ với khoảng mất răng dài không thể làm phục hình cố định
+D. B,C đúng
+
+Câu 124. Nhược điểm của phục hình tháo lắp bán hàm
+A. Chi phí thấp
+B. Vệ sinh răng miệng dễ dàng
+*C. Dễ gây sâu răng, viêm nướu
+D. Thời gian sử dụng PHỤC HÌNH THÁO LẮP BH thấp hơn so với PHKB
+
+Câu 125. Bước đầu tiên trong quá trình thực hiện PHỤC HÌNH THÁO LẮP BH
+*A. Khám và chẩn đoán
+B. Lấy dấu
+C. Xác định CKTT/TQT
+D. Lên răng
+
+Câu 126. Điều nào sau đây là không là ưu điểm của PHỤC HÌNH THÁO LẮP BH nền nhựa?
+A. Lực nhai được phân bố hoàn toàn lên mô niêm mạc – xương.
+B. Rẻ tiền, tiết kiệm mô răng
+C. Dễ vệ sinh cho hàm giả
+*D. Thời gian sử dụng có thể kéo dài từ 7-8 năm
+
+Câu 127. Trường hợp nào sau đây được ưu tiên chỉ định làm PHỤC HÌNH THÁO LẮP BH nền nhựa hơn?
+A. Cung hàm trên chỉ bị mất răng 16
+B. Tiền sử bệnh nhân bị đái tháo đường
+*C. BN bị mất một khoảng từ răng 14 đến răng 23
+D. Cung hàm dưới của BN bị mất răng 34,35,36; răng 37 bị xoay nhiều
+
+Câu 128. Chỉ định nào sau đây không ưu tiên với phục hình tháo lắp bán hàm nền nhựa?
+A. Mất răng loại I và II Kennedy
+B. Vệ sinh dễ dàng
+*C. Mất ít răng
+D. Rẻ tiền, dễ thêm răng
+
+Câu 129. Trong lần hẹn thứ 3 với bệnh nhân, ta cần làm gì?
+*A. Thử răng
+B. Lập kế hoạch điều trị
+C. Ghi tương quan hai hàm
+D. Lấy dấu làm việc
+
+# (bỏ câu gốc 136: trùng câu 10)
+# (bỏ câu gốc 137: trùng câu 14)
+Câu 130. Chỉ định của phục hình tháo lắp bán phần là:
+A. Mất răng xen kẽ với khoảng mất răng ngắn.
+@B. Mất răng phía sau và không còn răng cuối.
+C. Mất răng gần toàn bộ và răng còn lại lung lay.
+D. Các răng trụ xoay nhiều.
+> Giáo trình Bài 1, chỉ định về kỹ thuật: mất răng phía sau và không còn răng giới hạn phía xa (Kennedy I, II); mất răng xen kẽ với khoảng mất răng dài. Khoảng mất răng ngắn thì làm phục hình cố định; răng còn lại lung lay, răng trụ xoay nhiều không thuận lợi.
+
+Câu 131. Trường hợp nào sau đây bệnh nhân không được làm PHỤC HÌNH THÁO LẮP:
+A. Bn bị sâu răng
+B. Bn mất ít răng
+*C. Bn bị viêm nhiễm cấp tính vùng răng miệng
+D. Bn đã có làm phục hình cố định
+
+Câu 132. Chống chỉ định của Phục hình tháo lắp bán hàm nền nhựa, NGOẠI TRỪ:
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+*B. Các răng còn lại có bệnh nha chu đã được điều trị ổn định
+C. Bệnh nhân có rối loạn tâm thần
+D. Bệnh nhân không hợp tác điều trị
+
+Câu 133. để thực hiện một phục hình tháo lắp bán hàm nên nhựa, bệnh nhân cần được hẹn mấy lần?
+A. 3 - 4 lần
+B. 4 - 5 lần
+*C. 5 - 6 lần
+D. Chỉ 3 lần
+
+Câu 134. thành phần của móc, NGOẠI TRỪ
+A. Phần nâng đỡ
+B. Phần ôm
+C. Phần giữ
+*D. Phần tựa
+
+Câu 135. Móc sử dụng trong PHỤC HÌNH THÁO LẮP BH nền nhựa thường có đường kính:
+A. 0,5 - 0,7 mm
+*B. 0,7 - 1 mm
+C. 1 - 1,2 mm
+D. 1,2 - 1,5 mm
+
+Câu 136. Chỉ định PHỤC HÌNH THÁO LẮP BH nền nhựa, chọn câu ĐÚNG
+*A. Applegate loại I, II
+B. Bệnh nhân mất răng từ từ
+C. Còn nhiều răng trụ lung lay độ 3
+D. Tỷ lệ chiều cao thân và chân của răng trụ lớn hơn 1
+
+Câu 137. Chọn câu đúng khi nói về một PHỤC HÌNH THÁO LẮP
+A. PHỤC HÌNH THÁO LẮP BH nền nhựa còn được xem là một phục hình tạm
+B. Có thể kết hợp trụ implant để cố định một phục hình tháo lắp
+*C. A, B đúng
+D. A, B sai
+
+Câu 138. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa là:
+A. Rẻ tiền.
+B. Tiết kiệm mô răng.
+C. Dễ sửa chữa hàm giả: thêm răng, thêm móc, đệm hàm,..
+*D. Tất cả các ý trên
+
+Câu 139. Nhược điểm của phục hình tháo lắp bán hàm nền nhựa là:
+A. Vật lạ, cồng kềnh, khó chịu khi mang trong miệng
+B. Phục hình có tính xê dịch
+C. Khó làm nhóm răng cửa trên nên bệnh nhân có khớp cắn sâu
+*D. Tất cả các ý trên
+
+Câu 140. Ở lần hẹn thứ 2 thực hiện phục hình tháo lắp bán hàm việc làm nào sao đây không chính xác
+*A. Lấy dấu nghiên cứu
+B. Lấy dấu sau cùng
+C. Ghi tương quan 2 hàm
+D. Lên giá khớp và sắp răng
+
+Câu 141. Thời gian sử dụng của phục hình khung bộ theo Hahn là bao nhiêu năm?
+A. 3-4 năm
+B. 4-5 năm
+C. 6-7 năm
+*D. 7-8 năm
+
+Câu 142. Hàm giả sinh lý là như thế nào?
+*A. Lực nhai truyền từ răng giả đến răng thật xuống xương
+B. Lực nhai truyền từ răng thật đến bề mặt niêm mạc xuống xương
+C. Lực nhai truyền từ bề mặt niêm mạc xuống xương
+D. Tất cả đều sai
+
+Câu 143. Hàm giả nền nhựa móc dây tròn là loại hàm giả nào?
+A. Hàm giả sinh lý
+B. Hàm giả bán sinh lý
+*C. Hàm giả không sinh lý
+D. Tất cả đều sai
+
+Câu 144. Nhược điểm của PHỤC HÌNH THÁO LẮP BH nền nhựa:
+*A. Dễ gây ra sâu răng và viêm nướu dọc vùng nướu giả tiếp xúc với răng thật
+B. Giữ vệ sinh cho các răng thật và mô mềm còn lại
+C. Dễ chữa các răng thật còn lại
+D. Tiết kiệm mô răng
+
+Câu 145. Thực hiện một phục hình tháo lắp bán hàm nền nhựa gồm mấy giai đoạn:
+A. 3-4 lần hẹn
+B. 4-5 lần hẹn
+*C. 5-6 lần hẹn
+D. 6-7 lần hẹn
+
+Câu 146. Hàm giả tháo lắp từng phần nền nhựa là loại hàm truyền lực nhai chủ yếu qua:
+A. Hệ thống răng thật xuống xương
+*B. Bề mặt niêm mạc xuống xương
+C. Hệ thống răng thật xuống niêm mạc
+D. Tất cả các ý trên
+
+Câu 147. Ưu điểm của phục hình tháo lắp bán hàm nền nhựa là:
+A. Dễ thích nghi
+*B. Dễ sửa chữa
+C. Truyền lực nhai qua răng thật
+D. Hạn chế tiêu xương
+
+Câu 148. Thành phần nào không cấu tạo nên hàm giả tháo lắp bán hàm nền nhựa:
+*A. Thanh gót răng
+B. Móc
+C. Răng giả
+D. Nền hàm
+
+Câu 149. Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:
+A. Bệnh nhân mắc các bệnh lý mãn tính toàn thân
+B. Bệnh nhân đang dùng thuốc điều trị ung thư
+*C. Bệnh nhân có rối loạn tâm thần
+D. Bệnh nhân mất răng vùng trước ở cả 2 hàm
+
+Câu 150. Chỉ định của phục hình tháo lắp bán hàm là:
+A. Mất răng phía sau và còn răng giới hạn xa
+B. Chỉ định trên bệnh nhân dễ sâu răng
+C. Chỉ định trên bệnh nhân không có khả năng tài chính
+*D. Mất răng xen kẽ với khoảng mất răng quá dà i
+
+Câu 151. Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai
+[rang: x 7 6 5 4 3 2 1 | 1 2 3 x x x x 8 / 8 7 6 5 4 x x x | 1 2 3 4 5 6 7 8]
+*A. 50%
+B. 60%
+C. 40%
+D. 70%
+
+Câu 152. Phục hình tháo lắp bán hàm nền nhựa gồm:
+*A. Nền nhựa và móc
+B. Khung kim loại
+C. Yên
+D. Thanh nối
+
+Câu 153. Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa
+A. Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng
+B. Bệnh nhân có rối loạn tâm thần
+C. Các răng còn lại có bệnh nha chu điều trị chưa ổn định
+*D. Tất cả đều đúng
+
+Câu 154. Chống chỉ định PHỤC HÌNH THÁO LẮP, chọn câu sai.
+A. BN bệnh nha chu các răng còn lại, điều trị chưa ổn định
+B. BN bị rối loạn tâm thần
+*C. BN bị mất răng toàn bộ
+D. BN không hợp tác
+
+Câu 155. Số lần hẹn trung bình của PHỤC HÌNH THÁO LẮP BHNN
+A. 1-2
+B. 3-4
+*C. 5-6
+D. 7-8
+
+Câu 156. Thứ tự đúng của các giai đoạn PHỤC HÌNH THÁO LẮP BHNN
+| (1) Thử răng
+| (2) Ghi tương quan
+| (3) Lắp hàm
+| (4) Khám, chuẩn đoán và lấy dấu
+A. 1234
+B. 4312
+*C. 4213
+D. 4321

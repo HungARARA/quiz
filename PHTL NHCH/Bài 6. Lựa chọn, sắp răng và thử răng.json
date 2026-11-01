@@ -1,0 +1,5758 @@
+{
+  "title": "Bài 6. Lựa chọn, sắp răng và thử răng",
+  "subject": "PHTL NHCH",
+  "source": "PHTL NHCH Bài 6",
+  "header": [],
+  "note": null,
+  "noteLabel": null,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Khi lên răng phía trước hàm dưới:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bờ cắn răng cửa bên thấp hơn bờ cắn răng cửa giữa 0,5 mm."
+        },
+        {
+          "label": "B",
+          "text": "Đỉnh răng nanh cao hơn bờ cắn răng cửa bên."
+        },
+        {
+          "label": "C",
+          "text": "Đỉnh răng nanh nghiêng ra ngoài so với cổ răng."
+        },
+        {
+          "label": "D",
+          "text": "Đỉnh răng nanh nghiêng vào trong so với cổ răng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 2,
+      "question": "Răng trước trên được chọn dựa vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dáng, màu sắc"
+        },
+        {
+          "label": "B",
+          "text": "Hình dáng , kích thước"
+        },
+        {
+          "label": "C",
+          "text": "Hình dáng, kích thước, màu sắc, vật liệu"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Răng hàm trên được chọn theo cấu trúc xương hàm là răng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa bên"
+        },
+        {
+          "label": "C",
+          "text": "Răng nanh"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 4,
+      "question": "Răng hàm trên được chọn theo tính tình bệnh nhân là răng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa bên"
+        },
+        {
+          "label": "C",
+          "text": "Răng nanh"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 5,
+      "question": "Kích thước theo chiều ngang của răng cửa giữa hàm trên bằng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "½ khoảng cách 2 cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "¼ khoảng cách 2 cánh mũi"
+        },
+        {
+          "label": "C",
+          "text": "½ khoảng cách 2 khóe môi"
+        },
+        {
+          "label": "D",
+          "text": "¼ khoảng cách 2 khóe môi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 6,
+      "question": "Khoảng cách giữa 2 cánh mũi bằng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kích thước 2 răng cửa giữa hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước 4 răng cửa hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Khoảng cách 2 đỉnh răng nanh hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước 6 răng cửa hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 7,
+      "question": "Theo mặt phẳng trán, cung răng vuông, độ nghiêng các răng cửa giữa, cửa bên và răng nanh lần lượt là",
+      "options": [
+        {
+          "label": "A",
+          "text": "0°- 5° - 0°"
+        },
+        {
+          "label": "B",
+          "text": "5° - 10°- 5°"
+        },
+        {
+          "label": "C",
+          "text": "2° - 6°- 2°"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Trên mặt phẳng dọc góc độ nghiên của của răng cửa bên hàm trên là",
+      "options": [
+        {
+          "label": "A",
+          "text": "0°"
+        },
+        {
+          "label": "B",
+          "text": "5°"
+        },
+        {
+          "label": "C",
+          "text": "10°"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Khoảng cách từ mặt ngoài các răng cửa giữa tới giữa gai cửa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 mm"
+        },
+        {
+          "label": "B",
+          "text": "5 mm"
+        },
+        {
+          "label": "C",
+          "text": "7 mm"
+        },
+        {
+          "label": "D",
+          "text": "9 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "Khi lên răng cối hàm dưới, răng được lên đầu tiên là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng 4"
+        },
+        {
+          "label": "B",
+          "text": "Răng 5"
+        },
+        {
+          "label": "C",
+          "text": "Răng 6"
+        },
+        {
+          "label": "D",
+          "text": "Răng 7"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 11,
+      "question": "Trong trường hợp khoảng cách giữa 2 sống hàm ít, nên chọn răng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sứ"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Răng sứ hàm trên, răng nhựa hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Trong trường hợp khoảng cách giữa 2 sống hàm ít, nên chọn răng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sứ"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Răng sứ hàm trên, răng nhựa hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Răng nhựa hàm trên, răng sứ hàm dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 13,
+      "question": "Hình dáng cung hàm trên được sắp theo",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dáng khuôn mặt"
+        },
+        {
+          "label": "B",
+          "text": "Hình dáng sống hàm"
+        },
+        {
+          "label": "C",
+          "text": "Thẩm mỹ"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Quỹ đạo răng cửa được xác định khi",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trước khi lên răng trước hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Trước khi lên răng sau"
+        },
+        {
+          "label": "C",
+          "text": "Sau khi ghi tương quan tâm"
+        },
+        {
+          "label": "D",
+          "text": "Sau khi vô cung mặt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 15,
+      "question": "Răng cối hàm dưới có giới hạn",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách gối hậu nha 3mm"
+        },
+        {
+          "label": "B",
+          "text": "Nằm trước điểm bắt đầu của gối hậu nha"
+        },
+        {
+          "label": "C",
+          "text": "Phủ lên gối hậu nha"
+        },
+        {
+          "label": "D",
+          "text": "Vượt qua gối hậu nha"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 16,
+      "question": "Chiều rộng ngoài trong của răng cối giả",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tùy thuộc vào sống hàm còn lại"
+        },
+        {
+          "label": "B",
+          "text": "Mặt lưỡi không vượt quá ranh giới đường chéo ngoài"
+        },
+        {
+          "label": "C",
+          "text": "Tùy thuộc vào thói quen ăn nhai của bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 17,
+      "question": "Khi sống hàm trên tiêu xương nhiều, răng hàm dưới nên sắp",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rãnh giữa răng cối nằm trên đỉnh sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Đỉnh múi ngoài răng cối dưới nằm trên đỉnh sống hàm"
+        },
+        {
+          "label": "C",
+          "text": "Cả 2 câu đều đúng"
+        },
+        {
+          "label": "D",
+          "text": "Cả 2 câu đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Hình dáng của răng cửa giữa hàm trên được chọn theo",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dáng khuôn mặt"
+        },
+        {
+          "label": "B",
+          "text": "Hình dáng cung hàm"
+        },
+        {
+          "label": "C",
+          "text": "Tính tình của bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Hình dáng răng cửa bên hàm trên được chọn chủ yếu dựa theo",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dáng khuôn mặt"
+        },
+        {
+          "label": "B",
+          "text": "Hình dáng cung hàm"
+        },
+        {
+          "label": "C",
+          "text": "Tính tình của bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Kích thước răng cửa giữa hàm trên theo Lee",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều ngang răng cửa giữa = chiều cao khoảng cách hai sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Chiều ngang răng cửa giữa = ½ chiều ngang nhân trung"
+        },
+        {
+          "label": "C",
+          "text": "Câu A và B đúng"
+        },
+        {
+          "label": "D",
+          "text": "Câu A và B sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 21,
+      "question": "Răng hàm lớn dưới có giới hạn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cách vị trí tam giác hậu hàm 3mm"
+        },
+        {
+          "label": "B",
+          "text": "Phủ lên gối tam giác hậu hàm 3mm"
+        },
+        {
+          "label": "C",
+          "text": "Nằm trùm hết ranh giới tam giác hậu hàm."
+        },
+        {
+          "label": "D",
+          "text": "Dừng ngay ở điểm bắt đầu của tam giác hậu hàm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 22,
+      "question": "Chiều rộng ngoài – trong của răng hàm lớn giả:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuỳ thuộc vào sống hàm còn lại."
+        },
+        {
+          "label": "B",
+          "text": "Mặt lưỡi không vượt quá ranh giới đường chéo trong."
+        },
+        {
+          "label": "C",
+          "text": "Tuỳ thuộc vào thể chất của bệnh nhân."
+        },
+        {
+          "label": "D",
+          "text": "Câu A và câu B đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Khi chọn màu răng cần chú ý",
+      "options": [
+        {
+          "label": "A",
+          "text": "Che những quần áo có màu quá đậm rõ"
+        },
+        {
+          "label": "B",
+          "text": "Làm ướt mẫu răng so màu"
+        },
+        {
+          "label": "C",
+          "text": "Không so quá 5 – 10 giây"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 24,
+      "question": "Trường hợp sắp các răng sau hàm dưới bị thiếu chổ, răng nào sau đây có thể được bỏ bớt:",
+      "options": [
+        {
+          "label": "A",
+          "text": "R4"
+        },
+        {
+          "label": "B",
+          "text": "R5"
+        },
+        {
+          "label": "C",
+          "text": "R6"
+        },
+        {
+          "label": "D",
+          "text": "R7"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 25,
+      "question": "Vị trí tốt nhất của răng cửa trên được kiểm tra khi bệnh nhân phát âm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chữ V"
+        },
+        {
+          "label": "B",
+          "text": "Chữ I"
+        },
+        {
+          "label": "C",
+          "text": "Chữ F"
+        },
+        {
+          "label": "D",
+          "text": "A,C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 26,
+      "question": "Theo mặt phẳng trán, trục răng của các răng cửa giữa, cửa bên, răng nanh hàm dưới theo trục G-X lần lượt là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0˚ - 3˚ - 5˚"
+        },
+        {
+          "label": "B",
+          "text": "0˚ - 4˚ - 6˚"
+        },
+        {
+          "label": "C",
+          "text": "0˚ - 2˚ - 5˚"
+        },
+        {
+          "label": "D",
+          "text": "0˚ - 5˚ - 10˚"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Khi lên răng trước hàm trên:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cổ răng cửa bên nghiêng trong 10."
+        },
+        {
+          "label": "B",
+          "text": "Cổ răng cửa bên nghiêng ngoài 10."
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng nanh nghiêng ngoài 10."
+        },
+        {
+          "label": "D",
+          "text": "Cổ răng nanh nghiêng trong 10."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 28,
+      "question": "Khi lên răng, cấu trúc nào là chìa khóa khớp cắn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng nanh."
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa giữa."
+        },
+        {
+          "label": "C",
+          "text": "Răng cối nhỏ thứ nhất."
+        },
+        {
+          "label": "D",
+          "text": "Đường giữa."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Các răng hàm dưới theo đường cong Wilson có xu hướng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nghiêng về phía lưỡi tăng dần từ trước ra sau."
+        },
+        {
+          "label": "B",
+          "text": "Nghiêng về phía má tăng dần từ trước ra sau."
+        },
+        {
+          "label": "C",
+          "text": "Nghiêng về phía lưỡi giảm dần từ trước ra sau."
+        },
+        {
+          "label": "D",
+          "text": "B và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Vì sao bề mặt trơn láng vùng răng cối nhỏ phải được làm lõm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không cản trở hoạt động của các cơ chéo."
+        },
+        {
+          "label": "B",
+          "text": "Không cản trở hoạt động của các cơ môi."
+        },
+        {
+          "label": "C",
+          "text": "Cả A và B đều đúng."
+        },
+        {
+          "label": "D",
+          "text": "Cả A và b đều sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Giai đoạn quyết định yếu tố thẫm mỹ của PH:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thử răng."
+        },
+        {
+          "label": "B",
+          "text": "Lắp hàm."
+        },
+        {
+          "label": "C",
+          "text": "Ghi tương quan và lên giá khớp."
+        },
+        {
+          "label": "D",
+          "text": "Lấy dấu, đổ mẫu làm việc."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Ưu điểm của răng nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khó mài nên bền hơn"
+        },
+        {
+          "label": "B",
+          "text": "Không bị đổi màu theo thời gian"
+        },
+        {
+          "label": "C",
+          "text": "Màu sắc, độ trong, bóng giống răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Không có tiếng va đập khi ăn nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Theo Williams:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dạng răng cửa giữa hàm trên là đảo ngược chu vi khuôn mặt của người đó"
+        },
+        {
+          "label": "B",
+          "text": "Hình dạng răng cửa giữa hàm trên liên quan thể trạng của người đó"
+        },
+        {
+          "label": "C",
+          "text": "Hình dạng răng cửa giữa hàm trên liên quan đỉnh sống hàm trên của người đó"
+        },
+        {
+          "label": "D",
+          "text": "Hình dạng răng cửa giữa hàm trên là khác nhau ở mọi người"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 34,
+      "question": "Khi sắp các răng sau cần phải",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ưu tiên tới chức năng nhai"
+        },
+        {
+          "label": "B",
+          "text": "Bắt buộc sắp hàm trên trước hàm dưới sau"
+        },
+        {
+          "label": "C",
+          "text": "Luôn sắp răng 8"
+        },
+        {
+          "label": "D",
+          "text": "Không bao giờ sắp răng theo khớp cắn ngược"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 35,
+      "question": "Hình dáng cung răng được sắp theo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dáng khuôn mặt"
+        },
+        {
+          "label": "B",
+          "text": "Hình dáng sống hàm"
+        },
+        {
+          "label": "C",
+          "text": "Vẻ thẩm mỹ"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả ý trên đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 36,
+      "question": "Khi thử răng sáp cần phải kiểm soát điều gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tình trạng tâm sinh lý bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Ánh sáng của ghế nha khoa"
+        },
+        {
+          "label": "C",
+          "text": "Sự hoàn hảo của răng sáp"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 37,
+      "question": "Trong trường hợp mất nhiều răng, cần tuân thủ nguyên tắc gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi lên răng cửa giữa trên, chiều gần – xa hơi nghiêng xa khoảng 5°"
+        },
+        {
+          "label": "B",
+          "text": "Khi lên răng cửa bên dưới, chiều gần – xa nghiêng gần khoảng 2°"
+        },
+        {
+          "label": "C",
+          "text": "Khi lên răng nanh dưới, chiều ngoài – trong cổ răng hơi nghiêng ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Khi lên răng nanh trên, chiều ngoài – trong cổ răng hơi nghiêng trong 5°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "Ý nào sau đây đúng, khi lên răng vùng răng sau",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhóm răng quyết định thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Khi sống hàm tiêu xương nhiều, đỉnh múi ngoài răng trên nằm ngay trên đỉnh sống hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Khi tiêu sống hàm ít, rãnh răng nằm trên đỉnh sống hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Không có ý nào sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 39,
+      "question": "Cho các mệnh đề sau:\n(1) Răng sứ dễ mài\n(2) Răng nhựa đổi màu theo thời gian sử dụng\n(3) Răng nhựa không có tiếng va chạm khi ăn nhai\n(4) Răng sứ ít mòn theo thời gian sử dụng",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) (2) (3) đúng, (4) sai"
+        },
+        {
+          "label": "B",
+          "text": "(1) (2) (4) đúng, (3) sai"
+        },
+        {
+          "label": "C",
+          "text": "(2) (3) (4) đúng, (1) sai"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Biên giới nền hàm nhóm răng cửa và răng nanh phải",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vừa tới chùm kín gót răng hoặc phủ cigulum"
+        },
+        {
+          "label": "B",
+          "text": "Phủ cao lên tới gần bờ cắn"
+        },
+        {
+          "label": "C",
+          "text": "Tới đường vòng lớn nhất"
+        },
+        {
+          "label": "D",
+          "text": "Cao qua bờ cắn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Những tiêu chí cần khi chọn răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn màu sắc là chính"
+        },
+        {
+          "label": "B",
+          "text": "Chon hình dáng là chính"
+        },
+        {
+          "label": "C",
+          "text": "Chọn kích thước là chính"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 42,
+      "question": "Ưu điểm của răng sứ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không đổi màu"
+        },
+        {
+          "label": "B",
+          "text": "Màu giống răng thật"
+        },
+        {
+          "label": "C",
+          "text": "Lưu giữ tốt trong hàm nhựa"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 43,
+      "question": "Khi sắp các răng sau, nếu trục giữa hai sống hàm là 70° và 90° thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp răng trên sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Sắp răng trong diện tích chịu lực"
+        },
+        {
+          "label": "C",
+          "text": "Sắp răng theo khớp cắn ngược"
+        },
+        {
+          "label": "D",
+          "text": "Sắp răng theo KTD"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 44,
+      "question": "Ưu điểm răng nhựa so với răng sứ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không có tiếng va chạm khi ăn nhai"
+        },
+        {
+          "label": "B",
+          "text": "Giống răng thật"
+        },
+        {
+          "label": "C",
+          "text": "Sức nhai tốt"
+        },
+        {
+          "label": "D",
+          "text": "Không đổi màu theo thời gian"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 45,
+      "question": "Ưu điểm của răng sứ trong PHỤC HÌNH THÁO LẮP BH nền nhựa, ngoại trừ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cứng và bén"
+        },
+        {
+          "label": "B",
+          "text": "Không đổi màu theo thời gian sử dụng"
+        },
+        {
+          "label": "C",
+          "text": "Lưu giữ tốt trong nền nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Ít mòn theo thời gian sử dụng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 46,
+      "question": "Khi chọn màu răng phải tuân theo nguyên tắc sau, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn dưới ánh sang ban ngày không quá chói"
+        },
+        {
+          "label": "B",
+          "text": "Không so màu quá 5s để tránh nhìn lâu, mỏi mắt sẽ nhìn sai"
+        },
+        {
+          "label": "C",
+          "text": "Tránh so màu với các răng mang phục hình cố định"
+        },
+        {
+          "label": "D",
+          "text": "Thồi khô răng mẫu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 47,
+      "question": "Khi sắp các răng trước quá độ cắn phủ theo chiều dọc thì",
+      "options": [
+        {
+          "label": "A",
+          "text": "tạo vẻ mặt dữ tợn"
+        },
+        {
+          "label": "B",
+          "text": "tạo vẻ mặt già"
+        },
+        {
+          "label": "C",
+          "text": "khi cười, nói thấy ít răng"
+        },
+        {
+          "label": "D",
+          "text": "nói chỉ thấy răng dưới, vẻ mặt già"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 48,
+      "question": "Đặc điểm nào sau đây không phải ưu điểm của răng sứ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lưu giữ tốt trong nền nhựa của hàm phục hình tháo lắp bán hàm."
+        },
+        {
+          "label": "B",
+          "text": "Ít mòn theo thời gian sử dụng."
+        },
+        {
+          "label": "C",
+          "text": "Màu sắc, độ trong, bóng giống màu răng thật."
+        },
+        {
+          "label": "D",
+          "text": "Không đổi màu theo thời gian sử dụng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 49,
+      "question": "Đặc điểm nào sau đây không phải của răng nhựa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Được sử dụng phổ biến hơn răng sứ."
+        },
+        {
+          "label": "B",
+          "text": "Dễ mài."
+        },
+        {
+          "label": "C",
+          "text": "Không bị mòn theo thời gian sử dụng."
+        },
+        {
+          "label": "D",
+          "text": "Đổi màu theo thời gian sử dụng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 50,
+      "question": "Cách chọn lựa răng giả nào sau đây là sai?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đối với phái nam, răng cửa thường nhô cao, rộng, góc bên răng vuông, dày."
+        },
+        {
+          "label": "B",
+          "text": "Màu sắc của răng thường phù hợp với giới tính, tuổi tác, màu da, màu tóc và màu mắt."
+        },
+        {
+          "label": "C",
+          "text": "Không nên chọn màu răng dưới ánh sáng đèn nhất là ánh sáng đèn màu vàng."
+        },
+        {
+          "label": "D",
+          "text": "Làm khô răng mẫu để dễ so màu hơn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 51,
+      "question": "Cách sắp răng nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có 4 mặt phẳng không gian để sắp răng."
+        },
+        {
+          "label": "B",
+          "text": "Mặt phẳng trán nhìn từ mặt bên của răng."
+        },
+        {
+          "label": "C",
+          "text": "Mặt phẳng ngang nhìn từ mặt nhai của răng."
+        },
+        {
+          "label": "D",
+          "text": "Mặt phẳng dọc giữa nhìn từ mặt ngoài của răng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 52,
+      "question": "ưu điểm của răng sứ là, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít mòn theo thời gian sử dụng"
+        },
+        {
+          "label": "B",
+          "text": "Màu sắc, độ trong, bóng giống màu răng thật"
+        },
+        {
+          "label": "C",
+          "text": "Không đổi màu"
+        },
+        {
+          "label": "D",
+          "text": "Không giòn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 53,
+      "question": "các nguyên tắc chọn màu sắc chọn răng giả, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn dưới ánh sáng ban ngoài, ánh sáng không quá chói"
+        },
+        {
+          "label": "B",
+          "text": "Chọn theo ý của bệnh nhân để làm hài lòng bệnh nhân nhất có thể"
+        },
+        {
+          "label": "C",
+          "text": "Không so màu quá 5s"
+        },
+        {
+          "label": "D",
+          "text": "Đánh bóng các răng còn lại trước khi so màu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 54,
+      "question": "chọn hình thể răng the kretschmer",
+      "options": [
+        {
+          "label": "A",
+          "text": "Người có dáng thể thao cao: răng hình chữ nhật, cao"
+        },
+        {
+          "label": "B",
+          "text": "Người thấp, mập, vai hẹp: răng nhỏ, hình bầu dục"
+        },
+        {
+          "label": "C",
+          "text": "Người ốm cao: răng hình bầu dục, thấp"
+        },
+        {
+          "label": "D",
+          "text": "Người có dáng thể thao: răng hình bầu dục, thấp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 55,
+      "question": "chọn kích thước răng theo BERRY: chiều cao mặt/chiều cao cửa trên bằng(dễ0)",
+      "options": [
+        {
+          "label": "A",
+          "text": "10/1"
+        },
+        {
+          "label": "B",
+          "text": "20/1"
+        },
+        {
+          "label": "C",
+          "text": "30/1"
+        },
+        {
+          "label": "D",
+          "text": "40/1"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 56,
+      "question": "có bao nhiêu loại hình thể răng chính",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 57,
+      "question": "ảnh hưởng của việc sắp răng trước đối với vẻ mặt của bệnh nhân,chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp đúng đem lại vể mặt tự nhiên thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Sắp lùi vào trong làm mặt bệnh nhân già, móm"
+        },
+        {
+          "label": "C",
+          "text": "Sắp đưa ra ngoài làm mặt bệnh nhân có vẻ hô"
+        },
+        {
+          "label": "D",
+          "text": "Răng sắp lệch đường giữa làm miệng bệnh nhân có vẻ dữ tợn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 58,
+      "question": "Ưu điểm của răng sứ so với răng nhựa trong PHỤC HÌNH THÁO LẮP BH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không giòn"
+        },
+        {
+          "label": "B",
+          "text": "Không đổi màu theo thời gian"
+        },
+        {
+          "label": "C",
+          "text": "Dễ mài"
+        },
+        {
+          "label": "D",
+          "text": "Không có tiếng va chạm giữa các răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 59,
+      "question": "Đâu là tiêu chí để lựa chọn răng giả( các răng trước)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn màu sắc"
+        },
+        {
+          "label": "B",
+          "text": "Chọn hình thể"
+        },
+        {
+          "label": "C",
+          "text": "Chọn kích thước"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 60,
+      "question": "Trong cách sắp răng,mỗi răng được sắp đúng vị trí theo bao nhiêu mặt phẳng trong không gian?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 61,
+      "question": "Ưu điểm của răng sứ so với răng nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít mòn theo thời gian, giống màu răng thật, không đổi màu theo thời gian sử dụng"
+        },
+        {
+          "label": "B",
+          "text": "Sức nhai tốt, không giòn, không có tiếng va chạm khi ăn nhai"
+        },
+        {
+          "label": "C",
+          "text": "Giống màu răng thật, dễ mài khi sắp răng và chỉnh khớp"
+        },
+        {
+          "label": "D",
+          "text": "Không có tiếng va chạm khi ăn nhai, không giòn, dễ mài"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 62,
+      "question": "Ảnh hưởng của việc sắp răng trước đối với vẻ mặt của bệnh nhân:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp răng lùi vào trong làm cho mặt bệnh nhân có vẻ hô"
+        },
+        {
+          "label": "B",
+          "text": "Sắp răng đưa ra ngoài làm cho mặt bệnh nhân có vẻ móm"
+        },
+        {
+          "label": "C",
+          "text": "Sắp răng lệch đường giữa làm cho miệng bệnh nhân có vẻ méo khi nói, cười"
+        },
+        {
+          "label": "D",
+          "text": "Sắp quá độ cắn phủ theo chiều dọc khi cười, nói chỉ thấy răng dưới, vẻ mặt già"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 63,
+      "question": "Hình thể răng phù hợp với phái nữ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa nhô cao, hẹp, góc bên răng cửa tròn, mỏng"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa phẳng, hẹp, góc bên răng cửa tròn, mỏng"
+        },
+        {
+          "label": "C",
+          "text": "Răng cửa nhô cao, rộng, góc bên răng cửa vuông, dày"
+        },
+        {
+          "label": "D",
+          "text": "Răng cửa phẳng, rộng. góc bên răng cửa vuông, dày"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 64,
+      "question": "Ưu điểm của răng nhựa trong PHỤC HÌNH THÁO LẮP BH là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít mòn theo thời gian sử dụng"
+        },
+        {
+          "label": "B",
+          "text": "Cứng và bén"
+        },
+        {
+          "label": "C",
+          "text": "Không có tiếng va chạm khi ăn nhai"
+        },
+        {
+          "label": "D",
+          "text": "Không đổi màu theo thời gian sử dụng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 65,
+      "question": "Cách tính chỉ số LEE",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều rộng R1 trên bằng ¼ khoảng cách giữa hai cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "Chiều rộng R1 trên bằng tổng chiều rộng của R2 và ½ chiều rộng R3trên"
+        },
+        {
+          "label": "C",
+          "text": "Cả A và B đều đúng"
+        },
+        {
+          "label": "D",
+          "text": "Cả A và C đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 66,
+      "question": "Cách chọn răng đúng là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ưu tiên chọn răng theo tuổi"
+        },
+        {
+          "label": "B",
+          "text": "Ưu tiên chọn răng theo giới tính"
+        },
+        {
+          "label": "C",
+          "text": "Ưu tiên chọn răng theo các răng còn lại"
+        },
+        {
+          "label": "D",
+          "text": "Ưu tiên chọn răng theo tình trạng sinh lý, bệnh lý"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 67,
+      "question": "Chọn đáp án SAI trong các câu sau. Cách sắp răng theo mặt phẳng trán thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng 1/1 : trục răng gần như thẳng đứng , cổ răng ở phía xa so với bò cắn ( Lục G - X : 0 ° - 5° ) , cạnh cắn chạm mặt phẳng nhai."
+        },
+        {
+          "label": "B",
+          "text": "Răng 2/2 : trục răng nghiêng xa hơn răng sổ \" 1 ( trục G -X : 10° - 15°) . cạnh cắn cách mặt phẳng nhi của gối sáp 1 mm , mặt ngoài xa hơi xoay vào trong . Đây chỉ là nguyên tắc cơ bản . Khi thử răng , tuỳ theo thẩm mỹ và phát âm của bệnh nhân , các nguyên tắc trên đều có thể được sửa đổi cho phù hợp."
+        },
+        {
+          "label": "C",
+          "text": "Răng 3/3 : trục răng gần như thẳng đứng , cổ răng ở phía xa so với đỉnh( trục G - Y : 0 ° -5 ° ) , đỉnh chạm mặt phẳng nhai."
+        },
+        {
+          "label": "D",
+          "text": "Răng 3/3:trục răng gần như thẳng đứng, cổ răng ơi phía xa so với đỉnh( trục G-Y: 10°-15°), đỉnh không chạm mặt phẳng nhai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 68,
+      "question": "Ảnh hưởng của việc sắp răng trướng đối với vẻ mặt của bệnh nhân như thế nào khi sắp răng quá độ cắn phủ theo chiều dọc?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi cười nói chỉ thấy răng dưới, vẻ mặt già"
+        },
+        {
+          "label": "B",
+          "text": "Làm cho bệnh nhân già, móm"
+        },
+        {
+          "label": "C",
+          "text": "Làm cho miệng bệnh nhân có vẻ méo khi nói, cười"
+        },
+        {
+          "label": "D",
+          "text": "Tạo vẻ mặt dữ tợn; khi cười, nói thấy nhiều răng, kém thẩm mỹ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 69,
+      "question": "Ưu điểm của răng sứ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cứng và bén nên đem lại sức nhai tốt"
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ tốt trong nền nhựa của hàm"
+        },
+        {
+          "label": "C",
+          "text": "Dễ mài"
+        },
+        {
+          "label": "D",
+          "text": "Không giòn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 70,
+      "question": "Câu nào sau đây đúng về việc chọn kích thước răng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều rộng 6 răng trước trên bằng khoảng cách giữa 2 khóe miệng khi bệnh nhân cười tự nhiên"
+        },
+        {
+          "label": "B",
+          "text": "Chiều cao răng trước trên giới hạn bởi cạnh cắn và cổ răng"
+        },
+        {
+          "label": "C",
+          "text": "Khi bệnh nhân cười tự nhiên, bờ tự do môi dưới là đường giới hạn cổ răng cửa giữa dưới"
+        },
+        {
+          "label": "D",
+          "text": "Theo Berry: Chiều cao mặt/ chiều cao răng cửa trên = 25"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 71,
+      "question": "Khi sắp các răng sau hàm trên, câu nào sau đây đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cối nhỏ thứ nhất: Cả 2 múi chạm mặt phẳng nhai"
+        },
+        {
+          "label": "B",
+          "text": "Răng cối nhỏ thứ hai: Đỉnh múi ngoài chạm mặt phẳng nhai"
+        },
+        {
+          "label": "C",
+          "text": "Răng cối thứ nhất: Các đỉnh múi đều chạm mặt phẳng nhai"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối thứ hai: Đỉnh múi gần trong chạm mặt phẳng nhai, cách múi khác không chạm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 72,
+      "question": "Kiểm tra về thẩm mỹ là kiểm tra về:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khớp cắn"
+        },
+        {
+          "label": "B",
+          "text": "Phát âm"
+        },
+        {
+          "label": "C",
+          "text": "Nuốt"
+        },
+        {
+          "label": "D",
+          "text": "Màu sắc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 73,
+      "question": "Câu nào sau đây SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc răng là yếu tố quan trọng nhất để giữ hàm giả ổn định"
+        },
+        {
+          "label": "B",
+          "text": "Đường cong Spee là đường cong bù trừ ngang"
+        },
+        {
+          "label": "C",
+          "text": "Các khối răng giả sát khít với mặt bên răng thật giúp hàm giả ổn định theo chiều trước-sau"
+        },
+        {
+          "label": "D",
+          "text": "Đường vòng lớn nhất rõ ràng là yếu tố thuận lợi cho việc làm phục hình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 74,
+      "question": "Mốc giải phẫu hàm dưới, chọn câu SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sàn miệng"
+        },
+        {
+          "label": "B",
+          "text": "Tam giác hậu hàm"
+        },
+        {
+          "label": "C",
+          "text": "Lồi cùng"
+        },
+        {
+          "label": "D",
+          "text": "Thắng lưỡi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 75,
+      "question": "Khi sắp các răng sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trục giữa hai sống hàm dưới 60° sắp răng theo khớp cắn ngược"
+        },
+        {
+          "label": "B",
+          "text": "Trục giữa hai sống hàm 60-70° sắp răng trong diện tích chịu lực"
+        },
+        {
+          "label": "C",
+          "text": "Ưu tiên tới chức năng nhai"
+        },
+        {
+          "label": "D",
+          "text": "A, C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 76,
+      "question": "Lỗi phổ biến nhất trong việc lựa chọn răng giả là quá sáng trong bóng râm và kích thước quá nhỏ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đúng"
+        },
+        {
+          "label": "B",
+          "text": "Sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 77,
+      "question": "Các yếu tố tuổi tác, giới tính và tính cách có thể hữu ích trong việc đảm bảo thẩm mỹ khi chọn răng. Điều này đã được chứng minh trong một số nghiên cứu khoa học.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cả 2 câu đúng"
+        },
+        {
+          "label": "B",
+          "text": "Cả 2 câu sai"
+        },
+        {
+          "label": "C",
+          "text": "Câu 1 đúng, câu 2 sai"
+        },
+        {
+          "label": "D",
+          "text": "Câu 1 sai, câu 2 đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 78,
+      "question": "Khi kiểm tra về chức năng thì vị trí tốt nhất của các răng cửa trên được kiểm tra khi bệnh nhân chữ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chữ A và chữ B"
+        },
+        {
+          "label": "B",
+          "text": "Chữ E và chữ F"
+        },
+        {
+          "label": "C",
+          "text": "Chữ F và chữ V"
+        },
+        {
+          "label": "D",
+          "text": "Chữ V và chữ A"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 79,
+      "question": "Các góc chuyển giữa răng giả và nướu giả là khoảng từ",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 – 45 độ"
+        },
+        {
+          "label": "B",
+          "text": "45 – 60 độ"
+        },
+        {
+          "label": "C",
+          "text": "10 – 25 độ"
+        },
+        {
+          "label": "D",
+          "text": "5 – 10 độ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 80,
+      "question": "Khi nói về sắp răng câu nào sau đây là sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sắp lùi vào trong làm cho bệnh nhân già đi"
+        },
+        {
+          "label": "B",
+          "text": "Răng sắp đưa ra ngoài làm cho bệnh nhân có vẻ hô"
+        },
+        {
+          "label": "C",
+          "text": "Răng sắp thiếu độ cắn phủ theo chiều dọc làm bệnh nhân già đi"
+        },
+        {
+          "label": "D",
+          "text": "Răng sắp quá độ cắn phủ theo chiều dọc làm mặt bệnh nhân hiền hơn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 81,
+      "question": "Theo mặt phẳng dọc giữa thì trục N – T của răng 1/1 là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 82,
+      "question": "Khi chọn màu răng, phải tuân thủ theo nguyên tắc nào, chọn câu SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tránh tương phản màu xung quanh, khi so màu nên phủ một khăn màu trắng lên áo bệnh nhân."
+        },
+        {
+          "label": "B",
+          "text": "Làm ướt răng mẫu để giống điều kiện răng thật."
+        },
+        {
+          "label": "C",
+          "text": "Chiều theo ý bệnh nhân khi so màu."
+        },
+        {
+          "label": "D",
+          "text": "Không so màu quá 5s tránh nhìn lâu, mỏi mắt."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 83,
+      "question": "Trong trường hợp sắp các răng sau trên, theo mặt phẳng ngang thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cối nhỏ thứ nhất: đỉnh múi trong chạm mặt phẳng nhai. Đỉnh múi ngoài không chọn."
+        },
+        {
+          "label": "B",
+          "text": "Răng cối nhỏ thứ hai: cả hai múi đều chạm mặt phẳng nhai."
+        },
+        {
+          "label": "C",
+          "text": "Răng cối lớn thứ nhất: đỉnh múi ngoài – trong chạm mạt phẳng nhai. Các múi còn lại không chạm."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 84,
+      "question": "Để sắp các răng trước hàm trên theo mặt phẳng ngang thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng cách từ mặt ngoài các răng cửa giữa tới gai cửa là 7mm."
+        },
+        {
+          "label": "B",
+          "text": "Diện tích chịu lực của hàm trên nằm giữa đường răng cửa và đường răng nanh."
+        },
+        {
+          "label": "C",
+          "text": "A và B đều đúng."
+        },
+        {
+          "label": "D",
+          "text": "A và đều sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 85,
+      "question": "Những nguyên tắc nào là đúng về chọn màu răng?\n1. Chọn răng dưới ánh sáng đèn màu vàng, đèn nha khoa.\n2. Không so màu quá 5s để tránh nhìn lâu, mỏi mắt sẽ nhìn sai.\n3. Làm ướt răng mẫu để giống điều kiện của răng thuật trong miệng bệnh nhân.\n4. Chọn màu răng theo yêu cầu của bệnh nhân.\n5. Nên đánh bóng răng còn lại trước khi so màu để tránh nhầm lẫn với màu của vết dính do trà, thuốc lá,..",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,3,5."
+        },
+        {
+          "label": "B",
+          "text": "1,4,5."
+        },
+        {
+          "label": "C",
+          "text": "2,3,5."
+        },
+        {
+          "label": "D",
+          "text": "2,3,4."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 86,
+      "question": "Ưu điểm của răng sứ ( CHỌN CÂU SAI)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít mòn theo thời gian sử dụng"
+        },
+        {
+          "label": "B",
+          "text": "Màu sắc, độ trong, bóng giống màu răng thật"
+        },
+        {
+          "label": "C",
+          "text": "Dễ mài"
+        },
+        {
+          "label": "D",
+          "text": "Không đổi màu theo thời gian sử dụng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 87,
+      "question": "Chọn câu đúng về cách lựa chọn các răng giả trước :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giữ răng khô ráo thi so màu"
+        },
+        {
+          "label": "B",
+          "text": "Răng thay thế phải có cùng hình thể với các răng còn lại và phù hợp với sở thích bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân được tự chọn màu sắc theo sở thích"
+        },
+        {
+          "label": "D",
+          "text": "Chiều rộng 6 răng trước trên bằng khoảng cách hai khóe miệng khi cơ miệng thư giãn và bệnh nhân ngậm miệng tự nhiên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 88,
+      "question": "Khi sắp răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không bao giờ được đặt một răng của giữa hàm dưới hẹp hơn răng cửa giữa kế nó"
+        },
+        {
+          "label": "B",
+          "text": "Cạnh cắn răng trước phù hợp với múi ngoài theo đường cong spee"
+        },
+        {
+          "label": "C",
+          "text": "Các răng au dưới không được vượt quá dường cong Wilson"
+        },
+        {
+          "label": "D",
+          "text": "Trong PHỤC HÌNH THÁO LẮP BH luôn luôn chỉ sắp tới răng 7, không sắp răng 8"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 89,
+      "question": "Khi thử răng trên miệng cần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đánh giá tình trạng vệ sinh răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Đánh giá về thẩm mỹ và kiểm tra chức năng"
+        },
+        {
+          "label": "C",
+          "text": "Đánh giá khớp thái dương hàm"
+        },
+        {
+          "label": "D",
+          "text": "Đánh giá phát âm và nuốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 90,
+      "question": "Theo Williams, hình dạng các răng cửa giữa trên có:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình tròn, tam giác, bầu dục"
+        },
+        {
+          "label": "B",
+          "text": "Hình vuông, tròn, tam giác"
+        },
+        {
+          "label": "C",
+          "text": "Hình tam giác, vuông, bầu dục"
+        },
+        {
+          "label": "D",
+          "text": "Hình bình hành, hình thoi, hình vuông"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 91,
+      "question": "Theo mặt phẳng dọc giữa thì trục N – T của răng 3/3 là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "0-5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 92,
+      "question": "Khi sắp các răng sau, nếu trục giữa hai sống hàm là 50° thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp răng trên sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Sắp răng trong diện tích chịu lực"
+        },
+        {
+          "label": "C",
+          "text": "Sắp răng theo khớp cắn ngược"
+        },
+        {
+          "label": "D",
+          "text": "Sắp răng theo KTDMức khó"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 93,
+      "question": "Loại răng nào sau đây thích hợp cho bệnh nhân lớn tuổi, răng mòn nhiều, độ nghiêng quỹ đạp lồi chùy giảm nhiều :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giải phẫu"
+        },
+        {
+          "label": "B",
+          "text": "Răng bán giải phẫu"
+        },
+        {
+          "label": "C",
+          "text": "Răng không giải phẫu"
+        },
+        {
+          "label": "D",
+          "text": "A và b đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 94,
+      "question": "Răng nào sau đây được xem là chìa khóa khớp cắn :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa"
+        },
+        {
+          "label": "B",
+          "text": "Răng nanh"
+        },
+        {
+          "label": "C",
+          "text": "Răng cối 1"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối 2"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 95,
+      "question": "Hình thái/đặc điểm nào sau đây là yếu tố gây khó khăn cho việc sắp các răng sau :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng cách giữa sống hàm mất răng và răng đối kháng không đủ để lên răng"
+        },
+        {
+          "label": "B",
+          "text": "Các răng thật bị di lệch đáng kể gây xáo trộn hài hòa cắn khớp"
+        },
+        {
+          "label": "C",
+          "text": "Răng còn lại ở cung hàm đối diện có hình thái đặc biệt (mòn mặt nhai,xoay,…)"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 96,
+      "question": "Điều nào cần lưu ý khi sắp răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các răng trước rất quan trọng trong việc hướng dẫn nhóm, nên cần ưu tiên chức năng nhai hơn chức năng thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Các bờ cắn của răng trước hàm dưới cần vượt quá ra trước đáy hành lang"
+        },
+        {
+          "label": "C",
+          "text": "Các răng sau dưới không được sắp vượt quá đường Pound"
+        },
+        {
+          "label": "D",
+          "text": "Chỉ cần sắp đến răng cối lớn thứ 2, không cần quan tâm hàm đối diện còn răng 8 hay không"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 97,
+      "question": "Khi nào thì sắp răng trong diện tích chịu lực",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi trục giữa hai sống hàm là 90 độ"
+        },
+        {
+          "label": "B",
+          "text": "Khi trục giữa hai sống hàm là 80 độ"
+        },
+        {
+          "label": "C",
+          "text": "khi trục giữa hai sống hàm là 70 độ và 60 độ"
+        },
+        {
+          "label": "D",
+          "text": "khi trục giữa hai sống hàm nhỏ hơn 60 độ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 98,
+      "question": "Ưu điểm của răng sứ, chọn câu sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít ṃòn theo thời gian sử dụng"
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ tốt trong nên nhựa của hàm PHỤC HÌNH THÁO LẮP BH"
+        },
+        {
+          "label": "C",
+          "text": "Màu sắc, độ trong, bóng giống màu răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Không đổi màu theo thời gian sử dụng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 99,
+      "question": "Theo mặt phẳng dọc giữa thì trục N – T của răng 1/1 là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0°"
+        },
+        {
+          "label": "B",
+          "text": "5°"
+        },
+        {
+          "label": "C",
+          "text": "10°"
+        },
+        {
+          "label": "D",
+          "text": "15°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 100,
+      "question": "Khi sắp răng trước hàm dưới theo mặt phẳng trán.Câu nào sau đây sai :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cửa giữa : trục răng thẳng đứng"
+        },
+        {
+          "label": "B",
+          "text": "Răng cửa bên : trục răng nghiêng nhẹ về phía xa"
+        },
+        {
+          "label": "C",
+          "text": "Răng nanh trục răng nghiêng gần nhiều"
+        },
+        {
+          "label": "D",
+          "text": "Đường đỉnh răng nanh và cạnh cắn các răng trước dưới nằm trên một đường thẳng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 101,
+      "question": "Theo mặt phẳng ngang, khoảng cách từ mặt ngoài các răng cửa giữa tới giữa gai cửa (papille insisive) là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 mm"
+        },
+        {
+          "label": "B",
+          "text": "8 mm"
+        },
+        {
+          "label": "C",
+          "text": "9 mm"
+        },
+        {
+          "label": "D",
+          "text": "10 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 102,
+      "question": "Răng giải phẫu của răng sau là răng có độ nghiêng của múi răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "40-45°"
+        },
+        {
+          "label": "B",
+          "text": "30-33°"
+        },
+        {
+          "label": "C",
+          "text": "20°"
+        },
+        {
+          "label": "D",
+          "text": "0°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 103,
+      "question": "Nguyên tắc khi chọn màu răng, chọn câu SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên chọn dưới ánh sáng đèn nhất là ánh sáng đèn màu vàng"
+        },
+        {
+          "label": "B",
+          "text": "Tránh tương phản màu sắc xung quanh ảnh hưởng việc chọn màu"
+        },
+        {
+          "label": "C",
+          "text": "Làm khô răng mẫu để giống điều kiện của răng thật trong miệng"
+        },
+        {
+          "label": "D",
+          "text": "Không so màu quá 5 giây để tránh nhìn lâu, mỏi mắt sẽ nhìn sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 104,
+      "question": "Khi chọn răng cửa giữa hàm trên cho người có đặc điểm thấp, mập, vai hẹp thì hình thể răng nào phù hợp nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng hình chữ nhật cao"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhỏ hình tam giác"
+        },
+        {
+          "label": "C",
+          "text": "Răng hình bầu dục cao"
+        },
+        {
+          "label": "D",
+          "text": "Răng hình thang cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 105,
+      "question": "Đâu là ưu điểm của răng nhựa trong phục hình tháo lắp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không đổi màu theo thời gian sử dụng"
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ tốt trong nền nhựa của phục hình tháo lắp bán hàm"
+        },
+        {
+          "label": "C",
+          "text": "Dễ mài"
+        },
+        {
+          "label": "D",
+          "text": "Không có tiến va chạm khi nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 106,
+      "question": "Hãy cho biết câu nào sau đây là sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đường sống hàm trước khi tiêu xương của hàm dưới đi qua đỉnh răng nanh và trong của gối hậu nha"
+        },
+        {
+          "label": "B",
+          "text": "Đường sống hàm trước khi tiêu xương của hàm dưới đi qua đỉnh răng nanh và trong của lồi cùng"
+        },
+        {
+          "label": "C",
+          "text": "Đường sống hàm sau khi tiêu xương của hàm dưới đi qua đỉnh răng nanh và đường đỉnh sống hàm vùng răng răng cối thứ nhất và thứ hai"
+        },
+        {
+          "label": "D",
+          "text": "Đường sống hàm trước khi tiêu xương của hàm trên đi qua đỉnh răng nanh và ngoài của lồi cùng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 107,
+      "question": "Nhóm răng cửa thường có đường kính móc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.7"
+        },
+        {
+          "label": "B",
+          "text": "0.8"
+        },
+        {
+          "label": "C",
+          "text": "0.9"
+        },
+        {
+          "label": "D",
+          "text": "1.0"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 108,
+      "question": "Màu răng thường gặp ở người Việt Nam: - 6",
+      "options": [
+        {
+          "label": "A",
+          "text": "A3"
+        },
+        {
+          "label": "B",
+          "text": "A5"
+        },
+        {
+          "label": "C",
+          "text": "B2"
+        },
+        {
+          "label": "D",
+          "text": "C1"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 109,
+      "question": "Trục giữa 2 sống hàm đo được khoảng 65°, chúng ta tiến hành - 6",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp răng trên sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Sắp răng ở nhai còn xương ổ nhiều nhất"
+        },
+        {
+          "label": "C",
+          "text": "Sắp răng trong diện tích chịu lực"
+        },
+        {
+          "label": "D",
+          "text": "Sắp răng theo khớp cắn ngược"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 110,
+      "question": "Chỉ số LEE (theo LEE) là gì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều rộng răng cửa giữa trên bằng khoảng cách giữa 2 cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "Chiều rộng răng của giữa trên bằng tổng chiều rộng của răng của bên và chiều rộng răng nanh trên."
+        },
+        {
+          "label": "C",
+          "text": "Tỉ lệ giữa chiều cao mặt và chiều cao răng của trên bằng 1/20"
+        },
+        {
+          "label": "D",
+          "text": "Không câu nào đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 111,
+      "question": "răng sứ có ưu điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rất cứng nên khó mài."
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ tốt hơn răng nhựa."
+        },
+        {
+          "label": "C",
+          "text": "Dễ mài."
+        },
+        {
+          "label": "D",
+          "text": "Ít mòn theo thời gian sử dụng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 112,
+      "question": "khi sắp các răng trước hàm dưới, câu nào sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đỉnh răng nanh phải cao hơn đỉnh răng cửa bên."
+        },
+        {
+          "label": "B",
+          "text": "Đỉnh răng nanh nghiêng vào trong so với cổ răng."
+        },
+        {
+          "label": "C",
+          "text": "Ưu tiên sắp răng theo đường giữa."
+        },
+        {
+          "label": "D",
+          "text": "Chọn màu răng trùng với màu răng thật."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 113,
+      "question": "Chọn câu đúng khi lựa chọn răng giả phía trước:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ưu tiên chức năng ăn nhai"
+        },
+        {
+          "label": "B",
+          "text": "Màu răng được chọn theo các răng mang phục hình cố định"
+        },
+        {
+          "label": "C",
+          "text": "Cạnh cắn răng cửa trên cách bờ tự do môi trên khoảng 5mm khi bệnh nhân ngậm miệng trong trạng thái thư giãn cơ"
+        },
+        {
+          "label": "D",
+          "text": "Làm ướt răng mẫu để giống điều kiện của răng thật trong miệng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 114,
+      "question": "Khó khăn khi sắp răng hàm trước",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đảm bảo thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Ưu tiên chức năng"
+        },
+        {
+          "label": "C",
+          "text": "Thiếu chỗ"
+        },
+        {
+          "label": "D",
+          "text": "Hình thái riêng biệt của 1 vài răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 115,
+      "question": "Nguyên tắc sắp răng cối nhỏ và răng cối lớn hàm trên:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp xếp theo kiểu tiếp xúc mũi – trũng"
+        },
+        {
+          "label": "B",
+          "text": "Mặp phẳng nhai không vượt quá 2/3 chiều cao gối hậu nha"
+        },
+        {
+          "label": "C",
+          "text": "Răng 6 được đặt gần với điểm trũng nhất của hàm"
+        },
+        {
+          "label": "D",
+          "text": "Sắp răng 7 theo đường cong Spee"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 116,
+      "question": "Đường nào sau đây là đường sống hàm sau khi tiêu xương:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đường đi qua đỉnh răng nanh và ngoài của lồi cùng"
+        },
+        {
+          "label": "B",
+          "text": "Đường đi qua đỉnh răng nanh và trong của lồi cùng"
+        },
+        {
+          "label": "C",
+          "text": "Đường đi qua đỉnh răng nanh và trong gối hậu nha"
+        },
+        {
+          "label": "D",
+          "text": "Đường đi qua đỉnh răng nanh và đỉnh sống hàm ở vùng răng cối thứ nhất và thứ hai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 117,
+      "question": "Nhược điểm của răng sứ, chọn câu sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đường viền cổ răng đen do ngấm màu thức ăn"
+        },
+        {
+          "label": "B",
+          "text": "Đổi màu theo thời gian do ngấm dịch miệng, do bị lão hóa"
+        },
+        {
+          "label": "C",
+          "text": "Có tiếng va chạm khi ăn nhai"
+        },
+        {
+          "label": "D",
+          "text": "Dễ sứt khỏi nền nhựa acrylic"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 118,
+      "question": "Lựa chọn răng phù hợp nhất cho một bệnh nhân nam 60 tuổi có thể trạng ốm, cao:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng trước hình tam giác, bờ dày, góc bên răng cửa tròn, mỏng; răng sau có độ nghiêng múi răng là 30-33°"
+        },
+        {
+          "label": "B",
+          "text": "Răng trước hình bầu dục, cao , bờ mỏng, góc bên răng cửa vuông, dày; răng sau có độ nghiêng múi răng là 20°"
+        },
+        {
+          "label": "C",
+          "text": "Răng trước hình bầu dục, thấp , bờ dày, góc bên răng cửa vuông, dày; răng sau có độ nghiêng múi răng là 30-33°"
+        },
+        {
+          "label": "D",
+          "text": "Răng trước hình bầu dục, thấp , bờ dày, góc bên răng cửa vuông, dày; răng sau có độ nghiêng múi răng là 20°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình Bài 6: nam có góc bên răng cửa vuông, dày; người lớn tuổi răng thấp, bờ dày và răng sau bán giải phẫu (múi 20°); Kretschmer xếp người ốm, cao vào nhóm răng bầu dục. D hợp nhiều yếu tố nhất; B có \"bờ mỏng\", trái với răng người lớn tuổi.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 119,
+      "question": "Ưu điểm của răng sứ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không giòn, dễ mài"
+        },
+        {
+          "label": "B",
+          "text": "Ít mòn theo thời gian"
+        },
+        {
+          "label": "C",
+          "text": "Lưu giữ tốt trong nền nhựa PHỤC HÌNH THÁO LẮP BH"
+        },
+        {
+          "label": "D",
+          "text": "Không có tiếng va chạm khi ăn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 120,
+      "question": "Khi sắp răng trước hàm trên theo mặt phẳng trán, chọn các ý đúng:\na. Bờ cắn và mặt ngoài các răng trước hàm trên chính xác theo mặt ngoài của gối sáp\nb. Khoảng cách từ mặt ngoài các răng cửa giữa tới gai cửa là 7mm\nc. Răng 1/1: trục răng gần như thẳng đứng, cổ răng ở phía xa so với bờ cắn (trục G-X: 0°-5°), cạnh cắn chạm mặt phẳng nhai.\nd. Răng 2/2: trục răng nghiêng xa hơn so với răng số 1 (trục G-X: 10°-15°), cạnh cắn cách mặt phẳng nhai của gối sáp 1mm, mặt ngoài xa hơi xoay vào trong.\ne. Diện tích chịu lực của hàm trên nằm giữa đường răng cửa và đường răng nanh.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a, b, c"
+        },
+        {
+          "label": "B",
+          "text": "a, d, e"
+        },
+        {
+          "label": "C",
+          "text": "b, c, e"
+        },
+        {
+          "label": "D",
+          "text": "a, c, d"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 121,
+      "question": "Khi sắp các răng trước dưới theo mặt phẳng dọc giữa, chọn câu đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đỉnh răng nanh và cạnh cắn các răng cửa dưới nằm trên một đường thẳng"
+        },
+        {
+          "label": "B",
+          "text": "Các răng cửa trên trùm các răng cửa dưới theo overjet và overbite khoảng 2mm"
+        },
+        {
+          "label": "C",
+          "text": "Răng cửa giữa: trục răng thẳng đứng"
+        },
+        {
+          "label": "D",
+          "text": "Răng cửa bên: trục răng nghiêng nhẹ về phía xa (G-X: 2°)"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình: theo mặt phẳng dọc, răng cửa trên phủ ngoài răng cửa dưới (overjet, overbite) khoảng 2 mm. Các ý A, C, D thuộc mặt phẳng ngang và mặt phẳng trán.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 122,
+      "question": "Răng nanh: cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi (trục N-T: 5°)",
+      "options": [
+        {
+          "label": "A",
+          "text": "a, b"
+        },
+        {
+          "label": "B",
+          "text": "c, d"
+        },
+        {
+          "label": "C",
+          "text": "b, e"
+        },
+        {
+          "label": "D",
+          "text": "a, e"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 123,
+      "question": "răng nhựa được làm từ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhựa polyethylene"
+        },
+        {
+          "label": "B",
+          "text": "Nhựa acrylic"
+        },
+        {
+          "label": "C",
+          "text": "Nhựa PVC"
+        },
+        {
+          "label": "D",
+          "text": "Ceramic"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 124,
+      "question": "Khi sắp các răng sau hàm trên cần chú ý, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mỗi răng được sắp đúng vị trí theo 3 mặt phẳng không gian: ngang, dọc giữa, trán"
+        },
+        {
+          "label": "B",
+          "text": "Đường thứ nhất chạm mặt ngoài các răng 3,4,5 và múi ngoài gần răng 6 HT"
+        },
+        {
+          "label": "C",
+          "text": "Đường thứ hai chạm mặt ngoài múi ngoài xa răng 6 và các múi ngoài răng 7 HT"
+        },
+        {
+          "label": "D",
+          "text": "Khi hình dạng của gối hậu nha rõ, mặt nhai này đi qua các đỉnh răng nanh và 1/2 chiều cao của gối hậu nha"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 125,
+      "question": "Khi chọn màu răng cần phải tuân thủ nguyên tắc",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn dưới ánh sáng của đèn để dễ dàng so sánh"
+        },
+        {
+          "label": "B",
+          "text": "Làm ướt răng mẫu"
+        },
+        {
+          "label": "C",
+          "text": "Cần so màu với các răng mang PHCĐ"
+        },
+        {
+          "label": "D",
+          "text": "So màu tỉ mỉ càng lâu càng tốt để chọn màu phù hợp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 126,
+      "question": "Khi thử răng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cần kiểm tra trên giá khớp"
+        },
+        {
+          "label": "B",
+          "text": "Đánh giá về thẩm mỹ"
+        },
+        {
+          "label": "C",
+          "text": "Kiểm tra về chức năng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 127,
+      "question": "Ưu điểm của răng nhựa là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít mòn theo thời gian"
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ tốt trong nền nhựa của hàm PHỤC HÌNH THÁO LẮP BH"
+        },
+        {
+          "label": "C",
+          "text": "Không đổi màu theo thời gian sử dụng"
+        },
+        {
+          "label": "D",
+          "text": "Màu sắc giống răng thật"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 128,
+      "question": "“Hình dạng các răng cửa giữa trên có liên hệ với thể trạng bệnh nhân” là câu nói của ai?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Williams"
+        },
+        {
+          "label": "B",
+          "text": "Kretschmer"
+        },
+        {
+          "label": "C",
+          "text": "Wodrach"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 129,
+      "question": "Ở hàm trên:\n(1) RCN I: đỉnh múi ngoài chạm mặt phẳng nhai, đỉnh múi trong không chạm\n(2) RCN II: cả 2 múi đều không chạm mặt phẳng nhai\n(3) RCL I: các múi đều chạm mặt phẳng nhai\n(4) RCL II: không múi nào chạm mặt phẳng nhai",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1), (2): đúng; (3), (4): sai"
+        },
+        {
+          "label": "B",
+          "text": "(1), (2): sai; (3), (4): đúng"
+        },
+        {
+          "label": "C",
+          "text": "(1), (4): đúng; (2), (3): sai"
+        },
+        {
+          "label": "D",
+          "text": "(1), (3): sai; (2), (4): đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 130,
+      "question": "ưu điểm răng sứ, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít mòn theo thời gian"
+        },
+        {
+          "label": "B",
+          "text": "Ít đổi màu theo thời gian"
+        },
+        {
+          "label": "C",
+          "text": "Không có tiếng chạm khi ăn nhai"
+        },
+        {
+          "label": "D",
+          "text": "Cứng chắc, sức nhai tốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 131,
+      "question": "Ưu điểm của răng sứ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít giòn"
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ tốt"
+        },
+        {
+          "label": "C",
+          "text": "Ít mòn"
+        },
+        {
+          "label": "D",
+          "text": "Dễ mài"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 132,
+      "question": "Theo Lee, chiều rộng răng cửa giữa trên là bao nhiêu nếu ta đo được khoảng cách giữa hai cánh mũi bệnh nhân là 4 cm",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 cm"
+        },
+        {
+          "label": "B",
+          "text": "1 cm"
+        },
+        {
+          "label": "C",
+          "text": "2 cm"
+        },
+        {
+          "label": "D",
+          "text": "4 cm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 133,
+      "question": "Số ý đúng khi nói về ưu điểm của răng sứ\n1 Ít mòn theo thời gian\n2 Có cơ chế lưu giúp tăng lưu giữ trong nền hàm\n3 Không đổi màu theo thời gian\n4 Không mòn\n5 Dễ mài\n6 Màu sắc, độ trong, bóng giống răng thật\n7 Cứng, bèn nên đem lại sức nhai tốt\n8 Không giòn\n9 Không tiếng va chạm khi ăn nhai",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 134,
+      "question": "Những tiêu chí cần chú ý khi chọn răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn màu sắc là chính"
+        },
+        {
+          "label": "B",
+          "text": "Chọn hình dáng là chính"
+        },
+        {
+          "label": "C",
+          "text": "Chọn kích thước là chính"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 135,
+      "question": "Ưu điểm của răng nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ mài chỉnh"
+        },
+        {
+          "label": "B",
+          "text": "Không có tiếng va chạm khi ăn nhai"
+        },
+        {
+          "label": "C",
+          "text": "Không giòn"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 136,
+      "question": "Ưu điểm của răng sứ, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ mài"
+        },
+        {
+          "label": "B",
+          "text": "Đem lại sức nhai tốt"
+        },
+        {
+          "label": "C",
+          "text": "Không giòn"
+        },
+        {
+          "label": "D",
+          "text": "Không tiếng va chạm khi ăn nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 137,
+      "question": "Chọn câu đúng khi nói về việc chọn màu răng giả:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn màu theo yêu cầu của bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Soi màu răng dưới ánh đèn càng sáng càng tốt"
+        },
+        {
+          "label": "C",
+          "text": "Nên làm ướt răng mẫu"
+        },
+        {
+          "label": "D",
+          "text": "Nên chọn màu răng giống với màu răng PHCĐ của bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 138,
+      "question": "Chọn câu đúng khi nói về việc sắp răng trước:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chức năng phát âm phải được ưu tiên nhất"
+        },
+        {
+          "label": "B",
+          "text": "Trong trường hợp khoảng mất răng lớn thì có thể sắp răng tạo khe hở được"
+        },
+        {
+          "label": "C",
+          "text": "Trong trường hợp khoảng mất răng không đủ chỗ có thể sắp chồng lên nhau"
+        },
+        {
+          "label": "D",
+          "text": "Trong trường hợp khoảng mất răng không đủ chỗ có thể sắp một răng cửa giữa trên hẹp hơn răng cửa giữa kế nó"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 139,
+      "question": "Chọn câu đúng khi thử răng ở hàm PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kiểm tra đường giữa có đúng không"
+        },
+        {
+          "label": "B",
+          "text": "Kiểm tra chức năng phát âm"
+        },
+        {
+          "label": "C",
+          "text": "Các tiếp xúc cắn khớp trong miệng có thể không cần hoàn toàn giống trên như trên giá khớp"
+        },
+        {
+          "label": "D",
+          "text": "Có thể chỉnh sửa hoàn toàn theo yêu cầu của bệnh nhân để họ hài lòng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 140,
+      "question": "Eisenring là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vùng có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc"
+        },
+        {
+          "label": "B",
+          "text": "Vùng có biểu mô dày, không có lớp dưới niêm mạc"
+        },
+        {
+          "label": "C",
+          "text": "Vùng ngách lợi mở rộng sát lồi cùng"
+        },
+        {
+          "label": "D",
+          "text": "Vùng ngách đáy hành lang sát gối hậu nha"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 141,
+      "question": "Phát biểu đúng về việc sắp răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng 11 nghiên 0° -5° theo mặt phẳng trán và có thể nằm ngoài sống hàm để ưu tiên thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Răng 22 và răng 42 có trục răng nghiêng về phía xa theo mặt phẳng trán và cách mặt phẳng nhai 1 mm"
+        },
+        {
+          "label": "C",
+          "text": "Sắp răng cối nhỏ thứ nhất có đỉnh ngoài chạm mặt phẳng nhai và đỉnh múi trong cách 2mm"
+        },
+        {
+          "label": "D",
+          "text": "Các răng trước hàm dưới phải được sắp đúng trên sườn ngoài của sống hàm mất răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 142,
+      "question": "Tại sao lại phải thoa vernis trên mặt thạch cao trong khi khuôn còn nóng nhưng đã kết thúc bốc hơi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dùng để cách ly giữa thách cao và sáp"
+        },
+        {
+          "label": "B",
+          "text": "Dùng để cách ly giữa thạch cao và nhựa"
+        },
+        {
+          "label": "C",
+          "text": "Dùng để cách ly giữa thạch cao và thạch cao"
+        },
+        {
+          "label": "D",
+          "text": "Dùng để cách ly giữa răng giả và thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 143,
+      "question": "Trục giữa hai sống hàm khi sắp các răng sau là, chọn đáp án đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nếu trục giữa 2 sống hàm là 700 và 600 thì sắp răng trong diện tích chịu lực"
+        },
+        {
+          "label": "B",
+          "text": "Nếu trục giữa 2 sống hàm là trên 70° thì sắp răng theo khớp cắn ngược"
+        },
+        {
+          "label": "C",
+          "text": "Nếu trục giữa 2 sống hàm là trên 90° thì sắp răng trên sống hàm"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 144,
+      "question": "khi sắp các răng trước hàm trên mặt phẳng dọc giữa Răng 1/1 cổ răng nghiêng vào trong bao nhiêu độ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trục N-T: 10°"
+        },
+        {
+          "label": "B",
+          "text": "Trục N-T: 50"
+        },
+        {
+          "label": "C",
+          "text": "Trục N-T: 5-7°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 145,
+      "question": "theo Kretschmer, người thấp, mập, vai hẹp có hình dạng răng cửa giữa trên là :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng hình chữ nhật, cao"
+        },
+        {
+          "label": "B",
+          "text": "Răng nhỏ, hình tam giác"
+        },
+        {
+          "label": "C",
+          "text": "Răng hình bầu dục, cao"
+        },
+        {
+          "label": "D",
+          "text": "Răng hình bầu dục, thấp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 146,
+      "question": "đường pound là :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đường thẳng nối từ mặt gần răng nanh tới bờ trong gối hậu nha"
+        },
+        {
+          "label": "B",
+          "text": "Đường cong bù trừ nằm trên mặt phẳng nhai được xác định trên lâm sàng"
+        },
+        {
+          "label": "C",
+          "text": "Đường cong có được do các răng nghiêng về phía lưỡi tăng dần từ trước ra sau"
+        },
+        {
+          "label": "D",
+          "text": "Đường thẳng nối từ mặt gần răng nanh tới bờ ngoài gối hậu nha"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 147,
+      "question": "Chọn câu đúng. Khi sắp các răng sau trên, theo mặt phẳng ngang thì :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng cối nhỏ thứ nhất : đỉnh múi ngoài không chạm mặt phẳng nhai, đỉnh múi trong chạm"
+        },
+        {
+          "label": "B",
+          "text": "Răng cối nhỏ thứ hai: cả hai múi đều không chạm mặt phẳng nhai"
+        },
+        {
+          "label": "C",
+          "text": "Răng cối thứ nhất : đỉnh múi gần -trong chạm mặt phẳng nhai. Các múi khác không chạm"
+        },
+        {
+          "label": "D",
+          "text": "Răng cối thứ hai: các múi đều chạm mặt phẳng nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 148,
+      "question": "Chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều rộng 4 răng trước trên bằng khoảng cách giữa hai khóe miệng"
+        },
+        {
+          "label": "B",
+          "text": "Chiều cao răng trước hàm trên giới hạn bởi khoảng cách giữa cạnh cắn và cổ răng"
+        },
+        {
+          "label": "C",
+          "text": "Khi bệnh nhân ngậm miệng ở trạng thái thư giãn cơ, cạnh cắn răng cửa giữa trên cách bờ tự do môi trên khoảng 1mm"
+        },
+        {
+          "label": "D",
+          "text": "a, c sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 149,
+      "question": "Chọn hình thể răng sau dựa vào, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình thể của các răng còn lại"
+        },
+        {
+          "label": "B",
+          "text": "Độ nghiêng của quỹ đạo lồi chùy"
+        },
+        {
+          "label": "C",
+          "text": "Tuổi của bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Tính tình bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 150,
+      "question": "câu đúng khi sắp răng 14:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Múi trong không chạm mặt phẳng nhai, cách 1mm"
+        },
+        {
+          "label": "B",
+          "text": "Múi ngoài không chạm mặt phẳng nhai, cách 1mm"
+        },
+        {
+          "label": "C",
+          "text": "Đỉnh múi trong nằm trên sống hàm hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Đỉnh múi ngoài nằm trên sống hàm hàm dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 151,
+      "question": "các răng sau được lên tùy theo:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuổi tác"
+        },
+        {
+          "label": "B",
+          "text": "Mức độ tiêu xương"
+        },
+        {
+          "label": "C",
+          "text": "Tương quan hai hàm"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 152,
+      "question": "có bao nhiêu nhóm kỹ thuật lên răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 153,
+      "question": "Xác định chiều gần - xa của nhóm 4 răng sau sao cho :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt xa răng 7 không đi vượt quá gối hậu nha hay lồi cùng hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Mặt xa răng 7 qua 1mm so với gối hậu nha hay lồi cùng hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Mặt xa răng 6 không đi vượt quá gối hậu nha hay lồi cùng hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Mặt xa răng 6 qua 1mm so với gối hậu nha hay lồi cùng hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 154,
+      "question": "Xác định Chiều gần - xa của nhóm 4 răng sau bằng cách:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xác định khoảng cách giữa mặt xa răng 3 hàm dưới và giới hạn phía trước của gối hậu nha ."
+        },
+        {
+          "label": "B",
+          "text": "Xác định khoảng cách giữa mặt xa răng 3 hàm dưới và giới hạn phía sau của gối hậu nha ."
+        },
+        {
+          "label": "C",
+          "text": "Xác định khoảng cách giữa mặt gần răng 3 hàm dưới và giới hạn phía trước của gối hậu nha ."
+        },
+        {
+          "label": "D",
+          "text": "Xác định khoảng cách giữa mặt gần răng 3 hàm dưới và giới hạn phía sau của gối hậu nha ."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 155,
+      "question": "Hình dáng mặt nhai của răng giả chia thành mấy nhóm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 156,
+      "question": "Lựa chọn kỹ thuật lên răng dựa vào mấy yếu tố?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 157,
+      "question": "Các yếu tố trong việc lựa chọn kỹ thuật lên răng :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cơ học."
+        },
+        {
+          "label": "B",
+          "text": "Động học."
+        },
+        {
+          "label": "C",
+          "text": "Tâm – sinh lý."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 158,
+      "question": "Kỹ thuật lên răng nào là sai ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kỹ thuật lên răng thông thường với các răng giải phẫu."
+        },
+        {
+          "label": "B",
+          "text": "Các kỹ thuật lên răng khác với các răng giải phẫu."
+        },
+        {
+          "label": "C",
+          "text": "Kỹ thuật lên răng của Sears với các răng chức năng, không giải phẫu."
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 159,
+      "question": "Dựa theo hình dáng mặt nhai, răng giả được chia thành các nhóm nào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giải phẫu với các múi răng"
+        },
+        {
+          "label": "B",
+          "text": "Răng chức năng không có múi răng"
+        },
+        {
+          "label": "C",
+          "text": "A và B sai"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 160,
+      "question": "Sự lựa chọn hình dạng mặt nhai tùy thuộc vào các yếu tố, NGOẠI TRỪ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuổi"
+        },
+        {
+          "label": "B",
+          "text": "Tình trạng mô tựa hàm giả"
+        },
+        {
+          "label": "C",
+          "text": "Hình dạng khuôn mặt"
+        },
+        {
+          "label": "D",
+          "text": "Hình dạng khớp thái Dương hàm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 161,
+      "question": "Chọn phát biểu sai về chọn màu sắc của răng sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phải hài hòa với các răng trước."
+        },
+        {
+          "label": "B",
+          "text": "Răng 4 có màu tương tự răng 1, ít độ bão hòa hơn răng 3."
+        },
+        {
+          "label": "C",
+          "text": "Răng cối có màu sắc quan trọng do nhìn thấy"
+        },
+        {
+          "label": "D",
+          "text": "Răng 5 có màu tương tự răng 4, có thể tăng độ bão hòa một chút."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 162,
+      "question": "Khi chọn răng sau, răng nào cần phải có chiều cao mặt ngoài hài hòa với nhóm răng trước vì nhìn thấy khi mỉm cười:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng 4"
+        },
+        {
+          "label": "B",
+          "text": "Răng 5"
+        },
+        {
+          "label": "C",
+          "text": "Răng 6"
+        },
+        {
+          "label": "D",
+          "text": "Răng 7"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 163,
+      "question": "Có mấy phương pháp xác định chiều gần – xa của nhóm 4 răng sau để mặt xa răng 7 không đi vượt quá gối hậu nha hay lồi cùng hàm trên?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 164,
+      "question": "Xác định chiều rộng ngoài trong của các răng sau phụ thuộc vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dạng khuôn mặt"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước các răng trước"
+        },
+        {
+          "label": "C",
+          "text": "Hình dáng sống hàm còn lại"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 165,
+      "question": "Ưu điểm của răng sứ so với răng nhựa, NGOẠI TRỪ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nghiền thức ăn tốt"
+        },
+        {
+          "label": "B",
+          "text": "Không mòn nên giữ kích thước dọc."
+        },
+        {
+          "label": "C",
+          "text": "Không gây tiếng động khi ăn nhai"
+        },
+        {
+          "label": "D",
+          "text": "Thẫm mỹ hơn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 166,
+      "question": "Thứ tự sắp xếp răng sau hàm trên:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3→4 5→6"
+        },
+        {
+          "label": "B",
+          "text": "4→5 6→7"
+        },
+        {
+          "label": "C",
+          "text": "5→4 7→6"
+        },
+        {
+          "label": "D",
+          "text": "4→3 6→5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 167,
+      "question": "Thứ tự sắp xếp răng sau hàm dưới:",
+      "options": [
+        {
+          "label": "A",
+          "text": "4→5→6→7"
+        },
+        {
+          "label": "B",
+          "text": "5→4→6→7"
+        },
+        {
+          "label": "C",
+          "text": "6→7→5→4"
+        },
+        {
+          "label": "D",
+          "text": "7→6→5→4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 168,
+      "question": "Khi thiếu chỗ sắp răng, thường có thể bỏ răng nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng 4 trên dưới"
+        },
+        {
+          "label": "B",
+          "text": "Răng 5 trên dưới"
+        },
+        {
+          "label": "C",
+          "text": "Răng 6 trên dưới"
+        },
+        {
+          "label": "D",
+          "text": "Răng 7 trên dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 169,
+      "question": "Sắp răng 4 trên theo chiều ngoài trong:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nằm dưới sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Đỉnh múi ngoài nằm trên sống hàm dưới"
+        },
+        {
+          "label": "C",
+          "text": "Đỉnh múi trong nằm trên sống hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Múi ngoài chạm mặt phẳng nhai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 170,
+      "question": "Sắp răng 6,7 dưới theo chiều gần xa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đỉnh ngoài gần răng 6 trên nằm trên rãnh ngoài gần răng 5 dưới"
+        },
+        {
+          "label": "B",
+          "text": "Nằm giữa răng 5 và răng hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Khoảng trống của răng 4 dưới có thể bị thu hẹp"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 171,
+      "question": "Thời gian so màu hợp lí là trong khoảng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5-10 giây"
+        },
+        {
+          "label": "B",
+          "text": "10-15 giây"
+        },
+        {
+          "label": "C",
+          "text": "15-20 giây"
+        },
+        {
+          "label": "D",
+          "text": "20-25 giây"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 172,
+      "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cấu trúc xương mặt"
+        },
+        {
+          "label": "B",
+          "text": "Giới tính"
+        },
+        {
+          "label": "C",
+          "text": "Loại thể chất"
+        },
+        {
+          "label": "D",
+          "text": "Điều kiện kinh tế"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 173,
+      "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giới tính"
+        },
+        {
+          "label": "B",
+          "text": "Tính tình"
+        },
+        {
+          "label": "C",
+          "text": "Tuổi"
+        },
+        {
+          "label": "D",
+          "text": "Sở thích"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 174,
+      "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giới tính"
+        },
+        {
+          "label": "B",
+          "text": "Cấu trúc xương mặt"
+        },
+        {
+          "label": "C",
+          "text": "Tuổi tác"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 175,
+      "question": "Hình bầu dục, hơi vuông của răng cửa giữa hàm trên ở loại người nào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cơ bắp"
+        },
+        {
+          "label": "B",
+          "text": "Trí não"
+        },
+        {
+          "label": "C",
+          "text": "Tiêu hóa"
+        },
+        {
+          "label": "D",
+          "text": "Tâm lý không ổn định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 176,
+      "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào bao nhiêu loại khuôn mặt:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 177,
+      "question": "Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vẻ mềm mại"
+        },
+        {
+          "label": "B",
+          "text": "Bờ tự do mỏng"
+        },
+        {
+          "label": "C",
+          "text": "Góc gần và xa tròn"
+        },
+        {
+          "label": "D",
+          "text": "Gồ ghề"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 178,
+      "question": "Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Góc gần và góc xa vuông"
+        },
+        {
+          "label": "B",
+          "text": "Vẻ mềm mại"
+        },
+        {
+          "label": "C",
+          "text": "Bờ tự do mỏng"
+        },
+        {
+          "label": "D",
+          "text": "Cong"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 179,
+      "question": "Hình dáng răng cửa giữa hàm trên so với hình dáng khuôn mặt:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cùng chiều"
+        },
+        {
+          "label": "B",
+          "text": "Ngược chiều"
+        },
+        {
+          "label": "C",
+          "text": "Không liên quan"
+        },
+        {
+          "label": "D",
+          "text": "Góc 90 độ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 180,
+      "question": "Phát biểu sai với hình dạng răng cửa giữa hàm trên ở người lớn tuổi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng thấp"
+        },
+        {
+          "label": "B",
+          "text": "Bờ mỏng"
+        },
+        {
+          "label": "C",
+          "text": "Tiếp điểm rộng"
+        },
+        {
+          "label": "D",
+          "text": "Cả A, B, C"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 181,
+      "question": "Phát biểu sai với hình dạng răng cửa bên hàm trên ở người có tính mạnh mẽ, chất phác?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thô"
+        },
+        {
+          "label": "B",
+          "text": "Góc cạnh nhiều"
+        },
+        {
+          "label": "C",
+          "text": "Được mài mòn"
+        },
+        {
+          "label": "D",
+          "text": "Cả A, B, C"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 182,
+      "question": "Hình dạng răng nanh hàm trên ở người tham vọng là?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mỏng, ít nhọn"
+        },
+        {
+          "label": "B",
+          "text": "Nhọn, sắc"
+        },
+        {
+          "label": "C",
+          "text": "Dày, ít nhọn"
+        },
+        {
+          "label": "D",
+          "text": "Dày, nhọn nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 183,
+      "question": "Mục tiêu cơ bản của việc chọn răng trước là đạt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Chức năng"
+        },
+        {
+          "label": "C",
+          "text": "Phát âm"
+        },
+        {
+          "label": "D",
+          "text": "Cả A, B, C"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 184,
+      "question": "Chọn ý sai trong việc lựa chọn răng cửa giữa hàm trên với giới tính nữ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình dạng cong"
+        },
+        {
+          "label": "B",
+          "text": "Mềm mại"
+        },
+        {
+          "label": "C",
+          "text": "Bờ tự do dày"
+        },
+        {
+          "label": "D",
+          "text": "Góc gần và xa tròn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 185,
+      "question": "Những tiêu chí cần lưu ý khi chọn răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn màu sắc là chính"
+        },
+        {
+          "label": "B",
+          "text": "Chọn hình dáng là chính"
+        },
+        {
+          "label": "C",
+          "text": "Chọn kích thước là chính"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 186,
+      "question": "Những ưu điểm của răng nhựa so với răng sứ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bền màu"
+        },
+        {
+          "label": "B",
+          "text": "Sạch sẽ"
+        },
+        {
+          "label": "C",
+          "text": "Lưu giữ với nền hàm tốt"
+        },
+        {
+          "label": "D",
+          "text": "Màu sắc tự nhiên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 187,
+      "question": "Những ưu điểm của răng sứ so với răng nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ lên răng"
+        },
+        {
+          "label": "B",
+          "text": "Dễ chỉnh khớp"
+        },
+        {
+          "label": "C",
+          "text": "Màu sắc tự nhiên"
+        },
+        {
+          "label": "D",
+          "text": "Lưu giữ với nền hàm tốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 188,
+      "question": "Chọn câu đúng. Chỉ số LEE:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chiều rộng răng cửa giữa trên bằng khoảng cách giữa hai cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "chiều rộng của răng cửa giữa trên lớn hơn tổng chiều rộng của răng cửa bên và chiều rộng của răng nanh trên"
+        },
+        {
+          "label": "C",
+          "text": "A,B sai"
+        },
+        {
+          "label": "D",
+          "text": "A,B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 189,
+      "question": "Có bao nhiêu nguyên tắc chọn màu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 190,
+      "question": "Hãy chọn phát biểu đúng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng cách từ mặt ngoài của răng cửa giữa tới giữa gai cửa là 8mm"
+        },
+        {
+          "label": "B",
+          "text": "Theo BERRY: chiều cao mặt/chiều cao của răng cửa trên=30/1"
+        },
+        {
+          "label": "C",
+          "text": "Răng giải phẫu có độ nghiêng của múi răng là 20 độ"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước của răng nanh theo chiều ngoài trong là 8 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 191,
+      "question": "Hãy chọn phát biểu đúng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sắp các răng sau ưu tiên tới thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Sắp các răng trước ưu tiên tới chức năng nhai"
+        },
+        {
+          "label": "C",
+          "text": "khi sắp các răng trước hàm trên không được sắp ngoài sống hàm"
+        },
+        {
+          "label": "D",
+          "text": "Diện tích chịu lực của hàm trên nằm giữa đường răng cửa và đường răng nanh"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 192,
+      "question": "Khi làm sáp nướu, nướu viền rộng khoảng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,0 mm"
+        },
+        {
+          "label": "B",
+          "text": "1,5 mm"
+        },
+        {
+          "label": "C",
+          "text": "2,0 mm"
+        },
+        {
+          "label": "D",
+          "text": "2,5 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}

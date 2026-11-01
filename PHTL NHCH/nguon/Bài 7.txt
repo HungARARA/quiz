@@ -1,0 +1,689 @@
+# Bài 7. Các giai đoạn thực hiện phục hình tháo lắp bán hàm trong labo
+
+Câu 1. Khi vô khuôn phục hình tháo lắp bán hàm nền nhựa
+A. Nếu để hở móc thì răng trụ phải giữ nguyên.
+B. Cần phải dán mép nền sáp chặt vào mẫu hàm để thạch cao vô khuôn không chui xuống dưới lớp sáp.
+C. Cần ngâm nước mẫu hàm trước khi vô khuôn.
+*D. Câu A và B đúng.
+
+Câu 2. Muốn vô khuôn 3 lớp, phần trên của khuôn được đổ thạch cao cứng đến mặt nhai các răng, sau đó mới đổ đầy khuôn:
+A. Để lúc đội sáp không bị bể thạch cao.
+B. Để gỡ múp dễ dàng lấy được nguyên vẹn mẫu hàm.
+C. Để khuôn được chính xác và răng giả không bị rơi ra trong khi dội sáp.
+*D. Tất cả đều đúng.
+
+Câu 3. Khi dội sáp, ta cần ngâm khuôn vào nước sôi trong:
+*A. 5 - 10 phút.
+B. 10 - 20 phút.
+C. 30 phút.
+D. 2 phút.
+
+Câu 4. Sau khi dội sáp, vernis được thoa lúc:
+*A. Khuôn còn đang nóng.
+B. Sau khi dội sáp 5 phút.
+C. Sau khi dội sáp 10phút.
+D. Sau khi dội sáp 7 phút.
+
+Câu 5. Cách nấu nhựa theo phương pháp nấu chậm là:
+*A. Cho khuôn vào nước lạnh, đưa nhiệt độ nước lên từ nhiệt độ phòng đến 74 độ C và giữ nhiệt độ này trong 9 giờ.
+B. Đặt khuôn vào nưóc lạnh đưa nhiệt độ lên 212°F và giữ nhiệt độ nay trong 11 giờ.
+C. Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165°F và giữ trong 1 giờ 30 phút.
+D. Đặt khuôn vào nước lạnh, và đưa nhiệt độ lên từ từ 100°c, và giữ ởnhiệt độ này trong 2 giờ.
+
+Câu 6. Đúc xuyên đế mẫu hàm:
+A. Ưu điểm hơn đúc từ phía trên mẫu hàm.
+B. Bất lợi hơn đúc từ phía trên mẫu hàm.
+C. Kim đúc ngắn hơn.
+*D. A và C đúng.
+
+Câu 7. Khi làm cứng mẫu hàm bột bao, nếu nhiệt độ sấy là 150°C- 200°C trong 15 phút, Khi sấy đúng mẫu hàm sẽ có màu
+A. Mẫu hàm màu đen.
+*B. Mẫu hàm màu nâu sáng.
+C. Mẫu hàm màu vàng
+D. Tất cả đều sai.
+
+Câu 8. Khung đúc ra không chính xác khi
+A. Kim đúc ngắn.
+*B. Kim đúc dài.
+C. Kim đi theo đường vòng cung nhẹ.
+D. Câu B và C đúng
+
+Câu 9. Đắp sáp dưới yên phục hình
+*A. Theo đường vẽ yên trên mẫu hàm làm việc.
+B. Theo đường vẽ yên trên mẫu hàm bột bao
+C. Lớp sáp dày 2 mm.
+D. a và c đúng.
+
+Câu 10. Đắp sáp dưới thanh lưỡi:
+*A. Để thanh lưỡi không ép lên niêm mạc bên dưới gây đau.
+B. Để loại bỏ vùng vướng.
+C. Độ dày sáp đắp là 0,25 mm khi triền sống hàm phía lưỡi không quá dốc.
+D. Tất cả đều đúng
+
+Câu 11. Để thạch cao không chui xuống dưới lớp sáp khi vô khuôn
+A. Ngâm mẫu hàm cho ướt
+*B. Dán mép nền sáp vào mẫu thạch cao.
+C. Cách ly bằng vaselin
+D. Tất cả đều đúng
+
+Câu 12. Khi vô khuôn ta thoa vaselin lên bề mặt thạch cao có tác dụng
+A. Cách ly thạch cao với thạch cao
+B. Cách ly răng và thạch cao
+*C. Cách ly thạch cao với khuôn.
+D. Tất cả đều đúng
+
+Câu 13. Thời gian và nhiệt độ của nấu nhựa theo cách chậm
+A. Nấu từ nước nguội đến 74° trong 9 giờ
+B. Nấu ở 100° trong 30 phút
+*C. Cả 2 câu đều đúng.
+D. Cả 2 câu đều sai
+
+Câu 14. Thoa vernis có tác dụng
+A. Không cho sáp dính vào thạch cao
+B. Không cho thạch cao dính vào răng
+*C. Không cho thạch cao dính vào nhựa ép.
+D. Không cho nhựa dính vào răng
+
+Câu 15. Tripolo có tác dụng
+A. Loại bỏ thạch cao dính trên hàm nhựa
+B. Làm nhẵn mịn hàm nhựa
+*C. Đánh bóng hàm nhựa.
+D. Tất cả đều đúng
+
+Câu 16. Sau khi dội sáp, vernis được thoa lúc:
+A. Khuôn còn đang nóng và đang bốc hơi nước
+*B. Khuôn còn đang nóng và bốc hết hơi nước.
+C. Ngay khi dội sạch sáp
+D. Khi khuôn nguội hoàn toàn
+
+Câu 17. Tổng thời gian cần thiết để nấu nhựa theo phương pháp nấu nhanh:
+A. 1 giờ
+B. 1giờ 30 phút
+*C. 2 giờ.
+D. 9 giờ 30 phút
+
+Câu 18. Thứ tự làm nguội hàm nhựa :
+*A. Mài bỏ nhựa thừa, mài nhẵn nền hàm, đánh giấy nhám, đánh bóng.
+B. Mài bỏ nhựa thừa, đánh giấy nhám làm nhẵn nền hàm, mài mịn hàm, đánh bóng.
+C. Đánh giấy nhám nền hàm, mài mịn hàm giả, làm sạch kẽ răng, đánh bóng bằng Tripoli.
+D. Mài nhẵn nền hàm, mài sạch kẽ răng, đánh giấy nhám, đánh bóng.
+
+Câu 19. Bước nào sau đây không thực hiện trong Labo
+A. Đổ mẫu tham khảo
+*B. Lấy dấu sau cùng.
+C. Làm khay cá nhân
+D. Làm nền tạm gối sáp
+
+Câu 20. Yêu cầu khi cho mẫu hàm vào khuôn ép:CHỌN CÂU ĐÚNG
+A. Bôi vernis lên mẫu hàm và lên khuôn
+B. Giữ cho mẫu hàm được khô ráo khi vào khuôn
+*C. Mặt nhai các răng cách đều bờ khuôn 5-6 mm.
+D. Dùng sáp đắp lẹm các răng
+
+Câu 21. Thời điểm điểm cho nhựa vào khuôn ép
+A. Ngay sau khi bộ nhựa được thấm đều với nước
+B. Khi nhựa còn lỏng, dễ dàng chảy vào khuôn ép
+C. Khi nhựa còn dẻo và còn dính được vào thành chén trộn
+*D. Khi sợi kéo sợi, có thể nhồi bằng tay.
+
+Câu 22. Thời điểm gỡ khuôn ép tốt nhất là
+A. Ngay khi khuôn còn nóng
+B. Khi khuôn còn ấm
+*C. Khi khuôn đã nguội hoàn toàn.
+D. Tất cả đều sai
+
+Câu 23. Thứ tự thực hiện một phục hình tháo lắp bán hàm nền nhựa trong labo
+A. Làm khay cá nhân, đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng.
+*B. Làm khay cá nhân, nền tạm gối sáp, lên răng, ép nhựa.
+C. Đổ mẫu nghiên cứu, làm khay cá nhân, lên răng, ép nhựa.
+D. Đổ mẫu nghiên cứu, nền tạm gối sáp, lên răng, ép nhựa
+
+Câu 24. Thông thường khuôn ép bán hàm nền nhựa gồm
+A. 2 phần.
+*B. 3 phần.
+C. 4 phần.
+D. 5 phần.
+
+Câu 25. Khuôn ép gồm các thành phần
+*A. Phần đáy khuôn, phần trên khuôn, nắp khuôn.
+B. Phần đáy khuôn, phần giữa khuôn, phần trên khuôn.
+C. Phần đáy khuôn, phần thân khuôn, nắp khuôn.
+D. Phần thân khuôn, phần giữa khuôn, nắp khuôn.
+
+Câu 26. Khi vào khuôn, mẫu hàm cần cách bờ khuônkhoảng
+*A. 0,5 cm.
+B. 1 cm
+C. 1,5 cm
+D. 2 cm
+
+Câu 27. Khi vào phần trên khuôn, lớp Vaseline bôi vào bề mặt thạch cao có tác dụng
+*A. Cách ly thạch cao với thạch cao.
+B. Cách ly răng và thạch cao
+C. Cách ly thạch cao với khuôn
+D. Tất cả đều đúng
+
+Câu 28. Khi vào phần đáy khuôn, nếu thạch cao được đổ phủ móc thì khi gỡ
+A. Răng giả và móc nằm cùng 1 phần của khuôn
+*B. Răng giả và móc nằm về 2 phần khác nhau của khuôn.
+C. Móc và răng giả sẽ dính với nhau
+D. A và C đúng
+
+Câu 29. Khi vào phần đáy khuôn, nếu không đổ thạch cao phủ móc thì
+*A. Răng giả và móc nằm cùng 1 phần của khuôn.
+B. Răng giả và móc nằm về 2 phần khác nhau của khuôn
+C. Móc và răng giả sẽ dính với nhau
+D. A và C đúng
+
+Câu 30. Trình tự dội sáp
+A. Ngâm khuôn vào nước sôi, tách 2 phần khuôn, dội sạch sáp, lấy lớp sáp dư.
+*B. Ngâm khuôn vào nước sôi, tách 2 phần khuôn, lấy lớp sáp dư, dội sạch sáp.
+C. Tách 2 phần khuôn, ngâm khuôn vào nước sôi, dội sạch sáp, lấy lớp sáp dư.
+D. Tách 2 phần khuôn, ngâm khuôn vào nước sôi, lấy lớp sáp dư, dội sạch sáp.
+
+Câu 31. Cách thoa vernis
+*A. Bôi lên phần thạch cao quanh răng 2 -3 lớp.
+B. Bôi lên răng phía mặt nhai.
+C. Bôi 1 lớp mỏng lên thạch cao và răng.
+D. Tất cả đều đúng.
+
+Câu 32. Tác dụng Vernis
+A. Không cho thạch cao dính vào nhựa.
+B. Giúp bề mặt nhựa ép trơn láng.
+C. Giúp cách ly răng và nhựa ép.
+*D. A và B đúng.
+
+Câu 33. Điều kiện quan trọng trước khi tiến hành ép nhựa
+A. Thực hiện ép nhựa khi khuôn còn nóng và bốc hết hơi nước.
+B. Thực hiện ép nhựa khi khuôn còn ấm và còn hơi nước trên bề mặt.
+C. Thực hiện ép nhựa khi khuôn còn ấm và bốc hết hơi nước.
+*D. Thực hiện ép nhựa khi khuôn đã nguội hoàn toàn.
+
+Câu 34. Nguyên tắc trộn nhựa
+*A. Tuân thủ tỉ lệ bột nước do nhà sản xuất đưa ra.
+B. Cho lượng nước nhựa vào hủ trộn có sẵn nhựa đã được đong sẵn
+C. Mở nắp hủ trộn cho hơi của nước nhựa thoát ra ngoài
+D. A và B đúng
+
+Câu 35. Thời điểm nhựa nấu đã sẵn sàng để ép
+A. Khi nhựa ép vừa được trộn xong
+B. Khi nhựa còn dẻo và còn bám dính được trên thành hũ
+*C. Khi nhựa còn dẻo và không còn dính trên thành hũ.
+D. Câu A và B đúng
+
+Câu 36. Cách thao tác nhựa nấu
+A. Trộn nhựa bằng tay có mang găng tay vô khuẩn
+*B. Trộn nhựa bằng tay có lót giấy kính.
+C. Đặt nhựa vào khuôn và phủ 1 lớp giấy
+D. A và C đúng
+
+Câu 37. Thao tác càng ép nhựa
+A. Ép 2 phần của khuôn đúng khớp và dứt khoát tránh bọt khí
+B. Ép từ từ 2 phần của khuôn cho ăn khớp
+C. Khuôn được ép lại 1 lần nữa thật chặt trước khi đem đi nấu nhựa
+*D. B và C đúng.
+
+Câu 38. Khi đặt nhựa ép vào cả 2 phần của khuôn cần chú ý
+A. Xiết càng ép thật nhanh và chặt để tránh bọt khí.
+*B. Thoa nước nhựa lên cả 2 bề mặt trước khi đóng khuôn.
+C. Cho lượng nhựa ép nhiều hơn, sao cho tràn ra ngoài khuôn ép.
+D. Tất cả đều đúng.
+
+Câu 39. Thời gian cho phép từ lúc ép nhựa đến lúc nấu không được quá
+A. 15 phút
+*B. 30 phút.
+C. 45 phút
+D. 60 phút
+
+Câu 40. Cách nấu giữ nhiệt độ 165 độ F trong 1 giờ 30 phút là
+A. Giai đoạn đầu của cách nấu chậm
+B. Giai đoạn sau của cách nấu chậm
+*C. Giai đoạn đầu của cách nấu nhanh.
+D. Giai đoạn sau của cách nấu nhanh
+
+Câu 41. Cách nấu giữ nhiệt độ 74 độ C trong 9 giờ là
+*A. Giai đoạn đầu của cách nấu chậm.
+B. Giai đoạn sau của cách nấu chậm
+C. Giai đoạn đầu của cách nấu nhanh
+D. Giai đoạn sau của cách nấu nhanh
+
+Câu 42. Cách nấu giữ nhiệt độ 100 độ C trong 30 phút là
+A. Giai đoạn đầu của cách nấu chậm
+*B. Giai đoạn sau của cách nấu chậm.
+C. Giai đoạn đầu của cách nấu nhanh
+D. Tất cả đều sai
+
+Câu 43. Các gỡ mẫu hàm còn nguyên vẹn ra khỏi khuôn ép
+A. Đợi khuôn nguội hoàn toàn
+B. Dùng cưa cắt khối thạch cao theo chiều dày khối thạch cao ở 4 góc khuôn
+C. Lấy từng phần thạch cao xung quanh mẫu hàm
+*D. Tất cả đều đúng.
+
+Câu 44. Cách lấy hàm nhựa sau khi nấu ra khỏi mẫu hàm
+*A. Cưa nhỏ mẫu hàm làm nhiều mảnh.
+B. Dùng búa nhỏ gõ cho mẫu hàm bể dần ra.
+C. Dùng dao nhỏ tách theo khoảng tiếp giáp giữa mẫu hàm và hàm nhựa.
+D. Tất cả đều đúng.
+
+Câu 45. Vùng lẹm nào gây khó khăn khi gỡ mẫu hàm khỏi chất sao mẫu
+A. Vùng lẹm kẽ răng.
+B. Vùng lẹm bên dưới thanh nối phụ.
+C. Vùng sống hàm nhô ra phía trước.
+*D. Tất cả đều đúng.
+
+Câu 46. Sáp dưới yên được đắp tại vị trí
+@A. Tại những nơi yên phục hình kết hợp nhựa với kim loại.
+B. Tại những nơi đặt móc.
+C. Tại vùng cổ các răng.
+D. Tất cả đều đúng.
+> Sáp đệm dưới yên được đắp ở vùng yên mà nhựa bám vào khung kim loại (lưới yên), để chừa chỗ cho nhựa phủ dưới phần kim loại. Giáo trình 2021 không nêu riêng bước này.
+
+Câu 47. Đắp sáp dưới thanh lưỡi có tác dụng
+A. Tạo lực nén tốt lên niêm mạc.
+B. Tạo được lớp nhựa dưới thanh lưỡi sau khi ép nhựa
+*C. Tạo được khoảng cách giữa thanh lưỡi và niêm mạc.
+D. Câu B và C đều đúng.
+
+Câu 48. Khi hàm giả chịu lực nén, thanh lưỡi sẽ
+A. Làm loét niêm mạc dưới thanh lưỡi
+B. Tạo áp lực gây tổn thương niêm mạc
+*C. Không tác động lực lên niêm mạc.
+D. A và B đúng
+
+Câu 49. Để tránh tổn thương niêm mạc do thanh lưỡi gây ra ta phải
+A. Thiết kế bản lưỡi
+*B. Đắp sáp dưới thanh lưỡi.
+C. Ép một lớp nhựa dưới thanh lưỡi
+D. Tất cả đều đúng.
+
+Câu 50. Yêu cầu gắn phiễu đúc đối với hàm trên
+A. Phiễu nằm ngoài khẩu cái sau.
+*B. Không được quá sát bờ nền phục hình.
+C. Ấn mạnh khi gắn.
+D. A và B đều đúng.
+
+Câu 51. Yêu cầu gắn phiễu đúc đối với hàm trên
+A. Phiễu không được nằm ngoài khẩu cái sau
+B. Không được quá sát bờ nền phục hình
+C. Ấn mạnh khi gắn
+*D. A và B đều đúng.
+
+Câu 52. Yêu cầu gắn phiễu đúc đối với hàm trên
+*A. Phiễu không được nằm ngoài khẩu cái sau.
+B. Nằm ngay bờ nền phục hình
+C. Ấn mạnh khi gắn
+D. A và B đều đúng
+
+Câu 53. Yêu cầu gắn phiễu đúc đối với hàm dưới
+A. Phiễu đúc được đặt ngay đỉnh sống hàm
+B. Phiễu đúc được đặt tại chính giữa cung răng
+*C. Phiễu đúc được đặt ngay giữa mẫu hàm.
+D. Tất cả đều sai
+
+Câu 54. Mẫu hàm bột bao ẩm quá sẽ ảnh hưởng
+*A. Làm bề mặt mẫu hàm không chính xác.
+B. Bị bọt khí khi đúc
+C. Biến dạng khung đúc
+D. A và B đều đúng
+
+Câu 55. Khung đúc ra thiếu chính xác có thể do
+*A. Mẫu hàm bột bao không đủ cứng.
+B. Phác hoạ khung sườn không phù hợp
+C. A và B đúng
+D. A và B sai
+
+Câu 56. Mẫu hàm bột bao sẽ có màu nâu hoặc nâu sáng khi
+A. Mẫu hàm được nung ở 100 độ C trong 15 phút
+B. Mẫu hàm được nung ở 100 độ C trong 30 phút
+*C. Mẫu hàm được nung ở 200 độ C trong 15 phút.
+D. Mẫu hàm được nung ở 200 độ C trong 30 phút
+
+Câu 57. Để làm cứng mẫu hàm bột bao, chất làm cứng phải được nấu ở nhiệt độ
+A. 100 độ C
+*B. 150 độ C.
+C. 175 độ C
+D. 200 độ C
+
+Câu 58. Chất làm cứng được đun trong bao lâu
+A. 10 phút
+*B. 15 Phút.
+C. 30 phút
+D. 60 phút
+
+Câu 59. Yêu cầu về nhiệt độ khi nhúng mẫu hàm vào chất làm cứng
+*A. Nhiệt độ mẫu hàm phải cao hơn nhiệt độ chất làm cứng.
+B. Nhiệt độ mẫu hàm phải bằng nhiệt độ chất làm cứng
+C. Nhiệt độ mẫu hàm phải thấp hơn nhiệt độ chất làm cứng
+D. Câu A và B đúng
+
+Câu 60. Yêu cầu về nhiệt độ khi nhúng mẫu hàm vào chất làm cứng
+*A. Nhiệt độ mẫu hàm phải cao hơn nhiệt độ chất làm cứng 50 độ C.
+B. Nhiệt độ mẫu hàm phải bằng nhiệt độ chất làm cứng
+C. Nhiệt độ mẫu hàm phải thấp hơn nhiệt độ chất làm cứng 50 độ C
+D. Câu A và B đúng
+
+Câu 61. Dấu hiệu nhận biết mẫu hàm bột bao KHÔNG được sấy khô hoàn toàn
+A. Mẫu hàm có màu nâu sáng.
+*B. Hơi nước bốc trên bề mặt.
+C. Mẫu hàm có bề mặt trơn láng
+D. B và C đúng
+
+Câu 62. Điêu khắc sáp trên mẫu hàm bột bao
+A. Vẽ lại khung theo phác hoạ trên mẫu làm việc
+B. Ổ tựa mặt nhai được điêu khắc bằng sáp Inlay và nối với phần ôm
+C. Dán và nối các thành phần của hàm khung theo hình vẽ
+*D. Tất cả đều đúng.
+
+Câu 63. Khung đúc ra không sạch hoặc bị thiếu có thể do
+A. Thiết kế không phù hợp
+*B. Kim đúc gấp khúc.
+C. Mẫu hàm bột bao bị ẩm
+D. Tất cả đều đúng
+
+Câu 64. Yêu cầu cần thiết đối với kim đúc
+A. Tạo dòng chảy ngắn
+B. Giúp dòng chảy tới vật đúc dễ dàng
+C. Vị trí và kích thước kim đúc phù hợp
+*D. Tất cả đều đúng.
+
+Câu 65. Kim đúc được gắn với vật đúc sau cho
+*A. Hợp kim chảy từ phần dày đến phần mỏng.
+B. Hợp kim chảy từ phần mỏng đến phần dày
+C. Hợp kim chảy với lực ma sát lớn ở vách của kim đúc
+D. A và C đúng
+
+Câu 66. Các cách đặt phiễu đúc
+A. Phiễu đặt từ phía trên mẫu hàm
+B. Phiễu đặt từ dưới đế mẫu hàm
+C. Phiễu đặt ở tâm mẫu hàm
+*D. A và B đúng.
+
+Câu 67. Phễu đặt dưới đế mẫu hàm có ưu điểm
+A. Tạo con đường thẳng và dài nhất đến vật đúc
+B. Kim đúc tạo được lực ma sát lớn lên vách kim đúc
+*C. Kim đúc không bị gãy khi vô ống đúc.
+D. A và C đúng
+
+Câu 68. Phiễu đúc được tạo hình trong đến mẫu hàm thường gặp trong
+A. Phễu đúc đặt trên mẫu hàm
+*B. Phễu đúc đặt dưới mẫu hàm.
+C. Phiễu đúc đặt ở tâm mẫu hàm
+D. A và B đúng
+
+Câu 69. Đúc xuyên đế mẫu hàm sẽ thuận lợi hơn đối với
+A. Hàm trên
+*B. Hàm dưới.
+C. Cả 2 hàm như nhau
+D. Tất cả đều sai
+
+Câu 70. Những nơi có khối lượng lớn nhất của phục hình thì hình dạng của kim đúc cần
+A. Thẳng
+B. Gập góc
+*C. Cong nhẹ.
+D. Cong nhiều
+
+Câu 71. Muốn vô khuôn 3 lớp, phần trên của khuôn được đổ thạch cao cứng đến mặt nhai các răng, saụ đó mói đổ đầy khuôn:
+A. Để lúc đội sáp không bị bể thạch cao.
+B. Để gỡ múp dễ dàng lấy được nguyên vẹn mẫu hàm.
+C. Để khuôn được chính xác và răng giả không bị rơi ra trong khi dội sáp.
+*D. Tất cả đúng
+
+Câu 72. Khi dội sáp, ta cần ngâm khuôn vào nước sôi trong:
+*A. 5 - 10 phút.
+B. 10 - 20 phút
+C. 20- 30 phút.
+D. 30- 40 phút.
+
+Câu 73. Sau khi dội sáp, vernis được thoa lúc:
+*A. Khuôn còn đang nóng.
+B. Sau khi dội sáp 5 phút.
+C. Sau khi dội sáp 10 phút.
+D. Sau khi dội sáp 15 phút.
+
+Câu 74. Đợi khuôn nguội hẳn
+*A. Cách nấu nhựa theo phương pháp nấu chậm là cho khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đẽn 165°F giữ nhiệt độ này trong 9 giờ.
+B. Đặt khuôn vào nưóc lạnh đưa nhiệt độ lên 212°F và giữ nhiệt độ nay trong 11 giờ.
+C. Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165°F và giữ trong 1 giò 30 phút.
+D. Đặt khuôn vào nước lạnh, và đưa nhiệt độ lên từ từ 100°c, và giữ ở nhiệt độ này trong 2 giờ.
+
+Câu 75. Khi làm cứng mẫu hàm bột bao, nếu nhiệt độ sấy là chất làm cứng nấu tới 150°C- 200°C
+A. Mẫu hàm màu nâu đen.
+*B. Mẫu hàm màu nâu sáng.
+C. Mẫu hàm sẽ đọng chất làm cứng.
+D. Tất cả sai
+
+Câu 76. Đắp sáp dưới yên phục hình:
+*A. Theo đường vẽ yên trên mẫu hàm làm việc.
+B. Theo đường vẽ yên trên mẫu hàm bột bao
+C. Lớp sáp dày 2 mm.
+D. Lớp sáp dày 2 mm
+
+Câu 77. Đắp sáp dưới thanh lưỡi:
+*A. Để thanh lưõi không ép lên niêm mạc bên dưới gây đau.
+B. Để loại bỏ vùng vướng.
+C. Độ dày sáp đắp là 0,25 mm khi triền sống hàm phía lưỡi không quá dốc.
+D. Tất cả sai.
+
+Câu 78. Khi vô khuôn phục hình tháo lắp bán phần nền nhựa:
+A. Nếu để hở móc thì răng trụ phải giữ nguyên
+*B. Cần phải dán mép nền sáp chặt vào mẫu hàm để thạch cao vô khuôn không chui xuống dưới lớp sáp.
+C. Không cần ngâm nước mẫu hàm trước khi vô khuôn
+D. Sử dụng thạch cao cứng để vô khuôn
+
+Câu 79. Cách nấu nhựa theo phương pháp nấu chậm là:
+A. Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165° F và giữ trong 1 giờ 30 phút
+*B. Đặt khuôn vào nước lạnh, đưa nhiệt độ nước lên từ từ đến 165° F giữ nhiệt độ này trong 9 giờ.
+C. Đặt khuôn vào nước lạnh, đưa nhiệt độ lên 212° F và giữ nhiệt độ này trong 1 giờ 30 phút
+D. Đặt khuôn vào nước lạnh, đưa nhiệt độ lên 212° F và giữ nhiệt độ này trong giờ 9 giờ
+
+Câu 80. Tổng thời gian cần thiết để nấu nhựa theo phương pháp nấu nhanh là:
+A. 30 phút
+B. 60 phút
+C. 90 phút
+@D. 120 phút
+> Giáo trình: nấu nhanh giữ 165°F trong 1 giờ 30 phút rồi 212°F thêm 30 phút, tổng 2 giờ (120 phút).
+
+Câu 81. Cấu tạo khuôn hay “mouffle”:
+A. Đáy khuôn
+B. Trên khuôn
+C. Nắp khuôn
+@D. Tất cả
+> Giáo trình: khuôn (mouffle) gồm 3 phần: phần đáy khuôn, phần trên khuôn và nắp khuôn.
+
+Câu 82. Thoa vernis
+A. Cách li thạch cao với thạch cao
+@B. Cách li thạch cao với nhựa
+C. Cách li nhựa với nhựa
+D. Giúp dễ làm hơn
+> Giáo trình: thoa varnish để nhựa không dính vào thạch cao, mặt nhựa láng, dễ đánh bóng. Cách ly thạch cao với thạch cao thì thoa vaseline.
+
+Câu 83. Trong giai đoạn vô khuôn của biến đổi phần sáp của phục hình tháo lắp bán hàm thành nhựa, khi vào phần đáy khuôn, nếu thạch cao được đổ phủ móc và các răng thạch cao của mẫu hàm thì:
+@A. Khi gỡ khuôn, răng giả và móc sẽ ở hai phần khuôn khác nhau
+B. Khi gỡ khuôn, răng giả và móc sẽ nằm chung trong một phần của khuôn
+C. Cả hai trường hợp a và b đều có thể xảy ra
+D. Cách vào phần đáy khuôn này sai.
+> Giáo trình, cách thứ nhất: thạch cao phủ móc và các răng thạch cao, khi gỡ khuôn răng giả và móc ở hai phần khuôn khác nhau.
+
+Câu 84. Trong giai đoạn vô khuôn của biến đổi phần sáp của phục hình tháo lắp bán hàm thành nhựa, khi vào phần đáy khuôn, nếu thạch cao được đổ sao cho không phủ lên móc, chỉ phủ các răng thạch cao của mẫu hàm thì:
+A. Khi gỡ khuôn, răng giả và móc sẽ ở hai phần khuôn khác nhau
+@B. Khi gỡ khuôn, răng giả và móc sẽ nằm chung trong một phần của khuôn
+C. Cả hai trường hợp a và b đều có thể xảy ra
+D. Cách vào phần đáy khuôn này sai.
+> Giáo trình, cách thứ hai: không phủ móc, chỉ phủ răng thạch cao (răng mang móc cắt vát 45°), khi gỡ khuôn móc và răng giả nằm chung một phần khuôn.
+
+Câu 85. có bao nhiêu giai đoạn biến đổi phần sáp của PHỤC HÌNH THÁO LẮP BH thành nhựa
+A. 6
+B. 7
+C. 8
+@D. 9
+> Giáo trình 2021 chia việc biến đổi phần sáp thành nhựa thành 9 mục: vô khuôn, dội sáp, thoa varnish, ép nhựa (gồm nấu nhựa), gỡ múp, chỉnh khớp cắn trên giá khớp, gỡ hàm nhựa khỏi mẫu, mài – đánh bóng, kiểm tra hàm giả sau gia công.
+
+Câu 86. Để cách ly thạch cao và nhựa trong PHỤC HÌNH THÁO LẮP BH nền nhựa thì ta dùng cách gì?
+A. Thoa Vaseline
+@B. Thoa vernis
+C. Ngâm nước
+D. Tất cả đều đúng
+> Giáo trình: thoa varnish lên mặt thạch cao để nhựa không dính vào thạch cao.
+
+Câu 87. Thoa vernis để làm gì?
+*A. Cho nhựa không dính vào thạch cao
+B. Cho sáp không dính vào thạch cao
+C. Cho thạch cao không dính vào khuôn
+D. Cho các lớp thạch cao không dính vào nhau
+
+Câu 88. Cách nấu nhựa nhanh là:
+*A. Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 165°F và giữ nhiệt độ này trong 1 giờ 30 phút
+B. Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 212°F và giữ nhiệt độ này trong 1 giờ 30 phút
+C. Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 165°F và giữ nhiệt độ này trong 30 phút
+D. Cho khuôn vào nước lạnh, đưa nhiệt độ nước từ nhiệt độ trong phòng đến 212°F và giữ nhiệt độ này trong 30 phút
+
+Câu 89. Mục đích thoa vernis lên mẫu hàm nhằm mục đích , câu nào sau đây đúng nhất:
+A. Để cách li thạch cao- thạch cao
+B. Để cách li thạch cao – răng
+C. Để mặt nhựa sau này sẽ láng, dễ đánh bóng
+*D. Để nhựa không dính vào vào thạch cao và mặt nhựa sau này sẽ láng, dễ đánh bóng
+
+Câu 90. Khi biến đổi phần sáp của PHỤC HÌNH THÁO LẮP BH thành nhựa, CHỌN CÂU ĐÚNG
+A. Muoffle gồm 2 phần: đáy khuôn và phần trên khuôn
+B. Có 3 các vào phần đáy khuôn
+C. Có thể thay thế vaselin bằng vernis và ngược lại khi cần cách ly.
+@D. Vernis dùng để cách ly thạch cao và nhựa
+> Giáo trình: mouffle gồm 3 phần (A sai), có 2 cách vào phần đáy khuôn (B sai); vaseline cách ly thạch cao với thạch cao, varnish cách ly thạch cao với nhựa nên không thay cho nhau (C sai).
+
+Câu 91. Trước khi dội sáp, nên ngâm múp vào nước sôi:
+A. 1-5 phút
+@B. 5-10 phút
+C. 10-15 phút
+D. 15-20 phút
+> Giáo trình: đặt khuôn vào giá và ngâm vào nước đang sôi từ 5 đến 10 phút rồi tách khuôn.
+
+Câu 92. Khi đánh bóng hàm giả cần lưu ý:
+A. Nhúng nước để tránh biến dạng
+B. Tránh các đầu tay móc
+C. Bề mặt phải đánh bóng theo trục của răng tránh xoá đi các chi tiết
+@D. Tất cả đều đúng
+> Giáo trình: khi đánh bóng, hàm giả luôn nhúng ướt để tránh biến dạng, đánh bóng theo trục răng để không xóa chi tiết, tránh các đầu tay móc.
+
+Câu 93. Thời điểm gỡ múp thích hợp:
+@A. Gỡ khi múp nguội
+B. Gỡ khi còn nóng ấm
+C. Vớt múp khỏi nồi luộc rồi gỡ ngay
+D. Tất cả đều sai
+> Giáo trình: múp để nguội hoàn toàn mới được gỡ.
+
+Câu 94. Đường kính móc đặt cho nhóm răng cửa: - 7
+A. 0.6mm
+*B. 0.7mm
+C. 0.8mm
+D. 0.9mm
+
+Câu 95. Thoa vernis có tác dụng: - 7
+A. Ngăn sáp dính vào thạch cao
+B. Ngăn thạch cao dính vào răng
+C. Ngăn thạch cao dính thạch cao
+*D. Ngăn nhựa ép dính vào thạch cao
+
+Câu 96. trong khi vô khuôn 3 lớp, phần trên của khuôn được đổ thạch cao đến mặt nhai các răng, sau đó mới đổ đầy khuôn:
+A. Để dội sáp không bị bể thạch cao.
+B. Bảo vệ mẫu hàm nguyên vẹn khi gỡ múp.
+C. Để răng giả không rơi ra khi dội sáp.
+*D. Tất cả đều đúng.
+
+Câu 97. Chọn câu sai khi nói về các giai đoạn biến đổi sáp của PHỤC HÌNH THÁO LẮP BH nền nhựa:
+A. Thoa một lớp vaselin lên bề mặt mẫu hàm và mặt trong khuôn
+B. Sau khi khuôn nguội hẳn mới thực hiện việc ép nhựa
+*C. Sau khi loại bỏ sáp, thoa vaselin trên mặt thạch cao trong khi khuôn còn nóng
+D. Khi dội sáp ta cần ngâm khuôn trong nước sôi 5-10 phút
+
+Câu 98. Yêu cần của móc và nền nhựa
+A. Ôm 1/3 chu vi thân răng trụ
+B. Ôm > 1/3 chu vi thân răng trụ
+C. Ôm 2/3 chu vi thân răng trụ
+*D. Ôm > 2/3 chu vi thân răng trụ
+
+Câu 99. Việc cần làm đầu tiên khi uốn móc là:
+A. Mài tròn đầu tay móc
+@B. Xác định hướng lắp hàm
+C. Vẽ vị trí của móc trên mẫu thạch cao
+D. Vẽ đường vòng lớn nhất lâm sàng
+> Giáo trình 2021 không mô tả các bước uốn móc. Theo trình tự thiết kế hàm, phải xác định hướng lắp hàm trước, từ đó mới vẽ đường vòng lớn nhất, vẽ vị trí móc rồi uốn móc.
+
+Câu 100. Việc đầu tiên khi làm nền hàm:
+A. Bôi vaseline lên mẫu hoặc làm ẩm mẫu
+B. Hơ mêm lá sáp, đặt lá sáp lên mẫu rồi ấn nhẹ cho lá sáp sát khít vào mẫu
+C. Hơ nóng dao sáp, cắt loại bỏ sáp thừa theo đường biên giới đã vẽ.
+@D. Vẽ biên giới nền hàm trên mẫu thạch cao
+> Giáo trình (làm nền sáp): bước đầu là vẽ giới hạn nền hàm trên mẫu hàm thạch cao, sau đó bôi vaseline, hơ mềm sáp lá đặt lên mẫu, cắt sáp dư.
+
+Câu 101. Phải tìm chiều cao tầng mặt dưới ở tư thế nghỉ sinh lý khi:
+@A. Không còn điểm chạm
+B. Chỉ còn 1 điểm chạm
+C. Chỉ còn 2 điểm chạm
+D. Chỉ còn 3 điểm chạm
+> Giáo trình Bài 5: khi không còn tiếp xúc răng (không còn điểm chạm) phải xác định lại kích thước dọc, dựa vào chiều cao tầng mặt dưới ở tư thế nghỉ sinh lý trừ khoảng nghỉ sinh lý.
+
+Câu 102. Khi chưa thật thành thạo, thứ tự vào càng cắn:
+A. Vào cành trên trước
+B. Vào cành dưới trước
+C. Vào 2 càng 1 lượt
+D. Vào càng nào trước cũng được
+> Ngân hàng không đánh đáp án và giáo trình 2021 không nói về thứ tự vào càng cắn, nên câu này để trống đáp án.
+
+Câu 103. Trước khi dội sáp, nên ngâm múp vào nước sôi:
+A. 1-5p
+*B. 5-10p
+C. 10-15p
+D. 15-20p
+
+Câu 104. Nhựa trùng hợp qua
+A. 1 giai đoạn
+B. 2 giai đoạn
+C. 3 giai đoạn
+*D. 4 giai đoạn
+
+Câu 105. Khi lắp hàm cần kiểm tra:
+A. Răng giả
+B. Móc
+C. Lợi giả
+*D. Tất cả câu trên
+
+Câu 106. Sự dính của hàm bán phần nền nhựa chủ yếu nhờ: 7-dễ
+A. Nền nhựa.
+B. Móc.
+C. Độ lẹm các răng còn lại.
+*D. Nền nhựa và móc.
+
+Câu 107. Tại sao sao khi trộn nhựa, phải đợi đúng thời gian chỉ dẫn rồi mới lấy nhựa ra ép?
+A. Để bột nhựa tan hoàn toàn
+B. Ép sớm thì thành phẩm không đẹp
+*C. Ép sớm thì hàm sẽ bị bọt
+D. Ép sớm thì nhựa khó ép
+
+Câu 108. Khi đúc khung sườn, để nung chảy hợp kim đúc có mấy phương pháp :
+A. 1
+*B. 2
+C. 3
+D. 4
+
+Câu 109. Khuôn hay “mouffle” gồm các thành phần:
+A. Nắp khuôn
+B. Phần đáy
+C. Phần trên
+*D. Tất cả các câu trên
+
+Câu 110. Khi vào đáy khuôn, mặt nhai của các răng nên cách bờ khuôn khoảng bao nhiêu:
+A. 2-3mm
+B. 3-4mm
+C. 4-5mm
+*D. 5-6mm
+
+Câu 111. Người ta thường trộn bột nhựa và nước nhựa theo tỉ lệ của nhà sản xuất là:
+A. 2 bột nhựa+ 1 nước nhựa
+*B. 3 bột nhựa+ 1 nước nhựa
+C. 3 bột nhựa+ 2 nước nhựa
+D. Tất cả đều sai
+
+Câu 112. Mục đích của việc thoa vegnis
+A. Cách ly thạch cao với răng.
+B. Cách ly thạch cao với thạch cao.
+*C. Cách ly nhựa với thạch cao.
+D. Cách ly sáp với thạch cao.

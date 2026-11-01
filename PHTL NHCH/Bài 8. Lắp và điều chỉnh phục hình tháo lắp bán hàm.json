@@ -1,0 +1,1326 @@
+{
+  "title": "Bài 8. Lắp và điều chỉnh phục hình tháo lắp bán hàm",
+  "subject": "PHTL NHCH",
+  "source": "PHTL NHCH Bài 8",
+  "header": [],
+  "note": null,
+  "noteLabel": null,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Kiểm tra hàm giả trước khi gắn vào miệng bệnh nhân nhằm mục đích:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xác định những vùng vướng khi lắp hàm"
+        },
+        {
+          "label": "B",
+          "text": "Loại bỏ những chổ bén nhọn có thể gây chấn thương mô mềm."
+        },
+        {
+          "label": "C",
+          "text": "Loại bỏ những hạt nhựa nhỏ ở mặt tiếp xúc niêm mạc của hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 2,
+      "question": "Khi kiểm tra hàm giả, nếu phát hiện có những hạt nhựa nhỏ ở mặt tiếp xúc niêm mạc hàm giả bác sĩ phải:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để nguyên vì nó không gây hại cho niêm mạc"
+        },
+        {
+          "label": "B",
+          "text": "Mài cẩn thận những hạt nhựa này (mài vừa đủ để không gấy chấn thương mô"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ mài chọn lọc những hạt nhựa to có thể gây chấn thương mô"
+        },
+        {
+          "label": "D",
+          "text": "Mài lõm xuống nền hàm để tránh gây chấn thương mô"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Những yếu tố nào sau đây nếu không loại bỏ có thể gây chấn thương mô khi lắp lắm hàm giả?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Những hạt nhựa nhỏ ở mặt trong hàm giả"
+        },
+        {
+          "label": "B",
+          "text": "Bờ hàm giả bén nhọn"
+        },
+        {
+          "label": "C",
+          "text": "Đầu tận cùng tay móc nhọn"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các yếu tố trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 4,
+      "question": "Khi lắp hàm giả tháo lắp bán hàm nền nhựa, bác sĩ phải:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có thể phải điều chỉnh nền hàm giả."
+        },
+        {
+          "label": "B",
+          "text": "Đệm hàm giả"
+        },
+        {
+          "label": "C",
+          "text": "Điều chỉnh khớp cắn giống như phục hình toàn hàm"
+        },
+        {
+          "label": "D",
+          "text": "Làm giảm chiều dài tay móc."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 5,
+      "question": "Khi điều chỉnh khớp cắn, bác sĩ cần phải kiểm tra:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sự khít sát của nền hàm"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước dọc cắn khớp"
+        },
+        {
+          "label": "C",
+          "text": "Độ lưu giữ của móc"
+        },
+        {
+          "label": "D",
+          "text": "Thẩm mỹ của hàm giả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 6,
+      "question": "Khi điều chỉnh khớp cắn, bác sĩ cần phải kiểm tra:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sự khít sát của hàm giả"
+        },
+        {
+          "label": "B",
+          "text": "Độ lưu giữ của móc"
+        },
+        {
+          "label": "C",
+          "text": "Kích thước dọc khớp cắn"
+        },
+        {
+          "label": "D",
+          "text": "Các điểm đau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 7,
+      "question": "Khi mới mang hàm giả bán hàm nền nhựa, bệnh nhân thường gặp các khó khăn sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nói ngọng"
+        },
+        {
+          "label": "B",
+          "text": "Tiết nước bọt nhiều"
+        },
+        {
+          "label": "C",
+          "text": "Cảm giác vật lạ trong miệng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên mang thường xuyên"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ mang hàm giả khi ăn"
+        },
+        {
+          "label": "C",
+          "text": "Nên giữ hàm giả thật khô và sạch"
+        },
+        {
+          "label": "D",
+          "text": "Nên nói chậm, ăn thức ăn mềm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Khi mới mang hàm giả tháo lắp bán hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên mang thường xuyên, chỉ mang hàm giả khi ăn"
+        },
+        {
+          "label": "B",
+          "text": "Nên giữ hàm giả thật khô và sạch"
+        },
+        {
+          "label": "C",
+          "text": "Nên nói chậm, ăn thức ăn mềm"
+        },
+        {
+          "label": "D",
+          "text": "Nếu nước bọt tiết nhiều, nên tháo hàm giả ra"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "Vào buổi tái khám, bác sĩ nên:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chỉ chú ý đến vấn đề đau của bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Điều chỉnh thẩm mỹ là quan trọng"
+        },
+        {
+          "label": "C",
+          "text": "Giải quyết những than phiền chính của bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Mới bắt đầu mài điều chỉnh khớp cắn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 11,
+      "question": "Trường hợp hai hàm tháo lắp bán hàm đối diện nhau, khớp cắn sẽ được điều chỉnh theo nguyên tắc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều chỉnh một hàm trước, sau đó điều chỉnh hàm còn lại theo hàm kia."
+        },
+        {
+          "label": "B",
+          "text": "Điều chỉnh hai hàm cùng lúc."
+        },
+        {
+          "label": "C",
+          "text": "Điều chỉnh hàm nào chạm răng thật ít trước."
+        },
+        {
+          "label": "D",
+          "text": "Nếu một hàm mất răng xen kẽ, một hàm mất răng sau cùng, sẽ điều chỉnh hàm mất răng sau cùng trước."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Hướng dẫn nào sau đây là SAI khi hướng dẫn về cách sử dụng và bảo quản hàm giả:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sau khi hàm giả đã được lắp vào đúng vị trí, bệnh nhân mới sử dụng hàm."
+        },
+        {
+          "label": "B",
+          "text": "Thời gian đầu không mang hàm giả thường xuyên vì dễ bị đau."
+        },
+        {
+          "label": "C",
+          "text": "Thực hiện chức năng từ dễ tới khó như ăn thức ăn mềm, nhai chậm."
+        },
+        {
+          "label": "D",
+          "text": "Không nên ăn thức ăn quá thô, cứng như khi chưa mất răng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 13,
+      "question": "Đau tại chỗ của vùng mô mềm đang mang hàm giả, có thể do các nguyên nhân sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dư bờ hàm"
+        },
+        {
+          "label": "B",
+          "text": "Mặt tiếp xúc niêm mạc không chính xác"
+        },
+        {
+          "label": "C",
+          "text": "Có điểm chạm sớm ở khớp cắn, cả tư thế tĩnh hoặc động của hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Bệnh nhân than phiền hàm giả chỉ lỏng khi nhai thức ăn, nguyên nhân có thể là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bờ hàm dư quá nhiều."
+        },
+        {
+          "label": "B",
+          "text": "Hình dạng hàm giả không thích hợp với hệ thống mô chung quanh."
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm không khít sát, móc không nằm trong vùng lẹm."
+        },
+        {
+          "label": "D",
+          "text": "Thiếu thăng bằng khớp cắn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 15,
+      "question": "Khi điều chỉnh khớp cắn, BS cần ưu tiên chú ý đến:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Kích thước dọc"
+        },
+        {
+          "label": "C",
+          "text": "Sự khít sát của hàm"
+        },
+        {
+          "label": "D",
+          "text": "Độ lưu giữ của móc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 16,
+      "question": "Có bao nhiêu nguyên tắc mài chỉnh khớp cắn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "11"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "13"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 17,
+      "question": "Nguyên nhân gây đau thường gặp ở bệnh nhân PHỤC HÌNH THÁO LẮP BH:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thiếu bờ hàm."
+        },
+        {
+          "label": "B",
+          "text": "Có điểm chạm sớm ở khớp cắn."
+        },
+        {
+          "label": "C",
+          "text": "A và B đúng."
+        },
+        {
+          "label": "D",
+          "text": "A và B sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Kích thước dọc quá cao sẽ gây khó phát âm chữ nào trong các chữ sau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chữ “b”"
+        },
+        {
+          "label": "B",
+          "text": "Chữ “p”"
+        },
+        {
+          "label": "C",
+          "text": "Chữ “s”"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Khi mang hàm giả tháo lắp bán hàm nền nhựa, bệnh nhân gặp những khó khăn nào",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cảm giác vật lạ trong miệng"
+        },
+        {
+          "label": "B",
+          "text": "Khó phát âm"
+        },
+        {
+          "label": "C",
+          "text": "Buồn nôn"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Thứ tự điều chỉnh khớp cắn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tái lập khớp cắn trung tâm đúng- tái lập kích thước dọc đúng- tái lập khớp cắn tới đúng- hoàn hảo cắn khớp làm việc và thăng bằng"
+        },
+        {
+          "label": "B",
+          "text": "Tái lập kích thước dọc đúng- tái lập khơp cắn trung tâm đúng- tới lập khớp cắn tới đúng- hoàn hảo cắn khớp làm việc và thăng bằng"
+        },
+        {
+          "label": "C",
+          "text": "Tái lập khớp cắn tới đúng- tái lập kích thước dọc đúng- hoàn hảo cắn khớp làm việc và thăng bằng- tái lớp khớp cắn trung tâm đúng"
+        },
+        {
+          "label": "D",
+          "text": "Tái lập kích thước dọc đúng- tái lập khớp cắn trung tâm đúng- hoàn hảo cắn khớp làm việc và thăng bằng- tái lập khớp cắn tới đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 21,
+      "question": "Thứ tự điều chỉnh khớp cắn:\n(1) Tái lập kích thước dọc đúng\n(2) Hoàn hảo cắn khớp làm việc và thăng bằng\n(3) Tái lập kích thước ngang đúng\n(4) Tái lập khớp cắn trung tâm đúng\n(5) Tái lập khớp cắn tới đúng",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) -> (3) -> (4) -> (2)"
+        },
+        {
+          "label": "B",
+          "text": "(1) -> (4) -> (2) ->(5)"
+        },
+        {
+          "label": "C",
+          "text": "(3) -> (1) -> (4) -> (2)"
+        },
+        {
+          "label": "D",
+          "text": "(1) -> (3) -> (4) -> (5)"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 22,
+      "question": "Nếu không có vấn đề về hàm giả, thời gian tái khám mỗi lần là bao lâu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 tháng"
+        },
+        {
+          "label": "B",
+          "text": "6 tháng"
+        },
+        {
+          "label": "C",
+          "text": "9 tháng"
+        },
+        {
+          "label": "D",
+          "text": "12 tháng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Kích thước dọc cắn khít chính xác có được khi một khoảng hở sinh lý được kiểm tra bằng cách phát âm cụm từ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mississipi"
+        },
+        {
+          "label": "B",
+          "text": "Violoncello"
+        },
+        {
+          "label": "C",
+          "text": "Refrigerator"
+        },
+        {
+          "label": "D",
+          "text": "Eastermankodak"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 24,
+      "question": "Răng sắp như thế nào sẽ tạo vẽ mặt dữ tợn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng sắp đúng"
+        },
+        {
+          "label": "B",
+          "text": "Răng sắp lui"
+        },
+        {
+          "label": "C",
+          "text": "Răng sắp quá độ cắn phủ theo chiều dọc"
+        },
+        {
+          "label": "D",
+          "text": "Răng lệch đường giữa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 25,
+      "question": "Khi bệnh nhân mới sử dụng hàm giả PHỤC HÌNH THÁO LẮP BH nền nhựa đi tái khám than phiền rằng có vết loét trong miệng thì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều trị thuốc giảm đau, giảm viêm rồi cho bệnh nhân ra về"
+        },
+        {
+          "label": "B",
+          "text": "Điều chỉnh hàm giả (hạt nhựa, gai nhọn, khớp cắn…) ở mặt tiếp xúc niêm mạc rồi cho bệnh nhân ra về"
+        },
+        {
+          "label": "C",
+          "text": "Điều chỉnh hàm giả (hạt nhựa, gai nhọn, khớp cắn…) ở mặt tiếp xúc niêm mạc, điều trị thuốc giảm đau, kháng viêm rồi cho bệnh nhân ra về"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 26,
+      "question": "Câu nào sau đây không đúng về việc sử dụng và bảo quản hàm giả?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên tháo hàm giả khỏi miệng quá lâu"
+        },
+        {
+          "label": "B",
+          "text": "Sau mỗi bữa ăn nên tháo hảm giả ra để vệ sinh"
+        },
+        {
+          "label": "C",
+          "text": "Nên tháo hàm giả khi ngủ"
+        },
+        {
+          "label": "D",
+          "text": "Không nên để hàm giả ngâm nước vì dễ gây biến dạng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Trong trường hợp hai hàm tháo lắp bán phần đối diện nhau, chọn câu SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều chỉnh khớp cắn trước, điều chỉnh mặt tiếp xúc với niêm mạc sau"
+        },
+        {
+          "label": "B",
+          "text": "Điều chỉnh một hàm trước, sau đó điều chỉnh hàm còn lại theo hàm kia"
+        },
+        {
+          "label": "C",
+          "text": "Nếu một hàm mất răng xen kẽ, một hàm mất răng sau cùng, sẽ điều chỉnh hàm mất răng sau cùng trước"
+        },
+        {
+          "label": "D",
+          "text": "Điều chỉnh hàm nào chạm răng thật nhiều trước."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 28,
+      "question": "Trong trường hợp bệnh nhân than ĐAU sau khi lắp hàm giả, thì phải điều chỉnh gì đầu tiên?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Điều chỉnh khớp cắn."
+        },
+        {
+          "label": "B",
+          "text": "Điều chỉnh mặt tiếp xúc niêm mạc của hàm giả."
+        },
+        {
+          "label": "C",
+          "text": "Điều chỉnh gối sáp."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Các nguyên nhân nào cần đòi hỏi mài chỉnh vùng có liên quan cho đến khi hết triệu chứng đau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dư bờ hàm"
+        },
+        {
+          "label": "B",
+          "text": "Có điểm chạm sớm ở khớp cắn"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân tháo, lắp hàm không đúng hướng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Cách sử dụng và bảo quản hàm giả nào là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không nên tháo hàm giả ra khỏi miệng quá lâu vì răng còn lại có thể bị di chuyển làm cho không lắp lại được."
+        },
+        {
+          "label": "B",
+          "text": "Thời gian đầu nên mang ít để giảm đau."
+        },
+        {
+          "label": "C",
+          "text": "Dù đã quen với hàm giả thì khi ngủ cũng phải mang hàm giả để tránh răng thật di chuyển về vị trí cũ."
+        },
+        {
+          "label": "D",
+          "text": "Không cần vệ sinh hàm giả vì không cần thiết."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Nguyên tắc điều chỉnh khớp cắn, chọn thứ tự điều chỉnh ĐÚNG:\n1. Tái lập kích thước dọc đúng\n2. Hoàn hảo cắn khớp làm việc và thăng bằng\n3. Tái lập KCTT đúng\n4. Tái lập khớp cắn tới đúng",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,2,3,4"
+        },
+        {
+          "label": "B",
+          "text": "1,3,2,4"
+        },
+        {
+          "label": "C",
+          "text": "4,1,2,3"
+        },
+        {
+          "label": "D",
+          "text": "3,2,1,4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Thứ tự điều chỉnh khớp cắn:\n1. Tái lập khớp cắn trung tâm đúng\n2. Tái lập kích thước dọc đúng\n3. Tái lập khớp cắn tới đúng\n4. Hoàn hảo cắn khớp làm việc và thăng bằng",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-2-3-4"
+        },
+        {
+          "label": "B",
+          "text": "2-1-4-3"
+        },
+        {
+          "label": "C",
+          "text": "2-1-3-4"
+        },
+        {
+          "label": "D",
+          "text": "3-2-1-4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Nguyên tắc điều chỉnh khớp cắn trong PHỤC HÌNH THÁO LẮP BH, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tái lập kích thước ngang đúng"
+        },
+        {
+          "label": "B",
+          "text": "Tái lập khớp cắn trung tâm đúng"
+        },
+        {
+          "label": "C",
+          "text": "Tái lập khớp cắn tới đúng"
+        },
+        {
+          "label": "D",
+          "text": "Hoàn hảo cắn khớp làm việc và thăng bằng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 34,
+      "question": "Khi lực tác dụng theo chiều ngang hàm được giữ yên nhờ, chọn câu Sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nước bọt"
+        },
+        {
+          "label": "B",
+          "text": "Sống hàm mất răng thuận lợi"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm bao phủ cổ răng những răng còn lại, vòm khẩu cái"
+        },
+        {
+          "label": "D",
+          "text": "Phần ôm và phần giữ của móc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 35,
+      "question": "Nguyên nhân hàm giả bị bọng rổ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lợi giả quá dày"
+        },
+        {
+          "label": "B",
+          "text": "Luộc quá nhanh"
+        },
+        {
+          "label": "C",
+          "text": "Luộc khi nước còn quá nóng"
+        },
+        {
+          "label": "D",
+          "text": "Bôi cách ly không tốt"
+        },
+        {
+          "label": "E",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 4,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 36,
+      "question": "Cố định đường gãy theo lối trực tiếp khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền hàm nhỏ, khó chắp khớp"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân đã tự sữa chữa"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân vẫn dùng hàm thêm 1 thời gian làm đường gãy bị mòn"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 câu trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 37,
+      "question": "Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dư bờ hàm"
+        },
+        {
+          "label": "B",
+          "text": "Nướu giả bị lẹm quá mức"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân tháo lắp hàm không đúng hướng"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "Nguyên nhân gây đau tại chỗ vùng mô mềm đang mang hàm giả là. Chọn câu sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "label": "B",
+          "text": "Có điểm chạm sớm ở khớp cắn"
+        },
+        {
+          "label": "C",
+          "text": "Tay móc bị uốn cong khi làm vệ sinh hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Mặt tiếp xúc niêm mạc không chính xác"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 39,
+      "question": "Những khó khăn khi mới mang hàm giả:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khó phát âm nói ngọng"
+        },
+        {
+          "label": "B",
+          "text": "Cảm giác buồn nôn"
+        },
+        {
+          "label": "C",
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Bệnh nhân không mang được hàm giả vì",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "label": "B",
+          "text": "Tăng nhạy cảm ở vùng khẩu cái sau"
+        },
+        {
+          "label": "C",
+          "text": "Có vị kim loại trong miệng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Cách xử lý khi bệnh nhân bị đau tại chỗ vùng môi mềm do mặt tiếp xúc niêm mạc không chính xác:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mài chọn lọc khớp cắn cho đến khi hết điểm chạm sớm"
+        },
+        {
+          "label": "B",
+          "text": "Hướng dẫn bệnh nhân cách tháo lắp hàm đúng"
+        },
+        {
+          "label": "C",
+          "text": "Mài chỉnh vùng có liên quan cho đến khi hết hoàn toàn triệu chứng đau"
+        },
+        {
+          "label": "D",
+          "text": "Thay móc bị hư hoặc làm lại hàm giả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 42,
+      "question": "Thứ tự điều chỉnh khớp cắn đúng :\n1. Tái lập khớp cắn trung tâm đúng; 2. Tái lập khớp cắn tới đúng; 3. Tái lập kích thước dọc đúng; 4. Hoàn hảo cắn khớp làm việc và thăng bằng",
+      "options": [
+        {
+          "label": "A",
+          "text": "1234"
+        },
+        {
+          "label": "B",
+          "text": "1324"
+        },
+        {
+          "label": "C",
+          "text": "3142"
+        },
+        {
+          "label": "D",
+          "text": "4132"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 43,
+      "question": "Khớp cắn thăng bằng được áp dụng trong trường hợp mất răng:\n1. Mất răng trước\n2. Mất một phần răng sau\n3. Mất răng cối nhỏ\n4. Mất răng toàn bộ",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 đúng, 2 sai, 3 sai, 4 đúng"
+        },
+        {
+          "label": "B",
+          "text": "1 sai, 2 đúng, 3 đúng, 4 sai"
+        },
+        {
+          "label": "C",
+          "text": "1 sai, 2 đúng, 3 sai, 4 đúng"
+        },
+        {
+          "label": "D",
+          "text": "1 đúng, 2 đúng, 3 sai, 4 sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 44,
+      "question": "Kiểm tra hàm giả trước khi gắn vào miệng bệnh nhân nhằm mục đích loại bỏ tất cả những yếu tố có thể gây chấn thương mô.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đúng"
+        },
+        {
+          "label": "B",
+          "text": "Sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}

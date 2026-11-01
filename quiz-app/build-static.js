@@ -31,9 +31,12 @@ const MAMMOTH_BROWSER = path.join(
 );
 // De thi cac khoa chep tay tu ban scan: cau hoi doc tu <mon>/RHM Kxx.json
 // (sinh boi build-de-thi-rhm.py), hinh nam trong <mon>/hinh/.
+// PHTL NHCH (ngan hang Phuc hinh I, 8 bai) cung doc tu <mon>/<bai>.json,
+// sinh boi build-phtl-nhch.py.
 const EXAM_SUBJECTS = new Set([
   "Đề thi Sâu Răng Học RHM",
   "Đề thi Phục Hình Tháo Lắp RHM",
+  "PHTL NHCH",
 ]);
 const PUBLISHED_SUBJECTS = new Set([
   "TN Sâu Răng Học AI",

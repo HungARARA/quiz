@@ -1233,6 +1233,8 @@ body {
   line-height: 1.7;
   margin-bottom: 20px;
   color: var(--text-primary);
+  /* Cau co nhieu y (1), (2)... duoc tach dong bang \n trong du lieu */
+  white-space: pre-line;
 }
 
 /* Hình đi kèm câu hỏi: nền trắng để sơ đồ scan vẫn đọc được ở giao diện tối */
@@ -1932,6 +1934,7 @@ kbd {
   color: var(--text-primary);
   margin-bottom: 14px;
   line-height: 1.6;
+  white-space: pre-line;
 }
 
 .review-options {

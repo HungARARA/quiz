@@ -1,0 +1,1510 @@
+{
+  "title": "Bài 4. Vật liệu và phương pháp lấy dấu trong phục hình tháo lắp bán hàm",
+  "subject": "PHTL NHCH",
+  "source": "PHTL NHCH Bài 4",
+  "header": [],
+  "note": null,
+  "noteLabel": null,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Khi lấy dấu bằng Alginate:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khay không quá cứng để dễ đưa vào miệng"
+        },
+        {
+          "label": "B",
+          "text": "Khay phải có cơ chế lưu chất lấy dấu"
+        },
+        {
+          "label": "C",
+          "text": "Khay vừa khít niêm mạc để không làm dư chất lấy dấu"
+        },
+        {
+          "label": "D",
+          "text": "Khay lấy dấu phải rộng để lấy dấu không bị thiếu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 2,
+      "question": "Khay lấy dấu thích hợp là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khay phải mềm dẻo không gây đau cho bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Khay cách đều các mặt răng từ 5 - 7 mm"
+        },
+        {
+          "label": "C",
+          "text": "Chiều trước sau khay phải ngắn hơn cung hàm 3 – 5 mm"
+        },
+        {
+          "label": "D",
+          "text": "Chiều cao khay phải tương ứng chiều cao sống hàm và bờ khay cách đáy hành lang 3 – 5 mm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Khi trộn chất lấy dấu alginate:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bột: nước theo tỷ lệ 1:2"
+        },
+        {
+          "label": "B",
+          "text": "Xoay nhẹ bay trộn để có chất lấy dấu min và đồng nhất"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ cần trộn cho bột thấm đều vào nước"
+        },
+        {
+          "label": "D",
+          "text": "Cần miết chất lấy dấu vào thành chén trộn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 4,
+      "question": "Đặt Alginate vào khay lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt cả khối alginate vào khay"
+        },
+        {
+          "label": "B",
+          "text": "Chia alginate thành nhiều phần và đặt từng phần vào khay để tránh tạo bọt trong chất lấy dấu"
+        },
+        {
+          "label": "C",
+          "text": "Đặt alginate dư ra khỏi bờ khay để bảo đảm lấy dấu không bị thiếu"
+        },
+        {
+          "label": "D",
+          "text": "Đặt alginate thấp hơn bờ khay để khi lấy dấu alginate tràn ra là vừa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 5,
+      "question": "Yêu cầu của khay lấy dấu làm sẵn",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mềm dẻo để không gây đau cho bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Bờ khay càng sát đáy hành lang càng tốt"
+        },
+        {
+          "label": "C",
+          "text": "Cứng rắn để không biến dạng khi lấy dấu"
+        },
+        {
+          "label": "D",
+          "text": "Trơn láng để không dính chất lấy dấu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 6,
+      "question": "Khi lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Bác sĩ đứng phía trước và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân ngồi thẳng tựa đầu vào ghế nha khoa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 7,
+      "question": "Khi lấy dấu, vị trí bác sĩ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy dấu hàm trên, bác sĩ đứng phía trước, bên phải bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Lấy dấu hàm trên, bác sĩ đứng sau, bên trái bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Lấy dấu hàm trên, bác sĩ đứng sau, bên phải bệnh nhân."
+        },
+        {
+          "label": "D",
+          "text": "Lấy dấu hàm trên, bác sĩ đứng trước hay sau bệnh nhân đều được."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Khi lấy dấu hàm trên, vị trí đứng của Bs như sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng về phía sau và về phía bên phải của bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Đứng về phía trước và về phía bên phải của bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Đứng phía sau bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Đứng phía trước bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Khi lấy dấu hàm dưới, vị trí đứng của Bs như sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng phía sau, về phía bên phải bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Đứng phía sau, về phía bên trái bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Đứng phía trước, về phía bên phải bệnh nhân"
+        },
+        {
+          "label": "D",
+          "text": "Đứng phía trước, về phía bên trái bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "Tư thế bệnh nhân khi lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngồi ngã ra sau"
+        },
+        {
+          "label": "B",
+          "text": "Ngối thẳng và thấp hơn tầm tay bác sĩ"
+        },
+        {
+          "label": "C",
+          "text": "Ngồi thẳng, đầu hơi cuối ra phía trước"
+        },
+        {
+          "label": "D",
+          "text": "Ngồi thẳng, miệng ngang tầm tay bác sĩ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 11,
+      "question": "Chọn phát biểu đúng về kỹ thuật lấy dấu bằng Alginate",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt khay lấy dấu vào cung hàm, ấn từ sau ra trước cho Alginate tràn ra khỏi khay. Đồng thời cho bệnh nhân cử động môi"
+        },
+        {
+          "label": "B",
+          "text": "Đặt khay lấy dấu có chứa algiante vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu"
+        },
+        {
+          "label": "C",
+          "text": "Khay lấy dấu được lấy ra khỏi miệng khi Alginate vừa đông để dễ dàng lấy dấu ra khỏi miệng. Tránh để alginate cứng quá vì sẽ khó lấy ra khỏi vùng lẹm."
+        },
+        {
+          "label": "D",
+          "text": "Khay được giữ yên bằng hai ngón trỏ và gia tăng áp lực đè lên răng trong thời gian chờ Alginate đông cứng hoàn toàn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Chọn phát biểu đúng về kỹ thuật đỗ mẫu với thạch cao",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thạch cao trộn theo tỷ lệ bột:nước là 2:1"
+        },
+        {
+          "label": "B",
+          "text": "Thạch cao trộn càng lỏng thì khả năng chui vào những chi tiết nhỏ càng cao và càng ít bọt"
+        },
+        {
+          "label": "C",
+          "text": "Thạch cao được đổ vào dấu bắt đầu từ một phía trên cao của dấu với lượng nhỏ"
+        },
+        {
+          "label": "D",
+          "text": "Thời gian trộng càng dài làm tăng độ mềm của thạch cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 13,
+      "question": "Yêu cầu của khay lấy dấu cá nhân trong PHỤC HÌNH THÁO LẮP BH",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khay làm bằng nhựa tự cứng và cách đều niêm mạc và đáy hành lang 3mm"
+        },
+        {
+          "label": "B",
+          "text": "Khay phải phủ hoàn toàn vùng mô cần lấy, bờ khay ngang đáy hành lang"
+        },
+        {
+          "label": "C",
+          "text": "Khay bị thiếu đáy hành lang thì nên đắp thêm sáp"
+        },
+        {
+          "label": "D",
+          "text": "Khay bị dư đáy hành lang thì mài bớt sao cho cách đáy hành lang 3mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Khi lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ đứng phía trước bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Bác sĩ đứng bên phải hoặc phía sau bệnh nhân ở vị trí 9h30 hoặc 11h30"
+        },
+        {
+          "label": "C",
+          "text": "Bác sĩ đứng bên trái bệnh nhân ở vị trí 15h"
+        },
+        {
+          "label": "D",
+          "text": "Bác sĩ đứng phía sau bệnh nhân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 15,
+      "question": "Đặc điểm của gối sáp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nằm trên lồi cùng và gối hậu nha."
+        },
+        {
+          "label": "B",
+          "text": "Chiều cao gối sáp thấp hơn các tăng còn lại 1-1,5mm."
+        },
+        {
+          "label": "C",
+          "text": "Bề ngang 8mm ở vùng răng trước, 6mm ở vùng răng sau."
+        },
+        {
+          "label": "D",
+          "text": "Chiều dài vừa chạm răng thật ở đầu khoảng mất răng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 16,
+      "question": "Kích thước dọc được đo từ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 - 4 mm."
+        },
+        {
+          "label": "B",
+          "text": "Điểm nhô ra nhất mũi đến điểm nhô ra nhất của cằm."
+        },
+        {
+          "label": "C",
+          "text": "Mặt phẳng Camper và mặt phẳng phục hình."
+        },
+        {
+          "label": "D",
+          "text": "Nhân trung đến lồi cằm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 17,
+      "question": "Các trường hợp cần xác định tương quan tâm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng toàn hàm."
+        },
+        {
+          "label": "B",
+          "text": "Răng mòn quá nhiều."
+        },
+        {
+          "label": "C",
+          "text": "Mất răng từng khoảng không còn điểm chạm giữa các răng còn lại."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Kích thước ngang của 6 răng trước là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng cách giữa 2 cánh mũi."
+        },
+        {
+          "label": "B",
+          "text": "Khoảng cách giữa 2 khoé miệng."
+        },
+        {
+          "label": "C",
+          "text": "Chỉ số LEE."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Khi lấy dấu hàm trên, vị trí đứng của Bác sĩ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng về phía sau và bên phải của BN"
+        },
+        {
+          "label": "B",
+          "text": "Đứng về phía trước và bên phải của BN"
+        },
+        {
+          "label": "C",
+          "text": "Đứng về phía sau BN"
+        },
+        {
+          "label": "D",
+          "text": "Đứng phía trước BN"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Phần tử cơ thể và sinh lí thuận lợi cho hàm trên",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vùng sau răng cửa"
+        },
+        {
+          "label": "B",
+          "text": "Thắng bên"
+        },
+        {
+          "label": "C",
+          "text": "Vùng Schroder"
+        },
+        {
+          "label": "D",
+          "text": "Đường nối giữa xương hàm trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 21,
+      "question": "Mặt phẳng Francfort",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là mặt phẳng tưởng tượng đi qua 2 điểm tragus và điểm phía dưới cánh mũi"
+        },
+        {
+          "label": "B",
+          "text": "Là mặt phẳng tưởng tượng song song với mặt phẳng Camper"
+        },
+        {
+          "label": "C",
+          "text": "Là mặt phẳng tưởng tượng đi qua điểm phía dưới cánh mũi và lỗ dưới hốc mắt"
+        },
+        {
+          "label": "D",
+          "text": "Là mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 22,
+      "question": "Hệ số nhai của R6 hàm trên là",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhỏ hơn R3 hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Nhỏ hơn R8 hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Nhỏ nhất hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Hệ số nhai bằng 5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Phân loại mất răng bán hàm theo Kennedy thì mất răng sau 1 bên và thêm 1 đoạn mất răng phía trước",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại 1 biến thể 1"
+        },
+        {
+          "label": "B",
+          "text": "Loại 2 biến thể 1"
+        },
+        {
+          "label": "C",
+          "text": "Loại 1 biến thể 2"
+        },
+        {
+          "label": "D",
+          "text": "Loại 2 biến thể 2"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 24,
+      "question": "Chọn câu SAI. Về việc lấy dấu trong phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chất lấy dấu thường dùng là một hydrocolloide"
+        },
+        {
+          "label": "B",
+          "text": "Mục đích là để ghi nhận và tái lập một cách trung thực hình dạng 3 chiều của cung răng và vùng mất răng"
+        },
+        {
+          "label": "C",
+          "text": "Vật liệu ghi dấu phải có một áp lực đủ và tập trung lên mặt nhai của răng so với các mặt khác."
+        },
+        {
+          "label": "D",
+          "text": "Tránh tạo bọt khí"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 25,
+      "question": "Tư thế bác sĩ khi lấy dấu hàm dưới",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng phía sau và về bên phải bệnh nhân"
+        },
+        {
+          "label": "B",
+          "text": "Đứng phía trước và về bên phải bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Vị trí 11 giờ 30"
+        },
+        {
+          "label": "D",
+          "text": "VỊ trí 3 giờ 30"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 26,
+      "question": "Chất lấy dấu có mấy nhóm chính:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Phương pháp lấy dấu trong phục hình tháo lắp bán hàm, chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vật liệu lấy dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt."
+        },
+        {
+          "label": "B",
+          "text": "Tránh tạo những bọt do không khí hay nước bọt."
+        },
+        {
+          "label": "C",
+          "text": "Đổ mẫu ngay trong thời gian ngắn."
+        },
+        {
+          "label": "D",
+          "text": "Dấu sẽ không bị biến dạng theo thời gian."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 28,
+      "question": "Vật liệu nào sau đây được dùng để lấy dấu phổ biếng nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alginate"
+        },
+        {
+          "label": "B",
+          "text": "Silicones"
+        },
+        {
+          "label": "C",
+          "text": "Polyethers"
+        },
+        {
+          "label": "D",
+          "text": "Proxy sulphides"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Có bao nhiêu loại khay lấy dấu cơ bản?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Theo chỉ số chức năng ăn nhai thì",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các răng cửa giữa trên và dưới như nhau"
+        },
+        {
+          "label": "B",
+          "text": "Các răng nanh trên lớn hơn các răng nanh dưới"
+        },
+        {
+          "label": "C",
+          "text": "Các răng cối nhỏ trên và dưới như nhau"
+        },
+        {
+          "label": "D",
+          "text": "Các răng cối lớn trên và dưới như nhau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Kỹ thuật lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ấn khay từ trước ra sau cho alginate tràn ra khỏi khay và lấp đầy đáy hành lang"
+        },
+        {
+          "label": "B",
+          "text": "Cho bệnh nhân thổi để lấy dấu thắng môi, má"
+        },
+        {
+          "label": "C",
+          "text": "Cho bệnh nhân đưa lưỡi ra sau và sang bên để lấy dấu thắng lưỡi"
+        },
+        {
+          "label": "D",
+          "text": "Giữ khay ổn định trong 2-3 phút"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Chọn câu sai. Yêu cầu của một nền tạm là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Không cần phải phủ và ôm sát sống hàm, vòm khẩu cái"
+        },
+        {
+          "label": "B",
+          "text": "Hình dạng của một nền tạm tương đối đối xương qua đường giữa hàm"
+        },
+        {
+          "label": "C",
+          "text": "Có chiều dày đồng nhất khoảng 2mm"
+        },
+        {
+          "label": "D",
+          "text": "Nền tạm phải nhẵn, bóng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Chọn đặc điểm đúng về thạch cao",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là vật liệu lấy dấu ra đời lâu nhất và không ổn định, dễ biến dạng"
+        },
+        {
+          "label": "B",
+          "text": "Mới được đưa vào sử dụng trong nha khoa ở thế kỉ XX và rất ổn định, khó biến dạng"
+        },
+        {
+          "label": "C",
+          "text": "Cứng, dễ vỡ khi lấy ra khỏi miệng và có thành phần là CaSO4 và bột khoai tây"
+        },
+        {
+          "label": "D",
+          "text": "Cả ba câu trên đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 34,
+      "question": "Tư thế bác sĩ khi lấy dấu",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đứng bên phải phía trước khi lấy dấu hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Đứng bên phải phía sau khi lấy dấu hàm trên"
+        },
+        {
+          "label": "C",
+          "text": "Đứng bên trái phía trước khi lấy dấu hàm dưới"
+        },
+        {
+          "label": "D",
+          "text": "Đứng bên trái phía sau khi lấy dấu hàm dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 35,
+      "question": "Những yêu cầu khi lấy dấu cho bệnh nhân, chọn câu sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vật liệu ghi dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt"
+        },
+        {
+          "label": "B",
+          "text": "Tránh tạo những bọt do không khí hay nước bọt"
+        },
+        {
+          "label": "C",
+          "text": "Tránh làm biến dạng dấu khi tháo khay ra trên lâm sàng và tránh biến dạng sau đó do thời gian"
+        },
+        {
+          "label": "D",
+          "text": "Khi lấy dấu xong có thể đỗ mẫu lúc nào cũng được"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 36,
+      "question": "Trong phục hình tháo lắp bán phần, chất liệu lấy dấu nào sau đây thường được sử dụng nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agar – agar"
+        },
+        {
+          "label": "B",
+          "text": "Alginate"
+        },
+        {
+          "label": "C",
+          "text": "Silicones"
+        },
+        {
+          "label": "D",
+          "text": "Poly sulphides"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 37,
+      "question": "Yêu cầu của một khay lấy khuôn",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt trong thành thìa cách đều các mặt răng 4-5mm"
+        },
+        {
+          "label": "B",
+          "text": "Bờ thành thìa cách ngách lợi 4-5mm"
+        },
+        {
+          "label": "C",
+          "text": "Mặt trong thìa hàm trên cách vòm miệng 4-5mm"
+        },
+        {
+          "label": "D",
+          "text": "Chiều dài thìa hàm dưới phủ tam giác sau hàm 2-3mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "khi trộn chất lấy dấu alginate:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tỉ lệ bột và nước là 1:2"
+        },
+        {
+          "label": "B",
+          "text": "Trộn càng lâu càng tốt."
+        },
+        {
+          "label": "C",
+          "text": "Dùng nước lạnh sẽ làm cho alginate lâu đông hơn."
+        },
+        {
+          "label": "D",
+          "text": "Xoay nhẹ bay trộn để alginate mịn hơn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 39,
+      "question": "Khay lấy dấu gồm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khay làm sẵn"
+        },
+        {
+          "label": "B",
+          "text": "Khay cá nhân"
+        },
+        {
+          "label": "C",
+          "text": "A,B đúng"
+        },
+        {
+          "label": "D",
+          "text": "A,B sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Yêu cầu của kĩ thuật lấy dấu, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tránh tạo bọt do không khí hay nước bọt"
+        },
+        {
+          "label": "B",
+          "text": "Tránh làm biến dạng dấu khi tháo khay ra trên lâm sàng"
+        },
+        {
+          "label": "C",
+          "text": "Có thể đổ mẫu sau lấy dấu 24h"
+        },
+        {
+          "label": "D",
+          "text": "Vật liệu ghi dấu phải có áp lực đủ và đồng đều trên tất cả các bề mặt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Điều nào sau đây không phải là đặc điểm của Alginate lấy dấu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là vật liệu đàn hồi có khả năng phục hồi"
+        },
+        {
+          "label": "B",
+          "text": "Thấm nước và dễ sử dụng"
+        },
+        {
+          "label": "C",
+          "text": "Dễ biến dạng khi để ngoài không khí"
+        },
+        {
+          "label": "D",
+          "text": "Được chiết xuất từ tảo nâu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 42,
+      "question": "Tư thế bệnh nhân khi lấy dấu: 4-dễ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngồi ngã ra sau."
+        },
+        {
+          "label": "B",
+          "text": "Ngồi thẳng và thấp hơn tầm tay bác sĩ."
+        },
+        {
+          "label": "C",
+          "text": "Ngồi thẳng, đầu hơi cuối ra phía trước."
+        },
+        {
+          "label": "D",
+          "text": "Ngồi thẳng, miệng ngang tầm tay bác sĩ."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 43,
+      "question": "Tại sao alginate lại thường được dùng làm vật liệu lấy dấu",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giá rẻ"
+        },
+        {
+          "label": "B",
+          "text": "Có thể tái sử dụng"
+        },
+        {
+          "label": "C",
+          "text": "Dễ thực hiện"
+        },
+        {
+          "label": "D",
+          "text": "Cho kết quả tốt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 44,
+      "question": "Kỹ thuật lấy dấu",
+      "options": [
+        {
+          "label": "A",
+          "text": "BS đứng góc 9h30 khi lấy dấu hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "BS đứng góc 11h30 khi lấy dấu hàm dưới"
+        },
+        {
+          "label": "C",
+          "text": "BN ngồi thẳng, miệng ngang tầm BS"
+        },
+        {
+          "label": "D",
+          "text": "Cả abc đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 45,
+      "question": "Khi lấy dấu bằng Alginate",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khay không quá cứng để dễ đưa vào miệng"
+        },
+        {
+          "label": "B",
+          "text": "Khay phải có cơ chế để lưu chất lấy dấu"
+        },
+        {
+          "label": "C",
+          "text": "Khay vừa khít niêm mạc để không làm dư chất lấy dấu"
+        },
+        {
+          "label": "D",
+          "text": "Khay lấy dấu phải rộng để lấy dấu không bị thiếu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 46,
+      "question": "Tư thế bác sĩ khi lấy dấu hàm trên",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bác sĩ đứng phía trước, bên phải bệnh nhân vị trí 9h30"
+        },
+        {
+          "label": "B",
+          "text": "Bác sĩ đứng phía sau, bên phải bệnh nhân vị trí 11h 30"
+        },
+        {
+          "label": "C",
+          "text": "Bác sĩ đứng phía trước, bên phải bệnh nhân vị trí 8h"
+        },
+        {
+          "label": "D",
+          "text": "Bác sĩ đứng phía sau, bên trái bệnh nhân vị trí 1h30"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 47,
+      "question": "Khi lấy dấu hàm dưới cho bệnh nhân, bác sĩ nên đứng phía trước về bên phải bệnh nhân ở vị trí mấy giờ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 giờ 30"
+        },
+        {
+          "label": "B",
+          "text": "8 giờ 30"
+        },
+        {
+          "label": "C",
+          "text": "9 giờ 30"
+        },
+        {
+          "label": "D",
+          "text": "10 giờ 30"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 48,
+      "question": "Tại sao alginate được sử dụng làm vật liệu lấy dấu? Chọn câu sai",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rẻ"
+        },
+        {
+          "label": "B",
+          "text": "Dễ thao tác"
+        },
+        {
+          "label": "C",
+          "text": "Sử dụng đúng cho kết quả hoàn hảo"
+        },
+        {
+          "label": "D",
+          "text": "Khó biến dạng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 49,
+      "question": "Tái lập khớp cắn khi lắp và điều chỉnh phục hình tháo lắp bán hàm cần dựa vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quy tắc Bull"
+        },
+        {
+          "label": "B",
+          "text": "Quy tắc đường phân giác"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ số LEE"
+        },
+        {
+          "label": "D",
+          "text": "Mặt phẳng Francfort"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 50,
+      "question": "Lấy dấu hàm trên hướng mấy giờ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9h30."
+        },
+        {
+          "label": "B",
+          "text": "10h30."
+        },
+        {
+          "label": "C",
+          "text": "11h30 ."
+        },
+        {
+          "label": "D",
+          "text": "12h30."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình Bài 4: bác sĩ đứng phía sau, bên phải bệnh nhân khi lấy dấu hàm trên (vị trí 11 giờ 30); lấy dấu hàm dưới đứng phía trước, bên phải (9 giờ 30).",
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}

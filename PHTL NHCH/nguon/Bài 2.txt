@@ -1,0 +1,898 @@
+# Bài 2. Khám bệnh nhân phục hình răng tháo lắp bán hàm
+
+Câu 1. Cấu trúc giải phẫu số 1 trong hình là:
+[hinh: phtl-nhch-h01.webp]
+*A. Thắng môi trên
+B. Thắng má
+C. Vân khẩu cái
+D. Ngách hành lang
+
+Câu 2. Cấu trúc giải phẫu số 2 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Thắng môi trên
+*B. Núm răng cửa
+C. Núm khẩu cái
+D. Vân khẩu cái
+
+Câu 3. Cấu trúc giải phẫu số 3 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Núm răng cửa
+B. Núm khẩu cái
+*C. Vân khẩu cái
+D. Đường nối giữa xương hàm trên
+
+Câu 4. Cấu trúc giải phẫu số 4 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Thắng môi
+*B. Thắng má
+C. Ngách hành lang
+D. Sống hàm
+
+Câu 5. Cấu trúc giải phẫu số 5 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Ngách hành lang
+B. Thắng má
+C. Sống hàm
+*D. Đỉnh sống hàm
+
+Câu 6. Cấu trúc giải phẫu số 6 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Sống hàm
+B. Đỉnh sống hàm
+C. Rãnh chân bướm hàm
+*D. Lồi cùng
+
+Câu 7. Cấu trúc giải phẫu số 7 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Nhú khẩu cái
+B. Torus
+*C. Đường nối giữa xương hàm trên
+D. Khẩu cái
+
+Câu 8. Cấu trúc giải phẫu số 8 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Khẩu cái mềm
+*B. Lỗ khẩu cái sau
+C. Đường nối giữa xương hàm trên
+D. Đường rung chữ “a”
+
+Câu 9. Cấu trúc giải phẫu số 9 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Vùng Schroder
+B. Rãnh chân bướm hàm
+*C. Đường rung chữ “a”
+D. Khẩu cái mềm
+
+Câu 10. Cấu trúc giải phẫu số 10 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+A. Vùng Schroder
+*B. Rãnh chân bướm hàm
+C. Đường rung chữ “a”
+D. Khẩu cái mềm
+
+Câu 11. Cấu trúc giải phẫu số 11 trong hình bên là:
+[hinh: phtl-nhch-h01.webp]
+*A. Vùng Schroder
+B. Rãnh chân bướm hàm
+C. Đường rung chữ “a”
+D. Khẩu cái mềm
+
+Câu 12. Cấu trúc giải phẫu số 1 trong hình bên là:
+[hinh: phtl-nhch-h02.webp]
+*A. Dây chằng chân bướm hàm
+B. Rãnh chân bướm hàm
+C. Gối hậu nha
+D. Đỉnh sống hàm
+
+Câu 13. Cấu trúc giải phẫu số 2 trong hình bên là:
+[hinh: phtl-nhch-h02.webp]
+A. Dây chằng chân bướm hàm
+B. Rãnh chân bướm hàm
+*C. Gối hậu nha
+D. Đỉnh sống hàm
+
+Câu 14. Cấu trúc giải phẫu số 3 trong hình bên là:
+[hinh: phtl-nhch-h02.webp]
+A. Dây chằng chân bướm hàm
+B. Rãnh chân bướm hàm
+C. Gối hậu nha
+*D. Đỉnh sống hàm
+
+Câu 15. Cấu trúc giải phẫu số 4 trong hình bên là:
+[hinh: phtl-nhch-h02.webp]
+*A. Thắng lưỡi
+B. Thắng môi
+C. Sàn miệng
+D. Hõm hậu hàm
+
+Câu 16. Cấu trúc giải phẫu số 5 trong hình bên là:
+[hinh: phtl-nhch-h02.webp]
+A. Thắng lưỡi
+B. Thắng môi
+*C. Thắng má
+D. Ngách hành lang
+
+Câu 17. Cấu trúc giải phẫu số 6 trong hình bên là:
+[hinh: phtl-nhch-h02.webp]
+A. Thắng lưỡi
+*B. Thắng môi
+C. Sàn miệng
+D. Hõm hậu hàm
+
+Câu 18. Hàm giả cũ
+A. Không cần khám vì sau này sẽ bỏ đi.
+B. Không có mối liên quan đến hàm giả mới.
+*C. Giúp xác định hình dáng, màu sắc, vị trí các răng đã mất
+D. Không cần hỏi ý kiến bệnh nhân về hàm cũ.
+
+Câu 19. Phát biểu nào sau đây là sai khi nói về hàm giả cũ?
+*A. Không cần khám vì sau này sẽ bỏ đi.
+B. Dùng để tham khảo khi làm hàm giả mới.
+C. Giúp xác định hình dáng, màu sắc, vị trí các răng đã mất.
+D. Nên hỏi ý kiến bệnh nhân về hàm cũ.
+
+Câu 20. Những gai xương bén nhọn trên sống hàm được phát hiện bằng cách
+A. Hỏi bệnh nhân
+B. Nhìn
+*C. Sờ
+D. Chụp X quang
+
+Câu 21. Khi khám cử động hàm dưới, bình thường lúc bệnh nhân há miệng, khoảng cách giữa hai cung hàm trên dưới là:
+A. 30 – 40 mm
+*B. 40 – 50 mm
+C. 50 – 60 mm
+D. >60 mm
+
+Câu 22. Khớp cắn gọi là bình thường khi:
+*A. Độ overbite và độ overjet là 2mm
+B. Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới.
+C. Độ cắn sâu và độ cắn hở khoảng 1 mm
+D. Độ cắn sâu và độ cắn hở khoảng 4 mm
+
+Câu 23. Khớp cắn gọi là bình thường khi:
+*A. Độ overbite và độ overjet là 2mm
+B. Bờ cắn răng cửa trên hở với bờ cắn răng cửa dưới.
+C. Độ cắn sâu và độ cắn hở khoảng 1 mm
+D. Độ cắn sâu và độ cắn hở khoảng 4 mm
+
+Câu 24. Khớp cắn gọi là bình thường khi:
+*A. Độ overbite và độ overjet là 2mm
+B. Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới.
+C. Độ cắn sâu và độ cắn hở khoảng 3 mm
+D. Độ cắn sâu và độ cắn hở khoảng 4 mm
+
+Câu 25. Khớp cắn gọi là bình thường khi:
+*A. Độ overbite và độ overjet là 2mm
+B. Bờ cắn răng cửa trên hở với bờ cắn răng cửa dưới.
+C. Độ cắn sâu và độ cắn hở khoảng 3 mm
+D. Độ cắn sâu và độ cắn hở khoảng 4 mm
+
+Câu 26. Khi khám bệnh nhân mất răng bán phần:
+A. Phần thăm hỏi bệnh nhân về tên tuổi, địa chỉ nghề nghiệp, tiền sử chung, tiền sử răng miệng chỉ là hình thức, chỉ cần đặt trọng tâm vào việc khám các răng và các vùng khác trong miệng
+*B. Khi lựa chọn kiểu phục hình để thực hiện ta cần ưu tiên nghĩ đến phục hình cố định rồi phục hình khung bộ rồi đến phục hình tháo lắp nền nhựa
+C. Việc khám cận lâm sàng bằng phim tia X chỉ cần thiết khi có những sang thương viêm nhiễm vùng chân răng trụ sẽ mang móc hoặc dùng làm trụ cầu
+D. Việc lấy dấu mẫu sơ khởi để đổ mẫu nghiên cứu chỉ cần thiết khi phải làm phục hình khung bộ
+
+Câu 27. Đối với bệnh nhân mất răng bán phần, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
+*A. Phục hình cố định.
+B. Phục hình khung bộ
+C. Phục hình tháo lắp
+D. Phục hình kết hợp
+
+Câu 28. Đối với bệnh nhân mất răng bán phần, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
+*A. Phục hình cố định
+B. Phục hình khung bộ
+C. Phục hình tháo lắp
+D. Phục hình trên implant.
+
+Câu 29. Cử động của hàm dưới, bình thường lúc há miệng khoảng cách hai cung hàm trên và dưới là:
+A. 20 – 30 mm.
+B. 30 – 40 mm.
+*C. 40 – 50 mm.
+D. 50 – 60 mm.
+
+Câu 30. Khớp cắn gọi là bình thường khi:
+A. Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới.
+*B. Độ cắn sâu và độ cắn hở khoảng 2 mm.
+C. Độ cắn sâu là 3 mm và độ cắn hở là 2 mm.
+D. Độ cắn sâu và độ cắn hở khoảng 4 mm
+
+Câu 31. Khi khám cung hàm dưới, sống hàm tốt là:
+A. Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương.
+*B. Có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương.
+C. Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng
+D. Sống hàm cao còn cách lỗ cằm 1 mm.
+
+Câu 32. Khi khám cung hàm dưới, sống hàm tốt là:
+A. Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng.
+*B. Có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương.
+C. Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng
+D. Sống hàm cao còn cách lỗ cằm 1 mm.
+
+Câu 33. Khi khám cung hàm dưới, sống hàm tốt là:
+A. Có xương ổ răng bị tiêu ít
+B. Hai triền phía má và phía lưỡi rộng,
+C. Không có những phần lồi xương.
+*D. Tất cả đúng.
+
+Câu 34. Khi khám cung hàm dưới, sống hàm tốt là (Chọn câu sai):
+A. Có xương ổ răng bị tiêu ít
+B. Hai triền phía má và phía lưỡi rộng,
+C. Không có những phần lồi xương.
+*D. Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng
+
+Câu 35. Khi khám cung hàm dưới, sống hàm tốt là (Chọn câu sai):
+A. Có xương ổ răng bị tiêu ít
+B. Hai triền phía má và phía lưỡi rộng,
+C. Không có những phần lồi xương.
+*D. Sống hàm cao còn cách lỗ cằm 1 mm
+
+Câu 36. Khi khám cung hàm dưới, sống hàm tốt là (Chọn câu sai):
+A. Có xương ổ răng bị tiêu ít
+B. Hai triền phía má và phía lưỡi rộng,
+C. Không có những phần lồi xương.
+*D. Có lồi xương hàm dưới
+
+Câu 37. Torus hàm dưới thường gặp ở vị trí nào sau đây:
+A. Mặt trong vùng răng cửa
+B. Mặt trong vùng răng nanh
+*C. Mặt trong vùng răng cối nhỏ
+D. Mặt trong vùng răng cối lớn
+
+Câu 38. Torus hàm dưới thường gặp ở vị trí nào sau đây:
+A. Mặt ngoài vùng răng cửa
+B. Mặt trong vùng răng nanh
+*C. Mặt trong vùng răng cối nhỏ
+D. Mặt trong vùng răng cối lớn
+
+Câu 39. Torus hàm dưới thường gặp ở vị trí nào sau đây:
+A. Mặt trong vùng răng cửa
+B. Mặt trong vùng răng nanh
+*C. Mặt trong vùng răng cối nhỏ
+D. Mặt ngoài vùng răng cối lớn
+
+Câu 40. Torus hàm dưới thường gặp ở vị trí nào sau đây:
+A. Mặt ngoài vùng răng cửa
+B. Mặt ngoài vùng răng nanh
+*C. Mặt trong vùng răng cối nhỏ
+D. Mặt trong vùng răng cối lớn
+
+Câu 41. Torus hàm dưới thường gặp ở vị trí nào sau đây:
+A. Mặt ngoài vùng răng cửa
+B. Mặt ngoài vùng răng nanh
+*C. Mặt trong vùng răng cối nhỏ
+D. Mặt ngoài vùng răng cối lớn
+
+Câu 42. Sống hàm lý tưởng là:
+A. Sống hàm cao, rộng.
+B. Hai triền phía má và lưỡi song song nhau.
+C. Không có u xương, không có vùng lẹm
+*D. Tất cả các câu trên.
+
+Câu 43. Sống hàm lý tưởng là:
+*A. Sống hàm cao, rộng, hai triền phía má và lưỡi song song nhau. Không có u xương, không có vùng lẹm.
+B. Sống hàm thấp, hai triền phía má và lưỡi hội tụ.
+C. Sống hàm thấp, hai triền phía má và lưỡi hội tụ. Không có u xương.
+D. Sống hàm thấp, hai triền phía má và lưỡi hội tụ. Không có vùng lẹm.
+
+Câu 44. Sống hàm được coi là quá thấp khi:
+A. Hai triền phía má và lưỡi thấp và nghiêng vào nhau.
+B. Hai triền phía má và lưỡi hội tụ nhau.
+*C. Mào xương bằng phẳng không có độ cao.
+D. Sống hàm lõm
+
+Câu 45. Lồi cùng tốt khi:
+*A. Hai triền phía hành lang và khẩu cái song song nhau.
+B. Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng.
+C. Lồi cùng quá to.
+D. Lồi cùng lẹm.
+
+Câu 46. Lồi cùng có giá trị trung bình khi:
+A. Hai triền phía hành lang và khẩu cái song song nhau.
+*B. Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng.
+C. Lồi cùng quá to.
+D. Lồi cùng lẹm.
+
+Câu 47. Lồi cùng có giá trị kém khi:
+A. Hai triền phía hành lang và khẩu cái song song nhau.
+B. Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng.
+*C. Không có một độ cao nào.
+D. Lồi cùng lẹm.
+
+Câu 48. Lồi cùng có giá trị kém khi:
+A. Hai triền phía hành lang và khẩu cái song song nhau.
+B. Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng.
+*C. Không có một độ cao nào.
+D. Lồi cùng quá to.
+
+Câu 49. Lồi cùng có giá trị kém khi:
+A. Hai triền phía hành lang và khẩu cái song song nhau.
+B. Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng.
+*C. Không có một độ cao nào.
+D. Lồi cùng quá to, lồi cùng lẹm.
+
+Câu 50. Vòm khẩu cái lý tưởng là:
+*A. Vòm khẩu rộng, không quá phẳng, không quá nhọn.
+B. Vòm khẩu rộng, có torus trên vòm khẩu.
+C. Vòm khẩu rộng trung bình, không quá nhọn.
+D. Vòm khẩu không quá phẳng, không quá nhọn.
+
+Câu 51. Khi mào xương không tiêu, gối hậu nha tạo một góc bao nhiêu độ so với đường đỉnh sống hàm ?
+A. 25 độ
+B. 30 độ
+C. 40 độ
+*D. 45 độ.
+
+Câu 52. Gối hậu nha có giá trị cho việc nâng đỡ và giữ vững hàm khi:
+A. Phần trước gối hậu nha săn chắc, có nhiều mô sợi.
+B. Gối hậu nha tạo một góc 45 độ so với đường đỉnh sống hàm.
+*C. A và B đúng.
+D. A và B sai.
+
+Câu 53. Gối hậu nha có giá trị cho việc nâng đỡ và giữ vững hàm khi:
+*A. Phần trước gối hậu nha săn chắc, có nhiều mô sợi.
+B. Gối hậu nha tạo một góc dưới 40 độ so với đường đỉnh sống hàm.
+C. Niêm mạc bám vào xương lỏng lẻo.
+D. Tất cả sai.
+
+Câu 54. Trường hợp mất răng như sơ đồ dưới đây, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
+[rang: 8 7 x 5 4 3 x x | x x 3 4 5 6 7 8]
+*A. Phục hình cố định.
+B. Phục hình khung bộ
+C. Phục hình tháo lắp bán phần nền nhựa
+D. Phục hình kết hợp
+
+Câu 55. Trường hợp mất răng như sơ đồ dưới đây, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:
+[rang: x x x 5 4 3 2 1 | 1 2 3 4 x x x x]
+A. Phục hình cố định.
+*B. Phục hình khung bộ
+C. Phục hình tháo lắp bán phần nền nhựa
+D. Phục hình kết hợp
+
+Câu 56. Điền khuyết. Đường nối giữa xương hàm trên: nếu không có đường gờ, việc mang hàm giả ………………dưới tác động của lực ép. Nếu có đường gờ cần …… ………trên nền hàm.
+*A. Không bị đau/ tạo sự giảm nén.
+B. Không bị đau/ mài hở
+C. Có thể bị đau/ tạo sự giảm nén
+D. Có thể bị đau/ khoét chữ U
+
+Câu 57. Điền khuyết: Ở hàm phục hình tháo lắp bán phần nền nhựa, lực nhai được phân bố hoàn toàn lên …………………. . Trong khi ở hàm phục hình tháo lắp bán phần khung bộ, lực chức năng được phân bố lên…………………………
+A. Mô niêm mạc/ mô nha chu
+B. Mô xương/ mô nha chu
+C. Mô niêm mạc - xương/ mô nha chu
+*D. Mô niêm mạc – xương/ mô nha chu và mô xương- niêm mạc.
+
+Câu 58. Sống hàm như thế nào gọi là lý tưởng?
+A. Cao, rộng, triền phía má và lưỡi không song song nhau
+B. Thấp, hẹp, triền phía , má và lưỡi song song nhau
+*C. Cao, rộng, triền phía má và lưỡi song song nhau
+D. Thấp, hai triền hội tụ
+
+Câu 59. Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm là độ mấy?
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 60. Khớp thái dương hàm bình thường, hàm dưới đưa ra trước được bao nhiêu?
+A. 5-7 mm
+*B. 5-9 mm
+C. 5-8mm
+D. 3-5mm
+
+Câu 61. Khớp thái dương hàm bình thường, hàm dưới đưa sang phải hoặc sang trái được bao nhiêu?
+*A. 5-7 mm
+B. 5-8mm
+C. 6-9mm
+D. 4-7mm
+
+Câu 62. Overbite của khớp cắn sinh lý là bao nhiêu?
+*A. 2-4mm
+B. 4-6mm
+C. 3-7mm
+D. 3-5mm
+
+Câu 63. Răng có thể dùng làm trụ khi tỷ lên chiều cao thân răng và chân răng:
+*A. Nhỏ hơn 1 .
+B. Nhỏ hơn 2.
+C. Lớn hơn 1.
+D. Bằng 1.
+
+Câu 64. Loại sống hàm nào thuận lợi cho sự ổn định và bám dính hàm giả:
+*A. Cao.
+B. Thấp và cứng.
+C. Thấp hình tam giác.
+D. Phẳng.
+
+Câu 65. Khi khám cử động bình thường, khoảng cách giữa hai cung hàm khi bệnh nhân há miệng thường là:
+A. 30-40 cm
+*B. 40-50 cm
+C. 50-60 cm
+D. >60 cm
+
+Câu 66. Bệnh nhân Nguyễn Thị A, nữ, 63 tuổi, trên lâm sàng ghi nhận bằng mắt thường răng 46 lung lay khoảng 0,7mm, có thể kết luận R46 của bệnh nhân lung lay độ mấy?
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 67. Độ overjet, khi hàm dưới nằm ngoài hàm trên gọi là:
+A. Móm.
+B. Khớp cắn chéo.
+C. Khớp cắn ngược.
+*D. Tất cả đều đúng.
+
+Câu 68. Điều trị tiền phục hình gồm:
+A. Điều chỉnh khớp cắn, mài bỏ các điểm chạm sớm.
+B. Trám răng sâu, chữa các răng có vấn đề nội nha.
+C. Phẫu thuật loại bỏ các răng ngầm.
+*D. Tất cả các phương án trên.
+
+Câu 69. Đặc điểm giải phẫu không phải của hàm trên:
+*A. Gối hậu nha
+B. Đường giữa xương hàm
+C. Thắng môi, thắng má
+D. Núm răng cửa
+
+Câu 70. Sống hàm lí tưởng
+*A. Cao, rộng, triền phía má và lưỡi song song nhau
+B. 2 triền phía má và lưỡi hội tụ
+C. Có u xương và vùng lẹm
+D. Mào xương bằng phẳng không có độ cao
+
+Câu 71. Khi khám độ lung lay răng, độ lung lay có thể có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 72. Chọn câu đúng nhất. Những điểm mốc giải phẫu học của hàm trên là:
+*A. Đường rung chữ “a”, lồi cùng
+B. Rãnh chân bướm hàm, gối hậu nha
+C. Dây chằng chân bướm hàm, gối hậu nha
+D. Thắng lưỡi, Dây chằng chân bướm hàm
+
+Câu 73. Lồi cùng có giá trị trung bình khi
+A. Khi hai triền phía hành lang và khẩu cái song song nhau
+*B. Khi hai triền hơi thấp và nghiêng
+C. Khi không có một độ cao nào
+D. Lồi cùng quá to hay có vùng lẹm
+
+Câu 74. Sống hàm lý tưởng là
+*A. Cao, rộng, triền về phía má và lưỡi song song nhau
+B. Thấp, hai triền phía má và lưỡi hội tụ
+C. Mào xương bằng phẳng không có độ cao
+D. Tất cả đều sai
+
+Câu 75. Sống hàm lý tưởng khi:
+A. Hai triền phía má và lưỡi hội tụ
+B. Mào xương bằng phẳng
+*C. Cao, rộng, hai triền phía má và lưỡi song song
+D. Cao, rộng, hai triền phía má và lưỡi hội tụ
+
+Câu 76. Trường hợp lý tưởng của vòm khẩu cái trong phục hình tháo lắp bán phần
+A. Vòm khẩu cái rộng
+B. Không quá phẳng
+C. Không quá nhọn
+*D. Tất cả đều đúng
+
+Câu 77. Độ lung lay răng được chia làm mấy độ
+A. 2
+B. 3
+*C. 4
+D. 5
+
+Câu 78. Câu nào không thuộc những mốc giải phẫu học của hàm trên?
+A. Thắng môi.
+B. Vùng Schroder.
+C. Núm răng cửa.
+*D. Dây chằng chân bướm hàm.
+
+Câu 79. Có bao nhiêu độ lung lay răng:
+A. 3
+*B. 4
+C. 5
+D. 6
+
+Câu 80. Độ overjet bình thường là bao nhiêu:
+A. 1 mm
+*B. 2 mm
+C. 3 mm
+D. 4 mm
+
+Câu 81. Đâu là điểm mốc giải phẫu chỉ có ở hàm trên
+A. Dây chằng chân bướm hàm
+B. Gối hậu nha
+C. Thắng lưỡi
+*D. Nhú khẩu cái
+
+Câu 82. Đâu là điểm mốc giải phẫu chỉ có ở hàm dưới
+A. Lồi cùng
+B. Vân khẩu cái
+C. Torus hàm trên
+*D. Gối hậu nha
+
+Câu 83. Thứ tự khám bệnh nhân làm phục hình tháo lắp bán phần:
+*A. Khám tổng quát, khám ngoài miệng, khám khớp thái dương hàm, khám trong miệng.
+B. Khám tổng quát, khám ngoài miệng, khám trong miệng, khám khớp thái dương hàm
+C. Khám ngoài miệng, khám trong miệng, khám khớp thái dương hàm
+D. Khám tổng quát, khám trong miệng, khám khớp thái dương hàm, khám ngoài miệng.
+
+Câu 84. Nếu độ cắn phủ (overbite) của bệnh nhân hơn 4mm thì gọi là:
+*A. Cắn sâu
+B. Cắn hở
+C. Cắn đối đầu
+D. Tất cả đều sai
+
+Câu 85. Trong khám độ lung lay răng được chia thành bao nhiêu độ:
+A. 3
+*B. 4
+C. 6
+D. 5
+
+Câu 86. Đâu không phải là điểm mốc giải phẫu ở hàm trên?
+A. Thắng môi
+B. Lồi cùng
+*C. Gối hậu nha
+D. Đỉnh sống hàm
+
+Câu 87. Chọn câu ĐÚNG:
+*A. Cần hỏi tuổi khi thăm khám để xác định yêu cầu làm hàm tháo lắp của bệnh nhân là thẩm mỹ hay ăn nhai
+B. Nghề nghiệp không ảnh hưởng đến yêu cầu thẩm mỹ khi làm hàm tháo lắp
+C. Thói quen xấu của bệnh nhân sẽ không ảnh hưởng đến hàm tháo lắp
+D. Bệnh nhân nên đeo cả hàm giả trong lúc khám
+
+Câu 88. Phân độ lung lay của răng sau đây là SAI:
+*A. Độ 1: Chưa cảm thấy độ lung lay bằng tay
+B. Độ 2: Lung lay dưới 1mm
+C. Độ 3: Lung lay trên 1mm
+D. Độ 4: Lung lay theo 3 chiều trong không gian
+
+Câu 89. Sống hàm nào sau đây được coi là lý tưởng:
+A. Thành phía ngách tiền đình nghiêng nhiều hơn
+*B. Rộng, cao, thành ngoài và trong gần như song song
+C. Xương ổ tiêu nhiều
+D. Đỉnh sống hàm ngang mức ngách tiền đình
+
+Câu 90. Vòm khẩu cái lý tưởng:
+*A. Vòm khẩu cái rộng
+B. Có vùng lẹm để lưu giữ nền tạm
+C. Phẳng để chịu được lực nén
+D. Tất cả đều đúng
+
+Câu 91. Trong các câu dưới đây câu nào sai khi nói về khám độ lung lây răng
+A. Độ 4: Lung lây theo chiều thẳng đứng, răng không còn chức năng
+B. Độ 3: Lung lây hơn 1mm
+*C. Độ 2: Lung lây có thể cảm nhận bằng mắt, độ lung lây nhỏ hơn 0.5mm
+D. Độ 1: Lung lây có thể cảm thấy bằng tay
+
+Câu 92. Khoảng hở sinh lý của khớp cắn là bao nhiêu
+A. 0.5 – 1 mm
+B. 1 – 2 mm
+*C. 2 – 3 mm
+D. 3 – 4 mm
+
+Câu 93. Mức độ lung lay răng hơn 1mm?
+A. Độ 1
+B. Độ 2
+*C. Độ 3
+D. Độ 4
+
+Câu 94. Khám độ lung lay răng có mấy độ?
+A. 3 độ
+*B. 4 độ
+C. 5 độ
+D. 6 độ
+
+Câu 95. Độ 2 của khám độ lung lay răng là gì?
+A. Lung lay có thể cảm thấy bằng tay
+@B. Lung lay hơn 0,5mm.
+C. Lung lay hơn 1mm.
+D. Lung lay hơn 3mm.
+> Giáo trình Bài 2: độ 1 – lung lay cảm thấy bằng tay; độ 2 – lung lay cảm thấy bằng mắt, hơn 0,5 mm; độ 3 – hơn 1 mm; độ 4 – lung lay theo chiều thẳng đứng.
+
+Câu 96. Chọn câu đúng?
+A. Hàm giả phải khít sát nơi bám của cơ và dây chằng.
+*B. Hàm giả sẽ bao phủ lồi cùng tới giới hạn rãnh chân bướm hàm.
+C. Đỉnh sống hàm thường được phủ bởi lớp niêm mạc sợi săn chắc và triền về phía má của sống hàm là điểm gây bất lợi cho việc mang hàm giả.
+D. Nếu lồi rắn quá lớn thì tạo hàm giả có hình dạng khớp với nó.
+
+Câu 97. Chọn đáp án đúng nhất khi nói về cắn khớp:
+A. Độ overbite khoảng 2mm là bình thường, hơn 4mm là cắn sâu, không chạm là cắn hở
+B. Độ overjet khoảng 2mm là bình thường, hơn 4mm là hô
+C. Cắn khớp bình thường khi ngậm các rang cửa trên phủ các rang cửa dưới
+*D. Tất cả đều đúng
+
+Câu 98. Lung lay răng độ 1 là:
+*A. Lung lay có thể cảm thấy bằng tay
+B. Lung lay có thể cảm thấy bằng tay, độ lung lay hơn 0,25mm
+C. Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm
+D. Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 1 mm
+
+Câu 99. Điều kiện nào sau đây là lý tưởng để giúp nền hàm có sự bám dính tốt:
+*A. Sống hàm cao,rộng, triền má song song với triền phía lưỡi , không có u xương hay vùng lẹm
+B. Bệnh nhân có một torus hàm trên kích thước 2x3cm
+C. Lồi cầu không có một độ cao nào
+D. Sống hàm có triền phía má và triền phía lưỡi hội tụ với nhau
+
+Câu 100. Lung lay răng được chia làm mấy cấp độ:
+A. 2
+B. 3
+*C. 4
+D. 5
+
+Câu 101. Loại sống hàm nào ổn định cho sự ổn định và bám dính của hàm giả :
+A. Hẹp
+*B. Cao
+C. Thấp hình tam giác
+D. Thấp và cứng
+
+Câu 102. Ở vòm miệng vùng nào có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc :
+A. Gai cửa
+*B. Schroder
+C. Vân khẩu cái
+D. đường nối giữa
+
+# (bỏ câu gốc 105: trùng câu 93)
+Câu 103. Đâu là điểm mốc giải phẫu chỉ có ở hàm dưới:
+A. Thắng môi
+B. Thắng má
+*C. Gối hậu nha
+D. Đỉnh sống hàm
+
+Câu 104. Đâu không phải là nội dung khám trong miệng:
+A. Khám vòm khẩu cái
+B. Khám lồi cùng
+*C. Khám khớp thái dương hàm
+D. Khám sống hàm
+
+Câu 105. Câu SAI khi nói về khớp cắn bình thường:
+A. Khớp cắn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới theo 2 chiều.
+B. Độ overbite khoảng 2mm là bình thường
+*C. Độ overjet hơn 4mm là cắn sâu
+D. Độ overbite không chạm là cắn hở
+
+Câu 106. Điểm giải phẫu học có ở hàm dưới là:
+A. Đường cung chữ a
+B. Vùng Schroder
+C. Rãnh chân bướm hàm
+*D. Dây chằng chân bướm hàm
+
+Câu 107. Lung lay răng độ 3:
+A. Lung lay có thể cảm thấy bằng tay
+B. Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm
+*C. Lung lay hơn 1 mm
+D. Lung lay theo chiều đứng, răng không còn chức năng
+
+Câu 108. Mốc giải phẫu nào chỉ có ở hàm trên?
+A. Thắng môi
+B. Thắng má
+*C. Đường giữa xương hàm
+D. Đỉnh sống hàm
+
+Câu 109. Eisenring là:
+A. Đường nối giữa cần giảm nén
+*B. Vùng ngách lợi mở rộng sát lồi cùng
+C. Vùng có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc
+D. Vùng có biểu mô dày không có lớp dưới niêm mạc
+
+Câu 110. Sống hàm lý tưởng, chọn câu ĐÚNG:
+A. Thấp, hẹp, triền phía má và lưỡi song song nhau, không có u xương và không có vùng lẹm.
+*B. Cao, rộng, triền phía má và lưỡi song song nhau, không có u xương và không có vùng lẹm.
+C. Cao, rộng, triền phía má và lưỡi song song nhau, không có u xương và có vùng lẹm.
+D. Cao, hẹp, triền phía má và lưỡi song song nhau, không có u xương và không có vùng lẹm.
+
+Câu 111. Câu nào sau đây là đúng khi nói về độ overjet:
+A. 2 mm là bất thường, 4mm là cắn sâu
+B. 4 mm là cắn hô, không chạm là cắn hở
+C. 2 mm là cắn sâu, 4mm là cắn hở
+*D. 2 mm là bình thường, 4mm là cắn hô
+
+Câu 112. Lung lay răng độ 3 có nghĩa là:
+A. Lung lay theo chiều thẳng đứng, răng không còn chức năng.
+B. Lung lay theo chiều ngang có thể cảm nhận bằng tay.
+*C. Lung lay hơn 1mm.
+D. Lung lay có thể cảm thấy bằng mắt.
+
+Câu 113. Khi khám sống hàm ta nói tốt là khi:
+A. Sống hàm cao còn cách lỗ cằm 1mm.
+B. 2 triền phía má và phía lưỡi hẹp, không có lồi xương.
+C. Sống hàm cao vừa phải, 2 triềg phía má và phía lưỡi nghiêng.
+*D. Có xương ổ răng tiêu ít, không có những lồi xương.
+
+Câu 114. Điều nào sau đây đúng khi nói về ảnh hưởng của lồi cùng lên hàm giả?
+*A. Lồi cùng cao giúp tăng sự lưu giữ hàm giả
+B. Lồi cùng tốt khi triền phía hành lang và khẩu cái càng hội tụ
+C. Lồi cùng càng to càng giúp giữ vững hàm giả trên cung hàm
+D. Lồi cùng có lẹm thuận lợi cho việc lưu giữ hàm giả
+
+Câu 115. Khi hỏi tiền sử răng miệng, cần chú ý những yếu tố gì, ngoại trừ:
+A. Thời gian mất răng
+B. Đã từng mang hàm tháo lắp
+*C. Bệnh lý nền
+D. Lý do xin làm hàm mới
+
+Câu 116. Cận lâm sàng cần làm khi làm PHỤC HÌNH THÁO LẮP?
+*A. Chụp X quang
+B. Siêu âm
+C. CT scan
+D. MRI
+
+Câu 117. Khi khám bệnh cho bệnh nhân mắc bệnh tiểu đường, bệnh tim, ung thư... Cần phải chú ý điều gì?
+A. Cách gây tê
+B. Sắc mặt bệnh nhân
+C. Khả năng nhiễm trùng của bệnh nhân
+*D. Cả A,C đúng
+
+Câu 118. Sống hàm lý tưởng là sống hàm như thế nào?
+A. Cao, rộng, không u xương, có lẹm
+B. Cao, hẹp, không u xương, không lẹm
+*C. Cao, triền phía má và lưỡi song song nhau
+D. Cao, triền phía má và lưỡi hội tụ, không u xương
+
+Câu 119. Khi khám độ lung lay răng: Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm. Là độ mấy?
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 120. Điều quan trọng nhất khi khai thác tiền sử răng miệng của bệnh nhân là gì?
+A. Mất răng được bao lâu? Tại sao mất răng?
+B. Bệnh nhân đã được điều trị trước đó chưa?
+C. Có mang hàm giả chưa? Có dễ chịu hay không?
+*D. Tại sao lại xin làm hàm khác?
+
+Câu 121. Khớp cắn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới có:
+*A. Overbite và overjet khoảng 2mm
+B. Overbite và overjet khoảng 4mm
+C. Overbite khoảng 2mm và overjet khoảng 4mm
+D. Overbite khoảng 4mm và overjet khoảng 2mm
+
+Câu 122. Răng lung có thể cảm thấy bằng mắt, độ lung lay hơn 0.5mm
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 123. Gọi là cắn sâu khi Overbite
+A. > 2mm
+B. > 3mm
+*C. > 4mm
+D. > 5mm
+
+Câu 124. Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình
+A. Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp
+B. Khi độ dài của đoạn mất răng càng lớn, số lượng các răng trụ càng quan trọng
+C. Sau khi lựa chọn kiểu phục hình, cần điều trị tiền phục hình nếu có
+*D. Phương pháp phục hình cố định luôn luôn được ưu tiên
+
+Câu 125. Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm thì bác sĩ RHM kết luận lung lay độ mấy?
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 126. Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng có thể cảm thấy bằng mắt, độ lung lay hơn 1 mm thì bác sĩ RHM kết luận lung lay độ mấy?
+A. Độ 1
+B. Độ 2
+*C. Độ 3
+D. Độ 4
+
+Câu 127. Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng người ta chia thành bao nhiêu độ?
+A. 1 độ
+B. 2 độ
+C. 3 độ
+*D. 4 độ
+
+Câu 128. Khớp căn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới, sự phủ này tính theo mấy chiều
+A. 1 chiều
+*B. 2 chiều
+C. 3 chiều
+D. Tất cả đều sai
+
+Câu 129. Trong khám bệnh nhân phục hình tháo lắp, có bao nhiêu mức độ lung lay răng.
+A. 2
+B. 3
+*C. 4
+D. 5
+
+Câu 130. Những phần tử cơ thể và sinh lí bất lợi của hàm trên, ngoại trừ.
+A. Dây chằng chân bướm hàm
+B. Vùng schrober
+C. Đường nối XHT
+*D. Đường chéo trong
+
+Câu 131. Lung lay răng độ 3
+A. Lung lay có thể cảm thấy bẳng tay
+B. Lung lay có thể cảm thấy bằng mắt , độ lung lay hơn 0,5 mm
+*C. Lung lay hơn 1mm
+D. Lung lay theo chiều thẳng đứng, răng không còn chức năng
+
+Câu 132. Độ lung lay răng được chia làm mấy độ:
+A. 1
+B. 2
+C. 3
+*D. 4
+
+Câu 133. Thứ tự khám lâm sàng bệnh nhân phục hình tháo lắp bán hàm:
+| 1. Khám ngoài miệng
+| 2. Khám trong miệng
+| 3. Khám khớp thái dương hàm
+| 4. Khám tổng quát
+A. 1,3,4,2
+B. 4,3,1,2
+*C. 4,1,3,2
+D. 1,2,3,4
+
+Câu 134. Đặc điểm nào sau đây không có ở hàm dưới
+A. Gối hậu nha
+*B. Lồi cùng
+C. Thắng lưỡi
+D. Thắng môi
+
+Câu 135. Silicon thuộc nhóm chất lấy khuôn nào:
+A. Chất dẽo nhiệt
+*B. Elastomer tổng hợp
+C. Thạch cao
+D. Collorit
+
+Câu 136. Khi khám độ lung lay răng, ở bệnh nhân có răng lung lay hơn 1mm thì ta đánh giá răng bệnh nhân lung lay mức độ mấy
+A. Độ 1
+B. Độ 2
+*C. Độ 3
+D. Độ 4
+
+Câu 137. Độ lung lay bằng mắt là 0.7mm là
+A. Độ 1
+*B. Độ 2
+C. Độ 3
+D. Độ 4
+
+Câu 138. Trong đánh giá tỷ lệ chiều cao thân răng và chân răng, một răng có thể dùng làm trụ được khi tỷ lệ này:
+*A. Nhỏ hơn 1
+B. Lớn hơn 1
+C. Bằng 1
+D. Tất cả điều sai
+
+Câu 139. Khoảng cách giữa 2 cung hàm trên dưới là bao nhiêu khi bị giãn dây chằng ở khớp thái dương hàm:
+A. 40mm
+B. < 40mm
+C. 50mm
+*D. > 50mm
+
+Câu 140. Chọn câu đúng. Khi khám độ lung lay răng:
+A. Độ 1: lung lay hơn 1mm
+B. Độ 2: lung lay có thể cảm thấy bằng tay
+C. Độ 3: lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm
+*D. Độ 4: lung lay theo chiều thẳng đứng, răng không còn chức năng
+
+Câu 141. Răng lung lay theo chiều ngang 1.2mm được xếp vào mức độ nào
+A. 2
+*B. 3
+C. 4
+D. 5
+
+Câu 142. Khi khám bệnh nhân mất răng bán phần, phần thăm hỏi chỉ là hình thức, chỉ cần đặt trọng tâm vào việc khám các răng và các vùng khác trong miệng.
+A. Đúng
+*B. Sai
+
+Câu 143. Việc khám cận lâm sàng bằng phim tia X chỉ cần thiết khi nghi ngờ có tổn thương vùng quanh chóp chân răng trụ sẽ mang móc hoặc dùng làm trụ cầu.
+A. Đúng
+*B. Sai
+
+Câu 144. Răng được chọn làm trụ phải có tỷ lệ chiều cao thân răng và chân răng nhỏ hơn 1
+*A. Đúng
+B. Sai
+
+Câu 145. Khi lựa chọn kiểu phục hình ta cần ưu tiên nghĩ đến phục hình cố định rồi đến phục hình khung bộ và cuối cùng là phục hình tháo lắp bán phần nền nhựa
+*A. Đúng
+B. Sai
+
+Câu 146. Việc điều trị tiền phục hình chỉ bao gồm lấy vôi răng, trám các răng sâu và nhổ các chân răng trên cung hàm.
+A. Đúng
+*B. Sai
+
+Câu 147. Ở hàm phục hình tháo lắp bán phần nền nhựa, lực nhai được phân bố hoàn toàn lên mô niêm mạc - xương . Trong khi ở hàm phục hình tháo lắp bán phần khung bộ lực chức năng được phân bố lên mô nha chu và mô xương – niêm mạc.
+@A. Đúng
+B. Sai
+
+> Giáo trình Bài 1: ở hàm nền nhựa, lực nhai truyền từ nền hàm qua niêm mạc xuống xương. Hàm khung bộ có tựa mặt nhai nên lực truyền cả lên răng trụ (mô nha chu) và mô xương – niêm mạc.

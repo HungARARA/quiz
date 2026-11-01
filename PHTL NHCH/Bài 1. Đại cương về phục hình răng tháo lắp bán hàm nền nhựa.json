@@ -1,0 +1,4685 @@
+{
+  "title": "Bài 1. Đại cương về phục hình răng tháo lắp bán hàm nền nhựa",
+  "subject": "PHTL NHCH",
+  "source": "PHTL NHCH Bài 1",
+  "header": [],
+  "note": null,
+  "noteLabel": null,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Phát biểu nào sau đây là sai khi nói về phục hình tháo lắp bán phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là loại phục hình thay thế cho hàm mất răng bán phần"
+        },
+        {
+          "label": "B",
+          "text": "Cấu tạo gồm có nền hàm và móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm luôn được làm bằng nhựa tự cứng, mang các răng giả"
+        },
+        {
+          "label": "D",
+          "text": "Móc được thiết kế ôm quanh răng trụ để lưu giữ phục hình"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 2,
+      "question": "Phát biểu nào sau đây là đúng khi nói về hàm phục hình tháo lắp bán phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền hàm luôn được làm bằng nhựa tự cứng"
+        },
+        {
+          "label": "B",
+          "text": "Cấu tạo gồm có nền hàm và móc đúc"
+        },
+        {
+          "label": "C",
+          "text": "Lực nhai được phân bố hoàn toàn lên mô niêm mạc - xương"
+        },
+        {
+          "label": "D",
+          "text": "Khó thực hiện các sữa chữa hàm khi có mất thêm răng hoặc gãy móc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng ngắn"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng xen kẽ với khoảng mất răng quá dài"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng gần toàn bộ và răng còn lại lung lay"
+        },
+        {
+          "label": "D",
+          "text": "Các răng trụ xoay nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 4,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng quá dài"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng phía sau và không còn răng giới hạn phía xa"
+        },
+        {
+          "label": "C",
+          "text": "Phục hình kết hợp (tháo lắp kết hợp với cố định)"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 5,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng dài."
+        },
+        {
+          "label": "B",
+          "text": "Mất răng phía sau và không còn răng giới hạn phía xa (loại I, II Kennedy)"
+        },
+        {
+          "label": "C",
+          "text": "Làm hàm giả tức thì ngay sau khi nhổ răng."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 6,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán phần nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm hàm giả tức thì ngay sau khi nhổ răng."
+        },
+        {
+          "label": "B",
+          "text": "Làm hàm chuyển tiếp."
+        },
+        {
+          "label": "C",
+          "text": "Mất gần hết răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 7,
+      "question": "Yếu tố tâm lý nào khiến bệnh nhân chọn làm PHỤC HÌNH THÁO LẮP bán hàm hơn là PHCĐ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân không muốn mài răng"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân muốn thuận lợi cho việc vệ sinh răng miệng"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân sợ đau trong một số công việc khi làm PHCĐ như lấy tủy, khoan ống chân răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Phục hình tháo lắp bán hàm được chỉ định dựa trên các yếu tố nào sau đây?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kỹ thuật"
+        },
+        {
+          "label": "B",
+          "text": "Tâm lý"
+        },
+        {
+          "label": "C",
+          "text": "Kinh tế"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các yếu tố trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Phục hình tháo lắp bán hàm được chỉ định dựa trên các yếu tố nào sau đây?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kỹ thuật, tâm lý, sở thích của bác sĩ"
+        },
+        {
+          "label": "B",
+          "text": "Kỹ thuật, tâm lý, yêu cầu của bệnh nhân"
+        },
+        {
+          "label": "C",
+          "text": "Kỹ thuật, tâm lý, kinh tế"
+        },
+        {
+          "label": "D",
+          "text": "Kỹ thuật, tâm lý, trang thiết bị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "Ưu điểm của phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khó giữ vệ sinh răng miệng."
+        },
+        {
+          "label": "B",
+          "text": "Dễ dàng giữ vệ sinh răng miệng."
+        },
+        {
+          "label": "C",
+          "text": "Phục hình các răng trước không thẩm mỹ bằng phục hình cố định."
+        },
+        {
+          "label": "D",
+          "text": "Khó thực hiện các sửa chữa hàm khi cần."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 11,
+      "question": "Phục hình tháo lắp bán phần nền nhựa có ưu điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ thích nghi"
+        },
+        {
+          "label": "B",
+          "text": "Dễ sửa chữa"
+        },
+        {
+          "label": "C",
+          "text": "Truyền lực nhai qua răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Hạn chế tiêu xương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm so với phục hình cố định là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ dàng giữ vệ sinh cho răng thật lẫn răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Ăn nhai tốt"
+        },
+        {
+          "label": "C",
+          "text": "Ít gây sâu răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 13,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm so với phục hình cố định là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít tốn kém hơn phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Ăn nhai tốt"
+        },
+        {
+          "label": "C",
+          "text": "Ít gây sâu răng"
+        },
+        {
+          "label": "D",
+          "text": "Sức nhai tốt hơn phục hình cố định."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Khuyết điểm của phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình tháo lắp tốn kém hơn phục hình cố định."
+        },
+        {
+          "label": "B",
+          "text": "Phục hình có tính xê dịch, tạo cảm giác bất ổn."
+        },
+        {
+          "label": "C",
+          "text": "Khó làm vệ sinh hàm giả."
+        },
+        {
+          "label": "D",
+          "text": "Sức nhai tốt hơn phục hình cố định."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 15,
+      "question": "Một trong những nguyên nhân thất bại của phục hình tháo lắp bán phần (chọn câu sai):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chẩn đoán sai và lập kế hoạch điều trị thiếu sót."
+        },
+        {
+          "label": "B",
+          "text": "Sử dụng song song kế chưa đúng."
+        },
+        {
+          "label": "C",
+          "text": "Thiếu sự hợp tác của bệnh nhân."
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân rất khó thích nghi vì hàm phục hình tháo lắp bán phần cồng kềnh gây khó chịu."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 16,
+      "question": "Sự dính của hàm bán phần nền nhựa chủ yếu nhờ vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền nhựa."
+        },
+        {
+          "label": "B",
+          "text": "Móc."
+        },
+        {
+          "label": "C",
+          "text": "Độ lẹm các răng còn lại."
+        },
+        {
+          "label": "D",
+          "text": "Nền nhựa và móc."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 17,
+      "question": "Phần giữ của móc:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là phần tận cùng của tay móc, có tính đàn hồi hơn các phần khác và được chôn trong nền nhựa."
+        },
+        {
+          "label": "B",
+          "text": "Phần giữ của móc nằm ngay đường vòng lớn nhất."
+        },
+        {
+          "label": "C",
+          "text": "Phần giữ có tác dụng giữ dính hàm, không cho hàm di chuyển theo chiều đứng."
+        },
+        {
+          "label": "D",
+          "text": "Phần giữ có tác dụng giữ dính và chống lún hàm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Móc tay đơn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chỉ có một tay móc ở phía má"
+        },
+        {
+          "label": "B",
+          "text": "Có 2 tay móc phía má lưỡi"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ cần 1 móc là đủ để hàm vững ổn"
+        },
+        {
+          "label": "D",
+          "text": "Có thiết diện bán nguyệt."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Móc dây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc dây được làm bằng hợp kim không rỉ, cứng rắn, ít đàn hồi."
+        },
+        {
+          "label": "B",
+          "text": "Móc và nền nhựa phải ôm ít nhất ¾ chu vi răng trụ"
+        },
+        {
+          "label": "C",
+          "text": "Tay móc phải ôm khít khao thân răng trụ."
+        },
+        {
+          "label": "D",
+          "text": "Khi hàm giả không hoạt động chức năng, móc vẫn tác dụng lực lên răng trụ."
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Thứ tự thực hiện móc dây:1. Dùng song song kế xác định hướng lắp; 2. Vẽ đường vòng lớn nhất; 3. Vẽ hình dạng móc; 4. Mài tròn đầu tay móc; 5. Dùng kềm bẻ móc theo hình đã vẽ",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,2,3,4,5"
+        },
+        {
+          "label": "B",
+          "text": "1,2,3,5,4"
+        },
+        {
+          "label": "C",
+          "text": "2,1,3,4,5"
+        },
+        {
+          "label": "D",
+          "text": "2,1,3,5,4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 21,
+      "question": "Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc đúc"
+        },
+        {
+          "label": "B",
+          "text": "Móc bản"
+        },
+        {
+          "label": "C",
+          "text": "Móc dây tròn"
+        },
+        {
+          "label": "D",
+          "text": "Móc Aker"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 22,
+      "question": "Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc đúc"
+        },
+        {
+          "label": "B",
+          "text": "Móc bản"
+        },
+        {
+          "label": "C",
+          "text": "Móc dây tròn"
+        },
+        {
+          "label": "D",
+          "text": "Móc thanh"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc đúc"
+        },
+        {
+          "label": "B",
+          "text": "Móc bản"
+        },
+        {
+          "label": "C",
+          "text": "Móc dây tròn"
+        },
+        {
+          "label": "D",
+          "text": "Móc vòng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 24,
+      "question": "Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc đúc"
+        },
+        {
+          "label": "B",
+          "text": "Móc bản"
+        },
+        {
+          "label": "C",
+          "text": "Móc dây tròn"
+        },
+        {
+          "label": "D",
+          "text": "Móc T"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 25,
+      "question": "Móc dùng trong phục hình tháo lắp bán phần nền nhựa thường là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Móc đúc"
+        },
+        {
+          "label": "B",
+          "text": "Móc bản"
+        },
+        {
+          "label": "C",
+          "text": "Móc dây tròn"
+        },
+        {
+          "label": "D",
+          "text": "Móc chữ Y"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 26,
+      "question": "Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "D",
+          "text": "Thanh gót răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "D",
+          "text": "Thanh lưỡi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 28,
+      "question": "Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "D",
+          "text": "Tấm bản lưỡi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "D",
+          "text": "Thanh khẩu đơn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "D",
+          "text": "Thanh khẩu kép"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Thành phần nào không cấu tạo nên phục hình tháo lắp từng phần nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "D",
+          "text": "Thanh hình móng ngựa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Các ví dụ của bộ phận giả là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các khí cụ chỉnh hình và bộ giữ khoảng"
+        },
+        {
+          "label": "B",
+          "text": "Hàm giả, hàm giả cố định hoặc mão răng"
+        },
+        {
+          "label": "C",
+          "text": "Giá khớp hoặc cung mặt"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Các ví dụ của bộ phận giả là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các khí cụ chỉnh hình"
+        },
+        {
+          "label": "B",
+          "text": "Hàm giả"
+        },
+        {
+          "label": "C",
+          "text": "Giá khớp"
+        },
+        {
+          "label": "D",
+          "text": "Cung mặt"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 34,
+      "question": "Các ví dụ của bộ phận giả là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các khí cụ chỉnh hình"
+        },
+        {
+          "label": "B",
+          "text": "Bộ giữ khoảng"
+        },
+        {
+          "label": "C",
+          "text": "Hàm giả, hàm giả cố định hoặc mão răng"
+        },
+        {
+          "label": "D",
+          "text": "Giá khớp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 35,
+      "question": "Các ví dụ của bộ phận giả là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bộ giữ khoảng"
+        },
+        {
+          "label": "B",
+          "text": "Hàm giả"
+        },
+        {
+          "label": "C",
+          "text": "Giá khớp hoặc cung mặt"
+        },
+        {
+          "label": "D",
+          "text": "Thước Fox"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 36,
+      "question": "Hàm giả bán phần được nâng đỡ bởi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Một/ nhiều răng trụ và sống hàm (residual ridge)"
+        },
+        {
+          "label": "B",
+          "text": "Mô mềm và niêm mạc"
+        },
+        {
+          "label": "C",
+          "text": "Mô mềm và răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 37,
+      "question": "Hàm tạm (interim denture) là một:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hàm giả được sử dụng chỉ trong một thời gian ngắn vì mục đích thẩm mỹ."
+        },
+        {
+          "label": "B",
+          "text": "Hàm giả chỉ dùng trong một thời gian ngắn cho tình huống bệnh nhân chấp nhận một thay thế nhân tạo cho những răng tự nhiên bị mất."
+        },
+        {
+          "label": "C",
+          "text": "Hàm giả được sử dụng trong một giai đoạn ngắn vì lí do ăn nhai và phát âm"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "Cấu trúc của một phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "B",
+          "text": "Răng giả"
+        },
+        {
+          "label": "C",
+          "text": "Móc"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 39,
+      "question": "Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khung"
+        },
+        {
+          "label": "B",
+          "text": "Răng giả"
+        },
+        {
+          "label": "C",
+          "text": "Móc"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền hàm"
+        },
+        {
+          "label": "B",
+          "text": "Khung"
+        },
+        {
+          "label": "C",
+          "text": "Móc"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Cấu trúc của một phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gồm 2 thành phần là nền nhựa và các răng giả"
+        },
+        {
+          "label": "B",
+          "text": "Quan trọng là nền nhựa, móc là thành phần phụ không quan trọng"
+        },
+        {
+          "label": "C",
+          "text": "Móc có thể có hoặc không tùy trường hợp"
+        },
+        {
+          "label": "D",
+          "text": "A và C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 42,
+      "question": "Chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chỉ định về kỹ thuật"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ định về kinh tế"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ định về tâm lý"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 43,
+      "question": "Chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khoảng mất răng dài"
+        },
+        {
+          "label": "B",
+          "text": "Khoảng mất răng ngắn"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng xen kẻ"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng gần như toàn bộ nhưng bệnh nhân không muốn mang hàm giả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 44,
+      "question": "Chọn câu sai: Chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm hàm giả tức thì ngay sau khi nhổ răng"
+        },
+        {
+          "label": "B",
+          "text": "Khoảng mất răng dài, bệnh nhân mong muốn làm phục hình cố định"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng đơn lẻ nhưng bệnh nhân mong muốn làm phục hình tháo lắp"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng gần hết hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 45,
+      "question": "Chọn câu sai: Chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng phía sau"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng xen kẽ với khoảng mất răng dài không thể làm phục hình cố định được"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng đơn lẻ"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân không có điều kinh kinh tế cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 46,
+      "question": "Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Các răng còn lại có bệnh nha chu, điều trị chưa ổn định"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 47,
+      "question": "Chọn câu sai: Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân mất răng đơn lẻ, bệnh nhân kinh tế thấp, muốn làm phục hình cố định"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng sau 2 bên hàm dưới, bệnh nhân muốn làm phục hình cố định"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng sau 2 bên, bệnh nhân có vấn đề về khớp gối khó di chuyển"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân mất răng đơn lẻ, bệnh nhân kinh tế cao, muốn làm phục hình cố định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 48,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rẻ tiền"
+        },
+        {
+          "label": "B",
+          "text": "Dễ sửa chữa hàm giả: thêm răng, thêm móc, đệm hàm…"
+        },
+        {
+          "label": "C",
+          "text": "Thực hiện dễ dàng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 49,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ thích nghi"
+        },
+        {
+          "label": "B",
+          "text": "Dễ vệ sinh nên hạn chế sâu răng"
+        },
+        {
+          "label": "C",
+          "text": "Tiết kiệm mô răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 50,
+      "question": "Nhược điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khó thích nghi"
+        },
+        {
+          "label": "B",
+          "text": "Khó vệ sinh"
+        },
+        {
+          "label": "C",
+          "text": "Tiết kiệm mô răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 51,
+      "question": "Nhược điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thẫm mỹ khó chấp nhận được so với cầu răng nhất là trong trường hợp tiêu xương nhiều"
+        },
+        {
+          "label": "B",
+          "text": "Phần lớn hàm giả tựa lên mô xương – niêm mạc nên hàm bị lún, sức nhai kém và gây ra tiêu xương"
+        },
+        {
+          "label": "C",
+          "text": "Thời gian điều trị dài hơn làm hàm khung"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 52,
+      "question": "Chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Làm hàm phẩu thuật."
+        },
+        {
+          "label": "B",
+          "text": "Làm hàm chuyển tiếp."
+        },
+        {
+          "label": "C",
+          "text": "Mất gần hết răng."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 53,
+      "question": "Chỉ định của phục hình tháo lắp bán hàm nền nhựa về tâm lý",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân không muốn mài răng."
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân sợ đau."
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân muốn làm PHỤC HÌNH THÁO LẮP để dễ vệ sinh."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 54,
+      "question": "Thực hiện một phục hình tháo lắp bán hàm nền nhựa trong lần hẹn 2 là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có thể lấy dấu sau cùng"
+        },
+        {
+          "label": "B",
+          "text": "Ghi tương quan 2 hàm."
+        },
+        {
+          "label": "C",
+          "text": "Trong labo, hai mẫu hàm sẽ được lên giá khớp và sắp các răng giả."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 55,
+      "question": "Nhược điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là một vật lạ."
+        },
+        {
+          "label": "B",
+          "text": "Cồng kềnh."
+        },
+        {
+          "label": "C",
+          "text": "Rất khó chịu khi mang trong miệng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 56,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thực hiện dễ dàng"
+        },
+        {
+          "label": "B",
+          "text": "Không đòi hỏi nhiều về kỹ thuật, vật liệu, máy móc ở phòng mạch và labo phục hình."
+        },
+        {
+          "label": "C",
+          "text": "A và B đúng"
+        },
+        {
+          "label": "D",
+          "text": "A và B sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 57,
+      "question": "Chọn câu sai: Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân không hợp tác khi điều trị."
+        },
+        {
+          "label": "C",
+          "text": "Mất gần hết răng"
+        },
+        {
+          "label": "D",
+          "text": "A và B"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 58,
+      "question": "Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền nhựa"
+        },
+        {
+          "label": "B",
+          "text": "Răng sứ"
+        },
+        {
+          "label": "C",
+          "text": "Răng nhựa"
+        },
+        {
+          "label": "D",
+          "text": "Sườn kim loại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 59,
+      "question": "Cấu trúc bắt buộc của một phục hình tháo lắp bán hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng trụ"
+        },
+        {
+          "label": "B",
+          "text": "Răng giả"
+        },
+        {
+          "label": "C",
+          "text": "Móc Aker"
+        },
+        {
+          "label": "D",
+          "text": "Khung kim loại"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 60,
+      "question": "Phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chuyển lực chức năng thành lực cận chức năng"
+        },
+        {
+          "label": "B",
+          "text": "Thay thế răng mất với chức năng hoàn hảo"
+        },
+        {
+          "label": "C",
+          "text": "Gồm nền nhựa và các móc"
+        },
+        {
+          "label": "D",
+          "text": "Có thể có khung kim loại nhất là đối với hàm dưới"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 61,
+      "question": "Phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chuyển lực chức năng xuống nền tựa"
+        },
+        {
+          "label": "B",
+          "text": "Thay thế răng mất bán phần"
+        },
+        {
+          "label": "C",
+          "text": "Gồm nền nhựa và các móc"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 62,
+      "question": "Phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hồi khả năng ăn nhai tốt, tránh được tình trạng tiêu xương"
+        },
+        {
+          "label": "B",
+          "text": "Các móc đôi khi không cần thiết"
+        },
+        {
+          "label": "C",
+          "text": "Các móc ôm sát răng thật giúp cố định răng cứng chắc"
+        },
+        {
+          "label": "D",
+          "text": "Răng giả có số lượng thay đổi từ 1-16 cái trên 1 hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 63,
+      "question": "Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trong suốt hoặc có màu hồng nhạt"
+        },
+        {
+          "label": "B",
+          "text": "Làm bằng nhựa acrylic mang các răng giả thay thế các răng mất"
+        },
+        {
+          "label": "C",
+          "text": "Chức năng chính giúp lưu giữ phục hình"
+        },
+        {
+          "label": "D",
+          "text": "Postdam thực hiện chính xác giúp giữ vững nền hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 64,
+      "question": "Nền hàm trong phục hình tháo lắp bán hàm nền nhựa cấu tạo từ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhựa tự cứng"
+        },
+        {
+          "label": "B",
+          "text": "Nhựa nấu"
+        },
+        {
+          "label": "C",
+          "text": "Nhựa dẻo"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 65,
+      "question": "Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tựa trực tiếp lên mô xương, niêm mạc và một phần lên các răng thật còn lại"
+        },
+        {
+          "label": "B",
+          "text": "Phải cứng chắc, không biến dạng"
+        },
+        {
+          "label": "C",
+          "text": "Màu sắc tự nhiên"
+        },
+        {
+          "label": "D",
+          "text": "Vành khít là cấu trúc quan trọng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 66,
+      "question": "Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đề kháng tốt với vi sinh vật trong môi trường miệng"
+        },
+        {
+          "label": "B",
+          "text": "Cấu tạo từ nhựa nên gọn nhẹ, dễ dàng thích nghi"
+        },
+        {
+          "label": "C",
+          "text": "Chứa răng giả giúp cải thiện chức năng nhai"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 67,
+      "question": "Nền hàm trong phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hạn sử dụng lâu dài do có khả năng tương hợp sinh học tốt với mô niêm mạc miệng, đề kháng vi khuẩn"
+        },
+        {
+          "label": "B",
+          "text": "Lưu giữ trên miệng bằng lực mao dẫn và các móc"
+        },
+        {
+          "label": "C",
+          "text": "Có màu sắc gần giống nướu răng nên đảm bảo tính thẫm mỹđối với đa số trường hợp mất răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 68,
+      "question": "Thời gian sử dụng của PHỤC HÌNH THÁO LẮP BH nền nhựa là bao nhiêu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2-4 năm"
+        },
+        {
+          "label": "B",
+          "text": "3-5 năm"
+        },
+        {
+          "label": "C",
+          "text": "4-5 năm"
+        },
+        {
+          "label": "D",
+          "text": "3-6 năm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 69,
+      "question": "Ưu điểm của PHỤC HÌNH THÁO LẮP BH khung bộ so với nền nhựa, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thích hợp với bệnh nhân lớn tuổi, thời gian sử dụng PH ngắn."
+        },
+        {
+          "label": "B",
+          "text": "Sức nhai tốt hơn."
+        },
+        {
+          "label": "C",
+          "text": "Thời gian thích nghi ngắn."
+        },
+        {
+          "label": "D",
+          "text": "Tuổi thọ cao hơn."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 70,
+      "question": "Tuổi thọ trung bình của PHKB:",
+      "options": [
+        {
+          "label": "A",
+          "text": "7-8 năm."
+        },
+        {
+          "label": "B",
+          "text": "3-5 năm."
+        },
+        {
+          "label": "C",
+          "text": "1-2 năm."
+        },
+        {
+          "label": "D",
+          "text": "Dưới 1 năm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 71,
+      "question": "Ý nào sau đây KHÔNG đúng về ưu điểm về hàm tháo lắp?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vệ sinh dễ dàng"
+        },
+        {
+          "label": "B",
+          "text": "Hàm có tính chất xê dịch, thuận tiện trong ăn nha"
+        },
+        {
+          "label": "C",
+          "text": "Thẩm mỹ đảm bảo ở những trường hợp tiêu xương nhiều"
+        },
+        {
+          "label": "D",
+          "text": "Dễ sửa chữa do có thể tháo ra được"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 72,
+      "question": "Nội dung của lần hẹn 2 trên lâm sàng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy dấu."
+        },
+        {
+          "label": "B",
+          "text": "Xác định khớp cắn trung tâm hoặc tưởng quan tâm."
+        },
+        {
+          "label": "C",
+          "text": "Thử răng."
+        },
+        {
+          "label": "D",
+          "text": "Lắp hàm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 73,
+      "question": "Chống chỉ định của PHỤC HÌNH THÁO LẮP BH:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẻ, khoảng mất răng dài"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng phiá sau, không giới hạn phía xa"
+        },
+        {
+          "label": "C",
+          "text": "Răng trụ không xoay nhiều"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh lí nha chu, chưa được điều trị ổn định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 74,
+      "question": "Thực hiện một PHỤC HÌNH THÁO LẮP BH nền nhựa cần bao nhiêu lần hẹn trên lâm sàng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 - 4 lần"
+        },
+        {
+          "label": "B",
+          "text": "5 - 6 lần"
+        },
+        {
+          "label": "C",
+          "text": "7 - 8 lần"
+        },
+        {
+          "label": "D",
+          "text": "Khác"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 75,
+      "question": "Nhược điểm của phục hình tháo lắp bán hàm nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rẻ tiền"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình có tính xê dịch cao tạo cảm giác bất ổn"
+        },
+        {
+          "label": "C",
+          "text": "Thời gian điều trị ngắn hơn làm hàm khkhung"
+        },
+        {
+          "label": "D",
+          "text": "Khó vệ sinh cho hàm giả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 76,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa so với phục hình cố định",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ăn nhai tốt"
+        },
+        {
+          "label": "B",
+          "text": "Thẩm mỹ cao"
+        },
+        {
+          "label": "C",
+          "text": "Dễ sửa chữa hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Ít gây sâu răng viêm nướu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 77,
+      "question": "Trong các giai đoạn thực hiện một phục hình tháo lắp bán hàm nền nhựa thì sau khi ghi tương quan 2 hàm thì sẽ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lên răng"
+        },
+        {
+          "label": "B",
+          "text": "Trong labo 2 mẫu hàm sẽ được lên giá khớp và sắp các răng giả"
+        },
+        {
+          "label": "C",
+          "text": "Lấy dấu sau cùng"
+        },
+        {
+          "label": "D",
+          "text": "Ép nhựa và hoàn thiện hàm (tại labo)"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 78,
+      "question": "Nướu giả có nhiệm vụ gì? DỄ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tái tạo lại thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Tái tạo khả năng phát âm"
+        },
+        {
+          "label": "C",
+          "text": "Bù trừ phần xương mất sau nhổ răng"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả ý trên đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 79,
+      "question": "Điểm lưu ý khi lắp hàm? DỄ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nướu giả"
+        },
+        {
+          "label": "B",
+          "text": "Răng giả"
+        },
+        {
+          "label": "C",
+          "text": "Móc"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 80,
+      "question": "Nói về phục hình tháo lắp bán hàm nền nhựa:\n(1) Lực nhai được truyền từ nền hàm qua niêm mạc xuống xương\n(2) Cấu trúc gồm 2 phần là nền hàm và răng giả\n(3) Nền hàm được làm bằng nhựa PE",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) (2) (3) đúng"
+        },
+        {
+          "label": "B",
+          "text": "(1) (2) đúng, (3) sai"
+        },
+        {
+          "label": "C",
+          "text": "(1) (3) đúng , (2) sai"
+        },
+        {
+          "label": "D",
+          "text": "(1) đúng, (2) (3) sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 81,
+      "question": "Chọn câu SAI. Phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Được chỉ định cho trường hợp mất gần hết răng"
+        },
+        {
+          "label": "B",
+          "text": "Với cùng một số răng mất như nhau, sẽ tốn kém hơn phục hình tháo lắp bán hàm khung bộ"
+        },
+        {
+          "label": "C",
+          "text": "Chống chỉ định với bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "D",
+          "text": "Khi mất thêm răng, việc thêm răng giả vào phục hình tháo lắp sẽ dễ dàng hơn phục hình cố định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 82,
+      "question": "Chọn câu SAI. Về ưu, nhược điểm của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ sửa chữa các răng thật còn lại do hàm giả tháo ra được"
+        },
+        {
+          "label": "B",
+          "text": "Khó làm nhóm răng cửa trên nếu bệnh nhân có khớp cắn sâu"
+        },
+        {
+          "label": "C",
+          "text": "Đòi hỏi nhiều về kỹ thuật và thiết bị"
+        },
+        {
+          "label": "D",
+          "text": "Giữ vệ sinh cho hàm giả"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 83,
+      "question": "Câu nào sau đây SAI khi nói về PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thời gian điều trị dài hơn làm hàm khung"
+        },
+        {
+          "label": "B",
+          "text": "Với cùng số răng mất như nhau, làm PHỤC HÌNH THÁO LẮP sẽ ít tốn kém hơn PHCĐ"
+        },
+        {
+          "label": "C",
+          "text": "Khi mất thêm răng, việc thêm răng giả vào PHỤC HÌNH THÁO LẮP sẽ dễ dàng và ít tốn kém hơn PHCĐ"
+        },
+        {
+          "label": "D",
+          "text": "PHỤC HÌNH THÁO LẮP BH nền nhựa rẻ hơn PHỤC HÌNH THÁO LẮP BH khung bộ khi làm với cùng số răng mất như nhau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 84,
+      "question": "Câu nào sau đây SAI khi nói về ưu điểm của PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rẻ tiền"
+        },
+        {
+          "label": "B",
+          "text": "Tốn nhiều mô răng hơn"
+        },
+        {
+          "label": "C",
+          "text": "Dễ sửa chữa hàm giả: thêm răng, thêm móc, đệm hàm…"
+        },
+        {
+          "label": "D",
+          "text": "Dễ chữa các răng thật còn lại do hàm giả có thể tháo ra được"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 85,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít gây tiêu xương"
+        },
+        {
+          "label": "B",
+          "text": "Sức nhai tốt"
+        },
+        {
+          "label": "C",
+          "text": "Tạo cảm giác vững ổn"
+        },
+        {
+          "label": "D",
+          "text": "Dễ sữa chữa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 86,
+      "question": "Ưu điểm của PHỤC HÌNH THÁO LẮP BH, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hồi được phần xương ổ bị mất đi"
+        },
+        {
+          "label": "B",
+          "text": "Dễ thực hiện các thao tác sửa hàm khi cần: thêm răng, thêm móc, đệm hàm,…"
+        },
+        {
+          "label": "C",
+          "text": "Ít cồng kềnh, tạo sự thoải mái cho bệnh nhân nên thời gian thích nghi ngắn"
+        },
+        {
+          "label": "D",
+          "text": "Thời gian sử dụng có thể từ 3-5 năm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 87,
+      "question": "Sau khi thử răng trên bệnh nhân thì lần hẹn tiếp theo trên lâm sàng ta làm gì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy dấu"
+        },
+        {
+          "label": "B",
+          "text": "Xác định khớp cắn trung tâm hoặc tương quan tâm"
+        },
+        {
+          "label": "C",
+          "text": "Lắp hàm"
+        },
+        {
+          "label": "D",
+          "text": "Chữa đau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 88,
+      "question": "Thành phần của phục hình tháo lắp bán hàm nền nhựa gồm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền tạm, gối sáp, móc"
+        },
+        {
+          "label": "B",
+          "text": "Nền hàm, gối sáp, móc"
+        },
+        {
+          "label": "C",
+          "text": "Nền hàm, móc"
+        },
+        {
+          "label": "D",
+          "text": "Nền hàm, gối sáp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình Bài 1: phục hình tháo lắp bán hàm nền nhựa gồm nền hàm (mang răng giả) và móc. Nền tạm, gối sáp chỉ dùng tạm khi ghi tương quan và thử răng. Câu \"Phục hình tháo lắp bán hàm nền nhựa gồm\" cuối bài cũng chọn \"Nền nhựa và móc\".",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 89,
+      "question": "Số lần hẹn trên lâm sàng khi thực hiện phục hình tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "4-5 lần"
+        },
+        {
+          "label": "B",
+          "text": "5-6 lần"
+        },
+        {
+          "label": "C",
+          "text": "6-7 lần"
+        },
+        {
+          "label": "D",
+          "text": "7-8 lần"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 90,
+      "question": "Ở lần hẹn 1 trong khi thực hiện phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thử răng"
+        },
+        {
+          "label": "B",
+          "text": "Lấy dấu sau cùng"
+        },
+        {
+          "label": "C",
+          "text": "Lấy dấu sơ khởi"
+        },
+        {
+          "label": "D",
+          "text": "Chữa đau"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 91,
+      "question": "Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "C",
+          "text": "Các răng còn lại có bệnh nha chu, điều trị chưa ổn định"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 92,
+      "question": "CHỌN CÂU SAI. Chống chỉ định của hàm giả tháo lắp nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng."
+        },
+        {
+          "label": "B",
+          "text": "Các răng còn lại đang có bệnh nha chu, điều trị chưa ổn định."
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân có rối loạn tâm thần."
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân mất gần hết răng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 93,
+      "question": "Trong các giai đoạn thực hiện một phục hình tháo lắp bán hàm nền nhựa, giai đoạn đầu không thể có bước nào sau đây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khám"
+        },
+        {
+          "label": "B",
+          "text": "Chẩn đoán"
+        },
+        {
+          "label": "C",
+          "text": "Lấy dấu 2 hàm"
+        },
+        {
+          "label": "D",
+          "text": "Thử răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 94,
+      "question": "Đâu không phải là chống chỉ định của phục hình tháo lắp bán hàm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Các răng còn lại có bệnh nha chu"
+        },
+        {
+          "label": "C",
+          "text": "Các răng còn lại có buồng tuỷ lớn, sát mặt nhai"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 95,
+      "question": "Chống chỉ định của PHỤC HÌNH THÁO LẮP BH, CHỌN CÂU SAI.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân có bệnh lý nha chu chưa điều trị ổn định"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân mất ít răng trên nhiều đoạn khác nhau"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân không hợp tác điều trị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 96,
+      "question": "Trong phục hình tháo lắp bán hàm nền hàm được làm bằng",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhựa acrylic"
+        },
+        {
+          "label": "B",
+          "text": "Cao su non"
+        },
+        {
+          "label": "C",
+          "text": "Nhựa PET"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 97,
+      "question": "Nền hàm của PHỤC HÌNH THÁO LẮP BH thường làm bằng chất liệu gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhựa acrylic"
+        },
+        {
+          "label": "B",
+          "text": "Nhựa pvc"
+        },
+        {
+          "label": "C",
+          "text": "Nhựa pet"
+        },
+        {
+          "label": "D",
+          "text": "Nhựa hdp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 98,
+      "question": "Móc thường dùng là móc hợp kim có đường kính?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0,7- 1 mm"
+        },
+        {
+          "label": "B",
+          "text": "0,5- 1 mm"
+        },
+        {
+          "label": "C",
+          "text": "0,6- 2 mm"
+        },
+        {
+          "label": "D",
+          "text": "0,5- 1,5 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 99,
+      "question": "Thông thường yếu tố thẩm mỹ được quyết định vào giai đoạn nào ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giai đoạn lắp hàm"
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn thử răng"
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn chữa đau"
+        },
+        {
+          "label": "D",
+          "text": "Giai đoạn ghi tương quan hai hàm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 100,
+      "question": "Nhược điểm của PHỤC HÌNH THÁO LẮP BH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Có tính xê dịch, tạo cảm giác bất ổn."
+        },
+        {
+          "label": "B",
+          "text": "Là một vật lạ, cồng kềnh, rất khó chịu khi mang trong miệng."
+        },
+        {
+          "label": "C",
+          "text": "Một số trường hợp mất răng trước, nếu phải dùng móc hay nướu giả sẽ mất thẩm mỹ."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 101,
+      "question": "Đường kính của móc thường dùng trong PHỤC HÌNH THÁO LẮP BH",
+      "options": [
+        {
+          "label": "A",
+          "text": "0,7- 1 mm"
+        },
+        {
+          "label": "B",
+          "text": "0,5- 1 mm"
+        },
+        {
+          "label": "C",
+          "text": "0,6- 2 mm"
+        },
+        {
+          "label": "D",
+          "text": "0,5- 1,5 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 102,
+      "question": "PHỤC HÌNH THÁO LẮP BH có thể không được chỉ định với trường hợp nào sau đây",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng dài"
+        },
+        {
+          "label": "B",
+          "text": "Mất gần hết răng"
+        },
+        {
+          "label": "C",
+          "text": "Điều kiện kinh tế bệnh nhân kém"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng phía sau và còn răng giới hạn phía xa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 103,
+      "question": "Khớp cắn khi làm hàm giả cho bệnh nhân toàn bán hàm khác với toàn hàm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi đưa hàm sang bên, bên làm việc có thể hướng dẫn nhóm hoặc hướng dẫn răng nanh"
+        },
+        {
+          "label": "B",
+          "text": "Khi đưa hàm sang bên, bên làm việc chỉ hướng dẫn nhóm"
+        },
+        {
+          "label": "C",
+          "text": "Khi đưa hàm sang bên, bên không làm việc nhả khớp hoàn toàn"
+        },
+        {
+          "label": "D",
+          "text": "Khi đưa hàm sang bên, bên không làm việc phải chỉ có duy nhất 1 điểm chạm."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 104,
+      "question": "Điểm nào sau đây là đặc điểm PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ít gây tiêu xương vì lực truyền qua răng trụ"
+        },
+        {
+          "label": "B",
+          "text": "Tiêu xương nhiều vì lực truyền qua răng trụ"
+        },
+        {
+          "label": "C",
+          "text": "Ít gây tiêu xương vì lực truyền qua xương"
+        },
+        {
+          "label": "D",
+          "text": "Tiêu xương nhiều vì lực truyền qua xương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 105,
+      "question": "Ghi tương quan hai hàm nằm trong lần hẹn thứ mấy",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thứ nhất"
+        },
+        {
+          "label": "B",
+          "text": "Thứ hai"
+        },
+        {
+          "label": "C",
+          "text": "Thứ ba"
+        },
+        {
+          "label": "D",
+          "text": "Thứ tư"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 106,
+      "question": "Khi làm hàm giả tháo lắp bán hàm nền nhựa luôn luôn cần móc",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đúng"
+        },
+        {
+          "label": "B",
+          "text": "Sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 107,
+      "question": "Số lần hẹn bệnh nhân để thực hiện một phục hình tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2-3 lần"
+        },
+        {
+          "label": "B",
+          "text": "3-4 lần"
+        },
+        {
+          "label": "C",
+          "text": "4-5 lần"
+        },
+        {
+          "label": "D",
+          "text": "5-6 lần"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 108,
+      "question": "Mất răng phía sau cần làm phục hình vì:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ảnh hưởng đến vấn đề thẩm mỹ"
+        },
+        {
+          "label": "B",
+          "text": "Ảnh hưởng đến chức năng nhai"
+        },
+        {
+          "label": "C",
+          "text": "Các răng khác bị di lệch"
+        },
+        {
+          "label": "D",
+          "text": "Ảnh hưởng toàn thân"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 109,
+      "question": "Móc của phục hình tháo lắp bán hàm có đường kính là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.4-0.8 mm"
+        },
+        {
+          "label": "B",
+          "text": "0.5-0.8 mm"
+        },
+        {
+          "label": "C",
+          "text": "0.6-1 mm"
+        },
+        {
+          "label": "D",
+          "text": "0.7-1 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 110,
+      "question": "Đặc điểm của phần giữ móc dây tròn trong PHỤC HÌNH THÁO LẮP BH là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần tận cùng."
+        },
+        {
+          "label": "B",
+          "text": "Đàn hồi nhất."
+        },
+        {
+          "label": "C",
+          "text": "Nằm trong vùng lẹm của răng trụ."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 111,
+      "question": "Trong thành phần của PHỤC HÌNH THÁO LẮP BH nền nhựa, móc được thiết kế:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ôm gọn theo sống hàm"
+        },
+        {
+          "label": "B",
+          "text": "Ôm gọn quanh trục răng"
+        },
+        {
+          "label": "C",
+          "text": "Ôm quanh răng trụ"
+        },
+        {
+          "label": "D",
+          "text": "Ôm vào các răng cối nhỏ và lớn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 112,
+      "question": "Phục hình tháo lắp bán hàm không được chỉ định trong trường hợp nào sau đây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng 16,17,18"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng 34,35, 36, 37, 45, 46, 47, 48"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân không muốn mài răng và sợ đau"
+        },
+        {
+          "label": "D",
+          "text": "Các răng làm trụ bị tiêu xương hơn 2/3 chân răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 113,
+      "question": "Nền hàm của phục hình tháo lắp bán hàm thường làm bằng chất liệu gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhựa acrylic"
+        },
+        {
+          "label": "B",
+          "text": "Nhựa pvc"
+        },
+        {
+          "label": "C",
+          "text": "Nhựa pet"
+        },
+        {
+          "label": "D",
+          "text": "Nhựa hdp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 114,
+      "question": "Chống chỉ định của PHỤC HÌNH THÁO LẮP BH, chọn câu sai:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Các răng c̣òn lại có bệnh nha chu, điều trị chưa ổn định"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân hợp tác khi điều trị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 115,
+      "question": "Đâu là các phần của một móc trong phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần giữ"
+        },
+        {
+          "label": "B",
+          "text": "Phần ôm"
+        },
+        {
+          "label": "C",
+          "text": "Phần treo"
+        },
+        {
+          "label": "D",
+          "text": "A và B đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 116,
+      "question": "Đường kính của dây thép bẻ móc phục hình tháo lắp có kích thước khoảng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0,1 – 0,5 mm"
+        },
+        {
+          "label": "B",
+          "text": "0,5 – 0,8 mm"
+        },
+        {
+          "label": "C",
+          "text": "0,7 – 1 mm"
+        },
+        {
+          "label": "D",
+          "text": "1 – 2mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 117,
+      "question": "“Ghi tương quan hai hàm” là nội dung trong lần hẹn thứ bao nhiêu trong các giai đoạn thực hiện PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lần 1"
+        },
+        {
+          "label": "B",
+          "text": "Lần 2"
+        },
+        {
+          "label": "C",
+          "text": "Lần 3"
+        },
+        {
+          "label": "D",
+          "text": "Lần 4"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 118,
+      "question": "Bệnh nhân nào sau đây có thể thực hiện PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân mất răng phía sau và không còn răng giới hạn phía xa"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân không hợp tác khi điều trị"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả trường hợp trên đều không thể thực hiện PHỤC HÌNH THÁO LẮP BH"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 119,
+      "question": "Chỉ định của hàm phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng ngắn"
+        },
+        {
+          "label": "B",
+          "text": "Mất gần như toàn bộ răng và các răng còn lại lung lay"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng phía sau và không còn răng giới hạn phía xa"
+        },
+        {
+          "label": "D",
+          "text": "Răng trụ xoay nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 120,
+      "question": "Phục hình tháo lắp bán hàm nền nhựa có ưu điểm",
+      "options": [
+        {
+          "label": "A",
+          "text": "Truyền lực nhai qua răng thật"
+        },
+        {
+          "label": "B",
+          "text": "Hạn chế tiêu xương"
+        },
+        {
+          "label": "C",
+          "text": "Dễ thích nghi"
+        },
+        {
+          "label": "D",
+          "text": "Tiết kiệm mô răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 121,
+      "question": "Nhược điểm của phục hành tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phục hình có tính xê dịch, tạo cảm giác bất ổn"
+        },
+        {
+          "label": "B",
+          "text": "Khó làm vệ sinh hàm giả"
+        },
+        {
+          "label": "C",
+          "text": "Tốn kém hơn phục hình cố định"
+        },
+        {
+          "label": "D",
+          "text": "Ít cồng kềnh"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 122,
+      "question": "Chọn câu đúng về phục hình tháo lắp bán hàm nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phân bố lực chức năng mô nha chu và mô xương- niêm mạc"
+        },
+        {
+          "label": "B",
+          "text": "Lực nhai được phân bố hoàn toàn lên mô niêm mạc-xương"
+        },
+        {
+          "label": "C",
+          "text": "Có phần chính là khung sườn"
+        },
+        {
+          "label": "D",
+          "text": "Toàn bộ cấu trúc bằng hợp kim của khung được đúc chung một lần, cùng một khối"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 123,
+      "question": "Chỉ định của phục hình tháo lắp bán hàm nền nhựa, ngoại trừ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân có các răng trụ xoay nhiều"
+        },
+        {
+          "label": "B",
+          "text": "Mất răng phía sau và không còn răng giới hạn phía xa"
+        },
+        {
+          "label": "C",
+          "text": "Mất răng xen kẽ với khoảng mất răng dài không thể làm phục hình cố định"
+        },
+        {
+          "label": "D",
+          "text": "B,C đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 124,
+      "question": "Nhược điểm của phục hình tháo lắp bán hàm",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chi phí thấp"
+        },
+        {
+          "label": "B",
+          "text": "Vệ sinh răng miệng dễ dàng"
+        },
+        {
+          "label": "C",
+          "text": "Dễ gây sâu răng, viêm nướu"
+        },
+        {
+          "label": "D",
+          "text": "Thời gian sử dụng PHỤC HÌNH THÁO LẮP BH thấp hơn so với PHKB"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 125,
+      "question": "Bước đầu tiên trong quá trình thực hiện PHỤC HÌNH THÁO LẮP BH",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khám và chẩn đoán"
+        },
+        {
+          "label": "B",
+          "text": "Lấy dấu"
+        },
+        {
+          "label": "C",
+          "text": "Xác định CKTT/TQT"
+        },
+        {
+          "label": "D",
+          "text": "Lên răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 126,
+      "question": "Điều nào sau đây là không là ưu điểm của PHỤC HÌNH THÁO LẮP BH nền nhựa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lực nhai được phân bố hoàn toàn lên mô niêm mạc – xương."
+        },
+        {
+          "label": "B",
+          "text": "Rẻ tiền, tiết kiệm mô răng"
+        },
+        {
+          "label": "C",
+          "text": "Dễ vệ sinh cho hàm giả"
+        },
+        {
+          "label": "D",
+          "text": "Thời gian sử dụng có thể kéo dài từ 7-8 năm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 127,
+      "question": "Trường hợp nào sau đây được ưu tiên chỉ định làm PHỤC HÌNH THÁO LẮP BH nền nhựa hơn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cung hàm trên chỉ bị mất răng 16"
+        },
+        {
+          "label": "B",
+          "text": "Tiền sử bệnh nhân bị đái tháo đường"
+        },
+        {
+          "label": "C",
+          "text": "BN bị mất một khoảng từ răng 14 đến răng 23"
+        },
+        {
+          "label": "D",
+          "text": "Cung hàm dưới của BN bị mất răng 34,35,36; răng 37 bị xoay nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 128,
+      "question": "Chỉ định nào sau đây không ưu tiên với phục hình tháo lắp bán hàm nền nhựa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng loại I và II Kennedy"
+        },
+        {
+          "label": "B",
+          "text": "Vệ sinh dễ dàng"
+        },
+        {
+          "label": "C",
+          "text": "Mất ít răng"
+        },
+        {
+          "label": "D",
+          "text": "Rẻ tiền, dễ thêm răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 129,
+      "question": "Trong lần hẹn thứ 3 với bệnh nhân, ta cần làm gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thử răng"
+        },
+        {
+          "label": "B",
+          "text": "Lập kế hoạch điều trị"
+        },
+        {
+          "label": "C",
+          "text": "Ghi tương quan hai hàm"
+        },
+        {
+          "label": "D",
+          "text": "Lấy dấu làm việc"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 130,
+      "question": "Chỉ định của phục hình tháo lắp bán phần là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng xen kẽ với khoảng mất răng ngắn."
+        },
+        {
+          "label": "B",
+          "text": "Mất răng phía sau và không còn răng cuối."
+        },
+        {
+          "label": "C",
+          "text": "Mất răng gần toàn bộ và răng còn lại lung lay."
+        },
+        {
+          "label": "D",
+          "text": "Các răng trụ xoay nhiều."
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": false,
+      "aiNote": "Giáo trình Bài 1, chỉ định về kỹ thuật: mất răng phía sau và không còn răng giới hạn phía xa (Kennedy I, II); mất răng xen kẽ với khoảng mất răng dài. Khoảng mất răng ngắn thì làm phục hình cố định; răng còn lại lung lay, răng trụ xoay nhiều không thuận lợi.",
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 131,
+      "question": "Trường hợp nào sau đây bệnh nhân không được làm PHỤC HÌNH THÁO LẮP:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bn bị sâu răng"
+        },
+        {
+          "label": "B",
+          "text": "Bn mất ít răng"
+        },
+        {
+          "label": "C",
+          "text": "Bn bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "D",
+          "text": "Bn đã có làm phục hình cố định"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 132,
+      "question": "Chống chỉ định của Phục hình tháo lắp bán hàm nền nhựa, NGOẠI TRỪ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Các răng còn lại có bệnh nha chu đã được điều trị ổn định"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân không hợp tác điều trị"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 133,
+      "question": "để thực hiện một phục hình tháo lắp bán hàm nên nhựa, bệnh nhân cần được hẹn mấy lần?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 - 4 lần"
+        },
+        {
+          "label": "B",
+          "text": "4 - 5 lần"
+        },
+        {
+          "label": "C",
+          "text": "5 - 6 lần"
+        },
+        {
+          "label": "D",
+          "text": "Chỉ 3 lần"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 134,
+      "question": "thành phần của móc, NGOẠI TRỪ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần nâng đỡ"
+        },
+        {
+          "label": "B",
+          "text": "Phần ôm"
+        },
+        {
+          "label": "C",
+          "text": "Phần giữ"
+        },
+        {
+          "label": "D",
+          "text": "Phần tựa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 135,
+      "question": "Móc sử dụng trong PHỤC HÌNH THÁO LẮP BH nền nhựa thường có đường kính:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0,5 - 0,7 mm"
+        },
+        {
+          "label": "B",
+          "text": "0,7 - 1 mm"
+        },
+        {
+          "label": "C",
+          "text": "1 - 1,2 mm"
+        },
+        {
+          "label": "D",
+          "text": "1,2 - 1,5 mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 136,
+      "question": "Chỉ định PHỤC HÌNH THÁO LẮP BH nền nhựa, chọn câu ĐÚNG",
+      "options": [
+        {
+          "label": "A",
+          "text": "Applegate loại I, II"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân mất răng từ từ"
+        },
+        {
+          "label": "C",
+          "text": "Còn nhiều răng trụ lung lay độ 3"
+        },
+        {
+          "label": "D",
+          "text": "Tỷ lệ chiều cao thân và chân của răng trụ lớn hơn 1"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 137,
+      "question": "Chọn câu đúng khi nói về một PHỤC HÌNH THÁO LẮP",
+      "options": [
+        {
+          "label": "A",
+          "text": "PHỤC HÌNH THÁO LẮP BH nền nhựa còn được xem là một phục hình tạm"
+        },
+        {
+          "label": "B",
+          "text": "Có thể kết hợp trụ implant để cố định một phục hình tháo lắp"
+        },
+        {
+          "label": "C",
+          "text": "A, B đúng"
+        },
+        {
+          "label": "D",
+          "text": "A, B sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 138,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rẻ tiền."
+        },
+        {
+          "label": "B",
+          "text": "Tiết kiệm mô răng."
+        },
+        {
+          "label": "C",
+          "text": "Dễ sửa chữa hàm giả: thêm răng, thêm móc, đệm hàm,.."
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 139,
+      "question": "Nhược điểm của phục hình tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vật lạ, cồng kềnh, khó chịu khi mang trong miệng"
+        },
+        {
+          "label": "B",
+          "text": "Phục hình có tính xê dịch"
+        },
+        {
+          "label": "C",
+          "text": "Khó làm nhóm răng cửa trên nên bệnh nhân có khớp cắn sâu"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 140,
+      "question": "Ở lần hẹn thứ 2 thực hiện phục hình tháo lắp bán hàm việc làm nào sao đây không chính xác",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lấy dấu nghiên cứu"
+        },
+        {
+          "label": "B",
+          "text": "Lấy dấu sau cùng"
+        },
+        {
+          "label": "C",
+          "text": "Ghi tương quan 2 hàm"
+        },
+        {
+          "label": "D",
+          "text": "Lên giá khớp và sắp răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 141,
+      "question": "Thời gian sử dụng của phục hình khung bộ theo Hahn là bao nhiêu năm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3-4 năm"
+        },
+        {
+          "label": "B",
+          "text": "4-5 năm"
+        },
+        {
+          "label": "C",
+          "text": "6-7 năm"
+        },
+        {
+          "label": "D",
+          "text": "7-8 năm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 142,
+      "question": "Hàm giả sinh lý là như thế nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lực nhai truyền từ răng giả đến răng thật xuống xương"
+        },
+        {
+          "label": "B",
+          "text": "Lực nhai truyền từ răng thật đến bề mặt niêm mạc xuống xương"
+        },
+        {
+          "label": "C",
+          "text": "Lực nhai truyền từ bề mặt niêm mạc xuống xương"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 143,
+      "question": "Hàm giả nền nhựa móc dây tròn là loại hàm giả nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hàm giả sinh lý"
+        },
+        {
+          "label": "B",
+          "text": "Hàm giả bán sinh lý"
+        },
+        {
+          "label": "C",
+          "text": "Hàm giả không sinh lý"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 144,
+      "question": "Nhược điểm của PHỤC HÌNH THÁO LẮP BH nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ gây ra sâu răng và viêm nướu dọc vùng nướu giả tiếp xúc với răng thật"
+        },
+        {
+          "label": "B",
+          "text": "Giữ vệ sinh cho các răng thật và mô mềm còn lại"
+        },
+        {
+          "label": "C",
+          "text": "Dễ chữa các răng thật còn lại"
+        },
+        {
+          "label": "D",
+          "text": "Tiết kiệm mô răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 145,
+      "question": "Thực hiện một phục hình tháo lắp bán hàm nền nhựa gồm mấy giai đoạn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3-4 lần hẹn"
+        },
+        {
+          "label": "B",
+          "text": "4-5 lần hẹn"
+        },
+        {
+          "label": "C",
+          "text": "5-6 lần hẹn"
+        },
+        {
+          "label": "D",
+          "text": "6-7 lần hẹn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 146,
+      "question": "Hàm giả tháo lắp từng phần nền nhựa là loại hàm truyền lực nhai chủ yếu qua:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hệ thống răng thật xuống xương"
+        },
+        {
+          "label": "B",
+          "text": "Bề mặt niêm mạc xuống xương"
+        },
+        {
+          "label": "C",
+          "text": "Hệ thống răng thật xuống niêm mạc"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các ý trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 147,
+      "question": "Ưu điểm của phục hình tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dễ thích nghi"
+        },
+        {
+          "label": "B",
+          "text": "Dễ sửa chữa"
+        },
+        {
+          "label": "C",
+          "text": "Truyền lực nhai qua răng thật"
+        },
+        {
+          "label": "D",
+          "text": "Hạn chế tiêu xương"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 148,
+      "question": "Thành phần nào không cấu tạo nên hàm giả tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thanh gót răng"
+        },
+        {
+          "label": "B",
+          "text": "Móc"
+        },
+        {
+          "label": "C",
+          "text": "Răng giả"
+        },
+        {
+          "label": "D",
+          "text": "Nền hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 149,
+      "question": "Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân mắc các bệnh lý mãn tính toàn thân"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân đang dùng thuốc điều trị ung thư"
+        },
+        {
+          "label": "C",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "D",
+          "text": "Bệnh nhân mất răng vùng trước ở cả 2 hàm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 150,
+      "question": "Chỉ định của phục hình tháo lắp bán hàm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mất răng phía sau và còn răng giới hạn xa"
+        },
+        {
+          "label": "B",
+          "text": "Chỉ định trên bệnh nhân dễ sâu răng"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ định trên bệnh nhân không có khả năng tài chính"
+        },
+        {
+          "label": "D",
+          "text": "Mất răng xen kẽ với khoảng mất răng quá dà i"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 151,
+      "question": "Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai",
+      "options": [
+        {
+          "label": "A",
+          "text": "50%"
+        },
+        {
+          "label": "B",
+          "text": "60%"
+        },
+        {
+          "label": "C",
+          "text": "40%"
+        },
+        {
+          "label": "D",
+          "text": "70%"
+        }
+      ],
+      "image": {
+        "file": "hinh/phtl-nhch-b1-c151.webp",
+        "chart": true
+      },
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 152,
+      "question": "Phục hình tháo lắp bán hàm nền nhựa gồm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nền nhựa và móc"
+        },
+        {
+          "label": "B",
+          "text": "Khung kim loại"
+        },
+        {
+          "label": "C",
+          "text": "Yên"
+        },
+        {
+          "label": "D",
+          "text": "Thanh nối"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 153,
+      "question": "Chống chỉ định của phục hình tháo lắp bán hàm nền nhựa",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính vùng răng miệng"
+        },
+        {
+          "label": "B",
+          "text": "Bệnh nhân có rối loạn tâm thần"
+        },
+        {
+          "label": "C",
+          "text": "Các răng còn lại có bệnh nha chu điều trị chưa ổn định"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 154,
+      "question": "Chống chỉ định PHỤC HÌNH THÁO LẮP, chọn câu sai.",
+      "options": [
+        {
+          "label": "A",
+          "text": "BN bệnh nha chu các răng còn lại, điều trị chưa ổn định"
+        },
+        {
+          "label": "B",
+          "text": "BN bị rối loạn tâm thần"
+        },
+        {
+          "label": "C",
+          "text": "BN bị mất răng toàn bộ"
+        },
+        {
+          "label": "D",
+          "text": "BN không hợp tác"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 155,
+      "question": "Số lần hẹn trung bình của PHỤC HÌNH THÁO LẮP BHNN",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-2"
+        },
+        {
+          "label": "B",
+          "text": "3-4"
+        },
+        {
+          "label": "C",
+          "text": "5-6"
+        },
+        {
+          "label": "D",
+          "text": "7-8"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 156,
+      "question": "Thứ tự đúng của các giai đoạn PHỤC HÌNH THÁO LẮP BHNN\n(1) Thử răng\n(2) Ghi tương quan\n(3) Lắp hàm\n(4) Khám, chuẩn đoán và lấy dấu",
+      "options": [
+        {
+          "label": "A",
+          "text": "1234"
+        },
+        {
+          "label": "B",
+          "text": "4312"
+        },
+        {
+          "label": "C",
+          "text": "4213"
+        },
+        {
+          "label": "D",
+          "text": "4321"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}
