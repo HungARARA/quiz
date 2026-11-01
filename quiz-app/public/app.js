@@ -775,13 +775,17 @@ function buildQuiz() {
   return pool.map((q) => {
     let options = q.options.slice();
     let correctIndex = q.correctIndex;
+    let acceptIndices = hasAnswerKey(q) ? acceptedAlternatives(q) : [];
 
-    // Phương án kiểu "A và B đúng" chỉ đúng khi giữ nguyên thứ tự gốc
+    // Phương án kiểu "A và B đúng" chỉ đúng khi giữ nguyên thứ tự gốc;
+    // fixedOrder: ghi chú của câu nhắc phương án theo chữ cái ("A sai", "chọn B hay D")
     const citesLetters = options.some((o) => /(?<!\p{L})[A-F]\s*(?:,|và)\s*[A-F](?!\p{L})/u.test(o.text));
-    if (cfg.shuffleOptions && !citesLetters) {
+    if (cfg.shuffleOptions && !citesLetters && !q.fixedOrder) {
       const correct = hasAnswerKey(q) ? options[correctIndex] : null;
+      const accepted = acceptIndices.map((i) => options[i]);
       options = shuffleArray(options);
       correctIndex = correct ? options.indexOf(correct) : null;
+      acceptIndices = accepted.map((o) => options.indexOf(o));
     }
 
     // Gán lại nhãn A, B, C, D theo vị trí mới
@@ -804,6 +808,8 @@ function buildQuiz() {
       scanNote: q.scanNote || null,
       options,
       correctIndex,
+      acceptIndices,
+      fixedOrder: q.fixedOrder || false,
     };
   });
 }
@@ -817,6 +823,17 @@ function questionImageHtml(q) {
 function hasAnswerKey(q) {
   return Number.isInteger(q.correctIndex) &&
     q.correctIndex >= 0 && q.correctIndex < q.options.length;
+}
+
+/* Câu có nhiều phương án cùng đúng: các phương án khác ngoài correctIndex cũng được chấm đúng */
+function acceptedAlternatives(q) {
+  return (q.acceptIndices || []).filter(
+    (i) => Number.isInteger(i) && i >= 0 && i < q.options.length && i !== q.correctIndex,
+  );
+}
+
+function isCorrectOption(q, i) {
+  return hasAnswerKey(q) && (i === q.correctIndex || acceptedAlternatives(q).includes(i));
 }
 
 /* Nhãn cho câu có đáp án do AI làm - để người học biết mà cân nhắc */
@@ -1024,7 +1041,7 @@ function updateQuestionNav() {
 
     if (graded && keyed) {
       if (answer === undefined) btn.classList.add("skipped-nav");
-      else if (answer === state.quiz[i].correctIndex)
+      else if (isCorrectOption(state.quiz[i], answer))
         btn.classList.add("correct-nav");
       else btn.classList.add("wrong-nav");
     } else if (isMarked(i)) {
@@ -1070,7 +1087,7 @@ function renderQuestion(index) {
 
       if (graded && hasAnswerKey(q)) {
         classes += " disabled";
-        if (i === q.correctIndex) {
+        if (isCorrectOption(q, i)) {
           classes += " correct";
           icon = '<span class="option-result-icon">✅</span>';
         } else if (i === userAnswer) {
@@ -1280,7 +1297,7 @@ function computeScore() {
     keyedTotal++;
     const a = state.answers[i];
     if (a === undefined) return;
-    if (a === q.correctIndex) correct++;
+    if (isCorrectOption(q, a)) correct++;
     else wrong++;
   });
 
@@ -1456,7 +1473,7 @@ function renderReviewList() {
   const items = state.quiz
     .map((q, i) => ({ q, i, answer: state.answers[i] }))
     .filter(({ q, i, answer }) => {
-      const isCorrect = hasAnswerKey(q) && answer === q.correctIndex;
+      const isCorrect = isCorrectOption(q, answer);
       switch (state.reviewFilter) {
         case "wrong":
           return hasAnswerKey(q) && answer !== undefined && !isCorrect;
@@ -1482,7 +1499,7 @@ function renderReviewList() {
   listEl.innerHTML = items
     .map(({ q, i, answer }) => {
       const keyed = hasAnswerKey(q);
-      const isCorrect = keyed && answer === q.correctIndex;
+      const isCorrect = isCorrectOption(q, answer);
       const status =
         !keyed
           ? `<span class="review-badge skipped">${answer === undefined ? "Chưa chọn" : "Chưa có đáp án"}</span>`
@@ -1496,7 +1513,7 @@ function renderReviewList() {
         .map((opt, oi) => {
           let cls = "review-option";
           let mark = "";
-          if (keyed && oi === q.correctIndex) {
+          if (isCorrectOption(q, oi)) {
             cls += " correct";
             mark = "✅";
           } else if (keyed && oi === answer) {
@@ -1557,7 +1574,7 @@ function enterReviewMode() {
 
 function retryWrongOnly() {
   const wrongQuestions = state.quiz.filter(
-    (q, i) => hasAnswerKey(q) && state.answers[i] !== q.correctIndex,
+    (q, i) => hasAnswerKey(q) && !isCorrectOption(q, state.answers[i]),
   );
 
   if (wrongQuestions.length === 0) {
@@ -1570,6 +1587,8 @@ function retryWrongOnly() {
     image: q.image,
     options: q.options.map((o) => ({ label: o.label, text: o.text })),
     correctIndex: q.correctIndex,
+    acceptIndices: q.acceptIndices,
+    fixedOrder: q.fixedOrder,
     explanation: q.explanation,
     source: q.source,
     ai: q.ai,

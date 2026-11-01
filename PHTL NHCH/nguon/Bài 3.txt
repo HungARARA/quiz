@@ -53,7 +53,7 @@ A. 1 – 2 – 4 – 3 – 3 – 5 – 5 – 3
 *B. 2 – 1 – 4 – 3 – 3 – 5 – 5 – 3
 C. 2 – 1 – 3 – 3 – 3 – 5 – 5 – 3
 D. 1 – 2 – 3 – 3 – 3 – 5 – 5 – 3
-> Bảng 3.1 giáo trình: hàm trên 2 – 1 – 4 – 3 – 3 – 5 – 5 – 2 (răng 8 là 2); ngân hàng chọn B, phương án gần nhất.
+> Bảng 3.1 giáo trình in răng 8 hàm trên là 2, nhưng như vậy tổng hệ số nhai toàn hàm chỉ còn 98; với răng 8 hàm trên = 3 (phương án B) thì tổng đúng bằng 100 như giáo trình nói. Các câu khác trong ngân hàng cũng dùng giá trị 3.
 
 Câu 10. Trường hợp mất răng sau:
 [rang: 7 6 5 4 3 2 1 | 1 2 x x x x 7]
@@ -112,6 +112,7 @@ A. R 12
 B. R 11
 *C. R 28
 D. R 48
+> Theo bảng tổng 100 mà ngân hàng dùng (răng 8 hàm trên = 3), răng 28 có hệ số nhai cao nhất trong 4 răng. Nếu theo bảng in trong giáo trình (răng 8 trên = 2) thì răng 11, 28, 48 cùng bằng 2.
 
 # (bỏ câu gốc 19–23: trùng câu gốc 9–13)
 
@@ -156,17 +157,18 @@ B. Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dư�
 C. Cả hai đều đúng
 D. Cả hai đều sai
 
-Câu 25. Phần tử cơ thể và sinh lý bất lợi hàm dưới: Bài 3
+Câu 25. Phần tử cơ thể và sinh lý bất lợi hàm dưới:
 A. Sống hàm
 B. Gối hậu nha
 C. Điểm tiếp xúc giữa các răng thật
 *D. Nơi bám của cơ và dây chằng
 
-Câu 26. Hệ số nhai của răng khôn hàm trên so với hàm dưới? Bài 3
+Câu 26. Hệ số nhai của răng khôn hàm trên so với hàm dưới?
 *A. Lớn hơn
 B. Nhỏ hơn
 C. Bằng nhau
 D. Không xác định
+> Theo bảng ngân hàng dùng: răng 8 hàm trên 3, hàm dưới 2 (tổng 100). Bảng in trong giáo trình ghi cả hai là 2 (tổng chỉ còn 98).
 
 Câu 27. Mất răng từ 15-16, 25-27 là mất răng theo KENNEDY loại mất?
 [hinh: phtl-nhch-h08.webp]
@@ -403,10 +405,11 @@ B. II
 D. IV
 
 Câu 60. Phân loại mất răng theo Applegate giống với phân loại mất răng theo Kennedy ở những loại nào
-A. I, II và IV
-*B. I, II và III
+!A. I, II và IV
+?B. I, II và III
 C. II, III và IV
 D. III, IV và V
+> Giáo trình: Applegate loại I, II, IV giống Kennedy. Applegate loại III chỉ là mất răng kẹp hai đầu khi răng trụ không gánh nổi lực nhai (khoảng mất răng rất dài, chân răng không phù hợp, xương tiêu nhiều, khớp cắn đối diện mạnh); mất răng kẹp hai đầu với răng trụ tốt là Applegate loại VI. Vì vậy loại III không giống Kennedy.
 
 Câu 61. Theo Kennedy gồm bao nhiêu loại mất răng căn bản:
 A. 3 loại
@@ -470,10 +473,11 @@ C. Răng cối lớn trở vào trong
 D. Răng cửa giữa trở vào trong
 
 Câu 71. Hệ số nhai của các răng nào sau đây bằng nhau
-A. R1 và R2
++A. R1 và R2
 B. R3 và R4
 *C. R4 và R5
 D. R5 và R6
+> Răng 4 và 5 bằng nhau ở cả hai hàm (đều 3). Ở hàm dưới răng 1 và 2 cũng bằng nhau (đều 1), nên chọn A cũng tính đúng.
 
 Câu 72. Phân loại mất răng theo Applegate thì loại mất răng nào thường gặp nhất
 A. I
@@ -494,10 +498,11 @@ C. Mất răng răng sau một bên và đoạn mất răng c̣n răng kẹp ở
 D. Mất răng phía trước, các răng sau c̣n đủ không cách đoạn
 
 Câu 75. Đường vòng lớn nhất theo quan niệm phục hình răng
-A. Phụ thuộc độ nghiêng của trục răng so với mặt phẳng nằm ngang
++A. Phụ thuộc độ nghiêng của trục răng so với mặt phẳng nằm ngang
 B. Không phụ thuộc độ nghiêng của trục răng so với mặt phẳng nằm ngang
-C. Là một đường duy nhất ở hướng lắp đã chọn
-*D. Là nhiều đường ở hướng lắp đã chọn
+!C. Là một đường duy nhất ở hướng lắp đã chọn
+?D. Là nhiều đường ở hướng lắp đã chọn
+> Giáo trình: ở một hướng tháo lắp đã xác định, trên một răng chỉ có một đường vòng lớn nhất duy nhất theo quan niệm phục hình (C); đường này phụ thuộc hình dạng thân răng và độ nghiêng của trục răng so với mặt phẳng nằm ngang (A cũng đúng). D sai.
 
 Câu 76. Những điểm KHÔNG thuận lợi của hàm dưới là:
 A. Gối hậu nha.
@@ -532,6 +537,7 @@ A. 60%
 B. 65%
 C. 70%
 *D. 75%
+> Câu này ngân hàng tính bằng cách cộng thẳng hệ số nhai các răng còn lại (như câu chữ giáo trình) → còn 75%. Nếu chỉ tính răng còn răng đối diện (cách ngân hàng dùng ở các câu khác) thì còn 50%, không có phương án. Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).
 
 Câu 80. Mất răng ở hàm trên như sau, được phân loại theo Kennedy là:
 [rang: x 7 x x x x x x | x x x x x x 7 8]
@@ -574,7 +580,7 @@ Câu 85. Khi sắp các răng sau, nếu trục giữa hai sống hàm là 50° 
 A. Sắp răng trên sống hàm
 B. Sắp răng trong diện tích chịu lực
 *C. Sắp răng theo khớp cắn ngược
-D. Sắp răng theo KTDMức khó
+D. Sắp răng theo KTD
 
 Câu 86. Khắc khoá cho gối sáp được dùng trong trường hợp:
 A. Mất răng loại 3 Kennydy
@@ -610,7 +616,8 @@ Câu 91. Trường hợp nào sau đây khó nhất khi ghi tương quan :
 A. Các răng thật ở hàm trên và dưới tiếp xúc với nhau tại kích thước dọc có khoảng nghỉ sinh lí 3mm
 *B. Các răng thật có tiếp xúc nhưng cho khoảng nghỉ sinh lí quá nhiều
 C. Các răng thật có tiếp xúc nhưng cho khoảng nghỉ sinh lí quá ít
-D. Các răng thật không tiếp xúc nhạu
++D. Các răng thật không tiếp xúc nhạu
+> Giáo trình chia 3 trường hợp khi thiết lập kích thước dọc nhưng không xếp mức khó. Răng có tiếp xúc mà khoảng nghỉ quá nhiều (B) phải nâng KTD về giá trị đúng; răng không tiếp xúc (D) phải xác định lại KTD và tương quan tâm từ đầu, cũng là trường hợp khó, nên chọn D cũng tính đúng.
 
 Câu 92. Những hình thái/mốc giải phẩu nào sau đây tạo thuận lợi cho việc thực hiện hàm giả:
 A. Núm sau răng cửa hàm trên (incisive papilla)
@@ -640,7 +647,8 @@ Câu 96. Loại kennedy loại I biến thể 1 là mất nhóm răng :
 A. Có răng giới hạn phía sau và một đoạn răng phía trước
 B. Có răng giới hạn phía sau và 2 đoạn răng phía trước
 *C. Hai bên không có răng giới hạn phía sau và một đoạn răng phía trước
-D. Hai bên không có răng giới hạn phía sau và một đoạn răng phía trước
+D. Hai bên không có răng giới hạn phía sau và hai đoạn răng phía trước
+> Đề gốc in phương án C và D giống hệt nhau; D được sửa thành "hai đoạn" (loại I biến thể 2).
 
 # (bỏ câu gốc 104: trùng câu 42)
 Câu 97. Phân loại theo Kennedy cho sơ đồ răng hàm trên sau đây:
@@ -672,8 +680,9 @@ Câu 101. Cho sơ đồ răng dưới đây, bệnh nhân mất răng còn 
 [rang: 8 7 x x 4 3 2 1 | 1 2 3 4 x x x x / 8 7 6 x 4 3 2 1 | x x x x 5 6 7 8]
 *A. 34%
 B. 66%
-C. 64%
++C. 64%
 D. 54%
+> Cách tính của ngân hàng: chỉ cộng hệ số nhai của những cặp răng còn chạm nhau (mất một răng thì răng đối diện cũng mất chức năng) → còn 34%. Nếu cộng thẳng hệ số các răng còn lại như câu chữ giáo trình thì được 64% (phương án C), nên chọn C cũng tính đúng. Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).
 
 Câu 102. Lực nào sau đây tác động lên hàm giả theo chiều đứng:
 A. Vận động đưa hàm sang bên trong động tác nhai
@@ -714,17 +723,19 @@ A. chỉ còn 1 điểm chạm
 C. còn 2 điểm chạm
 D. còn đủ 3 điểm chạm
 
-Câu 108. Phân loại mất răng theo Kennedy dựa vào - 3
+Câu 108. Phân loại mất răng theo Kennedy dựa vào
 A. Số lượng điểm chạm và vị trí mất răng
 *B. Vị trí mất răng và tính chất khoảng mất răng
 C. Tính chất khoảng mất răng và khả năng nâng đỡ của các răng giới hạn
 D. Chỉ định điều trị phục hình cụ thể
 
-Câu 109. Trường hợp mất răng sau đây: x 7 x 5 4 3 x x x x 3 x 5 x x x phân loại theo Kennedy: - 3
+Câu 109. Trường hợp mất răng như sơ đồ dưới đây, phân loại theo Kennedy:
+[rang: x 7 x 5 4 3 x x | x x 3 x 5 x x x]
 A. Loại 4 biến thể 3
 B. Loại 2 biến thể 4
 C. Loại 3 biến thể 2
 *D. Loại 2 biến thể 3
+> Mất răng sau một bên không có răng giới hạn phía xa (bên trái) là loại II; ba khoảng mất răng thêm (răng 6 phải, nhóm răng cửa, răng 4 trái) là biến thể 3.
 
 Câu 110. Chọn câu đúng về phân loại mất răng bán hàm theo Kennedy:
 *A. Loại I: mất răng sau 2 bên.
@@ -770,6 +781,7 @@ A. 60%
 B. 50%
 *C. 40%
 D. 76%
+> Chưa tính tiêu xương, cách tính của ngân hàng (chỉ cộng các cặp răng còn chạm nhau) cho khoảng 50%; răng 25, 26 còn tiêu 2/3 xương ổ, tụt nướu nên chức năng nhai thực tế thấp hơn, khoảng 40%. 76% là kết quả cộng thẳng hệ số các răng còn lại mà chưa trừ phần nha chu.
 
 Câu 117. Phân loại mất răng sau đây theo Kennedy:
 [rang: 8 7 6 5 4 x x x | x x x 4 5 6 7 8 / x x x 5 4 3 2 1 | x x x x x 6 7 8]
@@ -778,43 +790,44 @@ A. Cung hàm trên loại IV, cung hàm dưới loại II
 C. Cung hàm trên loại IV, cung hàm dưới loại III
 D. Cung hàm trên loại III, cung hàm dưới loại II biến thể I
 
-Câu 118. Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb
-A. Độ cong lồi của thân răng còn lại trên hàm.
+Câu 118. Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm:
+!A. Độ cong lồi của thân răng còn lại trên hàm.
 B. Nơi bám của dây chằng.
-*C. Lồi cùng
+?C. Lồi cùng
 D. Đường chéo trong.
+> Lồi cùng là mốc của hàm trên. Giáo trình: phần tử thuận lợi của hàm dưới là độ cong lồi của thân răng còn lại, điểm tiếp xúc giữa các răng thật, sóng hàm, gối hậu nha; nơi bám của cơ, dây chằng và đường chéo trong là bất lợi.
 
-Câu 119. Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb
+Câu 119. Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong phục hình tháo lắp bán hàm:
 A. Vùng Schooder.
 B. Núm sau răng cửa.
 *C. Đường chéo trong.
 D. Đường chéo ngoài.
 
-Câu 120. Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong PHỤC HÌNH THÁO LẮP BH: 3-tb
+Câu 120. Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong PHỤC HÌNH THÁO LẮP BH:
 A. Độ lõm của thân răng.
 *B. Điểm tiếp xúc.
 C. Vùng Schooder.
 D. Núm sau răng cửa.
 
-Câu 121. Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm: 3-tb
+Câu 121. Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm:
 A. Độ cong lồi của thân răng.
 B. Vùng sau răng cửa.
 C. Sống hàm.
-*D. Lồi cắn.
+*D. Lồi rắn.
 
-Câu 122. Mặt phẳng Camper là: 3-tb
+Câu 122. Mặt phẳng Camper là:
 A. Mặt phẳng đi ngang hai điểm tragus và điểm giữa múi.
 B. Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt.
 C. Mặt phẳng tưởng tượng đi ngang qua bờ cắn răng cửa và mặt nhai răng cối.
 *D. Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và điểm phía dưới cánh mũi.
 
-Câu 123. Mặt phẳng Franfcost là: 3-tb
+Câu 123. Mặt phẳng Francfort là:
 A. Mặt phẳng tưởng tượng đi ngang qua hai điểm ở hai nắp tai và điểm ở khóe mắt.
 B. Mặt phẳng đi ngang qua cạnh cắn răng trước và mặt nhai răng sau.
 C. Là mặt nhai.
 *D. Mp tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt.
 
-Câu 124. Mặt phẳng nhai phục hình là: 3-tb
+Câu 124. Mặt phẳng nhai phục hình là:
 A. Mặt phẳng tưởng tượng trùng với mặt phẳng Camper.
 *B. Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối.
 C. Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới hốc mắt.
@@ -850,166 +863,150 @@ B. Loại II
 C. Loại III
 *D. Loại IV
 
-Câu 130. Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb
-A. Độ cong lồi của thân răng còn lại trên hàm.
-B. Nơi bám của dây chằng.
-*C. Lồi cùng.
-D. Đường chéo trong.
+# (bỏ 2 câu trùng: "Những điểm thuận lợi của hàm dưới…" và "Những điểm bất lợi của hàm trên…" đã có ở trên)
 
-# (bỏ câu gốc 139: trùng câu 124)
-# (bỏ câu gốc 140: trùng câu 125)
-Câu 131. Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm: 3-tb
-A. Độ cong lồi của thân răng.
-B. Vùng sau răng cửa.
-C. Sống hàm.
-*D. Lồi rắn.
-
-# (bỏ câu gốc 142: trùng câu 127)
-# (bỏ câu gốc 143: trùng câu 128)
-Câu 132. Mặt phẳng nhai phục hình là:
-A. Mặt phẳng tưởng tượng trùng với mặt phẳng Camper.
-*B. Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối.
-C. Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới hốc mắt.
-D. Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới cánh mũi.
-
-Câu 133. Trường hợp nào có thể cần phải xác định lại KTD
+Câu 130. Trường hợp nào có thể cần phải xác định lại KTD
 A. Hàm trên và hàm dưới mất răng loại I Kennedy
 B. Hàm trên mất răng loại I, hàm dưới mất răng loại II Kennedy
 C. Hàm trên mất răng loại IV, hàm dưới mất răng loại V Applegate
 *D. Hàm trên và hàm dưới mất răng loại VI Kennedy
 
-Câu 134. Mất răng loại II biến thể 2
+Câu 131. Mất răng loại II biến thể 2
 A. Mất răng sau một bên và thêm một đoạn mất răng phía trước
 B. Mất răng sau hai bên và thêm hai đoạn mất răng phía trước
 C. Mất răng sau một bên và đoạn mất răng còn kẹp ở hai đầu và thêm hai đoạn mất răng phía trước
 *D. Mất răng sau một bên và thêm hai đoạn mất răng phía trước
 
-Câu 135. Đặc điểm thuận lợi của hàm trên cho việc thực hiện hàm giả
+Câu 132. Đặc điểm thuận lợi của hàm trên cho việc thực hiện hàm giả
 A. Độ cong lồi của thân răng còn lại trên cung hàm
 B. Điểm tiếp xúc
 C. Sống hàm
 *D. a,b,c đúng
 
-Câu 136. Phân loại theo Kennedy có mấy loại mất răng cơ bản:
+Câu 133. Phân loại theo Kennedy có mấy loại mất răng cơ bản:
 A. 3
 *B. 4
 C. 5
 D. 6
 
-Câu 137. hệ số nhai của R8 hàm trên là bao nhiêu:
-A. 2
+Câu 134. hệ số nhai của R8 hàm trên là bao nhiêu:
++A. 2
 *B. 3
 C. 4
 D. 5
+> Bảng 3.1 in trong giáo trình ghi răng 8 hàm trên là 2, nhưng như vậy tổng chỉ 98; ngân hàng dùng giá trị 3 để tổng đúng 100. Chọn A (theo bảng in) cũng tính đúng.
 
-Câu 138. Mất răng nào theo phân loại của KENNEDY là khó làm nhất:
+Câu 135. Mất răng nào theo phân loại của KENNEDY là khó làm nhất:
 *A. 1
 B. 2
 C. 3
 D. 4
 
-Câu 139. Phân loại II mất răng theo Kennedy, chọn câu đúng:
+Câu 136. Phân loại II mất răng theo Kennedy, chọn câu đúng:
 A. Mất răng phía trước, các răng sau còn đủ không cách đoạn
 *B. Mất răng sau 1 bên
 C. Mất răng sau 2 bên
 D. Mất răng sau 1 bên và đoạn mất răng còn răng kẹp ở 2 đầu
 
-Câu 140. Những điểm thuận lợi của hàm trên
+Câu 137. Những điểm thuận lợi của hàm trên
 A. Núm sau rằng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ “a"
 B. Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schroder
 C. Vùng sau răng cửa, lồi cùng, đường rung chữ “a" và dây chẳng chân bướm hàm
 *D. Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ “a"
 
-Câu 141. Phân loại mất răng nào được sử dụng phổ biến trên lâm sàng:
+Câu 138. Phân loại mất răng nào được sử dụng phổ biến trên lâm sàng:
 *A. KENNEDY
 B. APPLEGATE
 C. CAMPER
 D. FRANCFORT
 
-Câu 142. Phân loại mất răng theo APPLEGATE gồm mấy loại:
+Câu 139. Phân loại mất răng theo APPLEGATE gồm mấy loại:
 A. 4
 B. 5
 *C. 6
 D. 7
 
-Câu 143. Mất răng loại mấy theo KENNEDY là không có biến thể:
+Câu 140. Mất răng loại mấy theo KENNEDY là không có biến thể:
 A. Loại I
 B. Loại II
 C. Loại III
 *D. Loại IV
 
-Câu 144. Phân loại mất răng theo Kennedy:
+Câu 141. Phân loại mất răng theo Kennedy:
 [hinh: phtl-nhch-h16.webp]
 A. Loại II, Biến thể 1
 *B. Loại III, Biến thể 1
 C. Loại IV, Biến thể 1
 D. Loại IV, Biến thể 2
 
-Câu 145. Núm sau răng cửa
+Câu 142. Núm sau răng cửa
 *A. Là điểm bất lợi khi làm phục hình vì có thần kinh và mạch máu đi ra
 B. Là điểm bất lợi khi làm phục hình vì nhiều mô mỡ
 C. Là điểm thuận lợi khi làm phục hình vì được che chở bởi lớp niêm mạc sợi săn chắc, chịu được các lực
 D. Là điểm thuận đợi khi làm phục hình vì có nhiều mô mỡ
 
-Câu 146. Vùng Schroder là?
+Câu 143. Vùng Schroder là?
 A. Từ răng cửa giữa đến đường A
 B. Từ răng nanh đến đường A
-C. Từ răng cối nhỏ đến đường A
-*D. Từ răng cối lớn đến đường A
+!C. Từ răng cối nhỏ đến đường A
+?D. Từ răng cối lớn đến đường A
+> Giáo trình: vùng Schröder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong, có nhiều mô mỡ và mô tuyến (một câu khác trong ngân hàng cũng chọn "răng cối nhỏ").
 
-Câu 147. Phân loại mất răng theo Kennedy – Applegate, loạ mất răng nào có thể làm phục hình cố định:
+Câu 144. Phân loại mất răng theo Kennedy – Applegate, loạ mất răng nào có thể làm phục hình cố định:
 A. Loại 1 và 3
 B. Loại 2 và 5
 *C. Loại 4 và 6
 D. Cả 3 câu trên
 
-Câu 148. Mất răng loại Kennedy I là :
+Câu 145. Mất răng loại Kennedy I là :
 A. Mất răng có răng giới hạn phía sau và 1 đoạn răng phía trước
 *B. Mất răng sau 2 bên
 C. Mất răng một bên không có răng giới hạn phía sau
 D. Mất răng hai bên không có răng giới hạn phía sau và 2 đoạn răng phía trước
 
-Câu 149. Những phần tử cơ thể và sinh lý bất lợi ở hàm trên là:
+Câu 146. Những phần tử cơ thể và sinh lý bất lợi ở hàm trên là:
 A. Núm sau răng cửa
 B. Đường nối giữa XHT
 C. Vùng schroder
 *D. Tất cả câu trên đúng
 
-Câu 150. Điểm bất lợi khác nhau giữa hàm trên và hàm dưới là:
+Câu 147. Điểm bất lợi khác nhau giữa hàm trên và hàm dưới là:
 A. Nơi bám cơ
 *B. Vùng schroder
 C. Lồi xương
 D. Nơi bám dây chằng
 
-Câu 151. Mặt phẳng Camper là mặt phẳng tưởng tưởng:
+Câu 148. Mặt phẳng Camper là mặt phẳng tưởng tưởng:
 *A. Nối 2 điểm Tragus và phía dưới cánh mũi
 B. Nối 2 điểm Tragus và lỗ dưới hốc mắt
 C. Nối bờ cắn răng cửa và mặt nhai các răng cối
 D. Đi ngang qua đường thẳng nối 2 con ngươi
 
-Câu 152. Mặt phẳng Francfort là mặt phẳng tưởng tượng:
+Câu 149. Mặt phẳng Francfort là mặt phẳng tưởng tượng:
 A. Nối 2 điểm Tragus và phía dưới cánh mũi
 *B. Nối 2 điểm Tragus và lỗ dưới hốc mắt
 C. Nối bờ cắn răng cửa và mặt nhai các răng cối
 D. Đi ngang qua đường thẳng nối 2 con ngươi
 
-Câu 153. Mất răng ở hàm trên như sau, được phân loại theo Kennedy là
+Câu 150. Mất răng ở hàm trên như sau, được phân loại theo Kennedy là
 [rang: x x x x x 3 x x | 1 2 3 4 5 6 7 8]
 A. Mất răng loại I, biến thể 1
 *B. Mất răng loại II, biến thể 1
 C. Mất răng loại III, biến thể 1
 D. Mất răng loại IV
 
-Câu 154. Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai
+Câu 151. Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai
 [rang: 8 7 6 5 4 3 2 1 | x x x 4 5 x 7 8 / x x x 5 4 3 2 1 | 1 2 3 x x 6 7 8]
 A. 30%
 *B. 40%
 C. 50%
 D. 60%
+> Cách tính của ngân hàng: chỉ cộng hệ số nhai của các cặp răng còn chạm nhau → còn 40%. Nếu cộng thẳng hệ số các răng còn lại thì được khoảng 70% (không có phương án). Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).
 
-Câu 155. Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai
+Câu 152. Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai
 [rang: 8 x 6 5 4 3 2 1 | 1 2 x x x 6 7 8 / 8 7 x 5 4 3 2 1 | x x 3 4 5 6 7 8]
 A. 23%
-B. 77%
-*C. 45%
-D. 55%
++B. 77%
+?C. 45%
+!D. 55%
+> Cách tính ngân hàng dùng ở các câu khác (chỉ cộng hệ số nhai của các cặp răng còn chạm nhau) cho còn 55%; 45% là phần chức năng đã mất, nên đáp án C của ngân hàng sai. Nếu cộng thẳng hệ số các răng còn lại như câu chữ giáo trình thì còn khoảng 77–78% (phương án B), nên chọn B cũng tính đúng. Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).

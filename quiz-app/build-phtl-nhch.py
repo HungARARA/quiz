@@ -18,7 +18,9 @@ Source format:
                              two jaws are separated by " / " (upper first)
   *A. option                 answer marked in the bank
   @A. option                 answer chosen by AI (the bank marks none)
-  > note                     explanation, required for @ answers
+  ?A. / !B.                  the bank marks A but the textbook supports B (shown with a warning badge)
+  +C. option                 also correct: picking it is graded right too (with any of the marks above)
+  > note                     explanation, required for @, ?/! and + answers
 Questions with no marked option have no answer key and need a note saying why.
 """
 
@@ -36,10 +38,12 @@ SUBJECT = "PHTL NHCH"
 FOLDER = ROOT / SUBJECT
 TITLE_RE = re.compile(r"^# (Bài (\d)\. .+)$")
 QUESTION_RE = re.compile(r"^Câu (\d+)\.\s+(.+)$")
-OPTION_RE = re.compile(r"^([*@]?)([A-F])\.\s+(.+)$")
+OPTION_RE = re.compile(r"^([*@?!+]?)([A-F])\.\s+(.+)$")
 IMAGE_RE = re.compile(r"^\[hinh: ([\w.-]+\.webp)\]$")
 CHART_RE = re.compile(r"^\[rang: (.+)\]$")
 TOOTH_RE = re.compile(r"^(?:[1-8]|x)$")
+# A note that names options by letter ("A sai", "chọn B hay D") only reads right in the original order.
+LETTER_RE = re.compile(r"(?<![\w°])[A-F](?![\w])")
 
 
 def fail(path, message):
@@ -113,19 +117,28 @@ def parse(path):
 
 def resolve(path, item):
     """Turn option markers into the website's answer fields."""
-    marks, note = item["marks"], " ".join(item["notes"]) or None
+    marks, note = dict(item["marks"]), " ".join(item["notes"]) or None
     if len(item["options"]) < 2:
         fail(path, f"question {item['number']} has fewer than two options")
-    if len(marks) > 1 or any(len(v) > 1 for v in marks.values()):
-        fail(path, f"question {item['number']} has more than one answer mark")
-    out = {"correctIndex": None, "explanation": None, "ai": False, "aiCheck": False, "aiNote": None,
-           "aiOriginal": None, "scanNote": None}
+    also = marks.pop("+", [])
+    if any(len(v) > 1 for v in marks.values()) or set(marks) not in (set(), {"*"}, {"@"}, {"?", "!"}):
+        fail(path, f"question {item['number']} has inconsistent answer marks {item['marks']}")
+    if also and not (marks and note):
+        fail(path, f"question {item['number']} has a '+' answer without a main answer and a note")
+    out = {"correctIndex": None, "acceptIndices": also, "fixedOrder": bool(note and LETTER_RE.search(note)),
+           "explanation": None, "ai": False, "aiCheck": False, "aiNote": None, "aiOriginal": None, "scanNote": None}
     if "*" in marks:
         out.update(correctIndex=marks["*"][0], explanation=note)
     elif "@" in marks:
         if not note:
             fail(path, f"question {item['number']} has an AI answer without a reason")
         out.update(correctIndex=marks["@"][0], ai=True, aiNote=note)
+    elif "!" in marks:
+        if not note:
+            fail(path, f"question {item['number']} overrides the bank without a reason")
+        original = item["options"][marks["?"][0]]
+        out.update(correctIndex=marks["!"][0], ai=True, aiCheck=True, aiNote=note,
+                   aiOriginal=f"{original['label']}. {original['text']}")
     else:
         if not note:
             fail(path, f"question {item['number']} has no answer and no note saying why")
@@ -209,7 +222,11 @@ def create_docx(title, questions, target):
             line.add_run(option["text"])
         index = q["correctIndex"]
         answer = "chưa có" if index is None else q["options"][index]["label"]
-        if q["ai"]:
+        if q["acceptIndices"]:
+            answer += ", " + ", ".join(q["options"][i]["label"] for i in q["acceptIndices"]) + " (chọn phương án nào cũng đúng)"
+        if q["aiCheck"]:
+            answer += f" (theo giáo trình — ngân hàng chọn {q['aiOriginal']})"
+        elif q["ai"]:
             answer += " (AI làm đáp án — ngân hàng không đánh)"
         doc.add_paragraph().add_run(f"Đáp án: {answer}").bold = True
         note = q["aiNote"] or q["explanation"]
@@ -268,7 +285,10 @@ def build_lesson(source):
     return (
         f"  {title}: {len(questions)} câu, "
         f"{sum(q['correctIndex'] is not None and not q['ai'] for q in questions)} theo ngân hàng, "
-        f"{sum(q['ai'] for q in questions)} AI, "
+        f"{sum(q['ai'] and not q['aiCheck'] for q in questions)} AI, "
+        f"{sum(q['aiCheck'] for q in questions)} sửa theo giáo trình, "
+        f"{sum(bool(q['acceptIndices']) for q in questions)} nhiều đáp án, "
+        f"{sum(bool(q['explanation']) for q in questions)} có ghi chú, "
         f"{sum(q['correctIndex'] is None for q in questions)} chưa có đáp án, "
         f"{sum(q['image'] is not None for q in questions)} hình"
     ), charts

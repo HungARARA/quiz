@@ -322,6 +322,10 @@ async function build() {
           image,
           options: q.options.map((o) => ({ label: o.label, text: o.text })),
           correctIndex: q.correctIndex,
+          // Cau nhieu dap an dung (PHTL NHCH): chon phuong an nao trong day cung duoc cham dung
+          acceptIndices: q.acceptIndices && q.acceptIndices.length ? q.acceptIndices : undefined,
+          // Ghi chu nhac phuong an theo chu cai -> giu nguyen thu tu phuong an
+          fixedOrder: q.fixedOrder || undefined,
           explanation: q.explanation,
           ai: q.ai,
           aiCheck: q.aiCheck,

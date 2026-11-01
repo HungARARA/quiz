@@ -178,7 +178,8 @@ Câu 30. Theo chỉ số chức năng ăn nhai thì
 A. Các răng cửa giữa trên và dưới như nhau
 B. Các răng nanh trên lớn hơn các răng nanh dưới
 *C. Các răng cối nhỏ trên và dưới như nhau
-D. Các răng cối lớn trên và dưới như nhau
++D. Các răng cối lớn trên và dưới như nhau
+> Răng cối nhỏ hai hàm đều 3 (C). Răng 6, 7 hai hàm đều 5; răng 8 theo bảng in trong giáo trình cũng bằng nhau (2 – 2), nên chọn D cũng tính đúng (bảng tổng 100 mà ngân hàng dùng thì răng 8 trên là 3).
 
 Câu 31. Kỹ thuật lấy dấu:
 A. Ấn khay từ trước ra sau cho alginate tràn ra khỏi khay và lấp đầy đáy hành lang
@@ -225,8 +226,9 @@ C. Mặt trong thìa hàm trên cách vòm miệng 4-5mm
 Câu 38. khi trộn chất lấy dấu alginate:
 *A. Tỉ lệ bột và nước là 1:2
 B. Trộn càng lâu càng tốt.
-C. Dùng nước lạnh sẽ làm cho alginate lâu đông hơn.
++C. Dùng nước lạnh sẽ làm cho alginate lâu đông hơn.
 D. Xoay nhẹ bay trộn để alginate mịn hơn.
+> Giáo trình: tỷ lệ bột – nước theo hướng dẫn của nhà sản xuất, trộn rồi miết vào thành chén. Dùng nước lạnh làm alginate đông chậm hơn là đúng, nên chọn C cũng tính đúng.
 
 Câu 39. Khay lấy dấu gồm:
 A. Khay làm sẵn
@@ -245,18 +247,20 @@ Câu 41. Điều nào sau đây không phải là đặc điểm của Alginate 
 B. Thấm nước và dễ sử dụng
 C. Dễ biến dạng khi để ngoài không khí
 D. Được chiết xuất từ tảo nâu
+> Giáo trình: alginate là hydrocolloid loại không phục hồi (agar mới là loại phục hồi), nên A không phải đặc điểm của alginate.
 
-Câu 42. Tư thế bệnh nhân khi lấy dấu: 4-dễ
+Câu 42. Tư thế bệnh nhân khi lấy dấu:
 A. Ngồi ngã ra sau.
 B. Ngồi thẳng và thấp hơn tầm tay bác sĩ.
 C. Ngồi thẳng, đầu hơi cuối ra phía trước.
 *D. Ngồi thẳng, miệng ngang tầm tay bác sĩ.
 
 Câu 43. Tại sao alginate lại thường được dùng làm vật liệu lấy dấu
-A. Giá rẻ
-*B. Có thể tái sử dụng
-C. Dễ thực hiện
-D. Cho kết quả tốt
+!A. Giá rẻ
+?B. Có thể tái sử dụng
++C. Dễ thực hiện
++D. Cho kết quả tốt
+> Alginate là hydrocolloid không phục hồi, không thể tái sử dụng, nên đáp án B của ngân hàng sai. Alginate được dùng nhiều vì rẻ, dễ thao tác và dùng đúng cách cho kết quả tốt; chọn A, C hay D đều tính đúng.
 
 Câu 44. Kỹ thuật lấy dấu
 A. BS đứng góc 9h30 khi lấy dấu hàm trên

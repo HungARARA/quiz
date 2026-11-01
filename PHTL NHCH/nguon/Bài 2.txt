@@ -196,6 +196,7 @@ A. Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới.
 *B. Độ cắn sâu và độ cắn hở khoảng 2 mm.
 C. Độ cắn sâu là 3 mm và độ cắn hở là 2 mm.
 D. Độ cắn sâu và độ cắn hở khoảng 4 mm
+> Ý đề: độ cắn phủ (overbite) và độ cắn chìa (overjet) đều khoảng 2 mm là bình thường; "cắn hở" trong phương án là cách gọi nhầm độ cắn chìa.
 
 Câu 31. Khi khám cung hàm dưới, sống hàm tốt là:
 A. Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương.
@@ -316,6 +317,7 @@ Câu 50. Vòm khẩu cái lý tưởng là:
 B. Vòm khẩu rộng, có torus trên vòm khẩu.
 C. Vòm khẩu rộng trung bình, không quá nhọn.
 D. Vòm khẩu không quá phẳng, không quá nhọn.
+> Giáo trình đánh giá vòm khẩu cái tốt là vòm rộng, sâu, không có đường gờ nối giữa hai xương hàm trên.
 
 Câu 51. Khi mào xương không tiêu, gối hậu nha tạo một góc bao nhiêu độ so với đường đỉnh sống hàm ?
 A. 25 độ
@@ -390,6 +392,7 @@ Câu 62. Overbite của khớp cắn sinh lý là bao nhiêu?
 B. 4-6mm
 C. 3-7mm
 D. 3-5mm
+> Giáo trình: overbite khoảng 2 mm là bình thường, hơn 4 mm là cắn sâu.
 
 Câu 63. Răng có thể dùng làm trụ khi tỷ lên chiều cao thân răng và chân răng:
 *A. Nhỏ hơn 1 .
@@ -404,10 +407,10 @@ C. Thấp hình tam giác.
 D. Phẳng.
 
 Câu 65. Khi khám cử động bình thường, khoảng cách giữa hai cung hàm khi bệnh nhân há miệng thường là:
-A. 30-40 cm
-*B. 40-50 cm
-C. 50-60 cm
-D. >60 cm
+A. 30-40 mm
+*B. 40-50 mm
+C. 50-60 mm
+D. >60 mm
 
 Câu 66. Bệnh nhân Nguyễn Thị A, nữ, 63 tuổi, trên lâm sàng ghi nhận bằng mắt thường răng 46 lung lay khoảng 0,7mm, có thể kết luận R46 của bệnh nhân lung lay độ mấy?
 A. Độ 1
@@ -486,6 +489,7 @@ A. Thắng môi.
 B. Vùng Schroder.
 C. Núm răng cửa.
 *D. Dây chằng chân bướm hàm.
+> Dây chằng chân bướm hàm nối móc chân bướm (hàm trên) với gối hậu nha (hàm dưới); trong hình giải phẫu Bài 2 nó được vẽ ở hàm dưới nên ngân hàng chọn D, dù Hình 3.2 giáo trình xếp nó vào nhóm phần tử bất lợi ở hàm trên.
 
 Câu 79. Có bao nhiêu độ lung lay răng:
 A. 3
@@ -570,6 +574,7 @@ A. 0.5 – 1 mm
 B. 1 – 2 mm
 *C. 2 – 3 mm
 D. 3 – 4 mm
+> Bài 2 giáo trình ghi khoảng hở sinh lý 2–3 mm; Bài 5 ghi khoảng nghỉ sinh lý trung bình 2–4 mm.
 
 Câu 93. Mức độ lung lay răng hơn 1mm?
 A. Độ 1
@@ -764,6 +769,7 @@ A. Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợ
 B. Khi độ dài của đoạn mất răng càng lớn, số lượng các răng trụ càng quan trọng
 C. Sau khi lựa chọn kiểu phục hình, cần điều trị tiền phục hình nếu có
 *D. Phương pháp phục hình cố định luôn luôn được ưu tiên
+> Giáo trình: phục hình cố định luôn được ưu tiên khi khoảng mất răng ngắn, có răng trụ hai đầu và chi phí không trở ngại, chứ không phải trong mọi trường hợp.
 
 Câu 125. Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm thì bác sĩ RHM kết luận lung lay độ mấy?
 A. Độ 1

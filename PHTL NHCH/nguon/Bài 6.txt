@@ -74,9 +74,10 @@ D. Răng nhựa hàm trên, răng sứ hàm dưới
 
 Câu 13. Hình dáng cung hàm trên được sắp theo
 A. Hình dáng khuôn mặt
-B. Hình dáng sống hàm
++B. Hình dáng sống hàm
 C. Thẩm mỹ
 *D. Tất cả đều đúng
+> Hai câu cùng phương án trong ngân hàng cho đáp án khác nhau: câu "Hình dáng cung hàm trên được sắp theo" chọn "Tất cả đều đúng", câu "Hình dáng cung răng được sắp theo?" chọn "Hình dáng sống hàm". Ở hàm bán phần, cung răng giả theo các răng còn lại và sống hàm, còn bộ ba Nelson liên hệ hình dáng cung răng với khuôn mặt; chọn B hay D đều tính đúng.
 
 Câu 14. Quỹ đạo răng cửa được xác định khi
 A. Trước khi lên răng trước hàm trên
@@ -116,9 +117,10 @@ D. Tất cả đều đúng
 
 Câu 20. Kích thước răng cửa giữa hàm trên theo Lee
 A. Chiều ngang răng cửa giữa = chiều cao khoảng cách hai sống hàm
-*B. Chiều ngang răng cửa giữa = ½ chiều ngang nhân trung
+?B. Chiều ngang răng cửa giữa = ½ chiều ngang nhân trung
 C. Câu A và B đúng
-D. Câu A và B sai
+!D. Câu A và B sai
+> Giáo trình, chỉ số LEE: chiều rộng răng cửa giữa trên = 1/4 khoảng cách giữa hai cánh mũi = chiều rộng răng cửa bên + 1/2 chiều rộng răng nanh. Cả A và B đều không phải chỉ số LEE.
 
 Câu 21. Răng hàm lớn dưới có giới hạn:
 A. Cách vị trí tam giác hậu hàm 3mm
@@ -157,16 +159,17 @@ B. 0˚ - 4˚ - 6˚
 D. 0˚ - 5˚ - 10˚
 
 Câu 27. Khi lên răng trước hàm trên:
-*A. Cổ răng cửa bên nghiêng trong 10.
-B. Cổ răng cửa bên nghiêng ngoài 10.
-C. Cổ răng nanh nghiêng ngoài 10.
-D. Cổ răng nanh nghiêng trong 10.
+*A. Cổ răng cửa bên nghiêng trong 10°.
+B. Cổ răng cửa bên nghiêng ngoài 10°.
+C. Cổ răng nanh nghiêng ngoài 10°.
+D. Cổ răng nanh nghiêng trong 10°.
 
 Câu 28. Khi lên răng, cấu trúc nào là chìa khóa khớp cắn?
 A. Răng nanh.
 B. Răng cửa giữa.
-*C. Răng cối nhỏ thứ nhất.
+*C. Răng cối lớn thứ nhất (răng 6).
 D. Đường giữa.
+> Giáo trình: các răng 6 là chìa khóa khớp cắn. Đề gốc in phương án C là "răng cối nhỏ thứ nhất" (răng 4); đã sửa thành răng cối lớn thứ nhất.
 
 Câu 29. Các răng hàm dưới theo đường cong Wilson có xu hướng:
 *A. Nghiêng về phía lưỡi tăng dần từ trước ra sau.
@@ -208,7 +211,8 @@ Câu 35. Hình dáng cung răng được sắp theo?
 A. Hình dáng khuôn mặt
 *B. Hình dáng sống hàm
 C. Vẻ thẩm mỹ
-D. Tất cả ý trên đều đúng
++D. Tất cả ý trên đều đúng
+> Hai câu cùng phương án trong ngân hàng cho đáp án khác nhau: câu "Hình dáng cung hàm trên được sắp theo" chọn "Tất cả đều đúng", câu "Hình dáng cung răng được sắp theo?" chọn "Hình dáng sống hàm". Ở hàm bán phần, cung răng giả theo các răng còn lại và sống hàm, còn bộ ba Nelson liên hệ hình dáng cung răng với khuôn mặt; chọn B hay D đều tính đúng.
 
 Câu 36. Khi thử răng sáp cần phải kiểm soát điều gì?
 *A. Tình trạng tâm sinh lý bệnh nhân
@@ -217,10 +221,11 @@ C. Sự hoàn hảo của răng sáp
 D. A và C đúng
 
 Câu 37. Trong trường hợp mất nhiều răng, cần tuân thủ nguyên tắc gì?
-A. Khi lên răng cửa giữa trên, chiều gần – xa hơi nghiêng xa khoảng 5°
++A. Khi lên răng cửa giữa trên, chiều gần – xa hơi nghiêng xa khoảng 5°
 B. Khi lên răng cửa bên dưới, chiều gần – xa nghiêng gần khoảng 2°
 *C. Khi lên răng nanh dưới, chiều ngoài – trong cổ răng hơi nghiêng ngoài
-D. Khi lên răng nanh trên, chiều ngoài – trong cổ răng hơi nghiêng trong 5°
++D. Khi lên răng nanh trên, chiều ngoài – trong cổ răng hơi nghiêng trong 5°
+> Theo giáo trình: răng 11 trục gần như thẳng đứng, cổ răng về phía xa (G-X 0°–5°) nên A đúng; răng nanh dưới cổ răng đưa ra ngoài (N-T 5°) nên C đúng; răng 13 cổ răng hơi nghiêng vào trong (N-T 0–5°) nên D đúng. Chỉ B sai (răng cửa bên dưới nghiêng về phía xa 2°, không phải phía gần). Chọn A, C hay D đều tính đúng.
 
 Câu 38. Ý nào sau đây đúng, khi lên răng vùng răng sau
 A. Nhóm răng quyết định thẩm mỹ
@@ -328,7 +333,7 @@ B. Người thấp, mập, vai hẹp: răng nhỏ, hình bầu dục
 C. Người ốm cao: răng hình bầu dục, thấp
 D. Người có dáng thể thao: răng hình bầu dục, thấp
 
-Câu 55. chọn kích thước răng theo BERRY: chiều cao mặt/chiều cao cửa trên bằng(dễ0)
+Câu 55. chọn kích thước răng theo BERRY: chiều cao mặt/chiều cao cửa trên bằng
 A. 10/1
 *B. 20/1
 C. 30/1
@@ -396,9 +401,10 @@ D. Cả A và C đều sai
 
 Câu 66. Cách chọn răng đúng là
 A. Ưu tiên chọn răng theo tuổi
-*B. Ưu tiên chọn răng theo giới tính
-C. Ưu tiên chọn răng theo các răng còn lại
+?B. Ưu tiên chọn răng theo giới tính
+!C. Ưu tiên chọn răng theo các răng còn lại
 D. Ưu tiên chọn răng theo tình trạng sinh lý, bệnh lý
+> Giáo trình: ở phục hình tháo lắp bán hàm, răng thay thế phải có cùng hình thể với các răng còn lại và màu răng thường được chọn theo các răng còn lại trên cung hàm.
 
 Câu 67. Chọn đáp án SAI trong các câu sau. Cách sắp răng theo mặt phẳng trán thì:
 A. Răng 1/1 : trục răng gần như thẳng đứng , cổ răng ở phía xa so với bò cắn ( Lục G - X : 0 ° - 5° ) , cạnh cắn chạm mặt phẳng nhai.
@@ -429,6 +435,7 @@ A. Răng cối nhỏ thứ nhất: Cả 2 múi chạm mặt phẳng nhai
 *B. Răng cối nhỏ thứ hai: Đỉnh múi ngoài chạm mặt phẳng nhai
 C. Răng cối thứ nhất: Các đỉnh múi đều chạm mặt phẳng nhai
 D. Răng cối thứ hai: Đỉnh múi gần trong chạm mặt phẳng nhai, cách múi khác không chạm
+> Giáo trình, theo mặt phẳng ngang: răng cối nhỏ thứ hai có cả hai múi chạm mặt phẳng nhai (B chỉ nêu múi ngoài nhưng là phương án duy nhất không sai); răng 4 chỉ múi ngoài chạm, răng 6 chỉ múi gần trong chạm, răng 7 không múi nào chạm.
 
 Câu 72. Kiểm tra về thẩm mỹ là kiểm tra về:
 A. Khớp cắn
@@ -450,9 +457,10 @@ D. Thắng lưỡi
 
 Câu 75. Khi sắp các răng sau:
 A. Trục giữa hai sống hàm dưới 60° sắp răng theo khớp cắn ngược
-B. Trục giữa hai sống hàm 60-70° sắp răng trong diện tích chịu lực
++B. Trục giữa hai sống hàm 60-70° sắp răng trong diện tích chịu lực
 C. Ưu tiên tới chức năng nhai
 *D. A, C đúng
+> Theo giáo trình cả A, B, C đều đúng: dưới 60° sắp theo khớp cắn ngược, 60–70° sắp trong diện tích chịu lực, sắp răng sau ưu tiên chức năng nhai. Ngân hàng chọn D (A, C); chọn B cũng tính đúng.
 
 Câu 76. Lỗi phổ biến nhất trong việc lựa chọn răng giả là quá sáng trong bóng râm và kích thước quá nhỏ
 *A. Đúng
@@ -557,7 +565,7 @@ Câu 92. Khi sắp các răng sau, nếu trục giữa hai sống hàm là 50° 
 A. Sắp răng trên sống hàm
 B. Sắp răng trong diện tích chịu lực
 *C. Sắp răng theo khớp cắn ngược
-D. Sắp răng theo KTDMức khó
+D. Sắp răng theo KTD
 
 Câu 93. Loại răng nào sau đây thích hợp cho bệnh nhân lớn tuổi, răng mòn nhiều, độ nghiêng quỹ đạp lồi chùy giảm nhiều :
 A. Răng giải phẫu
@@ -633,10 +641,11 @@ C. Răng hình bầu dục cao
 D. Răng hình thang cao
 
 Câu 105. Đâu là ưu điểm của răng nhựa trong phục hình tháo lắp:
-*A. Không đổi màu theo thời gian sử dụng
-B. Lưu giữ tốt trong nền nhựa của phục hình tháo lắp bán hàm
-C. Dễ mài
-D. Không có tiến va chạm khi nhai
+?A. Không đổi màu theo thời gian sử dụng
+!B. Lưu giữ tốt trong nền nhựa của phục hình tháo lắp bán hàm
++C. Dễ mài
++D. Không có tiến va chạm khi nhai
+> Giáo trình: răng nhựa đổi màu theo thời gian (nhược điểm), nên A sai. Ưu điểm của răng nhựa là lưu giữ tốt trong nền nhựa, không có tiếng va chạm, không giòn, dễ mài; chọn B, C hay D đều tính đúng.
 
 Câu 106. Hãy cho biết câu nào sau đây là sai
 A. Đường sống hàm trước khi tiêu xương của hàm dưới đi qua đỉnh răng nanh và trong của gối hậu nha
@@ -648,18 +657,19 @@ D. Đường sống hàm trước khi tiêu xương của hàm trên đi qua đ�
 # (bỏ câu gốc 108: trùng câu 41)
 # (bỏ câu gốc 109: trùng câu 42)
 Câu 107. Nhóm răng cửa thường có đường kính móc:
-*A. 0.7
-B. 0.8
-C. 0.9
+?A. 0.7
+!B. 0.8
++C. 0.9
 D. 1.0
+> Giáo trình (móc dây): dây tròn đường kính 0,8–0,9 mm dùng cho răng cửa và răng cối nhỏ, 1 mm cho răng cối lớn. Chọn 0,8 hay 0,9 mm đều tính đúng.
 
-Câu 108. Màu răng thường gặp ở người Việt Nam: - 6
+Câu 108. Màu răng thường gặp ở người Việt Nam:
 *A. A3
 B. A5
 C. B2
 D. C1
 
-Câu 109. Trục giữa 2 sống hàm đo được khoảng 65°, chúng ta tiến hành - 6
+Câu 109. Trục giữa 2 sống hàm đo được khoảng 65°, chúng ta tiến hành
 A. Sắp răng trên sống hàm
 B. Sắp răng ở nhai còn xương ổ nhiều nhất
 *C. Sắp răng trong diện tích chịu lực
@@ -667,9 +677,10 @@ D. Sắp răng theo khớp cắn ngược
 
 Câu 110. Chỉ số LEE (theo LEE) là gì:
 A. Chiều rộng răng cửa giữa trên bằng khoảng cách giữa 2 cánh mũi
-*B. Chiều rộng răng của giữa trên bằng tổng chiều rộng của răng của bên và chiều rộng răng nanh trên.
+?B. Chiều rộng răng của giữa trên bằng tổng chiều rộng của răng của bên và chiều rộng răng nanh trên.
 C. Tỉ lệ giữa chiều cao mặt và chiều cao răng của trên bằng 1/20
-D. Không câu nào đúng.
+!D. Không câu nào đúng.
+> Giáo trình, chỉ số LEE: chiều rộng răng cửa giữa trên = 1/4 khoảng cách giữa hai cánh mũi = chiều rộng răng cửa bên + 1/2 chiều rộng răng nanh (B thiếu chữ 1/2). Tỉ lệ chiều cao mặt / chiều cao răng cửa = 20/1 là của Berry. Không phương án nào đúng.
 
 Câu 111. răng sứ có ưu điểm:
 A. Rất cứng nên khó mài.
@@ -692,8 +703,9 @@ C. Cạnh cắn răng cửa trên cách bờ tự do môi trên khoảng 5mm khi
 Câu 114. Khó khăn khi sắp răng hàm trước
 *A. Đảm bảo thẩm mỹ
 B. Ưu tiên chức năng
-C. Thiếu chỗ
++C. Thiếu chỗ
 D. Hình thái riêng biệt của 1 vài răng
+> Giáo trình: khó khăn khi sắp răng trước là kích thước răng giả và chiều dài khoảng mất răng không tương xứng (thiếu chỗ thì phải sắp chồng hoặc mài bớt), nên chọn C cũng tính đúng; ngân hàng chọn A (yêu cầu thẩm mỹ).
 
 Câu 115. Nguyên tắc sắp răng cối nhỏ và răng cối lớn hàm trên:
 *A. Sắp xếp theo kiểu tiếp xúc mũi – trũng
@@ -737,56 +749,55 @@ B. a, d, e
 C. b, c, e
 *D. a, c, d
 
-Câu 121. Khi sắp các răng trước dưới theo mặt phẳng dọc giữa, chọn câu đúng:
-A. Đỉnh răng nanh và cạnh cắn các răng cửa dưới nằm trên một đường thẳng
-@B. Các răng cửa trên trùm các răng cửa dưới theo overjet và overbite khoảng 2mm
-C. Răng cửa giữa: trục răng thẳng đứng
-D. Răng cửa bên: trục răng nghiêng nhẹ về phía xa (G-X: 2°)
-> Giáo trình: theo mặt phẳng dọc, răng cửa trên phủ ngoài răng cửa dưới (overjet, overbite) khoảng 2 mm. Các ý A, C, D thuộc mặt phẳng ngang và mặt phẳng trán.
-
-Câu 122. Răng nanh: cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi (trục N-T: 5°)
+Câu 121. Khi sắp các răng trước dưới theo mặt phẳng dọc giữa, chọn các ý đúng:
+| a. Đỉnh răng nanh và cạnh cắn các răng cửa dưới nằm trên một đường thẳng
+| b. Các răng cửa trên trùm các răng cửa dưới theo overjet và overbite khoảng 2mm
+| c. Răng cửa giữa: trục răng thẳng đứng
+| d. Răng cửa bên: trục răng nghiêng nhẹ về phía xa (G-X: 2°)
+| e. Răng nanh: cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi (trục N-T: 5°)
 A. a, b
 B. c, d
 *C. b, e
 D. a, e
+> Giáo trình: theo mặt phẳng dọc, răng cửa trên phủ ngoài răng cửa dưới khoảng 2 mm (b); răng nanh dưới cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi, N-T 5° (e). Ý a thuộc mặt phẳng ngang, c và d thuộc mặt phẳng trán.
 
-Câu 123. răng nhựa được làm từ
+Câu 122. răng nhựa được làm từ
 A. Nhựa polyethylene
 *B. Nhựa acrylic
 C. Nhựa PVC
 D. Ceramic
 
-Câu 124. Khi sắp các răng sau hàm trên cần chú ý, chọn câu sai
+Câu 123. Khi sắp các răng sau hàm trên cần chú ý, chọn câu sai
 A. Mỗi răng được sắp đúng vị trí theo 3 mặt phẳng không gian: ngang, dọc giữa, trán
 B. Đường thứ nhất chạm mặt ngoài các răng 3,4,5 và múi ngoài gần răng 6 HT
 C. Đường thứ hai chạm mặt ngoài múi ngoài xa răng 6 và các múi ngoài răng 7 HT
 *D. Khi hình dạng của gối hậu nha rõ, mặt nhai này đi qua các đỉnh răng nanh và 1/2 chiều cao của gối hậu nha
 
-Câu 125. Khi chọn màu răng cần phải tuân thủ nguyên tắc
+Câu 124. Khi chọn màu răng cần phải tuân thủ nguyên tắc
 A. Chọn dưới ánh sáng của đèn để dễ dàng so sánh
 *B. Làm ướt răng mẫu
 C. Cần so màu với các răng mang PHCĐ
 D. So màu tỉ mỉ càng lâu càng tốt để chọn màu phù hợp
 
-Câu 126. Khi thử răng
+Câu 125. Khi thử răng
 A. Cần kiểm tra trên giá khớp
 B. Đánh giá về thẩm mỹ
 C. Kiểm tra về chức năng
 *D. Tất cả đều đúng
 
-Câu 127. Ưu điểm của răng nhựa là gì?
+Câu 126. Ưu điểm của răng nhựa là gì?
 A. Ít mòn theo thời gian
 *B. Lưu giữ tốt trong nền nhựa của hàm PHỤC HÌNH THÁO LẮP BH
 C. Không đổi màu theo thời gian sử dụng
 D. Màu sắc giống răng thật
 
-Câu 128. “Hình dạng các răng cửa giữa trên có liên hệ với thể trạng bệnh nhân” là câu nói của ai?
+Câu 127. “Hình dạng các răng cửa giữa trên có liên hệ với thể trạng bệnh nhân” là câu nói của ai?
 A. Williams
 *B. Kretschmer
 C. Wodrach
 D. Tất cả đều sai
 
-Câu 129. Ở hàm trên:
+Câu 128. Ở hàm trên:
 | (1) RCN I: đỉnh múi ngoài chạm mặt phẳng nhai, đỉnh múi trong không chạm
 | (2) RCN II: cả 2 múi đều không chạm mặt phẳng nhai
 | (3) RCL I: các múi đều chạm mặt phẳng nhai
@@ -796,25 +807,25 @@ B. (1), (2): sai; (3), (4): đúng
 *C. (1), (4): đúng; (2), (3): sai
 D. (1), (3): sai; (2), (4): đúng
 
-Câu 130. ưu điểm răng sứ, chọn câu sai
+Câu 129. ưu điểm răng sứ, chọn câu sai
 A. Ít mòn theo thời gian
 B. Ít đổi màu theo thời gian
 *C. Không có tiếng chạm khi ăn nhai
 D. Cứng chắc, sức nhai tốt
 
-Câu 131. Ưu điểm của răng sứ
+Câu 130. Ưu điểm của răng sứ
 A. Ít giòn
 B. Lưu giữ tốt
 *C. Ít mòn
 D. Dễ mài
 
-Câu 132. Theo Lee, chiều rộng răng cửa giữa trên là bao nhiêu nếu ta đo được khoảng cách giữa hai cánh mũi bệnh nhân là 4 cm
+Câu 131. Theo Lee, chiều rộng răng cửa giữa trên là bao nhiêu nếu ta đo được khoảng cách giữa hai cánh mũi bệnh nhân là 4 cm
 A. 0.5 cm
 *B. 1 cm
 C. 2 cm
 D. 4 cm
 
-Câu 133. Số ý đúng khi nói về ưu điểm của răng sứ
+Câu 132. Số ý đúng khi nói về ưu điểm của răng sứ
 | 1 Ít mòn theo thời gian
 | 2 Có cơ chế lưu giúp tăng lưu giữ trong nền hàm
 | 3 Không đổi màu theo thời gian
@@ -829,354 +840,361 @@ B. 4
 *C. 5
 D. 6
 
-Câu 134. Những tiêu chí cần chú ý khi chọn răng:
+Câu 133. Những tiêu chí cần chú ý khi chọn răng:
 A. Chọn màu sắc là chính
 B. Chọn hình dáng là chính
 C. Chọn kích thước là chính
 *D. Tất cả ý trên
 
-Câu 135. Ưu điểm của răng nhựa:
+Câu 134. Ưu điểm của răng nhựa:
 A. Dễ mài chỉnh
 B. Không có tiếng va chạm khi ăn nhai
 C. Không giòn
 *D. Tất cả đều đúng
 
-Câu 136. Ưu điểm của răng sứ, ngoại trừ:
-A. Dễ mài
-*B. Đem lại sức nhai tốt
-C. Không giòn
-D. Không tiếng va chạm khi ăn nhai
+Câu 135. Ưu điểm của răng sứ, ngoại trừ:
+!A. Dễ mài
+?B. Đem lại sức nhai tốt
++C. Không giòn
++D. Không tiếng va chạm khi ăn nhai
+> Giáo trình: răng sứ cứng và bén nên đem lại sức nhai tốt, đó là ưu điểm, nên đáp án B của ngân hàng sai. Dễ mài, không giòn, không có tiếng va chạm là ưu điểm của răng nhựa; chọn A, C hay D đều tính đúng.
 
-Câu 137. Chọn câu đúng khi nói về việc chọn màu răng giả:
+Câu 136. Chọn câu đúng khi nói về việc chọn màu răng giả:
 A. Chọn màu theo yêu cầu của bệnh nhân
 B. Soi màu răng dưới ánh đèn càng sáng càng tốt
 *C. Nên làm ướt răng mẫu
 D. Nên chọn màu răng giống với màu răng PHCĐ của bệnh nhân
 
-Câu 138. Chọn câu đúng khi nói về việc sắp răng trước:
+Câu 137. Chọn câu đúng khi nói về việc sắp răng trước:
 A. Chức năng phát âm phải được ưu tiên nhất
-B. Trong trường hợp khoảng mất răng lớn thì có thể sắp răng tạo khe hở được
++B. Trong trường hợp khoảng mất răng lớn thì có thể sắp răng tạo khe hở được
 *C. Trong trường hợp khoảng mất răng không đủ chỗ có thể sắp chồng lên nhau
 D. Trong trường hợp khoảng mất răng không đủ chỗ có thể sắp một răng cửa giữa trên hẹp hơn răng cửa giữa kế nó
+> Giáo trình: khoảng mất răng quá lớn thì sắp răng tạo khe hở với răng thật; thiếu chỗ thì sắp chồng hoặc mài bớt. Chọn B cũng tính đúng.
 
-Câu 139. Chọn câu đúng khi thử răng ở hàm PHỤC HÌNH THÁO LẮP BH nền nhựa:
+Câu 138. Chọn câu đúng khi thử răng ở hàm PHỤC HÌNH THÁO LẮP BH nền nhựa:
 *A. Kiểm tra đường giữa có đúng không
-B. Kiểm tra chức năng phát âm
++B. Kiểm tra chức năng phát âm
 C. Các tiếp xúc cắn khớp trong miệng có thể không cần hoàn toàn giống trên như trên giá khớp
 D. Có thể chỉnh sửa hoàn toàn theo yêu cầu của bệnh nhân để họ hài lòng
+> Giáo trình: khi thử răng phải kiểm tra cả thẩm mỹ (đường giữa...) và chức năng, trong đó có phát âm, nên chọn B cũng tính đúng.
 
-Câu 140. Eisenring là:
+Câu 139. Eisenring là:
 A. Vùng có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc
 B. Vùng có biểu mô dày, không có lớp dưới niêm mạc
 *C. Vùng ngách lợi mở rộng sát lồi cùng
 D. Vùng ngách đáy hành lang sát gối hậu nha
 
-Câu 141. Phát biểu đúng về việc sắp răng:
-A. Răng 11 nghiên 0° -5° theo mặt phẳng trán và có thể nằm ngoài sống hàm để ưu tiên thẩm mỹ
+Câu 140. Phát biểu đúng về việc sắp răng:
++A. Răng 11 nghiên 0° -5° theo mặt phẳng trán và có thể nằm ngoài sống hàm để ưu tiên thẩm mỹ
 B. Răng 22 và răng 42 có trục răng nghiêng về phía xa theo mặt phẳng trán và cách mặt phẳng nhai 1 mm
 C. Sắp răng cối nhỏ thứ nhất có đỉnh ngoài chạm mặt phẳng nhai và đỉnh múi trong cách 2mm
 *D. Các răng trước hàm dưới phải được sắp đúng trên sườn ngoài của sống hàm mất răng
+> Giáo trình: răng 11 có trục G-X 0°–5° theo mặt phẳng trán, và răng trước hàm trên có thể sắp ngoài sóng hàm để đạt thẩm mỹ (miễn vẫn trong diện tích chịu lực), nên chọn A cũng tính đúng.
 
-Câu 142. Tại sao lại phải thoa vernis trên mặt thạch cao trong khi khuôn còn nóng nhưng đã kết thúc bốc hơi?
+Câu 141. Tại sao lại phải thoa vernis trên mặt thạch cao trong khi khuôn còn nóng nhưng đã kết thúc bốc hơi?
 A. Dùng để cách ly giữa thách cao và sáp
 *B. Dùng để cách ly giữa thạch cao và nhựa
 C. Dùng để cách ly giữa thạch cao và thạch cao
 D. Dùng để cách ly giữa răng giả và thạch cao
 
-Câu 143. Trục giữa hai sống hàm khi sắp các răng sau là, chọn đáp án đúng:
-*A. Nếu trục giữa 2 sống hàm là 700 và 600 thì sắp răng trong diện tích chịu lực
+Câu 142. Trục giữa hai sống hàm khi sắp các răng sau là, chọn đáp án đúng:
+*A. Nếu trục giữa 2 sống hàm là 70° và 60° thì sắp răng trong diện tích chịu lực
 B. Nếu trục giữa 2 sống hàm là trên 70° thì sắp răng theo khớp cắn ngược
 C. Nếu trục giữa 2 sống hàm là trên 90° thì sắp răng trên sống hàm
 D. Tất cả đều đúng
 
-Câu 144. khi sắp các răng trước hàm trên mặt phẳng dọc giữa Răng 1/1 cổ răng nghiêng vào trong bao nhiêu độ:
+Câu 143. khi sắp các răng trước hàm trên mặt phẳng dọc giữa Răng 1/1 cổ răng nghiêng vào trong bao nhiêu độ:
 A. Trục N-T: 10°
-*B. Trục N-T: 50
+*B. Trục N-T: 5°
 C. Trục N-T: 5-7°
 
-Câu 145. theo Kretschmer, người thấp, mập, vai hẹp có hình dạng răng cửa giữa trên là :
+Câu 144. theo Kretschmer, người thấp, mập, vai hẹp có hình dạng răng cửa giữa trên là :
 A. Răng hình chữ nhật, cao
 *B. Răng nhỏ, hình tam giác
 C. Răng hình bầu dục, cao
 D. Răng hình bầu dục, thấp
 
-Câu 146. đường pound là :
+Câu 145. đường pound là :
 *A. Đường thẳng nối từ mặt gần răng nanh tới bờ trong gối hậu nha
 B. Đường cong bù trừ nằm trên mặt phẳng nhai được xác định trên lâm sàng
 C. Đường cong có được do các răng nghiêng về phía lưỡi tăng dần từ trước ra sau
 D. Đường thẳng nối từ mặt gần răng nanh tới bờ ngoài gối hậu nha
 
-Câu 147. Chọn câu đúng. Khi sắp các răng sau trên, theo mặt phẳng ngang thì :
+Câu 146. Chọn câu đúng. Khi sắp các răng sau trên, theo mặt phẳng ngang thì :
 A. Răng cối nhỏ thứ nhất : đỉnh múi ngoài không chạm mặt phẳng nhai, đỉnh múi trong chạm
 B. Răng cối nhỏ thứ hai: cả hai múi đều không chạm mặt phẳng nhai
 *C. Răng cối thứ nhất : đỉnh múi gần -trong chạm mặt phẳng nhai. Các múi khác không chạm
 D. Răng cối thứ hai: các múi đều chạm mặt phẳng nhai
 
-Câu 148. Chọn câu sai
+Câu 147. Chọn câu sai
 A. Chiều rộng 4 răng trước trên bằng khoảng cách giữa hai khóe miệng
 B. Chiều cao răng trước hàm trên giới hạn bởi khoảng cách giữa cạnh cắn và cổ răng
 C. Khi bệnh nhân ngậm miệng ở trạng thái thư giãn cơ, cạnh cắn răng cửa giữa trên cách bờ tự do môi trên khoảng 1mm
 *D. a, c sai
 
-Câu 149. Chọn hình thể răng sau dựa vào, chọn câu sai
+Câu 148. Chọn hình thể răng sau dựa vào, chọn câu sai
 A. Hình thể của các răng còn lại
 B. Độ nghiêng của quỹ đạo lồi chùy
 C. Tuổi của bệnh nhân
 *D. Tính tình bệnh nhân
 
-Câu 150. câu đúng khi sắp răng 14:
+Câu 149. câu đúng khi sắp răng 14:
 *A. Múi trong không chạm mặt phẳng nhai, cách 1mm
 B. Múi ngoài không chạm mặt phẳng nhai, cách 1mm
-C. Đỉnh múi trong nằm trên sống hàm hàm dưới
++C. Đỉnh múi trong nằm trên sống hàm hàm dưới
 D. Đỉnh múi ngoài nằm trên sống hàm hàm dưới
+> Câu "Sắp răng 4 trên theo chiều ngoài trong" trong ngân hàng chọn "đỉnh múi trong nằm trên sống hàm dưới", nên chọn C cũng tính đúng.
 
-Câu 151. các răng sau được lên tùy theo:
+Câu 150. các răng sau được lên tùy theo:
 A. Tuổi tác
 B. Mức độ tiêu xương
 C. Tương quan hai hàm
 *D. Tất cả đều đúng
 
-Câu 152. có bao nhiêu nhóm kỹ thuật lên răng:
+Câu 151. có bao nhiêu nhóm kỹ thuật lên răng:
 A. 2
 *B. 3
 C. 4
 D. 5
 
-Câu 153. Xác định chiều gần - xa của nhóm 4 răng sau sao cho :
+Câu 152. Xác định chiều gần - xa của nhóm 4 răng sau sao cho :
 *A. Mặt xa răng 7 không đi vượt quá gối hậu nha hay lồi cùng hàm trên
 B. Mặt xa răng 7 qua 1mm so với gối hậu nha hay lồi cùng hàm trên
 C. Mặt xa răng 6 không đi vượt quá gối hậu nha hay lồi cùng hàm trên
 D. Mặt xa răng 6 qua 1mm so với gối hậu nha hay lồi cùng hàm trên
 
-Câu 154. Xác định Chiều gần - xa của nhóm 4 răng sau bằng cách:
+Câu 153. Xác định Chiều gần - xa của nhóm 4 răng sau bằng cách:
 *A. Xác định khoảng cách giữa mặt xa răng 3 hàm dưới và giới hạn phía trước của gối hậu nha .
 B. Xác định khoảng cách giữa mặt xa răng 3 hàm dưới và giới hạn phía sau của gối hậu nha .
 C. Xác định khoảng cách giữa mặt gần răng 3 hàm dưới và giới hạn phía trước của gối hậu nha .
 D. Xác định khoảng cách giữa mặt gần răng 3 hàm dưới và giới hạn phía sau của gối hậu nha .
 
-Câu 155. Hình dáng mặt nhai của răng giả chia thành mấy nhóm:
+Câu 154. Hình dáng mặt nhai của răng giả chia thành mấy nhóm:
 A. 1
 *B. 2
 C. 3
 D. 4
 
-Câu 156. Lựa chọn kỹ thuật lên răng dựa vào mấy yếu tố?
+Câu 155. Lựa chọn kỹ thuật lên răng dựa vào mấy yếu tố?
 A. 1
 B. 2
 *C. 3
 D. 4
 
-Câu 157. Các yếu tố trong việc lựa chọn kỹ thuật lên răng :
+Câu 156. Các yếu tố trong việc lựa chọn kỹ thuật lên răng :
 A. Cơ học.
 B. Động học.
 C. Tâm – sinh lý.
 *D. Tất cả đều đúng
 
-Câu 158. Kỹ thuật lên răng nào là sai ?
+Câu 157. Kỹ thuật lên răng nào là sai ?
 A. Kỹ thuật lên răng thông thường với các răng giải phẫu.
 B. Các kỹ thuật lên răng khác với các răng giải phẫu.
 C. Kỹ thuật lên răng của Sears với các răng chức năng, không giải phẫu.
 *D. Cả 3 đều sai
 
-Câu 159. Dựa theo hình dáng mặt nhai, răng giả được chia thành các nhóm nào:
+Câu 158. Dựa theo hình dáng mặt nhai, răng giả được chia thành các nhóm nào:
 A. Răng giải phẫu với các múi răng
 B. Răng chức năng không có múi răng
 C. A và B sai
 *D. A và B đúng
 
-Câu 160. Sự lựa chọn hình dạng mặt nhai tùy thuộc vào các yếu tố, NGOẠI TRỪ:
+Câu 159. Sự lựa chọn hình dạng mặt nhai tùy thuộc vào các yếu tố, NGOẠI TRỪ:
 A. Tuổi
 B. Tình trạng mô tựa hàm giả
 *C. Hình dạng khuôn mặt
 D. Hình dạng khớp thái Dương hàm.
 
-Câu 161. Chọn phát biểu sai về chọn màu sắc của răng sau:
+Câu 160. Chọn phát biểu sai về chọn màu sắc của răng sau:
 A. Phải hài hòa với các răng trước.
 B. Răng 4 có màu tương tự răng 1, ít độ bão hòa hơn răng 3.
 *C. Răng cối có màu sắc quan trọng do nhìn thấy
 D. Răng 5 có màu tương tự răng 4, có thể tăng độ bão hòa một chút.
 
-Câu 162. Khi chọn răng sau, răng nào cần phải có chiều cao mặt ngoài hài hòa với nhóm răng trước vì nhìn thấy khi mỉm cười:
+Câu 161. Khi chọn răng sau, răng nào cần phải có chiều cao mặt ngoài hài hòa với nhóm răng trước vì nhìn thấy khi mỉm cười:
 *A. Răng 4
 B. Răng 5
 C. Răng 6
 D. Răng 7
 
-Câu 163. Có mấy phương pháp xác định chiều gần – xa của nhóm 4 răng sau để mặt xa răng 7 không đi vượt quá gối hậu nha hay lồi cùng hàm trên?
+Câu 162. Có mấy phương pháp xác định chiều gần – xa của nhóm 4 răng sau để mặt xa răng 7 không đi vượt quá gối hậu nha hay lồi cùng hàm trên?
 A. 1
 *B. 2
 C. 3
 D. 4
 
-Câu 164. Xác định chiều rộng ngoài trong của các răng sau phụ thuộc vào:
+Câu 163. Xác định chiều rộng ngoài trong của các răng sau phụ thuộc vào:
 A. Hình dạng khuôn mặt
 B. Kích thước các răng trước
 *C. Hình dáng sống hàm còn lại
 D. Tất cả các ý trên
 
-Câu 165. Ưu điểm của răng sứ so với răng nhựa, NGOẠI TRỪ:
+Câu 164. Ưu điểm của răng sứ so với răng nhựa, NGOẠI TRỪ:
 A. Nghiền thức ăn tốt
 B. Không mòn nên giữ kích thước dọc.
 *C. Không gây tiếng động khi ăn nhai
 D. Thẫm mỹ hơn.
 
-Câu 166. Thứ tự sắp xếp răng sau hàm trên:
+Câu 165. Thứ tự sắp xếp răng sau hàm trên:
 A. 3→4 5→6
 *B. 4→5 6→7
 C. 5→4 7→6
 D. 4→3 6→5
 
-Câu 167. Thứ tự sắp xếp răng sau hàm dưới:
+Câu 166. Thứ tự sắp xếp răng sau hàm dưới:
 A. 4→5→6→7
 B. 5→4→6→7
 *C. 6→7→5→4
 D. 7→6→5→4
 
-Câu 168. Khi thiếu chỗ sắp răng, thường có thể bỏ răng nào?
+Câu 167. Khi thiếu chỗ sắp răng, thường có thể bỏ răng nào?
 *A. Răng 4 trên dưới
 B. Răng 5 trên dưới
 C. Răng 6 trên dưới
 D. Răng 7 trên dưới
 
-Câu 169. Sắp răng 4 trên theo chiều ngoài trong:
+Câu 168. Sắp răng 4 trên theo chiều ngoài trong:
 A. Nằm dưới sống hàm
 B. Đỉnh múi ngoài nằm trên sống hàm dưới
 *C. Đỉnh múi trong nằm trên sống hàm dưới
 D. Múi ngoài chạm mặt phẳng nhai
 
-Câu 170. Sắp răng 6,7 dưới theo chiều gần xa:
+Câu 169. Sắp răng 6,7 dưới theo chiều gần xa:
 *A. Đỉnh ngoài gần răng 6 trên nằm trên rãnh ngoài gần răng 5 dưới
 B. Nằm giữa răng 5 và răng hàm trên
 C. Khoảng trống của răng 4 dưới có thể bị thu hẹp
 D. Tất cả đều sai
 
-Câu 171. Thời gian so màu hợp lí là trong khoảng:
+Câu 170. Thời gian so màu hợp lí là trong khoảng:
 *A. 5-10 giây
 B. 10-15 giây
 C. 15-20 giây
 D. 20-25 giây
+> Giáo trình: không so màu quá 5 giây để tránh mỏi mắt nhìn sai.
 
-Câu 172. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:
+Câu 171. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:
 A. Cấu trúc xương mặt
 B. Giới tính
 C. Loại thể chất
 *D. Điều kiện kinh tế
 
-Câu 173. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:
+Câu 172. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:
 A. Giới tính
 B. Tính tình
 C. Tuổi
 *D. Sở thích
 
-Câu 174. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào:
+Câu 173. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào:
 A. Giới tính
 B. Cấu trúc xương mặt
 C. Tuổi tác
 *D. Tất cả đều đúng
 
-Câu 175. Hình bầu dục, hơi vuông của răng cửa giữa hàm trên ở loại người nào:
+Câu 174. Hình bầu dục, hơi vuông của răng cửa giữa hàm trên ở loại người nào:
 A. Cơ bắp
 B. Trí não
 *C. Tiêu hóa
 D. Tâm lý không ổn định
 
-Câu 176. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào bao nhiêu loại khuôn mặt:
+Câu 175. Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào bao nhiêu loại khuôn mặt:
 A. 2
 B. 3
 *C. 4
 D. 5
 
-Câu 177. Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:
+Câu 176. Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:
 A. Vẻ mềm mại
 B. Bờ tự do mỏng
 C. Góc gần và xa tròn
 *D. Gồ ghề
 
-Câu 178. Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:
+Câu 177. Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:
 *A. Góc gần và góc xa vuông
 B. Vẻ mềm mại
 C. Bờ tự do mỏng
 D. Cong
 
-Câu 179. Hình dáng răng cửa giữa hàm trên so với hình dáng khuôn mặt:
+Câu 178. Hình dáng răng cửa giữa hàm trên so với hình dáng khuôn mặt:
 A. Cùng chiều
 *B. Ngược chiều
 C. Không liên quan
 D. Góc 90 độ
 
-Câu 180. Phát biểu sai với hình dạng răng cửa giữa hàm trên ở người lớn tuổi?
+Câu 179. Phát biểu sai với hình dạng răng cửa giữa hàm trên ở người lớn tuổi?
 A. Răng thấp
 *B. Bờ mỏng
 C. Tiếp điểm rộng
 D. Cả A, B, C
 
-Câu 181. Phát biểu sai với hình dạng răng cửa bên hàm trên ở người có tính mạnh mẽ, chất phác?
+Câu 180. Phát biểu sai với hình dạng răng cửa bên hàm trên ở người có tính mạnh mẽ, chất phác?
 A. Thô
 *B. Góc cạnh nhiều
 C. Được mài mòn
 D. Cả A, B, C
 
-Câu 182. Hình dạng răng nanh hàm trên ở người tham vọng là?
+Câu 181. Hình dạng răng nanh hàm trên ở người tham vọng là?
 A. Mỏng, ít nhọn
 *B. Nhọn, sắc
 C. Dày, ít nhọn
 D. Dày, nhọn nhiều
 
-Câu 183. Mục tiêu cơ bản của việc chọn răng trước là đạt?
+Câu 182. Mục tiêu cơ bản của việc chọn răng trước là đạt?
 A. Thẩm mỹ
 B. Chức năng
 C. Phát âm
 *D. Cả A, B, C
 
-Câu 184. Chọn ý sai trong việc lựa chọn răng cửa giữa hàm trên với giới tính nữ?
+Câu 183. Chọn ý sai trong việc lựa chọn răng cửa giữa hàm trên với giới tính nữ?
 A. Hình dạng cong
 B. Mềm mại
 *C. Bờ tự do dày
 D. Góc gần và xa tròn
 
-Câu 185. Những tiêu chí cần lưu ý khi chọn răng:
+Câu 184. Những tiêu chí cần lưu ý khi chọn răng:
 A. Chọn màu sắc là chính
 B. Chọn hình dáng là chính
 C. Chọn kích thước là chính
 *D. Tất cả đúng
 
-Câu 186. Những ưu điểm của răng nhựa so với răng sứ:
+Câu 185. Những ưu điểm của răng nhựa so với răng sứ:
 A. Bền màu
 B. Sạch sẽ
 *C. Lưu giữ với nền hàm tốt
 D. Màu sắc tự nhiên
 
-Câu 187. Những ưu điểm của răng sứ so với răng nhựa:
+Câu 186. Những ưu điểm của răng sứ so với răng nhựa:
 A. Dễ lên răng
 B. Dễ chỉnh khớp
 *C. Màu sắc tự nhiên
 D. Lưu giữ với nền hàm tốt
 
-Câu 188. Chọn câu đúng. Chỉ số LEE:
-*A. Chiều rộng răng cửa giữa trên bằng khoảng cách giữa hai cánh mũi
+Câu 187. Chọn câu đúng. Chỉ số LEE:
+?A. Chiều rộng răng cửa giữa trên bằng khoảng cách giữa hai cánh mũi
 B. chiều rộng của răng cửa giữa trên lớn hơn tổng chiều rộng của răng cửa bên và chiều rộng của răng nanh trên
-C. A,B sai
+!C. A,B sai
 D. A,B đúng
+> Giáo trình: chiều rộng răng cửa giữa trên = 1/4 khoảng cách giữa hai cánh mũi (A sai) = chiều rộng răng cửa bên + 1/2 chiều rộng răng nanh (B sai).
 
-Câu 189. Có bao nhiêu nguyên tắc chọn màu răng:
+Câu 188. Có bao nhiêu nguyên tắc chọn màu răng:
 A. 5
 B. 6
 *C. 7
 D. 8
 
-Câu 190. Hãy chọn phát biểu đúng:
+Câu 189. Hãy chọn phát biểu đúng:
 A. Khoảng cách từ mặt ngoài của răng cửa giữa tới giữa gai cửa là 8mm
 B. Theo BERRY: chiều cao mặt/chiều cao của răng cửa trên=30/1
 C. Răng giải phẫu có độ nghiêng của múi răng là 20 độ
 *D. Kích thước của răng nanh theo chiều ngoài trong là 8 mm
 
-Câu 191. Hãy chọn phát biểu đúng
+Câu 190. Hãy chọn phát biểu đúng
 A. Sắp các răng sau ưu tiên tới thẩm mỹ
 B. Sắp các răng trước ưu tiên tới chức năng nhai
 C. khi sắp các răng trước hàm trên không được sắp ngoài sống hàm
 *D. Diện tích chịu lực của hàm trên nằm giữa đường răng cửa và đường răng nanh
 
-Câu 192. Khi làm sáp nướu, nướu viền rộng khoảng:
+Câu 191. Khi làm sáp nướu, nướu viền rộng khoảng:
 *A. 1,0 mm
 B. 1,5 mm
 C. 2,0 mm

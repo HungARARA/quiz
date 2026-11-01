@@ -409,7 +409,7 @@ A. Khe 2 răng cửa giữa trùng với điểm giữa càng cắn
 C. Hai khối răng hàm hoặc gối sáp hai bên trùng đối xứng qua trục càng cắn
 D. Mẫu thạch cao ở vị trí trung tâm càng cắn
 
-Câu 66. Có bao nhiêu phương pháp để thiết lập tương quan 2 hàm theo chiều ngang: - 5
+Câu 66. Có bao nhiêu phương pháp để thiết lập tương quan 2 hàm theo chiều ngang:
 A. 1
 *B. 2
 C. 3
@@ -462,6 +462,7 @@ Câu 73. Việc ghi tương quan hai hàm cần đạt được yêu cầu nào?
 B. Có thao tác ghi tương quan đúng
 C. Chỉ cần đúng KTD là được
 D. Tất cả đều đúng
+> Giáo trình: ghi tương quan hai hàm phải có một KTD đúng và một tương quan theo chiều ngang đúng. Trong các phương án chỉ A nêu đúng một yêu cầu; C sai vì không chỉ cần KTD.
 
 Câu 74. Những trường hợp nào cần xác định lại KTD?
 A. Bn mất răng vùng răng sau 1 bên
@@ -469,7 +470,7 @@ B. Bn mất răng vùng răng sau 2 bên
 *C. Bn mòn răng rất nhiều, làm thấp KTD
 D. Bn mất răng từng khoảng nhưng vẫn còn điểm chạm giưa, các răng còn lại
 
-Câu 75. Khi ghi khớp cắn trung tâm: 5-dễ
+Câu 75. Khi ghi khớp cắn trung tâm:
 A. Không cần thử khung sườn trước.
 *B. Ghi nhận vị trí và điểm chạm của các răng còn lại trên cung hàm.
 C. Cần so màu răng.
@@ -484,14 +485,16 @@ D. Kích thước hàm ở vị trí tiếp xúc lui sau
 Câu 77. Thiết lập kích thước dọc khi nào:
 A. Ít răng mất, các răng còn lại trên 2 hàm tiếp xúc nhau
 *B. Mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại
-C. Răng mòn
++C. Răng mòn
 D. Mất răng loại II Kennedy trên 1 cung hàm, cung hàm đối diện còn răng phía sau
+> Giáo trình: khi răng thật không còn điểm chạm, hoặc răng mòn quá nhiều làm thấp KTD, đều phải xác định lại KTD; chọn C cũng tính đúng.
 
 Câu 78. Chọn câu sai. Yếu tố giữ dính hàm PHỤC HÌNH THÁO LẮP BH:
 A. Móc
 B. Nước bọt
-C. Kín hơi
++C. Kín hơi
 *D. Nền nhựa
+> Ngân hàng chọn D, nhưng câu Bài 1 "Sự dính của hàm bán phần nền nhựa chủ yếu nhờ vào" lại chọn "nền nhựa và móc". Hàm bán phần nền nhựa giữ dính nhờ móc và lực bám của nước bọt giữa nền với niêm mạc; "kín hơi" (hiệu ứng chân không ở bờ hàm) chủ yếu là cơ chế của hàm toàn hàm, nên chọn C cũng tính đúng.
 
 Câu 79. Mặt phẳng nhai phục hình là :
 A. Là mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt
@@ -553,6 +556,7 @@ A. 1-2mm
 B. 3-5mm
 C. 3-4mm
 *D. 2-4mm
+> Bài 5 giáo trình: khoảng nghỉ sinh lý trung bình 2–4 mm (Bài 2 ghi khoảng hở sinh lý 2–3 mm).
 
 Câu 88. Các yêu cầu của nền tạm:
 A. Ôm sát cổ răng cửa và răng nanh

@@ -29,6 +29,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -59,6 +61,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -89,6 +93,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -119,6 +125,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -149,6 +157,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -179,6 +189,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -209,6 +221,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -239,6 +253,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -269,6 +285,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -299,6 +317,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -329,6 +349,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -359,6 +381,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -389,7 +413,11 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": null,
+      "acceptIndices": [
+        1
+      ],
+      "fixedOrder": true,
+      "explanation": "Hai câu cùng phương án trong ngân hàng cho đáp án khác nhau: câu \"Hình dáng cung hàm trên được sắp theo\" chọn \"Tất cả đều đúng\", câu \"Hình dáng cung răng được sắp theo?\" chọn \"Hình dáng sống hàm\". Ở hàm bán phần, cung răng giả theo các răng còn lại và sống hàm, còn bộ ba Nelson liên hệ hình dáng cung răng với khuôn mặt; chọn B hay D đều tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -419,6 +447,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -449,6 +479,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -479,6 +511,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -509,6 +543,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -539,6 +575,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -569,6 +607,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -598,12 +638,14 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
+      "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình, chỉ số LEE: chiều rộng răng cửa giữa trên = 1/4 khoảng cách giữa hai cánh mũi = chiều rộng răng cửa bên + 1/2 chiều rộng răng nanh. Cả A và B đều không phải chỉ số LEE.",
+      "aiOriginal": "B. Chiều ngang răng cửa giữa = ½ chiều ngang nhân trung",
       "scanNote": null
     },
     {
@@ -629,6 +671,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -659,6 +703,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -689,6 +735,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -719,6 +767,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -749,6 +799,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -779,6 +831,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -792,23 +846,25 @@
       "options": [
         {
           "label": "A",
-          "text": "Cổ răng cửa bên nghiêng trong 10."
+          "text": "Cổ răng cửa bên nghiêng trong 10°."
         },
         {
           "label": "B",
-          "text": "Cổ răng cửa bên nghiêng ngoài 10."
+          "text": "Cổ răng cửa bên nghiêng ngoài 10°."
         },
         {
           "label": "C",
-          "text": "Cổ răng nanh nghiêng ngoài 10."
+          "text": "Cổ răng nanh nghiêng ngoài 10°."
         },
         {
           "label": "D",
-          "text": "Cổ răng nanh nghiêng trong 10."
+          "text": "Cổ răng nanh nghiêng trong 10°."
         }
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -830,7 +886,7 @@
         },
         {
           "label": "C",
-          "text": "Răng cối nhỏ thứ nhất."
+          "text": "Răng cối lớn thứ nhất (răng 6)."
         },
         {
           "label": "D",
@@ -839,7 +895,9 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": true,
+      "explanation": "Giáo trình: các răng 6 là chìa khóa khớp cắn. Đề gốc in phương án C là \"răng cối nhỏ thứ nhất\" (răng 4); đã sửa thành răng cối lớn thứ nhất.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -869,6 +927,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -899,6 +959,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -929,6 +991,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -959,6 +1023,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -989,6 +1055,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1019,6 +1087,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1049,7 +1119,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": null,
+      "acceptIndices": [
+        3
+      ],
+      "fixedOrder": true,
+      "explanation": "Hai câu cùng phương án trong ngân hàng cho đáp án khác nhau: câu \"Hình dáng cung hàm trên được sắp theo\" chọn \"Tất cả đều đúng\", câu \"Hình dáng cung răng được sắp theo?\" chọn \"Hình dáng sống hàm\". Ở hàm bán phần, cung răng giả theo các răng còn lại và sống hàm, còn bộ ba Nelson liên hệ hình dáng cung răng với khuôn mặt; chọn B hay D đều tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1079,6 +1153,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1109,7 +1185,12 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [
+        0,
+        3
+      ],
+      "fixedOrder": true,
+      "explanation": "Theo giáo trình: răng 11 trục gần như thẳng đứng, cổ răng về phía xa (G-X 0°–5°) nên A đúng; răng nanh dưới cổ răng đưa ra ngoài (N-T 5°) nên C đúng; răng 13 cổ răng hơi nghiêng vào trong (N-T 0–5°) nên D đúng. Chỉ B sai (răng cửa bên dưới nghiêng về phía xa 2°, không phải phía gần). Chọn A, C hay D đều tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -1139,6 +1220,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1169,6 +1252,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1199,6 +1284,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1229,6 +1316,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1259,6 +1348,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1289,6 +1380,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1319,6 +1412,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1349,6 +1444,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1379,6 +1476,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1409,6 +1508,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1439,6 +1540,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1469,6 +1572,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1499,6 +1604,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1529,6 +1636,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1559,6 +1668,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1589,6 +1700,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1619,6 +1732,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1628,7 +1743,7 @@
     },
     {
       "number": 55,
-      "question": "chọn kích thước răng theo BERRY: chiều cao mặt/chiều cao cửa trên bằng(dễ0)",
+      "question": "chọn kích thước răng theo BERRY: chiều cao mặt/chiều cao cửa trên bằng",
       "options": [
         {
           "label": "A",
@@ -1649,6 +1764,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1679,6 +1796,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1709,6 +1828,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1739,6 +1860,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1769,6 +1892,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1799,6 +1924,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1829,6 +1956,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1859,6 +1988,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1889,6 +2020,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1919,6 +2052,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1949,6 +2084,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1978,12 +2115,14 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
+      "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: ở phục hình tháo lắp bán hàm, răng thay thế phải có cùng hình thể với các răng còn lại và màu răng thường được chọn theo các răng còn lại trên cung hàm.",
+      "aiOriginal": "B. Ưu tiên chọn răng theo giới tính",
       "scanNote": null
     },
     {
@@ -2009,6 +2148,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2039,6 +2180,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2069,6 +2212,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2099,6 +2244,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2129,7 +2276,9 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": true,
+      "explanation": "Giáo trình, theo mặt phẳng ngang: răng cối nhỏ thứ hai có cả hai múi chạm mặt phẳng nhai (B chỉ nêu múi ngoài nhưng là phương án duy nhất không sai); răng 4 chỉ múi ngoài chạm, răng 6 chỉ múi gần trong chạm, răng 7 không múi nào chạm.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -2159,6 +2308,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2189,6 +2340,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2219,6 +2372,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2249,7 +2404,11 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": null,
+      "acceptIndices": [
+        1
+      ],
+      "fixedOrder": true,
+      "explanation": "Theo giáo trình cả A, B, C đều đúng: dưới 60° sắp theo khớp cắn ngược, 60–70° sắp trong diện tích chịu lực, sắp răng sau ưu tiên chức năng nhai. Ngân hàng chọn D (A, C); chọn B cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -2271,6 +2430,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2301,6 +2462,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2331,6 +2494,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2361,6 +2526,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2391,6 +2558,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2421,6 +2590,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2451,6 +2622,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2481,6 +2654,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2511,6 +2686,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2541,6 +2718,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2571,6 +2750,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2601,6 +2782,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2631,6 +2814,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2661,6 +2846,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2691,6 +2878,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2721,6 +2910,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2746,11 +2937,13 @@
         },
         {
           "label": "D",
-          "text": "Sắp răng theo KTDMức khó"
+          "text": "Sắp răng theo KTD"
         }
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2781,6 +2974,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2811,6 +3006,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2841,6 +3038,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2871,6 +3070,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2901,6 +3102,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2931,6 +3134,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2961,6 +3166,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2991,6 +3198,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3021,6 +3230,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3051,6 +3262,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3081,6 +3294,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3111,6 +3326,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3140,12 +3357,17 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
+      "correctIndex": 1,
+      "acceptIndices": [
+        2,
+        3
+      ],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: răng nhựa đổi màu theo thời gian (nhược điểm), nên A sai. Ưu điểm của răng nhựa là lưu giữ tốt trong nền nhựa, không có tiếng va chạm, không giòn, dễ mài; chọn B, C hay D đều tính đúng.",
+      "aiOriginal": "A. Không đổi màu theo thời gian sử dụng",
       "scanNote": null
     },
     {
@@ -3171,6 +3393,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3200,17 +3424,21 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
+      "correctIndex": 1,
+      "acceptIndices": [
+        2
+      ],
+      "fixedOrder": false,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình (móc dây): dây tròn đường kính 0,8–0,9 mm dùng cho răng cửa và răng cối nhỏ, 1 mm cho răng cối lớn. Chọn 0,8 hay 0,9 mm đều tính đúng.",
+      "aiOriginal": "A. 0.7",
       "scanNote": null
     },
     {
       "number": 108,
-      "question": "Màu răng thường gặp ở người Việt Nam: - 6",
+      "question": "Màu răng thường gặp ở người Việt Nam:",
       "options": [
         {
           "label": "A",
@@ -3231,6 +3459,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3240,7 +3470,7 @@
     },
     {
       "number": 109,
-      "question": "Trục giữa 2 sống hàm đo được khoảng 65°, chúng ta tiến hành - 6",
+      "question": "Trục giữa 2 sống hàm đo được khoảng 65°, chúng ta tiến hành",
       "options": [
         {
           "label": "A",
@@ -3261,6 +3491,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3290,12 +3522,14 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
+      "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình, chỉ số LEE: chiều rộng răng cửa giữa trên = 1/4 khoảng cách giữa hai cánh mũi = chiều rộng răng cửa bên + 1/2 chiều rộng răng nanh (B thiếu chữ 1/2). Tỉ lệ chiều cao mặt / chiều cao răng cửa = 20/1 là của Berry. Không phương án nào đúng.",
+      "aiOriginal": "B. Chiều rộng răng của giữa trên bằng tổng chiều rộng của răng của bên và chiều rộng răng nanh trên.",
       "scanNote": null
     },
     {
@@ -3321,6 +3555,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3351,6 +3587,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3381,6 +3619,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3411,7 +3651,11 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": null,
+      "acceptIndices": [
+        2
+      ],
+      "fixedOrder": true,
+      "explanation": "Giáo trình: khó khăn khi sắp răng trước là kích thước răng giả và chiều dài khoảng mất răng không tương xứng (thiếu chỗ thì phải sắp chồng hoặc mài bớt), nên chọn C cũng tính đúng; ngân hàng chọn A (yêu cầu thẩm mỹ).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -3441,6 +3685,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3471,6 +3717,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3501,6 +3749,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3531,6 +3781,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -3561,6 +3813,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3591,6 +3845,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3600,37 +3856,7 @@
     },
     {
       "number": 121,
-      "question": "Khi sắp các răng trước dưới theo mặt phẳng dọc giữa, chọn câu đúng:",
-      "options": [
-        {
-          "label": "A",
-          "text": "Đỉnh răng nanh và cạnh cắn các răng cửa dưới nằm trên một đường thẳng"
-        },
-        {
-          "label": "B",
-          "text": "Các răng cửa trên trùm các răng cửa dưới theo overjet và overbite khoảng 2mm"
-        },
-        {
-          "label": "C",
-          "text": "Răng cửa giữa: trục răng thẳng đứng"
-        },
-        {
-          "label": "D",
-          "text": "Răng cửa bên: trục răng nghiêng nhẹ về phía xa (G-X: 2°)"
-        }
-      ],
-      "image": null,
-      "correctIndex": 1,
-      "explanation": null,
-      "ai": true,
-      "aiCheck": false,
-      "aiNote": "Giáo trình: theo mặt phẳng dọc, răng cửa trên phủ ngoài răng cửa dưới (overjet, overbite) khoảng 2 mm. Các ý A, C, D thuộc mặt phẳng ngang và mặt phẳng trán.",
-      "aiOriginal": null,
-      "scanNote": null
-    },
-    {
-      "number": 122,
-      "question": "Răng nanh: cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi (trục N-T: 5°)",
+      "question": "Khi sắp các răng trước dưới theo mặt phẳng dọc giữa, chọn các ý đúng:\na. Đỉnh răng nanh và cạnh cắn các răng cửa dưới nằm trên một đường thẳng\nb. Các răng cửa trên trùm các răng cửa dưới theo overjet và overbite khoảng 2mm\nc. Răng cửa giữa: trục răng thẳng đứng\nd. Răng cửa bên: trục răng nghiêng nhẹ về phía xa (G-X: 2°)\ne. Răng nanh: cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi (trục N-T: 5°)",
       "options": [
         {
           "label": "A",
@@ -3651,7 +3877,9 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Giáo trình: theo mặt phẳng dọc, răng cửa trên phủ ngoài răng cửa dưới khoảng 2 mm (b); răng nanh dưới cổ răng đưa ra ngoài, đỉnh hướng về phía lưỡi, N-T 5° (e). Ý a thuộc mặt phẳng ngang, c và d thuộc mặt phẳng trán.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -3659,7 +3887,7 @@
       "scanNote": null
     },
     {
-      "number": 123,
+      "number": 122,
       "question": "răng nhựa được làm từ",
       "options": [
         {
@@ -3681,6 +3909,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3689,7 +3919,7 @@
       "scanNote": null
     },
     {
-      "number": 124,
+      "number": 123,
       "question": "Khi sắp các răng sau hàm trên cần chú ý, chọn câu sai",
       "options": [
         {
@@ -3711,6 +3941,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3719,7 +3951,7 @@
       "scanNote": null
     },
     {
-      "number": 125,
+      "number": 124,
       "question": "Khi chọn màu răng cần phải tuân thủ nguyên tắc",
       "options": [
         {
@@ -3741,6 +3973,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3749,7 +3983,7 @@
       "scanNote": null
     },
     {
-      "number": 126,
+      "number": 125,
       "question": "Khi thử răng",
       "options": [
         {
@@ -3771,6 +4005,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3779,7 +4015,7 @@
       "scanNote": null
     },
     {
-      "number": 127,
+      "number": 126,
       "question": "Ưu điểm của răng nhựa là gì?",
       "options": [
         {
@@ -3801,6 +4037,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3809,7 +4047,7 @@
       "scanNote": null
     },
     {
-      "number": 128,
+      "number": 127,
       "question": "“Hình dạng các răng cửa giữa trên có liên hệ với thể trạng bệnh nhân” là câu nói của ai?",
       "options": [
         {
@@ -3831,6 +4069,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3839,7 +4079,7 @@
       "scanNote": null
     },
     {
-      "number": 129,
+      "number": 128,
       "question": "Ở hàm trên:\n(1) RCN I: đỉnh múi ngoài chạm mặt phẳng nhai, đỉnh múi trong không chạm\n(2) RCN II: cả 2 múi đều không chạm mặt phẳng nhai\n(3) RCL I: các múi đều chạm mặt phẳng nhai\n(4) RCL II: không múi nào chạm mặt phẳng nhai",
       "options": [
         {
@@ -3861,6 +4101,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3869,7 +4111,7 @@
       "scanNote": null
     },
     {
-      "number": 130,
+      "number": 129,
       "question": "ưu điểm răng sứ, chọn câu sai",
       "options": [
         {
@@ -3891,6 +4133,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3899,7 +4143,7 @@
       "scanNote": null
     },
     {
-      "number": 131,
+      "number": 130,
       "question": "Ưu điểm của răng sứ",
       "options": [
         {
@@ -3921,6 +4165,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3929,7 +4175,7 @@
       "scanNote": null
     },
     {
-      "number": 132,
+      "number": 131,
       "question": "Theo Lee, chiều rộng răng cửa giữa trên là bao nhiêu nếu ta đo được khoảng cách giữa hai cánh mũi bệnh nhân là 4 cm",
       "options": [
         {
@@ -3951,6 +4197,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3959,7 +4207,7 @@
       "scanNote": null
     },
     {
-      "number": 133,
+      "number": 132,
       "question": "Số ý đúng khi nói về ưu điểm của răng sứ\n1 Ít mòn theo thời gian\n2 Có cơ chế lưu giúp tăng lưu giữ trong nền hàm\n3 Không đổi màu theo thời gian\n4 Không mòn\n5 Dễ mài\n6 Màu sắc, độ trong, bóng giống răng thật\n7 Cứng, bèn nên đem lại sức nhai tốt\n8 Không giòn\n9 Không tiếng va chạm khi ăn nhai",
       "options": [
         {
@@ -3981,6 +4229,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3989,7 +4239,7 @@
       "scanNote": null
     },
     {
-      "number": 134,
+      "number": 133,
       "question": "Những tiêu chí cần chú ý khi chọn răng:",
       "options": [
         {
@@ -4011,6 +4261,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4019,7 +4271,7 @@
       "scanNote": null
     },
     {
-      "number": 135,
+      "number": 134,
       "question": "Ưu điểm của răng nhựa:",
       "options": [
         {
@@ -4041,6 +4293,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4049,7 +4303,7 @@
       "scanNote": null
     },
     {
-      "number": 136,
+      "number": 135,
       "question": "Ưu điểm của răng sứ, ngoại trừ:",
       "options": [
         {
@@ -4070,16 +4324,21 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
+      "correctIndex": 0,
+      "acceptIndices": [
+        2,
+        3
+      ],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: răng sứ cứng và bén nên đem lại sức nhai tốt, đó là ưu điểm, nên đáp án B của ngân hàng sai. Dễ mài, không giòn, không có tiếng va chạm là ưu điểm của răng nhựa; chọn A, C hay D đều tính đúng.",
+      "aiOriginal": "B. Đem lại sức nhai tốt",
       "scanNote": null
     },
     {
-      "number": 137,
+      "number": 136,
       "question": "Chọn câu đúng khi nói về việc chọn màu răng giả:",
       "options": [
         {
@@ -4101,6 +4360,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4109,7 +4370,7 @@
       "scanNote": null
     },
     {
-      "number": 138,
+      "number": 137,
       "question": "Chọn câu đúng khi nói về việc sắp răng trước:",
       "options": [
         {
@@ -4131,7 +4392,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [
+        1
+      ],
+      "fixedOrder": true,
+      "explanation": "Giáo trình: khoảng mất răng quá lớn thì sắp răng tạo khe hở với răng thật; thiếu chỗ thì sắp chồng hoặc mài bớt. Chọn B cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -4139,7 +4404,7 @@
       "scanNote": null
     },
     {
-      "number": 139,
+      "number": 138,
       "question": "Chọn câu đúng khi thử răng ở hàm PHỤC HÌNH THÁO LẮP BH nền nhựa:",
       "options": [
         {
@@ -4161,7 +4426,11 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": null,
+      "acceptIndices": [
+        1
+      ],
+      "fixedOrder": true,
+      "explanation": "Giáo trình: khi thử răng phải kiểm tra cả thẩm mỹ (đường giữa...) và chức năng, trong đó có phát âm, nên chọn B cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -4169,7 +4438,7 @@
       "scanNote": null
     },
     {
-      "number": 140,
+      "number": 139,
       "question": "Eisenring là:",
       "options": [
         {
@@ -4191,6 +4460,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4199,7 +4470,7 @@
       "scanNote": null
     },
     {
-      "number": 141,
+      "number": 140,
       "question": "Phát biểu đúng về việc sắp răng:",
       "options": [
         {
@@ -4221,7 +4492,11 @@
       ],
       "image": null,
       "correctIndex": 3,
-      "explanation": null,
+      "acceptIndices": [
+        0
+      ],
+      "fixedOrder": true,
+      "explanation": "Giáo trình: răng 11 có trục G-X 0°–5° theo mặt phẳng trán, và răng trước hàm trên có thể sắp ngoài sóng hàm để đạt thẩm mỹ (miễn vẫn trong diện tích chịu lực), nên chọn A cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -4229,7 +4504,7 @@
       "scanNote": null
     },
     {
-      "number": 142,
+      "number": 141,
       "question": "Tại sao lại phải thoa vernis trên mặt thạch cao trong khi khuôn còn nóng nhưng đã kết thúc bốc hơi?",
       "options": [
         {
@@ -4251,6 +4526,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4259,12 +4536,12 @@
       "scanNote": null
     },
     {
-      "number": 143,
+      "number": 142,
       "question": "Trục giữa hai sống hàm khi sắp các răng sau là, chọn đáp án đúng:",
       "options": [
         {
           "label": "A",
-          "text": "Nếu trục giữa 2 sống hàm là 700 và 600 thì sắp răng trong diện tích chịu lực"
+          "text": "Nếu trục giữa 2 sống hàm là 70° và 60° thì sắp răng trong diện tích chịu lực"
         },
         {
           "label": "B",
@@ -4281,6 +4558,36 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": null,
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 143,
+      "question": "khi sắp các răng trước hàm trên mặt phẳng dọc giữa Răng 1/1 cổ răng nghiêng vào trong bao nhiêu độ:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trục N-T: 10°"
+        },
+        {
+          "label": "B",
+          "text": "Trục N-T: 5°"
+        },
+        {
+          "label": "C",
+          "text": "Trục N-T: 5-7°"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4290,32 +4597,6 @@
     },
     {
       "number": 144,
-      "question": "khi sắp các răng trước hàm trên mặt phẳng dọc giữa Răng 1/1 cổ răng nghiêng vào trong bao nhiêu độ:",
-      "options": [
-        {
-          "label": "A",
-          "text": "Trục N-T: 10°"
-        },
-        {
-          "label": "B",
-          "text": "Trục N-T: 50"
-        },
-        {
-          "label": "C",
-          "text": "Trục N-T: 5-7°"
-        }
-      ],
-      "image": null,
-      "correctIndex": 1,
-      "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
-      "scanNote": null
-    },
-    {
-      "number": 145,
       "question": "theo Kretschmer, người thấp, mập, vai hẹp có hình dạng răng cửa giữa trên là :",
       "options": [
         {
@@ -4337,6 +4618,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4345,7 +4628,7 @@
       "scanNote": null
     },
     {
-      "number": 146,
+      "number": 145,
       "question": "đường pound là :",
       "options": [
         {
@@ -4367,6 +4650,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4375,7 +4660,7 @@
       "scanNote": null
     },
     {
-      "number": 147,
+      "number": 146,
       "question": "Chọn câu đúng. Khi sắp các răng sau trên, theo mặt phẳng ngang thì :",
       "options": [
         {
@@ -4397,6 +4682,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4405,7 +4692,7 @@
       "scanNote": null
     },
     {
-      "number": 148,
+      "number": 147,
       "question": "Chọn câu sai",
       "options": [
         {
@@ -4427,6 +4714,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4435,7 +4724,7 @@
       "scanNote": null
     },
     {
-      "number": 149,
+      "number": 148,
       "question": "Chọn hình thể răng sau dựa vào, chọn câu sai",
       "options": [
         {
@@ -4457,6 +4746,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4465,7 +4756,7 @@
       "scanNote": null
     },
     {
-      "number": 150,
+      "number": 149,
       "question": "câu đúng khi sắp răng 14:",
       "options": [
         {
@@ -4487,7 +4778,11 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": null,
+      "acceptIndices": [
+        2
+      ],
+      "fixedOrder": true,
+      "explanation": "Câu \"Sắp răng 4 trên theo chiều ngoài trong\" trong ngân hàng chọn \"đỉnh múi trong nằm trên sống hàm dưới\", nên chọn C cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -4495,7 +4790,7 @@
       "scanNote": null
     },
     {
-      "number": 151,
+      "number": 150,
       "question": "các răng sau được lên tùy theo:",
       "options": [
         {
@@ -4517,6 +4812,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4525,7 +4822,7 @@
       "scanNote": null
     },
     {
-      "number": 152,
+      "number": 151,
       "question": "có bao nhiêu nhóm kỹ thuật lên răng:",
       "options": [
         {
@@ -4547,6 +4844,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4555,7 +4854,7 @@
       "scanNote": null
     },
     {
-      "number": 153,
+      "number": 152,
       "question": "Xác định chiều gần - xa của nhóm 4 răng sau sao cho :",
       "options": [
         {
@@ -4577,6 +4876,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4585,7 +4886,7 @@
       "scanNote": null
     },
     {
-      "number": 154,
+      "number": 153,
       "question": "Xác định Chiều gần - xa của nhóm 4 răng sau bằng cách:",
       "options": [
         {
@@ -4607,6 +4908,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4615,7 +4918,7 @@
       "scanNote": null
     },
     {
-      "number": 155,
+      "number": 154,
       "question": "Hình dáng mặt nhai của răng giả chia thành mấy nhóm:",
       "options": [
         {
@@ -4637,6 +4940,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4645,7 +4950,7 @@
       "scanNote": null
     },
     {
-      "number": 156,
+      "number": 155,
       "question": "Lựa chọn kỹ thuật lên răng dựa vào mấy yếu tố?",
       "options": [
         {
@@ -4667,6 +4972,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4675,7 +4982,7 @@
       "scanNote": null
     },
     {
-      "number": 157,
+      "number": 156,
       "question": "Các yếu tố trong việc lựa chọn kỹ thuật lên răng :",
       "options": [
         {
@@ -4697,6 +5004,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4705,7 +5014,7 @@
       "scanNote": null
     },
     {
-      "number": 158,
+      "number": 157,
       "question": "Kỹ thuật lên răng nào là sai ?",
       "options": [
         {
@@ -4727,6 +5036,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4735,7 +5046,7 @@
       "scanNote": null
     },
     {
-      "number": 159,
+      "number": 158,
       "question": "Dựa theo hình dáng mặt nhai, răng giả được chia thành các nhóm nào:",
       "options": [
         {
@@ -4757,6 +5068,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4765,7 +5078,7 @@
       "scanNote": null
     },
     {
-      "number": 160,
+      "number": 159,
       "question": "Sự lựa chọn hình dạng mặt nhai tùy thuộc vào các yếu tố, NGOẠI TRỪ:",
       "options": [
         {
@@ -4787,6 +5100,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4795,7 +5110,7 @@
       "scanNote": null
     },
     {
-      "number": 161,
+      "number": 160,
       "question": "Chọn phát biểu sai về chọn màu sắc của răng sau:",
       "options": [
         {
@@ -4817,6 +5132,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4825,7 +5142,7 @@
       "scanNote": null
     },
     {
-      "number": 162,
+      "number": 161,
       "question": "Khi chọn răng sau, răng nào cần phải có chiều cao mặt ngoài hài hòa với nhóm răng trước vì nhìn thấy khi mỉm cười:",
       "options": [
         {
@@ -4847,6 +5164,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4855,7 +5174,7 @@
       "scanNote": null
     },
     {
-      "number": 163,
+      "number": 162,
       "question": "Có mấy phương pháp xác định chiều gần – xa của nhóm 4 răng sau để mặt xa răng 7 không đi vượt quá gối hậu nha hay lồi cùng hàm trên?",
       "options": [
         {
@@ -4877,6 +5196,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4885,7 +5206,7 @@
       "scanNote": null
     },
     {
-      "number": 164,
+      "number": 163,
       "question": "Xác định chiều rộng ngoài trong của các răng sau phụ thuộc vào:",
       "options": [
         {
@@ -4907,6 +5228,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4915,7 +5238,7 @@
       "scanNote": null
     },
     {
-      "number": 165,
+      "number": 164,
       "question": "Ưu điểm của răng sứ so với răng nhựa, NGOẠI TRỪ:",
       "options": [
         {
@@ -4937,6 +5260,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4945,7 +5270,7 @@
       "scanNote": null
     },
     {
-      "number": 166,
+      "number": 165,
       "question": "Thứ tự sắp xếp răng sau hàm trên:",
       "options": [
         {
@@ -4967,6 +5292,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4975,7 +5302,7 @@
       "scanNote": null
     },
     {
-      "number": 167,
+      "number": 166,
       "question": "Thứ tự sắp xếp răng sau hàm dưới:",
       "options": [
         {
@@ -4997,6 +5324,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5005,7 +5334,7 @@
       "scanNote": null
     },
     {
-      "number": 168,
+      "number": 167,
       "question": "Khi thiếu chỗ sắp răng, thường có thể bỏ răng nào?",
       "options": [
         {
@@ -5027,6 +5356,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5035,7 +5366,7 @@
       "scanNote": null
     },
     {
-      "number": 169,
+      "number": 168,
       "question": "Sắp răng 4 trên theo chiều ngoài trong:",
       "options": [
         {
@@ -5057,6 +5388,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5065,7 +5398,7 @@
       "scanNote": null
     },
     {
-      "number": 170,
+      "number": 169,
       "question": "Sắp răng 6,7 dưới theo chiều gần xa:",
       "options": [
         {
@@ -5087,6 +5420,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5095,7 +5430,7 @@
       "scanNote": null
     },
     {
-      "number": 171,
+      "number": 170,
       "question": "Thời gian so màu hợp lí là trong khoảng:",
       "options": [
         {
@@ -5117,7 +5452,9 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Giáo trình: không so màu quá 5 giây để tránh mỏi mắt nhìn sai.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -5125,7 +5462,7 @@
       "scanNote": null
     },
     {
-      "number": 172,
+      "number": 171,
       "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:",
       "options": [
         {
@@ -5147,6 +5484,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5155,7 +5494,7 @@
       "scanNote": null
     },
     {
-      "number": 173,
+      "number": 172,
       "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào, ngoài trừ:",
       "options": [
         {
@@ -5177,6 +5516,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5185,7 +5526,7 @@
       "scanNote": null
     },
     {
-      "number": 174,
+      "number": 173,
       "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào:",
       "options": [
         {
@@ -5207,6 +5548,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5215,7 +5558,7 @@
       "scanNote": null
     },
     {
-      "number": 175,
+      "number": 174,
       "question": "Hình bầu dục, hơi vuông của răng cửa giữa hàm trên ở loại người nào:",
       "options": [
         {
@@ -5237,6 +5580,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5245,7 +5590,7 @@
       "scanNote": null
     },
     {
-      "number": 176,
+      "number": 175,
       "question": "Hình dạng răng cửa giữa hàm trên lựa chọn dựa vào bao nhiêu loại khuôn mặt:",
       "options": [
         {
@@ -5267,6 +5612,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5275,7 +5622,7 @@
       "scanNote": null
     },
     {
-      "number": 177,
+      "number": 176,
       "question": "Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:",
       "options": [
         {
@@ -5297,6 +5644,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5305,7 +5654,7 @@
       "scanNote": null
     },
     {
-      "number": 178,
+      "number": 177,
       "question": "Chọn hình dạng răng cửa giữa cho nữ, ngoại trừ:",
       "options": [
         {
@@ -5327,6 +5676,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5335,7 +5686,7 @@
       "scanNote": null
     },
     {
-      "number": 179,
+      "number": 178,
       "question": "Hình dáng răng cửa giữa hàm trên so với hình dáng khuôn mặt:",
       "options": [
         {
@@ -5357,6 +5708,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5365,7 +5718,7 @@
       "scanNote": null
     },
     {
-      "number": 180,
+      "number": 179,
       "question": "Phát biểu sai với hình dạng răng cửa giữa hàm trên ở người lớn tuổi?",
       "options": [
         {
@@ -5387,6 +5740,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5395,7 +5750,7 @@
       "scanNote": null
     },
     {
-      "number": 181,
+      "number": 180,
       "question": "Phát biểu sai với hình dạng răng cửa bên hàm trên ở người có tính mạnh mẽ, chất phác?",
       "options": [
         {
@@ -5417,6 +5772,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5425,7 +5782,7 @@
       "scanNote": null
     },
     {
-      "number": 182,
+      "number": 181,
       "question": "Hình dạng răng nanh hàm trên ở người tham vọng là?",
       "options": [
         {
@@ -5447,6 +5804,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5455,7 +5814,7 @@
       "scanNote": null
     },
     {
-      "number": 183,
+      "number": 182,
       "question": "Mục tiêu cơ bản của việc chọn răng trước là đạt?",
       "options": [
         {
@@ -5477,6 +5836,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5485,7 +5846,7 @@
       "scanNote": null
     },
     {
-      "number": 184,
+      "number": 183,
       "question": "Chọn ý sai trong việc lựa chọn răng cửa giữa hàm trên với giới tính nữ?",
       "options": [
         {
@@ -5507,6 +5868,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5515,7 +5878,7 @@
       "scanNote": null
     },
     {
-      "number": 185,
+      "number": 184,
       "question": "Những tiêu chí cần lưu ý khi chọn răng:",
       "options": [
         {
@@ -5537,6 +5900,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5545,7 +5910,7 @@
       "scanNote": null
     },
     {
-      "number": 186,
+      "number": 185,
       "question": "Những ưu điểm của răng nhựa so với răng sứ:",
       "options": [
         {
@@ -5567,6 +5932,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5575,7 +5942,7 @@
       "scanNote": null
     },
     {
-      "number": 187,
+      "number": 186,
       "question": "Những ưu điểm của răng sứ so với răng nhựa:",
       "options": [
         {
@@ -5597,6 +5964,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5605,7 +5974,7 @@
       "scanNote": null
     },
     {
-      "number": 188,
+      "number": 187,
       "question": "Chọn câu đúng. Chỉ số LEE:",
       "options": [
         {
@@ -5626,16 +5995,18 @@
         }
       ],
       "image": null,
-      "correctIndex": 0,
+      "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: chiều rộng răng cửa giữa trên = 1/4 khoảng cách giữa hai cánh mũi (A sai) = chiều rộng răng cửa bên + 1/2 chiều rộng răng nanh (B sai).",
+      "aiOriginal": "A. Chiều rộng răng cửa giữa trên bằng khoảng cách giữa hai cánh mũi",
       "scanNote": null
     },
     {
-      "number": 189,
+      "number": 188,
       "question": "Có bao nhiêu nguyên tắc chọn màu răng:",
       "options": [
         {
@@ -5657,6 +6028,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5665,7 +6038,7 @@
       "scanNote": null
     },
     {
-      "number": 190,
+      "number": 189,
       "question": "Hãy chọn phát biểu đúng:",
       "options": [
         {
@@ -5687,6 +6060,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5695,7 +6070,7 @@
       "scanNote": null
     },
     {
-      "number": 191,
+      "number": 190,
       "question": "Hãy chọn phát biểu đúng",
       "options": [
         {
@@ -5717,6 +6092,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -5725,7 +6102,7 @@
       "scanNote": null
     },
     {
-      "number": 192,
+      "number": 191,
       "question": "Khi làm sáp nướu, nướu viền rộng khoảng:",
       "options": [
         {
@@ -5747,6 +6124,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,

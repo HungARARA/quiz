@@ -29,6 +29,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -59,6 +61,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -89,6 +93,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -119,6 +125,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -149,6 +157,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -179,6 +189,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -209,6 +221,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -239,6 +253,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -269,7 +285,9 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": "Bảng 3.1 giáo trình: hàm trên 2 – 1 – 4 – 3 – 3 – 5 – 5 – 2 (răng 8 là 2); ngân hàng chọn B, phương án gần nhất.",
+      "acceptIndices": [],
+      "fixedOrder": true,
+      "explanation": "Bảng 3.1 giáo trình in răng 8 hàm trên là 2, nhưng như vậy tổng hệ số nhai toàn hàm chỉ còn 98; với răng 8 hàm trên = 3 (phương án B) thì tổng đúng bằng 100 như giáo trình nói. Các câu khác trong ngân hàng cũng dùng giá trị 3.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -302,6 +320,8 @@
         "chart": true
       },
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -335,6 +355,8 @@
         "chart": true
       },
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -368,6 +390,8 @@
         "chart": true
       },
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -401,6 +425,8 @@
         "chart": true
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -431,6 +457,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -461,6 +489,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -491,6 +521,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -521,6 +553,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -551,7 +585,9 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Theo bảng tổng 100 mà ngân hàng dùng (răng 8 hàm trên = 3), răng 28 có hệ số nhai cao nhất trong 4 răng. Nếu theo bảng in trong giáo trình (răng 8 trên = 2) thì răng 11, 28, 48 cùng bằng 2.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -583,6 +619,8 @@
         "file": "hinh/phtl-nhch-h03.webp"
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -615,6 +653,8 @@
         "file": "hinh/phtl-nhch-h04.webp"
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -647,6 +687,8 @@
         "file": "hinh/phtl-nhch-h05.webp"
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -679,6 +721,8 @@
         "file": "hinh/phtl-nhch-h06.webp"
       },
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -711,6 +755,8 @@
         "file": "hinh/phtl-nhch-h07.webp"
       },
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -741,6 +787,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -750,7 +798,7 @@
     },
     {
       "number": 25,
-      "question": "Phần tử cơ thể và sinh lý bất lợi hàm dưới: Bài 3",
+      "question": "Phần tử cơ thể và sinh lý bất lợi hàm dưới:",
       "options": [
         {
           "label": "A",
@@ -771,6 +819,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -780,7 +830,7 @@
     },
     {
       "number": 26,
-      "question": "Hệ số nhai của răng khôn hàm trên so với hàm dưới? Bài 3",
+      "question": "Hệ số nhai của răng khôn hàm trên so với hàm dưới?",
       "options": [
         {
           "label": "A",
@@ -801,7 +851,9 @@
       ],
       "image": null,
       "correctIndex": 0,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Theo bảng ngân hàng dùng: răng 8 hàm trên 3, hàm dưới 2 (tổng 100). Bảng in trong giáo trình ghi cả hai là 2 (tổng chỉ còn 98).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -833,6 +885,8 @@
         "file": "hinh/phtl-nhch-h08.webp"
       },
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -863,6 +917,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -893,6 +949,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -923,6 +981,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -953,6 +1013,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -985,6 +1047,8 @@
         "file": "hinh/phtl-nhch-h09.webp"
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1015,6 +1079,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1045,6 +1111,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1075,6 +1143,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1105,6 +1175,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1135,6 +1207,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1165,6 +1239,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1195,6 +1271,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1225,6 +1303,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1255,6 +1335,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1285,6 +1367,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1315,6 +1399,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1345,6 +1431,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1375,6 +1463,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1405,6 +1495,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1435,6 +1527,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1465,6 +1559,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1495,6 +1591,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1525,6 +1623,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1555,6 +1655,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1585,6 +1687,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1615,6 +1719,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1645,6 +1751,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1675,6 +1783,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1705,6 +1815,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -1735,6 +1847,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1765,6 +1879,8 @@
       ],
       "image": null,
       "correctIndex": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": "Ngân hàng không đánh đáp án và câu này không có đáp án duy nhất: theo giáo trình, núm sau răng cửa, vùng Schröder và torus (u xương) hàm trên đều là phần tử bất lợi; chỉ lồi cùng là phần tử thuận lợi.",
       "ai": false,
       "aiCheck": false,
@@ -1795,6 +1911,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1824,12 +1942,14 @@
         }
       ],
       "image": null,
-      "correctIndex": 1,
+      "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: Applegate loại I, II, IV giống Kennedy. Applegate loại III chỉ là mất răng kẹp hai đầu khi răng trụ không gánh nổi lực nhai (khoảng mất răng rất dài, chân răng không phù hợp, xương tiêu nhiều, khớp cắn đối diện mạnh); mất răng kẹp hai đầu với răng trụ tốt là Applegate loại VI. Vì vậy loại III không giống Kennedy.",
+      "aiOriginal": "B. I, II và III",
       "scanNote": null
     },
     {
@@ -1855,6 +1975,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1881,6 +2003,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1911,6 +2035,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1943,6 +2069,8 @@
         "file": "hinh/phtl-nhch-h10.webp"
       },
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -1973,6 +2101,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2003,6 +2133,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2033,6 +2165,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2063,6 +2197,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": true,
       "explanation": null,
       "ai": true,
       "aiCheck": false,
@@ -2093,6 +2229,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2123,6 +2261,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2153,7 +2293,11 @@
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [
+        0
+      ],
+      "fixedOrder": true,
+      "explanation": "Răng 4 và 5 bằng nhau ở cả hai hàm (đều 3). Ở hàm dưới răng 1 và 2 cũng bằng nhau (đều 1), nên chọn A cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -2183,6 +2327,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2213,6 +2359,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2243,6 +2391,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2272,12 +2422,16 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 2,
+      "acceptIndices": [
+        0
+      ],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: ở một hướng tháo lắp đã xác định, trên một răng chỉ có một đường vòng lớn nhất duy nhất theo quan niệm phục hình (C); đường này phụ thuộc hình dạng thân răng và độ nghiêng của trục răng so với mặt phẳng nằm ngang (A cũng đúng). D sai.",
+      "aiOriginal": "D. Là nhiều đường ở hướng lắp đã chọn",
       "scanNote": null
     },
     {
@@ -2303,6 +2457,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2333,6 +2489,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2366,6 +2524,8 @@
         "chart": true
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2399,7 +2559,9 @@
         "chart": true
       },
       "correctIndex": 3,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Câu này ngân hàng tính bằng cách cộng thẳng hệ số nhai các răng còn lại (như câu chữ giáo trình) → còn 75%. Nếu chỉ tính răng còn răng đối diện (cách ngân hàng dùng ở các câu khác) thì còn 50%, không có phương án. Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -2432,6 +2594,8 @@
         "chart": true
       },
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2462,6 +2626,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2492,6 +2658,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2525,6 +2693,8 @@
         "chart": true
       },
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2555,6 +2725,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2580,11 +2752,13 @@
         },
         {
           "label": "D",
-          "text": "Sắp răng theo KTDMức khó"
+          "text": "Sắp răng theo KTD"
         }
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2615,6 +2789,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2645,6 +2821,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2675,6 +2853,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2705,6 +2885,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2735,6 +2917,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2765,7 +2949,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": null,
+      "acceptIndices": [
+        3
+      ],
+      "fixedOrder": true,
+      "explanation": "Giáo trình chia 3 trường hợp khi thiết lập kích thước dọc nhưng không xếp mức khó. Răng có tiếp xúc mà khoảng nghỉ quá nhiều (B) phải nâng KTD về giá trị đúng; răng không tiếp xúc (D) phải xác định lại KTD và tương quan tâm từ đầu, cũng là trường hợp khó, nên chọn D cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -2795,6 +2983,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2825,6 +3015,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2855,6 +3047,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2885,6 +3079,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2910,12 +3106,14 @@
         },
         {
           "label": "D",
-          "text": "Hai bên không có răng giới hạn phía sau và một đoạn răng phía trước"
+          "text": "Hai bên không có răng giới hạn phía sau và hai đoạn răng phía trước"
         }
       ],
       "image": null,
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": true,
+      "explanation": "Đề gốc in phương án C và D giống hệt nhau; D được sửa thành \"hai đoạn\" (loại I biến thể 2).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -2948,6 +3146,8 @@
         "chart": true
       },
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -2978,6 +3178,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3008,6 +3210,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3038,6 +3242,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3071,7 +3277,11 @@
         "chart": true
       },
       "correctIndex": 0,
-      "explanation": null,
+      "acceptIndices": [
+        2
+      ],
+      "fixedOrder": true,
+      "explanation": "Cách tính của ngân hàng: chỉ cộng hệ số nhai của những cặp răng còn chạm nhau (mất một răng thì răng đối diện cũng mất chức năng) → còn 34%. Nếu cộng thẳng hệ số các răng còn lại như câu chữ giáo trình thì được 64% (phương án C), nên chọn C cũng tính đúng. Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -3101,6 +3311,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3133,6 +3345,8 @@
         "file": "hinh/phtl-nhch-h13.webp"
       },
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3165,6 +3379,8 @@
         "file": "hinh/phtl-nhch-h14.webp"
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3195,6 +3411,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3227,6 +3445,8 @@
         "file": "hinh/phtl-nhch-h15.webp"
       },
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3257,6 +3477,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3266,7 +3488,7 @@
     },
     {
       "number": 108,
-      "question": "Phân loại mất răng theo Kennedy dựa vào - 3",
+      "question": "Phân loại mất răng theo Kennedy dựa vào",
       "options": [
         {
           "label": "A",
@@ -3287,6 +3509,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3296,7 +3520,7 @@
     },
     {
       "number": 109,
-      "question": "Trường hợp mất răng sau đây: x 7 x 5 4 3 x x x x 3 x 5 x x x phân loại theo Kennedy: - 3",
+      "question": "Trường hợp mất răng như sơ đồ dưới đây, phân loại theo Kennedy:",
       "options": [
         {
           "label": "A",
@@ -3315,9 +3539,14 @@
           "text": "Loại 2 biến thể 3"
         }
       ],
-      "image": null,
+      "image": {
+        "file": "hinh/phtl-nhch-b3-c109.webp",
+        "chart": true
+      },
       "correctIndex": 3,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Mất răng sau một bên không có răng giới hạn phía xa (bên trái) là loại II; ba khoảng mất răng thêm (răng 6 phải, nhóm răng cửa, răng 4 trái) là biến thể 3.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -3347,6 +3576,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3377,6 +3608,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3407,6 +3640,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3440,6 +3675,8 @@
         "chart": true
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3470,6 +3707,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3500,6 +3739,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3533,7 +3774,9 @@
         "chart": true
       },
       "correctIndex": 2,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Chưa tính tiêu xương, cách tính của ngân hàng (chỉ cộng các cặp răng còn chạm nhau) cho khoảng 50%; răng 25, 26 còn tiêu 2/3 xương ổ, tụt nướu nên chức năng nhai thực tế thấp hơn, khoảng 40%. 76% là kết quả cộng thẳng hệ số các răng còn lại mà chưa trừ phần nha chu.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -3566,6 +3809,8 @@
         "chart": true
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3575,7 +3820,7 @@
     },
     {
       "number": 118,
-      "question": "Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
+      "question": "Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm:",
       "options": [
         {
           "label": "A",
@@ -3595,17 +3840,19 @@
         }
       ],
       "image": null,
-      "correctIndex": 2,
+      "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Lồi cùng là mốc của hàm trên. Giáo trình: phần tử thuận lợi của hàm dưới là độ cong lồi của thân răng còn lại, điểm tiếp xúc giữa các răng thật, sóng hàm, gối hậu nha; nơi bám của cơ, dây chằng và đường chéo trong là bất lợi.",
+      "aiOriginal": "C. Lồi cùng",
       "scanNote": null
     },
     {
       "number": 119,
-      "question": "Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
+      "question": "Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong phục hình tháo lắp bán hàm:",
       "options": [
         {
           "label": "A",
@@ -3626,6 +3873,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3635,7 +3884,7 @@
     },
     {
       "number": 120,
-      "question": "Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong PHỤC HÌNH THÁO LẮP BH: 3-tb",
+      "question": "Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong PHỤC HÌNH THÁO LẮP BH:",
       "options": [
         {
           "label": "A",
@@ -3656,6 +3905,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3665,7 +3916,7 @@
     },
     {
       "number": 121,
-      "question": "Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm: 3-tb",
+      "question": "Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm:",
       "options": [
         {
           "label": "A",
@@ -3681,11 +3932,13 @@
         },
         {
           "label": "D",
-          "text": "Lồi cắn."
+          "text": "Lồi rắn."
         }
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3695,7 +3948,7 @@
     },
     {
       "number": 122,
-      "question": "Mặt phẳng Camper là: 3-tb",
+      "question": "Mặt phẳng Camper là:",
       "options": [
         {
           "label": "A",
@@ -3716,6 +3969,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3725,7 +3980,7 @@
     },
     {
       "number": 123,
-      "question": "Mặt phẳng Franfcost là: 3-tb",
+      "question": "Mặt phẳng Francfort là:",
       "options": [
         {
           "label": "A",
@@ -3746,6 +4001,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3755,7 +4012,7 @@
     },
     {
       "number": 124,
-      "question": "Mặt phẳng nhai phục hình là: 3-tb",
+      "question": "Mặt phẳng nhai phục hình là:",
       "options": [
         {
           "label": "A",
@@ -3776,6 +4033,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3806,6 +4065,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3836,6 +4097,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3866,6 +4129,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3896,6 +4161,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3926,6 +4193,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -3935,96 +4204,6 @@
     },
     {
       "number": 130,
-      "question": "Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
-      "options": [
-        {
-          "label": "A",
-          "text": "Độ cong lồi của thân răng còn lại trên hàm."
-        },
-        {
-          "label": "B",
-          "text": "Nơi bám của dây chằng."
-        },
-        {
-          "label": "C",
-          "text": "Lồi cùng."
-        },
-        {
-          "label": "D",
-          "text": "Đường chéo trong."
-        }
-      ],
-      "image": null,
-      "correctIndex": 2,
-      "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
-      "scanNote": null
-    },
-    {
-      "number": 131,
-      "question": "Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm: 3-tb",
-      "options": [
-        {
-          "label": "A",
-          "text": "Độ cong lồi của thân răng."
-        },
-        {
-          "label": "B",
-          "text": "Vùng sau răng cửa."
-        },
-        {
-          "label": "C",
-          "text": "Sống hàm."
-        },
-        {
-          "label": "D",
-          "text": "Lồi rắn."
-        }
-      ],
-      "image": null,
-      "correctIndex": 3,
-      "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
-      "scanNote": null
-    },
-    {
-      "number": 132,
-      "question": "Mặt phẳng nhai phục hình là:",
-      "options": [
-        {
-          "label": "A",
-          "text": "Mặt phẳng tưởng tượng trùng với mặt phẳng Camper."
-        },
-        {
-          "label": "B",
-          "text": "Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối."
-        },
-        {
-          "label": "C",
-          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới hốc mắt."
-        },
-        {
-          "label": "D",
-          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới cánh mũi."
-        }
-      ],
-      "image": null,
-      "correctIndex": 1,
-      "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
-      "scanNote": null
-    },
-    {
-      "number": 133,
       "question": "Trường hợp nào có thể cần phải xác định lại KTD",
       "options": [
         {
@@ -4046,6 +4225,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4054,7 +4235,7 @@
       "scanNote": null
     },
     {
-      "number": 134,
+      "number": 131,
       "question": "Mất răng loại II biến thể 2",
       "options": [
         {
@@ -4076,6 +4257,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4084,7 +4267,7 @@
       "scanNote": null
     },
     {
-      "number": 135,
+      "number": 132,
       "question": "Đặc điểm thuận lợi của hàm trên cho việc thực hiện hàm giả",
       "options": [
         {
@@ -4106,6 +4289,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4114,7 +4299,7 @@
       "scanNote": null
     },
     {
-      "number": 136,
+      "number": 133,
       "question": "Phân loại theo Kennedy có mấy loại mất răng cơ bản:",
       "options": [
         {
@@ -4136,6 +4321,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4144,7 +4331,7 @@
       "scanNote": null
     },
     {
-      "number": 137,
+      "number": 134,
       "question": "hệ số nhai của R8 hàm trên là bao nhiêu:",
       "options": [
         {
@@ -4166,7 +4353,11 @@
       ],
       "image": null,
       "correctIndex": 1,
-      "explanation": null,
+      "acceptIndices": [
+        0
+      ],
+      "fixedOrder": true,
+      "explanation": "Bảng 3.1 in trong giáo trình ghi răng 8 hàm trên là 2, nhưng như vậy tổng chỉ 98; ngân hàng dùng giá trị 3 để tổng đúng 100. Chọn A (theo bảng in) cũng tính đúng.",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -4174,7 +4365,7 @@
       "scanNote": null
     },
     {
-      "number": 138,
+      "number": 135,
       "question": "Mất răng nào theo phân loại của KENNEDY là khó làm nhất:",
       "options": [
         {
@@ -4196,6 +4387,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4204,7 +4397,7 @@
       "scanNote": null
     },
     {
-      "number": 139,
+      "number": 136,
       "question": "Phân loại II mất răng theo Kennedy, chọn câu đúng:",
       "options": [
         {
@@ -4226,6 +4419,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4234,7 +4429,7 @@
       "scanNote": null
     },
     {
-      "number": 140,
+      "number": 137,
       "question": "Những điểm thuận lợi của hàm trên",
       "options": [
         {
@@ -4256,6 +4451,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4264,7 +4461,7 @@
       "scanNote": null
     },
     {
-      "number": 141,
+      "number": 138,
       "question": "Phân loại mất răng nào được sử dụng phổ biến trên lâm sàng:",
       "options": [
         {
@@ -4286,6 +4483,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4294,7 +4493,7 @@
       "scanNote": null
     },
     {
-      "number": 142,
+      "number": 139,
       "question": "Phân loại mất răng theo APPLEGATE gồm mấy loại:",
       "options": [
         {
@@ -4316,6 +4515,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4324,7 +4525,7 @@
       "scanNote": null
     },
     {
-      "number": 143,
+      "number": 140,
       "question": "Mất răng loại mấy theo KENNEDY là không có biến thể:",
       "options": [
         {
@@ -4346,6 +4547,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4354,7 +4557,7 @@
       "scanNote": null
     },
     {
-      "number": 144,
+      "number": 141,
       "question": "Phân loại mất răng theo Kennedy:",
       "options": [
         {
@@ -4378,6 +4581,8 @@
         "file": "hinh/phtl-nhch-h16.webp"
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4386,7 +4591,7 @@
       "scanNote": null
     },
     {
-      "number": 145,
+      "number": 142,
       "question": "Núm sau răng cửa",
       "options": [
         {
@@ -4408,6 +4613,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4416,7 +4623,7 @@
       "scanNote": null
     },
     {
-      "number": 146,
+      "number": 143,
       "question": "Vùng Schroder là?",
       "options": [
         {
@@ -4437,16 +4644,18 @@
         }
       ],
       "image": null,
-      "correctIndex": 3,
+      "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình: vùng Schröder là vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong, có nhiều mô mỡ và mô tuyến (một câu khác trong ngân hàng cũng chọn \"răng cối nhỏ\").",
+      "aiOriginal": "D. Từ răng cối lớn đến đường A",
       "scanNote": null
     },
     {
-      "number": 147,
+      "number": 144,
       "question": "Phân loại mất răng theo Kennedy – Applegate, loạ mất răng nào có thể làm phục hình cố định:",
       "options": [
         {
@@ -4468,6 +4677,8 @@
       ],
       "image": null,
       "correctIndex": 2,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4476,7 +4687,7 @@
       "scanNote": null
     },
     {
-      "number": 148,
+      "number": 145,
       "question": "Mất răng loại Kennedy I là :",
       "options": [
         {
@@ -4498,6 +4709,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4506,7 +4719,7 @@
       "scanNote": null
     },
     {
-      "number": 149,
+      "number": 146,
       "question": "Những phần tử cơ thể và sinh lý bất lợi ở hàm trên là:",
       "options": [
         {
@@ -4528,6 +4741,8 @@
       ],
       "image": null,
       "correctIndex": 3,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4536,7 +4751,7 @@
       "scanNote": null
     },
     {
-      "number": 150,
+      "number": 147,
       "question": "Điểm bất lợi khác nhau giữa hàm trên và hàm dưới là:",
       "options": [
         {
@@ -4558,6 +4773,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4566,7 +4783,7 @@
       "scanNote": null
     },
     {
-      "number": 151,
+      "number": 148,
       "question": "Mặt phẳng Camper là mặt phẳng tưởng tưởng:",
       "options": [
         {
@@ -4588,6 +4805,8 @@
       ],
       "image": null,
       "correctIndex": 0,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4596,7 +4815,7 @@
       "scanNote": null
     },
     {
-      "number": 152,
+      "number": 149,
       "question": "Mặt phẳng Francfort là mặt phẳng tưởng tượng:",
       "options": [
         {
@@ -4618,6 +4837,8 @@
       ],
       "image": null,
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4626,7 +4847,7 @@
       "scanNote": null
     },
     {
-      "number": 153,
+      "number": 150,
       "question": "Mất răng ở hàm trên như sau, được phân loại theo Kennedy là",
       "options": [
         {
@@ -4647,10 +4868,12 @@
         }
       ],
       "image": {
-        "file": "hinh/phtl-nhch-b3-c153.webp",
+        "file": "hinh/phtl-nhch-b3-c150.webp",
         "chart": true
       },
       "correctIndex": 1,
+      "acceptIndices": [],
+      "fixedOrder": false,
       "explanation": null,
       "ai": false,
       "aiCheck": false,
@@ -4659,7 +4882,7 @@
       "scanNote": null
     },
     {
-      "number": 154,
+      "number": 151,
       "question": "Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai",
       "options": [
         {
@@ -4680,11 +4903,13 @@
         }
       ],
       "image": {
-        "file": "hinh/phtl-nhch-b3-c154.webp",
+        "file": "hinh/phtl-nhch-b3-c151.webp",
         "chart": true
       },
       "correctIndex": 1,
-      "explanation": null,
+      "acceptIndices": [],
+      "fixedOrder": false,
+      "explanation": "Cách tính của ngân hàng: chỉ cộng hệ số nhai của các cặp răng còn chạm nhau → còn 40%. Nếu cộng thẳng hệ số các răng còn lại thì được khoảng 70% (không có phương án). Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).",
       "ai": false,
       "aiCheck": false,
       "aiNote": null,
@@ -4692,7 +4917,7 @@
       "scanNote": null
     },
     {
-      "number": 155,
+      "number": 152,
       "question": "Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai",
       "options": [
         {
@@ -4713,15 +4938,19 @@
         }
       ],
       "image": {
-        "file": "hinh/phtl-nhch-b3-c155.webp",
+        "file": "hinh/phtl-nhch-b3-c152.webp",
         "chart": true
       },
-      "correctIndex": 2,
+      "correctIndex": 3,
+      "acceptIndices": [
+        1
+      ],
+      "fixedOrder": true,
       "explanation": null,
-      "ai": false,
-      "aiCheck": false,
-      "aiNote": null,
-      "aiOriginal": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Cách tính ngân hàng dùng ở các câu khác (chỉ cộng hệ số nhai của các cặp răng còn chạm nhau) cho còn 55%; 45% là phần chức năng đã mất, nên đáp án C của ngân hàng sai. Nếu cộng thẳng hệ số các răng còn lại như câu chữ giáo trình thì còn khoảng 77–78% (phương án B), nên chọn B cũng tính đúng. Hệ số nhai dùng ở đây: hàm trên 2-1-4-3-3-5-5-3, hàm dưới 1-1-4-3-3-5-5-2 (răng 1 → 8, tổng 100).",
+      "aiOriginal": "C. 45%",
       "scanNote": null
     }
   ]
