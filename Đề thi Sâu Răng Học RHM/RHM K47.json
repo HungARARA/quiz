@@ -1,0 +1,1964 @@
+{
+  "title": "RHM K47",
+  "subject": "Đề thi Sâu Răng Học RHM",
+  "source": "Sâu răng RHM K47",
+  "header": [
+    "Đề 100 · Lần 1 · Ngày thi 16/04/2024 · 65 câu · 40 phút",
+    "Nguồn: Đề Thi/đề sâu răng có 47.pdf (trang 25–28)",
+    "Đáp án: theo các phương án tô vàng trong file (không phải đáp án chính thức của bộ môn); 7 câu AI sửa theo giáo trình Sâu Răng Học"
+  ],
+  "note": null,
+  "noteLabel": null,
+  "questions": [
+    {
+      "number": 1,
+      "question": "pH tới hạn của hydroxyapatite (thành phần của men) là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.0"
+        },
+        {
+          "label": "B",
+          "text": "5.5"
+        },
+        {
+          "label": "C",
+          "text": "3.5"
+        },
+        {
+          "label": "D",
+          "text": "4.5"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Theo thuyết động học về sinh lý bệnh sâu răng, hydroxyapatite Ca10(PO4)6(OH)2 và fluorapatite là thành phần chính của men, ngà và bị hòa tan khi pH giảm dưới mức pH tới hạn. Giáo trình ghi rõ pH tới hạn của hydroxyapatite là 5,5 và của fluorapatite là 4,5. Ở pH dưới 5,5, khoáng của răng hoạt động như chất đệm, giải phóng ion calci và phosphate vào mảng bám, đó là lúc men bắt đầu mất khoáng. (Giáo trình Sâu Răng Học, Bài 3, mục 2.5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 2,
+      "question": "Acid sinh ra do quá trình chuyển hoá của vi khuẩn có vai trò quan trọng trong bệnh nguyên sâu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acid lactic"
+        },
+        {
+          "label": "B",
+          "text": "Acid phosphoric"
+        },
+        {
+          "label": "C",
+          "text": "Acid cloric"
+        },
+        {
+          "label": "D",
+          "text": "Acid acetic"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Vi khuẩn mảng bám lên men carbohydrate trong thức ăn và sinh ra các acid hữu cơ; giáo trình ghi các acid này chủ yếu là acid lactic, acetic, formic và propionic. Acid lactic do S. mutans và Lactobacillus tạo ra nhiều nhất và mạnh nhất, làm pH mảng bám tụt xuống dưới 5,5 và gây mất khoáng men. Vì vậy acid lactic là acid quan trọng nhất trong bệnh nguyên sâu răng. (Giáo trình Sâu Răng Học, Bài 4; Bài 3, mục 1.1–1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 3,
+      "question": "Sang thương sâu răng lan từ mặt gần qua mặt nhai tới mặt xa răng cối lớn hàm dưới gọi là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang MO"
+        },
+        {
+          "label": "B",
+          "text": "Xoang MOD"
+        },
+        {
+          "label": "C",
+          "text": "Xoang DO"
+        },
+        {
+          "label": "D",
+          "text": "Xoang II"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Xoang được gọi tên theo các mặt răng bị sâu, viết tắt bằng chữ đầu tiếng Anh: M (mesial) là mặt gần, O (occlusal) là mặt nhai, D (distal) là mặt xa. Sang thương lan từ mặt gần qua mặt nhai tới mặt xa gồm đủ ba mặt nên gọi là xoang MOD. Theo G.V. Black, đây là một xoang loại II (sâu mặt bên răng sau, gồm hai mặt trở lên), nhưng tên gọi chính xác nhất cho ba mặt này là “Xoang MOD”. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 4,
+      "question": "Nguyên tắc xoang II trám Composite là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hình thang, đáy lớn phía bên"
+        },
+        {
+          "label": "B",
+          "text": "Hình thang, đáy lớn phía nướu"
+        },
+        {
+          "label": "C",
+          "text": "Hình dạng vách ngoài trong hội tụ mặt nhai"
+        },
+        {
+          "label": "D",
+          "text": "Hình dạng không nhất định tùy sang thương sâu răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Composite dán vào men và ngà bằng liên kết vi cơ học sau khi xoi mòn acid, nên không cần tạo hình thể lưu cơ học như amalgam. Giáo trình ghi nguyên tắc sửa soạn xoang cho composite là bảo tồn tối đa mô răng, và mức độ, giới hạn của sửa soạn xoang phụ thuộc vào kích thước, hình dạng và vị trí của sang thương sâu răng. Vì vậy xoang II trám composite có hình dạng không nhất định, tùy sang thương. (Giáo trình Sâu Răng Học, Bài 8, mục 6.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 5,
+      "question": "Bước đầu tiên của tạo xoang là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo hình thể thuận tiện"
+        },
+        {
+          "label": "B",
+          "text": "Tạo hình thể kháng lực"
+        },
+        {
+          "label": "C",
+          "text": "Tạo hình thể lưu"
+        },
+        {
+          "label": "D",
+          "text": "Tạo đường vào lấy sạch ngà sâu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Trong các nguyên tắc tạo xoang trám của G.V. Black, bước đầu tiên là lấy đi cấu trúc mô răng để tạo đường vào và có thể nhìn thấy được tổn thương, rồi lấy sạch những phần men và ngà có dấu hiệu mất khoáng ở sàn, thành và bờ xoang. Chỉ sau khi đã vào được xoang và lấy sạch mô sâu mới tạo hình thể kháng lực, hình thể lưu và mở rộng xoang. (Giáo trình Sâu Răng Học, Bài 6, mục 2.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 6,
+      "question": "Xoang III ở răng cửa bên hàm trên nằm ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố mặt trong"
+        },
+        {
+          "label": "B",
+          "text": "Rìa cắn"
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Gờ cingulum"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Theo phân loại G.V. Black, xoang loại III là sâu ở mặt bên các răng cửa và răng nanh, không ảnh hưởng đến góc cắn. Ba vị trí còn lại trong câu thuộc loại khác: hố mặt trong của răng cửa hàm trên là xoang loại I, rìa cắn liên quan loại IV và VI, cổ răng mặt ngoài là loại V. Không phương án nào ghi đúng “mặt bên”; gờ cingulum nằm ở mặt trong gần hai mặt bên nên đề chọn theo cách loại trừ. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": "Bên lề đề có ghi chú tay: hố mặt trong là xoang I, rìa cắn là xoang IV, cổ răng mặt ngoài là xoang V. Đề RHM K43 (câu 23) và K45 (câu 53) có cùng câu và cũng chọn “Gờ cingulum”."
+    },
+    {
+      "number": 7,
+      "question": "Xoang IV ở răng cửa giữa hàm trên nằm ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố mặt trong"
+        },
+        {
+          "label": "B",
+          "text": "Rìa cắn"
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Gờ cingulum"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Theo phân loại G.V. Black, xoang loại IV là sâu ở mặt bên các răng cửa và răng nanh có ảnh hưởng đến góc cắn (Hình 5.8). Vì tổn thương lan tới góc và rìa cắn nên trong các vị trí đã cho, xoang IV nằm ở “Rìa cắn”. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 8,
+      "question": "Xoang V ở răng cửa nanh hàm dưới nằm ở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố mặt trong"
+        },
+        {
+          "label": "B",
+          "text": "Rìa cắn"
+        },
+        {
+          "label": "C",
+          "text": "Cổ răng mặt ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Gờ cingulum"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Theo phân loại G.V. Black, xoang loại V là sâu ở 1/3 phía nướu của mặt ngoài hoặc mặt trong của tất cả các răng. Với răng nanh hàm dưới, vị trí đó chính là cổ răng mặt ngoài. (Giáo trình Sâu Răng Học, Bài 5, mục 1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 9,
+      "question": "Mũi khoan tốt nhất dùng để tạo xoang ở sâu men hố rãnh là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mũi tròn nhỏ"
+        },
+        {
+          "label": "B",
+          "text": "Mũi trụ đầu tròn nhỏ"
+        },
+        {
+          "label": "C",
+          "text": "Mũi nón cụt nhỏ"
+        },
+        {
+          "label": "D",
+          "text": "Mũi trụ đầu nhọn nhỏ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Sâu men hố rãnh là tổn thương nhỏ, khu trú trong hố rãnh, nên theo nguyên tắc bảo tồn tối đa mô răng chỉ cần mở một lối vào nhỏ ngay trên tổn thương. Mũi khoan tròn nhỏ đi vào hố rãnh gọn nhất, lấy đúng phần men mất khoáng mà không làm rộng xoang. Giáo trình dùng mũi khoan tròn để mở lối vào và lấy ngà sâu khi trám GIC, và yêu cầu mũi khoan có hình dạng, kích thước phù hợp với xoang cần làm. (Giáo trình Sâu Răng Học, Bài 6, mục 3.2; Bài 7, mục 4–5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 10,
+      "question": "CHỌN CÂU SAI: Khi tạo xoang trám composite ta cần vạt men ở bờ xoang nhằm để:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm bớt diện tích men răng tăng độ lưu"
+        },
+        {
+          "label": "B",
+          "text": "Tăng diện tích vi lưu khi etching sau này"
+        },
+        {
+          "label": "C",
+          "text": "Tạo sự chuyển tiếp màu miếng trám"
+        },
+        {
+          "label": "D",
+          "text": "Tránh sự gãy, hở bờ miếng trám sau này"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình nêu tác dụng của vạt men khi trám composite: giúp hòa trộn sự khác biệt màu ở vùng đường hoàn tất trong khoảng 0,5–1 mm (chuyển tiếp màu miếng trám), cung cấp thêm diện tích bề mặt men cho liên kết rìa và giảm nguy cơ rò rỉ, hở bờ. Vạt men làm tăng chứ không giảm diện tích men để xoi mòn acid tạo vi lưu, nên câu “Giảm bớt diện tích men răng tăng độ lưu” là câu sai. (Giáo trình Sâu Răng Học, Bài 8, mục 5 và 6.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 11,
+      "question": "Theo nguyên tắc tạo xoang xâm lấn tối thiểu, khi làm sạch xoang sâu ta sẽ lấy sạch ngà sâu và dừng lại ở lớp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngà hoại tử"
+        },
+        {
+          "label": "B",
+          "text": "Ngà thâm nhiễm"
+        },
+        {
+          "label": "C",
+          "text": "Ngà mất khoáng"
+        },
+        {
+          "label": "D",
+          "text": "Ngà xơ hóa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Bảng 9.1 chia sang thương sâu ngà thành các vùng tính từ bề mặt: vùng phá hủy (hoại tử, nhiễm trùng), vùng xâm nhập (ống ngà chứa đầy vi khuẩn), rồi vùng khử khoáng hay vùng bị ảnh hưởng, nơi ngà gian ống và quanh ống mất khoáng nhưng khuôn hữu cơ chưa bị hư hại và không chứa vi khuẩn. Lớp ngà bị ảnh hưởng này vẫn có khả năng tái khoáng, nên theo nguyên tắc xâm lấn tối thiểu ta lấy bỏ hai vùng nhiễm khuẩn bên ngoài và dừng lại ở lớp ngà mất khoáng. (Giáo trình Sâu Răng Học, Bài 9, mục 2.1, Bảng 9.1; Bài 5, mục 2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 12,
+      "question": "Bệnh nhân có xoang sâu tại vị trí hố xa của răng cối lớn thứ nhất hàm trên, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt khi ăn nóng uống lạnh sau vài giây thì hết ê buốt, chẩn đoán nào sau đây phù hợp nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu men hố xa"
+        },
+        {
+          "label": "B",
+          "text": "Sâu ngà hố xa"
+        },
+        {
+          "label": "C",
+          "text": "Viêm tủy không hồi phục"
+        },
+        {
+          "label": "D",
+          "text": "Viêm quanh chóp mãn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Triệu chứng cơ năng của sâu ngà là bệnh nhân không ê buốt hoặc chỉ ê buốt khi có kích thích, ngưng kích thích thì hết ê buốt. Khám bằng thám trâm thấy đáy lỗ sâu gồ ghề, có nhiều ngà mềm, ngà mủn. Bệnh nhân này có xoang sâu với ngà mùn và ê buốt khi ăn nóng uống lạnh, hết sau vài giây, chưa có đau tự phát, nên phù hợp nhất là sâu ngà hố xa. (Giáo trình Sâu Răng Học, Bài 3, mục 5.2; Bài 5, mục 2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 13,
+      "question": "Bệnh nhân có xoang sâu tại vị trí mặt nhai của răng cối lớn thứ ba hàm dưới, khám có xoang sâu, có ngà mùn, tiền sử bệnh nhân có ê buốt kéo dài khi ăn nóng uống lạnh, đau về đêm, chẩn đoán nào sau đây phù hợp nhất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu men hố xa"
+        },
+        {
+          "label": "B",
+          "text": "Sâu ngà hố xa"
+        },
+        {
+          "label": "C",
+          "text": "Viêm tủy không hồi phục"
+        },
+        {
+          "label": "D",
+          "text": "Viêm quanh chóp mãn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình phân biệt theo triệu chứng: sâu ngà sâu gây ê buốt kéo dài khoảng 30 giây đến 1 phút sau khi ngừng kích thích; khi sâu răng tiến tới tủy, bệnh nhân đau tự phát, đau nhiều về đêm. Đau tự phát, đặc biệt đau nhiều về đêm, cũng là dấu hiệu bệnh lý tủy mà giáo trình xếp vào chống chỉ định che tủy. Bệnh nhân có xoang sâu nhiều ngà mùn, ê buốt kéo dài khi ăn nóng uống lạnh và đau về đêm nên tủy đã tổn thương không hồi phục. (Giáo trình Sâu Răng Học, Bài 5, mục 2; Bài 9, mục 2.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 14,
+      "question": "Bệnh nhân có xoang sâu tại vị trí hố xa của răng cối lớn thứ nhất hàm trên, khám có xoang sâu lớn, có ngà mùn, tiền sử bệnh nhân chưa ghi nhận bất thường, để xác định độ sống tủy răng ta cần làm bước nào sau đây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nạo xoang thám sát"
+        },
+        {
+          "label": "B",
+          "text": "Thử tủy bằng điện"
+        },
+        {
+          "label": "C",
+          "text": "Thử tủy bằng nhiệt"
+        },
+        {
+          "label": "D",
+          "text": "Chụp phim quanh chóp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Trong phần chẩn đoán sâu ngà, giáo trình liệt kê các thử nghiệm tủy: thử lạnh, thử điện (ngưỡng kích thích điện bình thường 2–6 µA) và thử cơ học bằng khoan thử. Thử điện cho một con số so sánh được với răng bên cạnh để đánh giá tủy còn sống hay không. Với xoang sâu lớn mà bệnh sử chưa ghi nhận bất thường, cần thử tủy bằng điện để xác định độ sống tủy trước khi quyết định điều trị. (Giáo trình Sâu Răng Học, Bài 3, mục 5.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 15,
+      "question": "Bệnh nhân có xoang sâu tại vị trí mặt nhai của răng cối lớn thứ ba hàm dưới, tiền sử bệnh nhân có đau về đêm, khám có lỗ dò ở mặt ngoài đáy hành lang, bước tiếp theo ta cần làm là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nạo xoang thám sát"
+        },
+        {
+          "label": "B",
+          "text": "Thử tủy bằng điện"
+        },
+        {
+          "label": "C",
+          "text": "Thử tủy bằng nhiệt"
+        },
+        {
+          "label": "D",
+          "text": "Chụp phim quanh chóp"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Đau về đêm và lỗ dò ở đáy hành lang cho thấy nhiễm trùng đã đi qua tủy ra vùng quanh chóp. Giáo trình xếp đau tự phát về đêm, có lỗ dò và có thấu quang quanh chóp trên phim tia X vào nhóm dấu hiệu bệnh lý tủy và quanh chóp. Vì vậy bước tiếp theo là chụp phim quanh chóp để đánh giá tổn thương vùng chóp và hướng điều trị. (Giáo trình Sâu Răng Học, Bài 9, mục 2.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 16,
+      "question": "Chất khoáng nào đề kháng cao nhất với acid của vi khuẩn sinh sâu răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydroxyapatite"
+        },
+        {
+          "label": "B",
+          "text": "Fluoroapatite"
+        },
+        {
+          "label": "C",
+          "text": "Cloroapatite"
+        },
+        {
+          "label": "D",
+          "text": "Phosphoapatite"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Fluor kết hợp với apatite của men và ngà tạo thành fluorapatite cứng hơn. Giáo trình ghi khả năng hòa tan của men tỷ lệ nghịch với nồng độ fluor vì tinh thể fluorapatite ít bị acid hòa tan hơn tinh thể hydroxyapatite; pH tới hạn của fluorapatite là 4,5, thấp hơn mức 5,5 của hydroxyapatite. Vì vậy fluoroapatite đề kháng acid cao nhất. (Giáo trình Sâu Răng Học, Bài 3, mục 1.4 và 2.5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 17,
+      "question": "Vi khuẩn có vai trò quan trọng gây sâu chân răng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "S. mutans"
+        },
+        {
+          "label": "B",
+          "text": "Lactobacillus"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus"
+        },
+        {
+          "label": "D",
+          "text": "Actinomyces"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Giáo trình ghi Actinomyces đặc biệt có vai trò quan trọng trong sâu chân răng, kết hợp cùng các chủng S. mutans và Lactobacillus. Sâu chân răng thường là hậu quả của bệnh nha chu khi chân răng tiếp xúc với môi trường miệng, và thường do vi khuẩn Actinomyces. (Giáo trình Sâu Răng Học, Bài 3, mục 1.2; Bài 5, mục 1.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 18,
+      "question": "Sự hủy khoáng có đặc điểm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các hydroxyapatite và fluorapatite bị hòa tan khi pH bị giảm tới dưới mức tới hạn"
+        },
+        {
+          "label": "B",
+          "text": "pH tới hạn của hydroxyapatite là 4.5 còn fluorapatite là 5.5"
+        },
+        {
+          "label": "C",
+          "text": "Chỉ thành phần men bị hòa tan"
+        },
+        {
+          "label": "D",
+          "text": "Thành phần ngà không bị hòa tan"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình mô tả sự hủy khoáng: các hydroxyapatite Ca10(PO4)6(OH)2 và fluorapatite, thành phần chính của men và ngà, bị hòa tan khi pH giảm dưới mức pH tới hạn. pH tới hạn của hydroxyapatite là 5,5 và của fluorapatite là 4,5. Hủy khoáng xảy ra ở cả men lẫn ngà, chỉ khác nhau về mức độ. (Giáo trình Sâu Răng Học, Bài 3, mục 2.5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 19,
+      "question": "Yếu tố làm tăng sâu răng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hố rãnh sâu"
+        },
+        {
+          "label": "B",
+          "text": "Vị trí bất thường"
+        },
+        {
+          "label": "C",
+          "text": "Vùng tiếp xúc mặt bên rộng"
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 đều đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Giáo trình coi răng là yếu tố tiên quyết để có sâu răng và nêu các yếu tố làm tăng tính nhạy cảm. Về hình thái giải phẫu, hố rãnh sâu và vùng tiếp xúc mặt bên rộng làm tăng khả năng bám dính cơ học của mảng bám vi khuẩn. Về vị trí, răng ở vị trí bất thường do sắp xếp chen chúc trên cung hàm dễ tích tụ mảng bám và khó vệ sinh. Cả ba yếu tố đều làm tăng sâu răng. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 20,
+      "question": "Yếu tố tiên quyết để có sâu răng là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mảng bám"
+        },
+        {
+          "label": "B",
+          "text": "Nguồn dinh dưỡng"
+        },
+        {
+          "label": "C",
+          "text": "Răng"
+        },
+        {
+          "label": "D",
+          "text": "Thời gian"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình viết nguyên văn: răng “là yếu tố tiên quyết để có sâu răng”. Vi khuẩn và chất đường cần có răng (mô khoáng hóa trong môi trường miệng) thì mới gây được sâu; các yếu tố khác như hình thái, vị trí và độ trưởng thành của răng chỉ làm tăng hay giảm tính nhạy cảm. (Giáo trình Sâu Răng Học, Bài 1, mục 1.2.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 21,
+      "question": "Công thức hóa học của tinh thể khoáng canxi hydroxyapatite là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ca10(PO4)5(OH)2"
+        },
+        {
+          "label": "B",
+          "text": "Ca10(PO4)6(OH)2"
+        },
+        {
+          "label": "C",
+          "text": "Ca5(PO4)3(OH)2"
+        },
+        {
+          "label": "D",
+          "text": "Ca5(PO4)5(OH)2"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình ghi công thức hydroxyapatite là Ca10(PO4)6(OH)2 khi mô tả sự hủy khoáng, và đây cũng là đáp án câu hỏi lượng giá về công thức tinh thể khoáng canxi hydroxyapatite theo Kay ở cuối Bài 2. (Giáo trình Sâu Răng Học, Bài 2, câu hỏi lượng giá; Bài 3, mục 2.5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 22,
+      "question": "Thành phần của Composite nha khoa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khung hữu cơ và khung nhựa"
+        },
+        {
+          "label": "B",
+          "text": "Pha liên tục và pha liên kết"
+        },
+        {
+          "label": "C",
+          "text": "Khung nhựa, chất độn và chất liên kết"
+        },
+        {
+          "label": "D",
+          "text": "Pha liên tục, pha đứt đoạn và khung nhựa"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình mô tả composite gồm pha đứt là các hạt độn (chủ yếu silica) phân bố trong pha liên tục là khung nhựa (BIS-GMA, UDMA pha TEGDMA). Để có ưu điểm toàn diện, cần đưa vào một chất nối giữa hai pha: các hạt silica được bọc sẵn một lớp phân tử chất nối, một đầu dán vào nhóm hydroxy trên hạt silica, đầu kia đồng trùng hợp với monomer. Vậy composite gồm khung nhựa, chất độn và chất liên kết. (Giáo trình Sâu Răng Học, Bài 8, mục 2.1–2.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 23,
+      "question": "Thành phần nào quy định tính chất của Composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khung nhựa"
+        },
+        {
+          "label": "B",
+          "text": "Chất độn"
+        },
+        {
+          "label": "C",
+          "text": "Chất liên kết"
+        },
+        {
+          "label": "D",
+          "text": "Pha hữu cơ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình nhấn mạnh gần như tất cả các đặc tính quan trọng của composite được củng cố bằng việc gia tăng lượng chất độn, và khi hàm lượng chất độn tăng thì các tính chất vật lý, hóa học, cơ học nói chung được cải thiện. Composite cũng được phân loại chủ yếu theo thành phần, kích thước và cách thêm chất độn. Vì vậy chất độn là thành phần quy định tính chất của composite. (Giáo trình Sâu Răng Học, Bài 8, mục 2.3 và 4)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 24,
+      "question": "Thành phần chủ yếu trong chất độn của Composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "SiO2"
+        },
+        {
+          "label": "B",
+          "text": "Li"
+        },
+        {
+          "label": "C",
+          "text": "Al"
+        },
+        {
+          "label": "D",
+          "text": "Ba"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình ghi composite nha khoa thường là hỗn hợp các hạt thủy tinh silicate với monomer acrylic, và vì chất nối kết hợp tốt nhất với hạt silica nên tất cả composite nha khoa đều chứa hạt độn cơ bản là silica (SiO2). Các ion Li, Al, Ba chỉ được thêm vào để sửa đổi tính chất của hạt độn. (Giáo trình Sâu Răng Học, Bài 8, mục 2.1–2.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 25,
+      "question": "Khối lượng chất độn trong Composite hiện nay là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "75%"
+        },
+        {
+          "label": "B",
+          "text": "50 - 60%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "80%"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình giải thích vì silica có tỷ trọng lớn hơn khoảng 3 lần so với nhựa khung nên 75% trọng lượng chất độn tương đương khoảng 50% thể tích. Composite loại cổ điển chứa khoảng 75–80% hạt độn vô cơ theo trọng lượng, loại lai khoảng 70–80%. Vậy khối lượng (trọng lượng) chất độn trong composite hiện nay khoảng 75%. (Giáo trình Sâu Răng Học, Bài 8, mục 2.3 và 4, Bảng 8.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 26,
+      "question": "Thể tích hạt độn trong Composite hiện nay là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "75%"
+        },
+        {
+          "label": "B",
+          "text": "50 – 60%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "80%"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Phần trăm thể tích luôn nhỏ hơn phần trăm trọng lượng vì chất độn có tỷ trọng lớn hơn nhựa khung. Giáo trình ghi 75% trọng lượng tương đương khoảng 50% thể tích chất độn. Vì vậy thể tích hạt độn trong composite hiện nay khoảng 50–60%. (Giáo trình Sâu Răng Học, Bài 8, mục 2.3, Bảng 8.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 27,
+      "question": "Thành phần nào trong Composite làm cho Composite có tính cản quang:",
+      "options": [
+        {
+          "label": "A",
+          "text": "SiO2"
+        },
+        {
+          "label": "B",
+          "text": "Zn, B, Zr"
+        },
+        {
+          "label": "C",
+          "text": "Li, Al, Ba"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả câu trên"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình viết: thành phần chất độn thường được sửa đổi bằng các ion khác để tạo những đặc tính mong muốn; các ion Li, Al giúp phần tinh thể dễ nghiền thành những hạt nhỏ, còn các ion Ba, Zn, B, Zr, Y được sử dụng để tạo sự cản quang cho các hạt độn. Phương án “Zn, B, Zr” gồm toàn các ion tạo cản quang. (Giáo trình Sâu Răng Học, Bài 8, mục 2.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 28,
+      "question": "Trong các loại hạt độn sau, hạt độn nào cho đặc tính ưu thế của Composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macrofill"
+        },
+        {
+          "label": "B",
+          "text": "Microfill"
+        },
+        {
+          "label": "C",
+          "text": "Nanofill"
+        },
+        {
+          "label": "D",
+          "text": "Hybrid"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình chia composite theo kích cỡ hạt vô cơ: loại cổ điển có hạt lớn, cứng, bền nhưng bề mặt gồ ghề, dễ đổi màu; loại hạt độn nhỏ có bề mặt bóng láng tương tự men nhưng tính chất vật lý, cơ học kém hơn. Loại lai (hybrid) “có sự kết hợp tính chất vật lý và cơ học của loại cổ điển và sự nhẵn láng bề mặt của loại composite hạt độn nhỏ”, hạt vô cơ chiếm khoảng 70–80% trọng lượng. Đó là hạt độn cho đặc tính ưu thế. Giáo trình chỉ nhắc nanofiller như loại hạt đang được nghiên cứu, phát triển. (Giáo trình Sâu Răng Học, Bài 8, mục 2.3 và 5)",
+      "aiOriginal": "C. Nanofill",
+      "scanNote": null
+    },
+    {
+      "number": 29,
+      "question": "Hạt độn nhỏ làm cho Composite có tính chất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng độ quánh"
+        },
+        {
+          "label": "B",
+          "text": "Tăng độ cứng"
+        },
+        {
+          "label": "C",
+          "text": "Chống mài mòn"
+        },
+        {
+          "label": "D",
+          "text": "Tăng tính nhão"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình viết composite hạt độn nhỏ có tính chất vật lý và cơ học kém hơn loại cổ điển, được tạo ra để có bề mặt bóng láng tương tự men răng, và “composite hạt độn nhỏ lại kháng với sự mài mòn thấy rõ trên lâm sàng”. Các nghiên cứu lâm sàng hơn 20 năm cũng kết luận composite vi độn là loại vật liệu chống mài mòn tốt nhất, vì các hạt nhỏ nằm sát nhau che chở lớp polymer xen kẽ (bảo vệ vi mô). Giáo trình còn ghi hạt độn nhỏ tạo độ nhớt cao cho hỗn hợp chưa trùng hợp, tức làm composite quánh hơn chứ không nhão hơn. (Giáo trình Sâu Răng Học, Bài 8, mục 2.3, 4 và 5)",
+      "aiOriginal": "D. Tăng tính nhão",
+      "scanNote": null
+    },
+    {
+      "number": 30,
+      "question": "Hạt độn lớn làm cho Composite có tính chất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng độ cứng"
+        },
+        {
+          "label": "B",
+          "text": "Dễ đánh bóng"
+        },
+        {
+          "label": "C",
+          "text": "Tăng tính nhão"
+        },
+        {
+          "label": "D",
+          "text": "Chống gây vỡ kém"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình mô tả composite loại cổ điển chứa 75–80% hạt độn vô cơ với kích thước hạt tương đối lớn và cứng; hạt độn cứng hơn nhựa khung nên vật liệu chịu lực tốt. Cũng vì hạt lớn và cứng nên khi hoàn tất, khuôn nhựa bị mòn nhanh hơn, hạt nhô lên hay tróc ra làm bề mặt gồ ghề, khó đánh bóng. Vậy hạt độn lớn làm composite tăng độ cứng. (Giáo trình Sâu Răng Học, Bài 8, mục 2.2–2.3 và 5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 31,
+      "question": "Dung lượng chất độn nhiều làm cho Composite có tính chất:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tăng sức bền cơ học"
+        },
+        {
+          "label": "B",
+          "text": "Tăng hấp thu nước"
+        },
+        {
+          "label": "C",
+          "text": "Tăng độ xốp"
+        },
+        {
+          "label": "D",
+          "text": "Co nhiều"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình ghi khi hàm lượng chất độn tổng thể tăng lên, các tính chất vật lý, hóa học và cơ học nói chung được cải thiện, và gần như tất cả các đặc tính quan trọng của composite được củng cố bằng việc tăng lượng chất độn. Chất độn nhiều thì phần nhựa ít đi nên vật liệu bền cơ học hơn, ít hút nước và ít co khi trùng hợp. (Giáo trình Sâu Răng Học, Bài 8, mục 2.3 và 4)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 32,
+      "question": "Tỉ lệ khung nhựa cao làm cho Composite có tính chất, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giảm sức bền"
+        },
+        {
+          "label": "B",
+          "text": "Đổi màu nhanh"
+        },
+        {
+          "label": "C",
+          "text": "Hút nước nhiều"
+        },
+        {
+          "label": "D",
+          "text": "Ít đổi màu"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Khung nhựa là phần yếu nhất của composite. Giáo trình ghi sự hấp thu nước làm phồng các polymer của composite, thúc đẩy khuếch tán monomer tự do và làm nhựa hóa, phân hủy vật liệu; theo thời gian, thay đổi hóa học trong cấu trúc polymer còn làm miếng trám vàng đi, trong khi vật liệu có mật độ chất độn cao chống thay đổi màu sắc tốt hơn. Vì vậy tỷ lệ nhựa cao làm giảm sức bền, hút nước nhiều và đổi màu nhanh; “Ít đổi màu” là câu sai. (Giáo trình Sâu Răng Học, Bài 8, mục 4 và 5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 33,
+      "question": "Composite co nhiều khi trùng hợp nếu:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Composite có dung lượng hạt độn nhiều"
+        },
+        {
+          "label": "B",
+          "text": "Pha hữu cơ càng nhiều"
+        },
+        {
+          "label": "C",
+          "text": "Đặt composite lượng nhỏ"
+        },
+        {
+          "label": "D",
+          "text": "Kích thước hạt độn cao"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Co ngót trùng hợp xảy ra ở phần nhựa: giáo trình ghi trong quá trình chuyển đổi từ monomer sang polymer, miếng composite sẽ bị co rút lại. Hạt độn không co, nên pha hữu cơ (khung nhựa) càng nhiều thì composite co càng nhiều; ngược lại tăng tỷ lệ hạt độn và đặt từng lượng nhỏ giúp giảm co. (Giáo trình Sâu Răng Học, Bài 8, mục 4, câu hỏi lượng giá 4)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 34,
+      "question": "Cơ chế dán dính khi trám Composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lưu cơ học"
+        },
+        {
+          "label": "B",
+          "text": "Vi lưu cơ học"
+        },
+        {
+          "label": "C",
+          "text": "Lưu hóa học"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình ghi khi nhựa dán được thoa lên bề mặt men đã xoi mòn acid, nó thấm vào các vi lưu rồi trùng hợp, hình thành cơ chế dán dính vi cơ học men–nhựa (đuôi resin). Với ngà, khoảng 90% độ bền dán là do liên kết vi cơ học. Vậy cơ chế dán dính khi trám composite là vi lưu cơ học. (Giáo trình Sâu Răng Học, Bài 8, mục 2.1 và 6.3.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 35,
+      "question": "Xử lí xoang sau khi xoi mòn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thời gian rửa nước gấp đôi thời gian xoi mòn"
+        },
+        {
+          "label": "B",
+          "text": "Thổi khô xoang tuyệt đối"
+        },
+        {
+          "label": "C",
+          "text": "Thời gian rửa nước tùy ý"
+        },
+        {
+          "label": "D",
+          "text": "Không cần cách ly xoang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Theo giáo trình, xoi mòn men cần 5–50 giây, xử lý ngà 10–20 giây với acid phosphoric 35–37%, xoi mòn toàn thể làm cả hai trong 10–20 giây. Sau xoi mòn rửa nước trong 30–60 giây và chỉ làm khô vừa phải (lau khô hoặc thổi tương đối khô). Thời gian rửa vì vậy dài ít nhất gấp đôi thời gian xoi mòn, đủ để loại hết acid và sản phẩm hòa tan. Trong suốt quá trình phải cách ly tuyệt đối. (Giáo trình Sâu Răng Học, Bài 8, mục 6.3.1 và 6.3.4)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 36,
+      "question": "Đường vạt men ngắn thường sử dụng cho xoang nào, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xoang II"
+        },
+        {
+          "label": "B",
+          "text": "Xoang I"
+        },
+        {
+          "label": "C",
+          "text": "Xoang IV"
+        },
+        {
+          "label": "D",
+          "text": "Xoang III"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình không phân loại vạt men ngắn và vạt men dài. Theo bài giảng của bộ môn (đáp án chính thức đề RHM K48 câu 54), xoang IV dùng vạt men dài khoảng 30° để tăng diện tích dán và che đường hoàn tất ở vùng thẩm mỹ, chịu lực cắn. Các xoang I, II, III dùng vạt men ngắn. Vì vậy “Xoang IV” là câu sai. Giáo trình chỉ nêu tác dụng chung của vạt men: chuyển tiếp màu và tăng diện tích liên kết rìa. (Giáo trình Sâu Răng Học không ghi; tham khảo Bài 8, mục 5 và 6.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 37,
+      "question": "Đặc điểm của đường vạt men loại ngắn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đi hết chiều dài lớp men"
+        },
+        {
+          "label": "B",
+          "text": "½ chiều dài lớp men"
+        },
+        {
+          "label": "C",
+          "text": "Rộng 2mm"
+        },
+        {
+          "label": "D",
+          "text": "Rộng 3mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình không ghi số đo của vạt men ngắn. Theo cách chia của bộ môn trong các đề thi (K44 câu 43–44, K47 câu 36–38, K48 câu 54), vạt men ngắn chỉ vát khoảng một nửa lớp men, bề rộng hẹp; vạt men dài đi hết lớp men và rộng 2–3 mm. Vậy đặc điểm của vạt men ngắn là “½ chiều dài lớp men”. (Giáo trình Sâu Răng Học không ghi; tham khảo Bài 8, mục 5 và 6.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 38,
+      "question": "Đặc điểm của đường vạt men loại dài:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đi hết chiều dày lớp men"
+        },
+        {
+          "label": "B",
+          "text": "Rộng 2-3mm"
+        },
+        {
+          "label": "C",
+          "text": "A, B đúng"
+        },
+        {
+          "label": "D",
+          "text": "A, B sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình không ghi số đo của vạt men dài. Theo cách chia của bộ môn trong các đề thi, vạt men dài là đường vát rộng và thoải: đi hết chiều dày lớp men, bề rộng khoảng 2–3 mm, nghiêng khoảng 30° (đáp án chính thức đề RHM K48 câu 54), dùng cho xoang IV và mặt ngoài răng trước. Cả hai đặc điểm đều đúng. Giáo trình chỉ nêu vạt men giúp hòa trộn màu ở đường hoàn tất và tăng diện tích liên kết rìa. (Giáo trình Sâu Răng Học không ghi; tham khảo Bài 8, mục 5 và 6.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 39,
+      "question": "Mũi khoan dùng trong hoàn tất miếng trám Composite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trụ nhọn màu đỏ"
+        },
+        {
+          "label": "B",
+          "text": "Trụ nhọn màu xanh"
+        },
+        {
+          "label": "C",
+          "text": "Búp lửa màu xanh"
+        },
+        {
+          "label": "D",
+          "text": "Tròn"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình ghi trình tự lấy vật liệu thừa khi hoàn tất miếng trám composite: ở mặt ngoài (lồi hoặc phẳng) dùng mũi kim cương trụ nhọn đầu, ở mặt trong (lõm) dùng mũi kim cương búp lửa, sau đó dùng băng nhám, đĩa nhám và mũi cao su đánh bóng. Giáo trình không nói về màu; theo quy ước chung, mũi kim cương vòng đỏ là hạt mịn dùng để hoàn tất, vòng xanh là hạt trung bình dùng để mài cắt. Vậy mũi dùng hoàn tất là trụ nhọn màu đỏ. (Giáo trình Sâu Răng Học, Bài 8, mục 6.3.7)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 40,
+      "question": "Men răng có thành phần vô cơ chiếm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "80%"
+        },
+        {
+          "label": "B",
+          "text": "90%"
+        },
+        {
+          "label": "C",
+          "text": "95%"
+        },
+        {
+          "label": "D",
+          "text": "85%"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình viết men răng là mô cứng nhất trong cơ thể, trong đó chất vô cơ chiếm 95–97%, chủ yếu là tinh thể canxi hydroxyapatite; 3–5% là chất hữu cơ và nước. (Giáo trình Sâu Răng Học, Bài 6, mục 1.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 41,
+      "question": "Ngà răng có thành phần hữu cơ chiếm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "70%"
+        },
+        {
+          "label": "B",
+          "text": "50%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "20%"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình ghi ngà là mô khoáng hóa giống men nhưng mềm hơn do ít chất vô cơ, thành phần gồm 70% chất vô cơ, 18–22% chất hữu cơ và 7–12% là nước. Con số 70% là phần vô cơ; phần hữu cơ của ngà khoảng 20%. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2)",
+      "aiOriginal": "A. 70%",
+      "scanNote": null
+    },
+    {
+      "number": 42,
+      "question": "Độ dày của men răng ở đỉnh múi răng cối lớn trung bình là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2,5mm"
+        },
+        {
+          "label": "B",
+          "text": "1mm"
+        },
+        {
+          "label": "C",
+          "text": "0,5mm"
+        },
+        {
+          "label": "D",
+          "text": "< 1mm"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình chỉ ghi độ dày của men răng đạt được từ khi răng mới mọc và thay đổi tùy theo từng loại răng và từng người. Theo giải phẫu răng, men dày nhất ở đỉnh múi răng cối lớn, khoảng 2–2,5 mm, và mỏng dần về phía cổ răng. Đề RHM K46 (câu 4) cũng hỏi lớp men dày nhất ở cấu trúc nào và chọn đỉnh múi răng cối lớn. (Giáo trình Sâu Răng Học, Bài 6, mục 1.1; số đo theo giải phẫu răng)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 43,
+      "question": "Sự hình thành ngà thứ cấp xảy ra khi:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng còn tủy sống"
+        },
+        {
+          "label": "B",
+          "text": "Răng còn tủy sống hay tủy chết"
+        },
+        {
+          "label": "C",
+          "text": "Răng hoại tử tủy"
+        },
+        {
+          "label": "D",
+          "text": "Chỉ ở răng người trẻ tuổi"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Ngà được tạo ra bởi các nguyên bào ngà của tủy sống. Giáo trình ghi ngà thứ cấp sinh lý hình thành sau khi răng mọc ở mọi phía của răng, làm buồng tủy ngày càng hẹp lại theo tuổi; ngà thứ cấp bệnh lý (ngà phản ứng) thành lập ở vùng bị kích thích, nhanh và nhiều hơn ở người trẻ, và ở răng chết tủy thì không có thành lập ngà phản ứng. Vậy ngà thứ cấp chỉ hình thành khi răng còn tủy sống. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2–1.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 44,
+      "question": "Theo thuyết thủy động học, đau là do:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tác nhân kích thích trực tiếp lên các dây thần kinh trong ngà răng"
+        },
+        {
+          "label": "B",
+          "text": "Ngà lộ hoặc bị kích thích làm các ống ngà dịch chuyển"
+        },
+        {
+          "label": "C",
+          "text": "Dịch ngà dịch chuyển lôi kéo các đuôi nguyên sinh chất làm kích thích thần kinh"
+        },
+        {
+          "label": "D",
+          "text": "Ống ngà lộ kéo theo thần kinh bị lộ ra môi trường ngoài"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình giải thích theo thuyết thủy động học: khi ngà bị lộ do sâu răng hoặc mòn răng và có kích thích như cơ, nhiệt hoặc thổi khô xoang quá mức, các dịch ngà trong ống ngà di chuyển theo mọi chiều, lôi kéo các đuôi nguyên sinh chất, gây kích thích thần kinh trong tủy và tạo cảm giác đau cho bệnh nhân. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 45,
+      "question": "Nguyên tắc tạo xoang trám:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giữ lại lớp men không có ngà nâng đỡ"
+        },
+        {
+          "label": "B",
+          "text": "Giữ lại ngà nhiễm sắc nếu xoang trám không ở vị trí thẩm mỹ"
+        },
+        {
+          "label": "C",
+          "text": "Mở xoang càng rộng càng tốt để dễ đưa dụng cụ"
+        },
+        {
+          "label": "D",
+          "text": "Đáy xoang nhỏ hơn miệng xoang"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Trong nguyên tắc tạo xoang trám GIC, giáo trình ghi: lấy sạch ngà sâu, để lại ngà nhiễm sắc; lấy bỏ men không có ngà nâng đỡ; không tạo hình thể lưu; bảo vệ tủy nếu cần. Ngà nhiễm sắc là ngà đổi màu nhưng còn cứng, không còn vi khuẩn, nên được giữ lại để bảo tồn mô răng khi màu sắc không ảnh hưởng thẩm mỹ. (Giáo trình Sâu Răng Học, Bài 7, mục 4; Bài 6, mục 2.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 46,
+      "question": "Việc giữ lại sự sống của tủy răng rất cần thiết trong trường hợp nào sau đây:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng đang viêm tủy"
+        },
+        {
+          "label": "B",
+          "text": "Chân răng vĩnh viễn đang trưởng thành"
+        },
+        {
+          "label": "C",
+          "text": "Răng làm răng trụ cho cầu răng"
+        },
+        {
+          "label": "D",
+          "text": "Răng chỉnh nha"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình nhấn mạnh việc bảo tồn tủy sống đặc biệt quan trọng đối với những răng có chân răng chưa hình thành hoàn chỉnh, để chân răng tiếp tục phát triển. Che tủy trực tiếp tạo cầu ngà giúp duy trì tủy sống và chân răng có khả năng tiếp tục cấu tạo và đóng chóp; răng chưa đóng chóp có nhiều tế bào và lượng máu nuôi dồi dào nên lành thương tốt. Vì vậy việc giữ tủy sống rất cần thiết khi chân răng vĩnh viễn đang trưởng thành. (Giáo trình Sâu Răng Học, Bài 9, mục 1.3, 1.5 và 3.1)",
+      "aiOriginal": "C. Răng làm răng trụ cho cầu răng",
+      "scanNote": null
+    },
+    {
+      "number": 47,
+      "question": "Hàng rào bảo vệ cơ học tạo ra khi che tủy là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lớp ngà thứ cấp sửa chữa"
+        },
+        {
+          "label": "B",
+          "text": "Cầu men"
+        },
+        {
+          "label": "C",
+          "text": "Lớp ngà sơ cấp"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Che tủy nhằm giữ tủy sống để nguyên bào ngà tạo ra lớp ngà mới bảo vệ tủy. Giáo trình ghi mục đích của che tủy gián tiếp là để tủy hình thành ngà sửa chữa, và mục đích của che tủy là kích thích hình thành ngà thứ cấp, góp phần bảo vệ buồng tủy lâu dài; trong che tủy trực tiếp, lớp ngà mới này là cầu ngà đóng kín chỗ lộ. Ngà sơ cấp đã hình thành xong trước khi răng mọc nên không phải hàng rào tạo ra do che tủy. (Giáo trình Sâu Răng Học, Bài 6, mục 1.2; Bài 9, mục 2.2 và 3)",
+      "aiOriginal": "C. Lớp ngà sơ cấp",
+      "scanNote": null
+    },
+    {
+      "number": 48,
+      "question": "Những tác nhân gây lộ tủy:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sâu răng"
+        },
+        {
+          "label": "B",
+          "text": "Chấn thương"
+        },
+        {
+          "label": "C",
+          "text": "Tạo xoang quá mức"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Giáo trình ghi che tủy trực tiếp dùng cho phần tủy lành mạnh bị lộ cơ học như lộ tủy trong khi lấy sạch mô sâu răng, tạo xoang trám, mài cùi răng hoặc do chấn thương; chống chỉ định riêng là lộ tủy do sâu răng. Như vậy sâu răng, chấn thương và tạo xoang quá mức đều có thể gây lộ tủy. (Giáo trình Sâu Răng Học, Bài 9, mục 3 và 3.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 49,
+      "question": "Việc che tủy gián tiếp, hàng rào bảo vệ cơ học là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lớp ngà sửa chữa"
+        },
+        {
+          "label": "B",
+          "text": "Cầu ngà vôi hóa"
+        },
+        {
+          "label": "C",
+          "text": "Men thứ cấp"
+        },
+        {
+          "label": "D",
+          "text": "Vật liệu che tủy"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Che tủy gián tiếp đặt vật liệu lên lớp ngà mỏng còn lại, không làm lộ tủy. Giáo trình ghi mục đích của kỹ thuật này là giữ tủy sống để có thể hình thành ngà sửa chữa và giảm lượng vi khuẩn; lớp ngà bị ảnh hưởng được giữ lại, nguyên bào ngà tạo lớp ngà điều chỉnh bên dưới, tốc độ bồi đắp ngà phản ứng nhiều nhất ở tháng đầu. Lớp ngà sửa chữa này là hàng rào bảo vệ cơ học; cầu ngà chỉ hình thành khi che tủy trực tiếp. (Giáo trình Sâu Răng Học, Bài 9, mục 2.1–2.4)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 50,
+      "question": "Chỉ định che tủy gián tiếp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chấn thương răng lộ tủy"
+        },
+        {
+          "label": "B",
+          "text": "Mài cùi răng bị lộ tủy"
+        },
+        {
+          "label": "C",
+          "text": "Sâu ngà sâu sát tủy"
+        },
+        {
+          "label": "D",
+          "text": "Sâu ngà nông có đau tự phát"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình ghi chỉ định che tủy gián tiếp cho những răng tủy sống, có sang thương sâu răng không triệu chứng mà nếu cố gắng nạo sạch ngà mềm sẽ làm lộ tủy, tức sâu ngà sâu sát tủy. Ở răng vĩnh viễn, đây là điều trị bảo tồn rất tốt cho sang thương sâu răng sâu, nhất là ở bệnh nhân trẻ. Lộ tủy do chấn thương hay do mài cùi thuộc chỉ định che tủy trực tiếp. (Giáo trình Sâu Răng Học, Bài 9, mục 2.2 và 3.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 51,
+      "question": "Chống chỉ định che tủy gián tiếp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Răng đau tự phát"
+        },
+        {
+          "label": "B",
+          "text": "Răng viêm tủy không hồi phục"
+        },
+        {
+          "label": "C",
+          "text": "Răng có bệnh lý quanh chóp"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Giáo trình ghi chống chỉ định che tủy gián tiếp là răng có dấu hiệu bệnh lý tủy và quanh chóp như đau tự phát, đặc biệt đau nhiều về đêm, có lỗ dò, có thấu quang quanh chóp trên phim tia X, và răng lung lay. Đau tự phát là biểu hiện của viêm tủy không hồi phục, nên cả ba trường hợp đều là chống chỉ định. (Giáo trình Sâu Răng Học, Bài 9, mục 2.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 52,
+      "question": "Mục tiêu che tủy gián tiếp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loại bỏ 1 phần ngà nhiễm khuẩn"
+        },
+        {
+          "label": "B",
+          "text": "Kích thích tạo ngà thứ cấp"
+        },
+        {
+          "label": "C",
+          "text": "Loại bỏ ngà thứ cấp sinh lý"
+        },
+        {
+          "label": "D",
+          "text": "Nạo sạch ngà mất khoáng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình ghi mục đích của che tủy gián tiếp là giữ tủy sống để có thể hình thành ngà sửa chữa và giảm lượng vi khuẩn. Lớp ngà bị ảnh hưởng (mất khoáng nhưng khuôn hữu cơ còn nguyên) được giữ lại và phủ calcium hydroxide; nguyên bào ngà tạo lớp ngà mới bên dưới. Ngà sửa chữa chính là ngà thứ cấp bệnh lý theo Bài 6, nên mục tiêu là kích thích tạo ngà thứ cấp. (Giáo trình Sâu Răng Học, Bài 9, mục 2.1–2.2; Bài 6, mục 1.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 53,
+      "question": "Cơ sở khoa học của che tủy trực tiếp:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo cầu ngà che kín chỗ lộ tủy"
+        },
+        {
+          "label": "B",
+          "text": "Lớp vật liệu trám kín chỗ lộ tủy"
+        },
+        {
+          "label": "C",
+          "text": "Vật liệu che tủy sẽ giúp tủy hoại tử hồi phục"
+        },
+        {
+          "label": "D",
+          "text": "Vật liệu che tủy sẽ giúp tủy viêm hồi phục"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình ghi cơ sở khoa học của che tủy trực tiếp: sau che tủy khoảng 4 tuần sẽ có sự hình thành cầu ngà (cầu khoáng hóa); cầu ngà sẽ làm đóng kín chỗ lộ của buồng tủy, duy trì tủy sống và chân răng có khả năng tiếp tục cấu tạo và đóng chóp (Hình 9.4). (Giáo trình Sâu Răng Học, Bài 9, mục 3.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 54,
+      "question": "Thành công của che tủy phụ thuộc phần lớn vào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vật liệu tốt"
+        },
+        {
+          "label": "B",
+          "text": "Chẩn đoán đúng"
+        },
+        {
+          "label": "C",
+          "text": "Răng chưa đóng chóp"
+        },
+        {
+          "label": "D",
+          "text": "Răng người trưởng thành"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Yêu cầu đầu tiên giáo trình nêu cho che tủy là chẩn đoán thật đúng tình trạng của tủy răng, sau đó mới đến lấy sạch mô ngà đã bị phá hủy, tránh kích thích thêm và trám kết thúc thật kín. Ở che tủy trực tiếp, tình trạng tủy cũng là yếu tố đầu tiên: cần được chẩn đoán thật chính xác, vì không thể thành công ở những răng có tủy viêm mạn tính. (Giáo trình Sâu Răng Học, Bài 9, mục 2.5 và 3.5)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 55,
+      "question": "Cầu ngà bắt đầu hình thành sau:",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 tháng"
+        },
+        {
+          "label": "B",
+          "text": "4 tuần"
+        },
+        {
+          "label": "C",
+          "text": "1 tuần"
+        },
+        {
+          "label": "D",
+          "text": "3 tháng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình ghi sau che tủy trực tiếp khoảng 4 tuần sẽ có sự hình thành cầu ngà. Lịch theo dõi cũng khớp: lần 2 sau 4 tuần chụp phim có thể quan sát thấy cầu ngà. (Giáo trình Sâu Răng Học, Bài 9, mục 3.1 và 3.4)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 56,
+      "question": "Cọ mòn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mòn răng – răng"
+        },
+        {
+          "label": "B",
+          "text": "Mòn do tác nhân ngoại lai"
+        },
+        {
+          "label": "C",
+          "text": "Mòn răng do hóa chất"
+        },
+        {
+          "label": "D",
+          "text": "Mòn răng do bàn chải đánh răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Giáo trình chia mòn răng thành 3 loại: cọ mòn, mài mòn và xoi mòn. Cọ mòn là mòn răng sinh lý: sự mất mô cứng răng (men, đôi khi cả ngà) do sự tiếp xúc răng – răng trong các hoạt động sinh lý như ăn nhai và phát âm, diễn ra chậm, liên tục suốt thời gian răng tồn tại trên cung hàm. Mòn do vật thể lạ, kể cả bàn chải và kem đánh răng, giáo trình gọi là mài mòn; mòn do hóa chất là xoi mòn. Vậy cọ mòn là “Mòn răng – răng”. (Giáo trình Sâu Răng Học, Bài 10, mục 2 và 2.1–2.3, 3.1)",
+      "aiOriginal": "B. Mòn do tác nhân ngoại lai",
+      "scanNote": "Phần tô vàng tô cả hai phương án “Mòn do tác nhân ngoại lai” và “Mòn răng do bàn chải đánh răng”, tức hiểu “cọ mòn” là mòn do ma sát với vật lạ (giáo trình gọi kiểu này là mài mòn; đề RHM K48 câu 3 cũng dùng “Mài mòn (Abrasion)” cho ma sát với tác nhân ngoại lai)."
+    },
+    {
+      "number": 57,
+      "question": "Mòn răng-răng sinh lý là do:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Do nghiến răng"
+        },
+        {
+          "label": "B",
+          "text": "Do nhai"
+        },
+        {
+          "label": "C",
+          "text": "Do phục hình chạm khớp"
+        },
+        {
+          "label": "D",
+          "text": "Do khớp cắn bất thường"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Giáo trình định nghĩa mòn răng sinh lý (cọ mòn) là sự mất mô cứng răng (men, đôi khi cả ngà) do sự tiếp xúc răng–răng trong các hoạt động sinh lý như ăn nhai và phát âm, diễn ra chậm, liên tục trong suốt thời gian răng tồn tại trên cung hàm. (Giáo trình Sâu Răng Học, Bài 10, mục 2.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 58,
+      "question": "Mòn răng sinh lý là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mòn dạng lõm chén"
+        },
+        {
+          "label": "B",
+          "text": "Mòn đỉnh múi trong răng cối lớn hàm dưới"
+        },
+        {
+          "label": "C",
+          "text": "Mòn đỉnh múi ngoài răng cối lớn hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Giáo trình ghi mòn răng sinh lý thường khởi đầu bằng sự hình thành các diện mòn bóng láng ở đỉnh, triền múi hoặc các gờ bên, chủ yếu ở mặt nhai và bờ cắn. Hình lõm chén chỉ xuất hiện khi cọ mòn đã làm lộ ngà, ngà mềm hơn nên mòn nhanh hơn men (Hình 10.3), lúc đó mòn đã gây ảnh hưởng chức năng và được xem là bệnh lý. Các múi được nêu (múi trong răng cối lớn hàm dưới, múi ngoài răng cối lớn hàm trên) là múi không chịu lực, không phải nơi mòn sinh lý chủ yếu. Vì vậy cả ba mô tả đều sai. (Giáo trình Sâu Răng Học, Bài 10, mục 3.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 59,
+      "question": "Mài mòn là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Do nghiến răng"
+        },
+        {
+          "label": "B",
+          "text": "Do nhai"
+        },
+        {
+          "label": "C",
+          "text": "Do tác động của lực ma sát từ các tác nhân bên ngoài"
+        },
+        {
+          "label": "D",
+          "text": "Do nhai mòn răng sinh lý"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình định nghĩa mài mòn là hiện tượng mất mô cứng bệnh lý của răng do tác dụng của lực cơ học bất thường, hậu quả của sự bất hòa cơ học giữa các mặt răng với những vật thể lạ. Tổn thương mòn ngót cổ răng thường do chải răng sai cách, dùng lực quá mạnh hoặc kem đánh răng chứa chất mài mòn. (Giáo trình Sâu Răng Học, Bài 10, mục 2.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 60,
+      "question": "Vị trí thường gặp của mài mòn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cổ răng"
+        },
+        {
+          "label": "B",
+          "text": "Mặt nhai"
+        },
+        {
+          "label": "C",
+          "text": "Cạnh cắn"
+        },
+        {
+          "label": "D",
+          "text": "Mặt trong răng trước"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Giáo trình ghi mài mòn thường thấy ở 1/3 cổ răng ở mặt ngoài của các răng, đặc biệt là răng trước và răng cối nhỏ; tổn thương có dạng vùng lõm cạn, rãnh sâu hay hình chêm (chữ V) ở vùng cổ răng, bề mặt bóng láng (Hình 10.5). (Giáo trình Sâu Răng Học, Bài 10, mục 3.2)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 61,
+      "question": "Xoi mòn là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mòn răng sinh lý"
+        },
+        {
+          "label": "B",
+          "text": "Do vi khuẩn sinh acid"
+        },
+        {
+          "label": "C",
+          "text": "Do hoá chất có pH thấp"
+        },
+        {
+          "label": "D",
+          "text": "Xảy ra ở 1 vài răng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 2,
+      "explanation": "Giáo trình định nghĩa xoi mòn là kiểu mòn răng do các tác nhân hóa học không liên quan đến vi khuẩn: acid mạnh hay các tác nhân phá hủy mô tiếp xúc men răng (lâu dài, từng giai đoạn hay liên tục) dẫn đến sự phá hủy, làm mất mô cứng của răng. Nguy cơ thường xuyên nhất là pH dưới 4. (Giáo trình Sâu Răng Học, Bài 10, mục 2.3 và 3.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 62,
+      "question": "Vị trí thường gặp của xoi mòn:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thường gặp ở tất cả các răng"
+        },
+        {
+          "label": "B",
+          "text": "Giới hạn ở 1 số răng"
+        },
+        {
+          "label": "C",
+          "text": "Thường gặp mặt ngoài răng cửa hàm trên"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 0,
+      "explanation": "Acid gây xoi mòn (từ thức ăn, nước uống hay từ dạ dày) tràn khắp miệng nên tác động lên mọi răng mà nó tiếp xúc, không giới hạn ở một vài răng như mài mòn. Giáo trình ghi xoi mòn là nguyên nhân chính gây ra mòn răng, sang thương có thể thấy ở mặt môi má hay mặt tiếp cận của răng, thường nông rộng, bóng láng; Hình 10.1 minh họa xoi mòn toàn bộ răng do nguyên nhân nội sinh. (Giáo trình Sâu Răng Học, Bài 10, mục 3.3, Hình 10.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 63,
+      "question": "Mòn răng gặp ở mặt trong răng cửa hàm trên gặp trong:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nghiến"
+        },
+        {
+          "label": "B",
+          "text": "Cọ mòn"
+        },
+        {
+          "label": "C",
+          "text": "Tác nhân từ acid bình acquy"
+        },
+        {
+          "label": "D",
+          "text": "Tác nhân từ pH dạ dày trong bệnh trào ngược dạ dày thực quản"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": null,
+      "ai": true,
+      "aiCheck": true,
+      "aiNote": "Trong phần đặc điểm lâm sàng, giáo trình ghi vị trí của cọ mòn: xuất hiện chủ yếu ở mặt nhai và bờ cắn, đặc biệt rõ ở các răng cửa và răng nanh vùng trước hàm trên, ngoài ra có thể gặp ở mặt tiếp xúc và mặt trong của răng trước trên do sự cọ sát khi khép hàm. Vì vậy theo giáo trình, mòn ở mặt trong răng cửa hàm trên gặp trong cọ mòn. Nghiến răng chỉ là yếu tố làm cọ mòn nặng hơn (giáo trình cho mang máng nhai ban đêm khi cọ mòn liên quan đến nghiến răng). (Giáo trình Sâu Răng Học, Bài 10, mục 3.1 và 5.2.1)",
+      "aiOriginal": "A. Nghiến",
+      "scanNote": "Đề RHM K48 (câu 65) hỏi mòn chủ yếu ở mặt trong răng cửa hàm trên và đáp án chính thức là trào ngược dạ dày – thực quản; giáo trình không mô tả vị trí này cho xoi mòn do trào ngược."
+    },
+    {
+      "number": 64,
+      "question": "Dạng mòn răng xảy ra ở công nhân sản xuất bình acquy thường gặp ở vị trí:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mặt trong răng cửa hàm trên"
+        },
+        {
+          "label": "B",
+          "text": "Mặt ngoài các răng cửa"
+        },
+        {
+          "label": "C",
+          "text": "Mặt nhai tất cả các răng"
+        },
+        {
+          "label": "D",
+          "text": "Mặt ngoài răng cối nhỏ"
+        }
+      ],
+      "image": null,
+      "correctIndex": 1,
+      "explanation": "Công nhân sản xuất bình acquy hít phải hơi acid trong không khí; đây là xoi mòn do nguyên nhân nghề nghiệp mà giáo trình nhắc khi bàn về loại bỏ nguyên nhân xoi mòn. Hơi acid tiếp xúc trước hết với các răng cửa lộ ra khi há miệng, nên tổn thương xoi mòn thường ở mặt ngoài (mặt môi) các răng cửa; giáo trình ghi sang thương xoi mòn có thể thấy ở mặt môi má hay mặt tiếp cận của răng. (Giáo trình Sâu Răng Học, Bài 10, mục 3.3 và 5.2.1)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    },
+    {
+      "number": 65,
+      "question": "Xoi mòn là loại mòn nào:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mòn hóa học"
+        },
+        {
+          "label": "B",
+          "text": "Mòn do trào ngược dạ dày"
+        },
+        {
+          "label": "C",
+          "text": "Mòn do nước uống có gas"
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đúng"
+        }
+      ],
+      "image": null,
+      "correctIndex": 3,
+      "explanation": "Giáo trình gọi xoi mòn là mòn răng hóa học. Acid gây xoi mòn có nguồn gốc ngoại sinh (thực phẩm nhiều acid như chanh, cam, táo, thức uống có gas như Coca, champagne, một số thuốc như vitamin C) hoặc nội sinh, chủ yếu từ dạ dày trong hội chứng trào ngược dạ dày thực quản. Cả ba phương án đều đúng. (Giáo trình Sâu Răng Học, Bài 10, mục 2.3 và 3.3)",
+      "ai": false,
+      "aiCheck": false,
+      "aiNote": null,
+      "aiOriginal": null,
+      "scanNote": null
+    }
+  ]
+}
